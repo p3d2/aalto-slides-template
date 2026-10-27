@@ -1,0 +1,59 @@
+#!/usr/bin/env bash
+# Aalto slides template — dependency-free build helper (no make needed).
+# Usage:
+#   ./slides demo                 build the demo deck → demo/demo.pdf
+#   ./slides watch-demo           rebuild demo on every save
+#   ./slides new my-talk          scaffold decks/my-talk/ from the template
+#   ./slides deck my-talk         build decks/my-talk/main.pdf
+#   ./slides watch-deck my-talk   rebuild a deck on every save
+#   ./slides cheatsheet           the printable reference card → docs/cheatsheet.pdf
+#   ./slides clean                remove built PDFs
+set -euo pipefail
+cd "$(dirname "$0")"
+
+TYPST="${TYPST:-typst}"
+ARGS=(compile --root . --font-path fonts)
+
+cmd="${1:-help}"
+name="${2:-}"
+
+case "$cmd" in
+  demo)
+    "$TYPST" "${ARGS[@]}" demo/main.typ demo/demo.pdf
+    echo "built demo/demo.pdf"
+    ;;
+  watch-demo)
+    "$TYPST" watch --root . --font-path fonts demo/main.typ demo/demo.pdf
+    ;;
+  new)
+    [ -n "$name" ] || { echo "usage: ./slides new my-talk"; exit 1; }
+    [ -e "decks/$name" ] && { echo "decks/$name already exists"; exit 1; }
+    mkdir -p "decks/$name/sections" "decks/$name/figures"
+    cp template/main.typ "decks/$name/main.typ"
+    cp template/sections/01-main.typ "decks/$name/sections/01-main.typ"
+    cp template/OUTLINE.md "decks/$name/OUTLINE.md"
+    cp template/figures/README.md "decks/$name/figures/README.md"
+    echo "created decks/$name/ — fill decks/$name/OUTLINE.md first (docs/making-a-talk.md)"
+    echo "build:  ./slides deck $name      watch:  ./slides watch-deck $name"
+    ;;
+  deck)
+    [ -n "$name" ] || { echo "usage: ./slides deck my-talk"; exit 1; }
+    "$TYPST" "${ARGS[@]}" "decks/$name/main.typ" "decks/$name/main.pdf"
+    echo "built decks/$name/main.pdf"
+    ;;
+  watch-deck)
+    [ -n "$name" ] || { echo "usage: ./slides watch-deck my-talk"; exit 1; }
+    "$TYPST" watch --root . --font-path fonts "decks/$name/main.typ" "decks/$name/main.pdf"
+    ;;
+  cheatsheet)
+    "$TYPST" "${ARGS[@]}" docs/cheatsheet.typ docs/cheatsheet.pdf
+    echo "built docs/cheatsheet.pdf"
+    ;;
+  clean)
+    rm -f demo/*.pdf decks/*/main.pdf
+    echo "cleaned"
+    ;;
+  help|*)
+    sed -n '2,11p' "$0" | sed 's/^# \{0,1\}//'
+    ;;
+esac

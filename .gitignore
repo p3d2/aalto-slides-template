@@ -1,0 +1,20 @@
+# never publish: personal decks, Aalto's own PPTX, brand-site mirror
+ppts/
+reference/
+
+# fetched brand artwork — same policy as the logo PDFs: trademarked,
+# regenerable via assets/logo/fetch-*.py
+assets/logo/scicomp/*.svg
+
+*.pdf
+*.png
+!demo/figures/*.svg
+decks/*/
+
+# brand.aalto.fi mirror — large/regenerable bits stay out of git
+reference/brand-aalto-fi/media/
+reference/brand-aalto-fi/prismic/.token
+.scratch/
+
+# python caches from the logo scripts
+__pycache__/
