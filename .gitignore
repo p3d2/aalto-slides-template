@@ -9,7 +9,6 @@ assets/logo/scicomp/*.svg
 *.pdf
 *.png
 !demo/figures/*.svg
-decks/*/
 
 # brand.aalto.fi mirror — large/regenerable bits stay out of git
 reference/brand-aalto-fi/media/
@@ -18,3 +17,17 @@ reference/brand-aalto-fi/prismic/.token
 
 # python caches from the logo scripts
 __pycache__/
+
+
+git clone git@github.com:p3d2/aalto-slides-template.git /tmp/t && cd /tmp/t
+python3 assets/logo/fetch-logos.py
+python3 assets/logo/make-plain.py
+python3 assets/logo/fetch-scicomp.py
+python3 assets/logo/measure-logos.py
+./slides demo
+
+# decks
+
+decks/*
+!decks/20261126_ASC_ppt/
+!decks/20261126_ASC_ppt/**
