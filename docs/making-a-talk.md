@@ -120,8 +120,8 @@ can still read is what the back row sees.
   so the layout is final and the hole is visible to you and your collaborators.
 - **Colour carries meaning, not decoration.** Aalto's brand colours are made for
   black text on top; on plots, keep one accent + greys. Check the palette and
-  data-visualisation guidance in `reference/brand-aalto-fi/pages/` (mirrored
-  offline from brand.aalto.fi).
+  data-visualisation guidance at brand.aalto.fi (Visual guidelines → Data
+  visualisation).
 - Label axes and units *on the figure*, and say the axes out loud once — "time
   across, strain down" is not filler, it is how other people read your plot.
 

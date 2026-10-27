@@ -34,11 +34,31 @@ slides-template/
 ├── template/              starter copied by `make new`: main.typ, a section,
 │                          OUTLINE.md (the talk worksheet, filled first) and
 │                          figures/README.md (figure conventions)
-├── decks/                 your decks live here (decks/<name>/)
+├── decks/                 your decks live here (decks/<name>/) — not published
 ├── reference/brand-aalto-fi/  offline mirror of the whole brand site (136 pages,
-│                          design tokens, media) — see its README.md
+│                          design tokens, media) — local only, not published
 └── Makefile               build / watch / new-deck helpers
 ```
+
+## First clone
+
+The repository ships the *code*, not the brand artwork: Aalto's logo PDFs/SVGs
+are trademarked originals that the bundled scripts fetch from Aalto, and all
+build outputs (`*.pdf`, `*.png`) are gitignored on purpose. So after a fresh
+clone, regenerate the logos once before the first build:
+
+```bash
+python3 assets/logo/fetch-logos.py      # official Aalto lock-ups + marks (PDF)
+python3 assets/logo/make-plain.py       # derive the text-free marks
+python3 assets/logo/fetch-scicomp.py    # ASC hexagon SVGs
+python3 assets/logo/measure-logos.py    # rewrite theme/logo-metrics.typ
+./slides demo                           # → demo/demo.pdf
+```
+
+Everything else (fonts, theme, kit, docs, template) is in the repo. Requires
+`typst >= 0.15` on PATH; Touying 0.8 is downloaded automatically on first
+build. See `assets/logo/README.md` for what each script does and where the
+originals come from.
 
 ## Quick start
 
@@ -53,11 +73,8 @@ slides-template/
 
 A `Makefile` with the same targets (`make demo`, `make new NAME=my-talk`, …)
 is included for environments that have `make`; the `./slides` script works
-everywhere (it only needs `typst`).
-
-Requires `typst >= 0.15` on PATH. Touying 0.8 is downloaded automatically on
-first build. Inter is bundled in `fonts/` (and installed in
-`~/.local/share/fonts`, so VS Code/Tinymist previews also work).
+everywhere (it only needs `typst`). If the demo build fails with missing
+logo files, run the [First clone](#first-clone) steps.
 
 ## Writing a deck
 
@@ -226,11 +243,11 @@ everything after it onto its own page (measured: 44 pages vs 25).
 
 ## Brand compliance (from brand.aalto.fi)
 
-The whole brand site is mirrored offline in `reference/brand-aalto-fi/`
-(136 pages as Markdown + the official design tokens); regenerate with
-`reference/brand-aalto-fi/refresh.sh`. The machine-readable tokens are
-The machine-readable tokens are generated into `theme/tokens.typ` and the logo
-geometry into `theme/logo-metrics.typ` — do not hand-edit either.
+The machine-readable brand tokens are baked into `theme/tokens.typ` and the
+logo ink geometry into `theme/logo-metrics.typ` — do not hand-edit either.
+(On the maintainer's machine the full brand site is also mirrored offline in
+`reference/brand-aalto-fi/`, 136 pages + tokens, refreshable with its
+`refresh.sh` — that mirror is not published here.)
 
 - **Typeface:** Inter for everything (bundled). **Source Code Pro is the code
   face** — bundled too (`fonts/SourceCodePro.ttf`, variable); Typst does *not*
@@ -240,7 +257,9 @@ geometry into `theme/logo-metrics.typ` — do not hand-edit either.
   Source Code Pro is the code face. Arial/Georgia are Office fallbacks only.
 - **Type scale:** the theme's `density` presets (roomy/default/compact/dense =
   24/20/17/15 pt base) keep the brand's own size *ratios* while letting you
-  shrink everything with one knob — see `reference/.../notes/design-tokens.md`.
+  shrink everything with one knob — source: brand.aalto.fi design tokens
+  (`theme/tokens.typ` carries them; the full mirror lives only on the
+  maintainer's machine).
 - **Colours:** white/black base; brand colours as sparing accents.
   University: Blue `#46A5FF`, Red `#FD6360`, Yellow `#F7E159`.
   School colours in `school-colours` (arts/eng/elec/biz/chem/sci) — use a
@@ -275,8 +294,9 @@ geometry into `theme/logo-metrics.typ` — do not hand-edit either.
 ## For agents
 
 - Build command: `./slides demo` (or `typst compile --root . --font-path fonts <deck>/main.typ`).
-- Brand data lives in `reference/brand-aalto-fi/` (mirrored 2026-10-15); the
-  generated tokens are in `theme/tokens.typ`. To refresh: `cd reference/brand-aalto-fi && ./refresh.sh`.
+- Brand data: the generated tokens are in `theme/tokens.typ` (source: Aalto's
+  design tokens from brand.aalto.fi — the maintainer's unpublished
+  `reference/brand-aalto-fi/` mirror and its `refresh.sh` are not in this repo).
 - Logos: `python3 assets/logo/fetch-logos.py` (files) and
   `python3 assets/logo/measure-logos.py` (regenerate `theme/logo-metrics.typ`;
   an unmeasured file silently falls back to plain box sizing, so it renders a

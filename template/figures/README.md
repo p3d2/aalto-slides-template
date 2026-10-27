@@ -33,6 +33,8 @@ Reference a figure **relative to the file that uses it**:
   never encode meaning in colour alone (add shape, dash or a direct label).
 - **Palette**: for data visualisation follow the brand guidance —
   `reference/brand-aalto-fi/pages/brand/visual-guidelines/data-visualisation.md`
+  (maintainer's local mirror; publicly: brand.aalto.fi → Visual guidelines →
+  Data visualisation)
   (offline mirror) or brand.aalto.fi. Brand colours take black text on top.
 - One hero figure per slide; two only when the slide is *about* comparing them,
   and then the title says what is compared.

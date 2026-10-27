@@ -148,7 +148,7 @@
   sentence case · left-aligned ragged-right · ≤ 3 type sizes per surface · brand
   colours take #k[black] text (≥ 7:1) · one school colour per deck · logo
   originals only.\
-  Offline brand mirror: `reference/brand-aalto-fi/` · #link("https://brand.aalto.fi")[brand.aalto.fi] ·
+  Offline brand mirror (maintainer's local): `reference/brand-aalto-fi/` · #link("https://brand.aalto.fi")[brand.aalto.fi] ·
   #link("https://typst.app/docs")[typst.app/docs] · #link("https://touying.app")[touying.app] ·
   #link("https://aaltologo.fi")[aaltologo.fi]
     ])
