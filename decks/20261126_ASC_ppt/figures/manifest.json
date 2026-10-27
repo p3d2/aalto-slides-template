@@ -1,0 +1,29 @@
+{
+ "2res1pro": {
+  "dims": null,
+  "ext": "pdf",
+  "file": "2res1pro.pdf"
+ },
+ "_dir": "/decks/20261126_ASC_ppt/figures/",
+ "_generated_by": "kit/scan-figures.py \u2014 do not edit, re-run instead",
+ "ai_out": {
+  "dims": null,
+  "ext": "pdf",
+  "file": "ai_out.pdf"
+ },
+ "knowledge_loss": {
+  "dims": null,
+  "ext": "pdf",
+  "file": "knowledge_loss.pdf"
+ },
+ "swiss_researcher": {
+  "dims": null,
+  "ext": "pdf",
+  "file": "swiss_researcher.pdf"
+ },
+ "whatisSCI-IT": {
+  "dims": null,
+  "ext": "pdf",
+  "file": "whatisSCI-IT.pdf"
+ }
+}
