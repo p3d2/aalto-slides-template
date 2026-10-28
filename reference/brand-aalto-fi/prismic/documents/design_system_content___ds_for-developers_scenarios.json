@@ -1,0 +1,1474 @@
+{
+ "id": "Zlc4VhEAACIAeHAn",
+ "uid": "_ds_for-developers_scenarios",
+ "url": null,
+ "type": "design_system_content",
+ "href": "https://aalto-master-design-system.cdn.prismic.io/api/v2/documents/search?ref=ap6ZthEAACsAUnNI&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22Zlc4VhEAACIAeHAn%22%29+%5D%5D",
+ "tags": [
+  "ds"
+ ],
+ "first_publication_date": "2024-05-29T14:15:10+0000",
+ "last_publication_date": "2025-10-29T14:08:43+0000",
+ "slugs": [
+  "scenarios"
+ ],
+ "linked_documents": [],
+ "lang": "en-eu",
+ "alternate_languages": [],
+ "data": {
+  "feedback_form": {
+   "id": "ZNo2LhAAACYAsGnO",
+   "type": "form_configuration",
+   "tags": [],
+   "lang": "en-eu",
+   "slug": "feedback",
+   "first_publication_date": "2023-08-14T14:12:02+0000",
+   "last_publication_date": "2023-09-01T12:22:49+0000",
+   "uid": "feedback",
+   "link_type": "Document",
+   "key": "b08f6606-c770-4872-b2dc-ef2653692aab",
+   "isBroken": false
+  },
+  "body1": [
+   {
+    "primary": {
+     "title": [
+      {
+       "type": "heading1",
+       "text": "Scenarios",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "ingress": [],
+     "body_text": [
+      {
+       "type": "paragraph",
+       "text": "",
+       "spans": []
+      }
+     ],
+     "cta_label": [],
+     "cta_link": {
+      "link_type": "Any"
+     },
+     "image": {
+      "img_size_xs": {},
+      "img_size_s": {},
+      "img_size_m": {},
+      "img_size_l": {},
+      "img_size_xl": {},
+      "img_size_xxl": {}
+     },
+     "video_file_link": {
+      "link_type": "Any"
+     },
+     "aside": {
+      "link_type": "Document"
+     },
+     "theme": "black"
+    },
+    "items": [
+     {}
+    ],
+    "id": "hero$5f436fd6-0cee-4fba-a8d3-39ad9dc71ad0",
+    "slice_type": "hero",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "1. No technology",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": true
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$9703c81f-f222-456a-9b4a-e0a188699951",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "In some cases, such as when designing for non-digital touchpoints or working on unconventional technical platforms, it may not be feasible to directly integrate the design system assets into the project on any level. The most basic approach to using the design system is to treat it simply as a valuable reference, independent of any specific technical dependencies.",
+       "spans": []
+      },
+      {
+       "type": "paragraph",
+       "text": "This website, along with the accompanying Figma files, provides comprehensive guidance and inspiration that can greatly enhance any Aalto-related design process, regardless of the tools and technologies you may be using. However, in the vast majority of cases, it is still possible to at least manually import the essential elements like font files or colour codes.",
+       "spans": []
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$3b0b231e-9266-4709-870f-529ceacbf76a",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "ContentBoxCollection",
+     "tiles_per_row": "1",
+     "default_cta_label": [],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": false,
+     "hidden": false,
+     "skim": "none"
+    },
+    "items": [
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Manual import",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "body_text": [
+       {
+        "type": "paragraph",
+        "text": "While the preferred method for integrating design system assets is via npm packages, there may be situations where importing npm packages isn't feasible. In such cases, you can manually copy the necessary files and code snippets into your codebase. This approach might be necessary if you're working on a legacy system with limited control over the technology stack, or simply want to experiment with the design system before making more significant changes to your workflow.",
+        "spans": [],
+        "direction": "ltr"
+       },
+       {
+        "type": "paragraph",
+        "text": "For scenarios like these, the @aalto-dx/react-components repository includes a straightforward static example of how to manually incorporate essential design system code into a web project. You can find the example files and detailed instructions in the static-starter folder located in the project root.",
+        "spans": [],
+        "direction": "ltr"
+       },
+       {
+        "type": "paragraph",
+        "text": "However, it's important to emphasise that this is not the recommended method for using the design system. We strongly advise aiming for a modern development setup that includes version control, preprocessing, bundling, and other best practices to ensure maintainability, efficiency, and overall software quality.",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$d906927e-b9d5-433c-98e0-d8dc5bc3ac8c",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "2. Only design tokens",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": true
+    },
+    "items": [],
+    "id": "page_section_element$ca6eb34b-c4df-47d0-90b3-8ba2f713e13e",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "In certain situations, the complete utilisation of existing UI component libraries may not be feasible. This could be due to various factors, such as constraints imposed by legacy code bases, third-party solutions, or the team's familiarity with these libraries.",
+       "spans": []
+      },
+      {
+       "type": "paragraph",
+       "text": "In such cases, a more lightweight approach might be to import only the design tokens (colours, typography etc.). This allows for a partial alignment with the brand, even when full library integration is challenging. The design tokens are accessible in various file formats, making them adaptable to different platforms, not limited to web applications.",
+       "spans": []
+      },
+      {
+       "type": "paragraph",
+       "text": "First, install the package by running",
+       "spans": []
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$e79a90ca-c530-4731-b9e4-08247eff4853",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "Code",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "npm install @aalto-dx/tokens --save",
+       "spans": []
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": "shell",
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$29bc57f6-ade3-4bc4-9d20-c616ad247b30",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "In most cases, you probably want to use the tokens as CSS variables. You can then import the tokens in CSS / SCSS as any other package, exact syntax depending on your project setup / bundler: ",
+       "spans": []
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$8fcb3dde-c5ac-48ad-9cbe-70e5d90ccd88",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "Code",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "@import '@aalto-dx/tokens';\n@import '../../node_modules@aalto-dx/tokens';\n@import '~@aalto-dx/tokens';",
+       "spans": []
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": "css",
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$7b648228-c948-48a4-a867-17f4f1469d11",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Should you need access to the tokens as JSON, you can instead import e.g. in JavaScript / TypeScript:",
+       "spans": []
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$0531cbb3-90ff-4e78-a343-89aa5daac03d",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "Code",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "import tokens from '@aalto-dx/tokens/dist/tokens.json';",
+       "spans": []
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": "typescript",
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$ab188144-95c6-47b0-9b31-ecebefe0196d",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "3. Novel technology stack",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": true
+    },
+    "items": [],
+    "id": "page_section_element$b3488a1c-d974-4752-83e9-f42ca59a714e",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "In the ever-evolving landscape of frontend technologies, it is well possible that the design system may not (yet) offer a component library implemented in the framework you are currently using. In such a scenario, you have the option to import the component CSS alongside the design tokens. Additionally, this website provides static HTML code for each component, module, and section, serving as a reference and starting point for implementing the HTML components using your framework of choice. Obviously, the direct usability of this code may vary depending on your specific framework.",
+       "spans": [],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "The workflow for importing the styling is similar to importing tokens described above. First install the package:\n",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$d25231f6-9484-4540-8bd7-f21466317718",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "Code",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "npm install @aalto-dx/component-styles",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": "shell",
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$d2455489-e50e-4b66-b39b-79d6cc12f099",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Then take the package into use in your CSS/SCSS:",
+       "spans": []
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$c7dcbcae-44ac-4f01-9e05-590732b560ee",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "Code",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "@import '@aalto-dx/component-styles';\n@import '../../node_modules@aalto-dx/component-styles';\n@import '~@aalto-dx/component-styles';",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": "css",
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$a3087517-794d-4cea-ad4f-ddb71d174975",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Remember to also include the font file.",
+       "spans": [
+        {
+         "start": 17,
+         "end": 38,
+         "type": "hyperlink",
+         "data": {
+          "id": "Zlc27BEAACUAeG1a",
+          "type": "design_system_content",
+          "tags": [
+           "ds"
+          ],
+          "lang": "en-eu",
+          "slug": "available-resources",
+          "first_publication_date": "2024-05-29T14:09:18+0000",
+          "last_publication_date": "2025-10-29T13:51:54+0000",
+          "uid": "_ds_for-developers_resources",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$0a1b5b87-2bb3-491e-aacb-c07eb93b1f0c",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "4. React channel",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": true
+    },
+    "items": [],
+    "id": "page_section_element$4b0ad762-5255-45e6-8983-41cf6dbae0f0",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Currently, the React implementation of the design system library is the most mature one. Unlike plain HTML/CSS, React components are fully functional, making them more readily usable in your projects. Especially when you're implementing a new channel without pre-existing technological constraints, employing React is most likely the most straightforward path to fully leverage the design system's benefits.",
+       "spans": [],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "Most web-based channels can be constructed using the UI elements available in @aalto-dx/react-components. To install the package, execute the following command in the project's root directory (where the package.json file is located):",
+       "spans": [
+        {
+         "start": 78,
+         "end": 104,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$587d0fb4-6c5c-4747-a8be-22dccefa9f1f",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "Code",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "npm install @aalto-dx/react-components --save",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": "shell",
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$4a75ae20-a47b-4a12-8be9-7372afe9075b",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Once installed, you can use the library by simply importing the relevant UI elements in your code:",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$5b15692a-ce0f-4e72-a683-d84e7d327d66",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "Code",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "import { TextChapter } from '@aalto-dx/react-components';\n...\n<TextChapter title=\"My title\" body=\"My body text\" />",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": "typescript",
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$0748f3cc-a594-4247-8203-81e59ae6d18c",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "The Sections are ready to be employed as they are, without any modifications. However, if you are building custom elements, you should take closer look at the individual Components, Modules, and possibly also the design tokens.",
+       "spans": [],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "The React packages include the styling for the elements, but you need to import the styles typically in your main CSS/SCSS:",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$fccf610a-eca0-4606-b1ff-9461bcb45ed4",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "Code",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "@import '@aalto-dx/react-components/dist/styles';",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": "css",
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$0f87bdbb-c7e6-4703-bbff-95c420ea4dfb",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "You must also import the font file separately.",
+       "spans": [
+        {
+         "start": 14,
+         "end": 34,
+         "type": "hyperlink",
+         "data": {
+          "id": "Zlc27BEAACUAeG1a",
+          "type": "design_system_content",
+          "tags": [
+           "ds"
+          ],
+          "lang": "en-eu",
+          "slug": "available-resources",
+          "first_publication_date": "2024-05-29T14:09:18+0000",
+          "last_publication_date": "2025-10-29T13:51:54+0000",
+          "uid": "_ds_for-developers_resources",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "Once again, if you discover that the existing UI elements are not suitable for your project, please get in touch with the design system team to explore the possibility of extending the core library.",
+       "spans": [],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "Depending on the channel, populating the imported React components with data may require connecting to a content management system (CMS) or implementing more complex business logic. However, these aspects are beyond the scope of the design system.",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$d3f26e8b-aa13-4130-a110-45a819a6b089",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "ContentBoxCollection",
+     "tiles_per_row": "1",
+     "default_cta_label": [],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": false,
+     "hidden": false,
+     "skim": "none"
+    },
+    "items": [
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Notes for React developers",
+        "spans": []
+       }
+      ],
+      "body_text": [
+       {
+        "type": "paragraph",
+        "text": "- The Aalto React libraries are primarily built on a stack that includes React and TypeScript, with minimal additional dependencies. This deliberate choice offers the flexibility to seamlessly integrate our libraries with various React frameworks, like Vite or NextJS. While using TypeScript in the client channel is not mandatory, it is strongly recommended for an optimised development workflow.",
+        "spans": [],
+        "direction": "ltr"
+       },
+       {
+        "type": "paragraph",
+        "text": "- The components are intentionally designed not to manage their own state. This design allows you to integrate these components with a wide range of state management mechanisms.",
+        "spans": [],
+        "direction": "ltr"
+       },
+       {
+        "type": "paragraph",
+        "text": "- By default, the libraries generate plain HTML links for navigation. However, the architecture is built to support more advanced routing solutions. You have the freedom to inject your preferred router, such as React Router, by wrapping your application in the appropriate routing provider.",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$4d687194-7f5d-43a7-986b-b391a5c6b155",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "5. Sub-branding",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": true
+    },
+    "items": [],
+    "id": "page_section_element$fb1f678e-0c0d-49aa-994a-af280d17316e",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "In some rare instances, there may be a need to create a channel that doesn't strictly adhere to the standard Aalto brand guidelines but is still unmistakably associated with Aalto. For example, an event or a student campaign might require a customised colour palette that deviates from the norm while retaining the Aalto logo, typography, user interface components etc. It's crucial to note that this practice is generally not recommended, and it's advisable to consult the brand team if such needs arise.",
+       "spans": [],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "Many such custom modifications can be achieved by “hacking” the design tokens. Since all Components, Modules, and Sections use these tokens to define their appearance, altering token values will affect their usage throughout.",
+       "spans": [],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "For instance, in the package @aalto-dx/tokens, a semantic background colour token is defined with the convenience name --aalto-col-bg. If, for any reason, you wish to change this colour for all user interface elements to a non-standard Aalto yellowish shade, you can override the default value simply by redefining the token in your own CSS:",
+       "spans": [
+        {
+         "start": 29,
+         "end": 45,
+         "type": "strong"
+        },
+        {
+         "start": 119,
+         "end": 133,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$738a8a7e-38fc-490c-8d40-d863f9adc2ef",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "Code",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": ".my-radical-channel {\n  --aalto-col-bg: #bada55;\n  /* or even */\n  --aalto-col-bg: #bada55 !important;\n}",
+       "spans": []
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": "css",
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$3745d282-aa2f-4d47-867b-d4b7b24bc3b6",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "The same approach can be employed to adjust other types of tokens, such as dimensions or typography.",
+       "spans": []
+      },
+      {
+       "type": "paragraph",
+       "text": "It's important to note that any custom modifications should not compromise accessibility standards or other best practices upheld by the university.",
+       "spans": []
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$0288b40c-f2e7-4806-9659-883021ae2591",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   }
+  ]
+ }
+}

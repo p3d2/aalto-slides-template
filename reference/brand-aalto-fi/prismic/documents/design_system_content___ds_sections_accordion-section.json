@@ -1,0 +1,370 @@
+{
+ "id": "ZHXHERIAACUA4KkT",
+ "uid": "_ds_sections_accordion-section",
+ "url": null,
+ "type": "design_system_content",
+ "href": "https://aalto-master-design-system.cdn.prismic.io/api/v2/documents/search?ref=ap6ZthEAACsAUnNI&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZHXHERIAACUA4KkT%22%29+%5D%5D",
+ "tags": [],
+ "first_publication_date": "2023-05-30T09:53:20+0000",
+ "last_publication_date": "2024-08-20T06:02:52+0000",
+ "slugs": [
+  "accordion-section"
+ ],
+ "linked_documents": [],
+ "lang": "en-eu",
+ "alternate_languages": [],
+ "data": {
+  "feedback_form": {
+   "link_type": "Document"
+  },
+  "body1": [
+   {
+    "primary": {
+     "title": [
+      {
+       "type": "heading1",
+       "text": "Accordion Section",
+       "spans": []
+      }
+     ],
+     "ingress": [
+      {
+       "type": "paragraph",
+       "text": "Accordion Section is a responsive element that has an Accordion component nested inside.",
+       "spans": []
+      }
+     ],
+     "body_text": [
+      {
+       "type": "paragraph",
+       "text": "",
+       "spans": []
+      }
+     ],
+     "cta_label": [],
+     "cta_link": {
+      "link_type": "Any"
+     },
+     "image": {
+      "img_size_xs": {},
+      "img_size_s": {},
+      "img_size_m": {},
+      "img_size_l": {},
+      "img_size_xl": {},
+      "img_size_xxl": {}
+     },
+     "video_file_link": {
+      "link_type": "Any"
+     },
+     "aside": {
+      "link_type": "Document"
+     },
+     "theme": "black"
+    },
+    "items": [
+     {}
+    ],
+    "id": "hero$a9646793-f334-4f4b-b3b4-ad70c91eb083",
+    "slice_type": "hero",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Accordion Section wraps an Accordion module and an optional aside, providing a responsive container for an Accordion. ",
+       "spans": [
+        {
+         "start": 27,
+         "end": 36,
+         "type": "hyperlink",
+         "data": {
+          "id": "Y8V0GhEAACQAicxE",
+          "type": "design_system_content",
+          "tags": [
+           "ds"
+          ],
+          "lang": "en-eu",
+          "slug": "accordion",
+          "first_publication_date": "2023-01-16T15:58:23+0000",
+          "last_publication_date": "2024-08-20T05:10:23+0000",
+          "uid": "_ds_components_accordion",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        }
+       ]
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$d3113e7e-ad66-4a6f-86ab-fc3f94598c76",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Examples",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$bdaacd6f-e99d-4956-911d-b143f4ed9aff",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "ComponentPreview",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Full width",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": "sections/accordionsection--no-aside",
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": true,
+     "react_code_preview": true,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$f389a020-9358-4ebc-aa61-0083373cf78e",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "ComponentPreview",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "With a module aside",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "",
+       "spans": []
+      }
+     ],
+     "component_id": "sections/accordionsection--aside",
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": true,
+     "react_code_preview": true,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$5518ff5f-37c1-460b-80da-c05a2275f34b",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Usage",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$bfb638db-c97d-417e-be66-a5089966c888",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Use Accordion Section when you want a full-width responsive Accordion ready to be embedded on a page. ",
+       "spans": [
+        {
+         "start": 60,
+         "end": 69,
+         "type": "hyperlink",
+         "data": {
+          "id": "Y8V0GhEAACQAicxE",
+          "type": "design_system_content",
+          "tags": [
+           "ds"
+          ],
+          "lang": "en-eu",
+          "slug": "accordion",
+          "first_publication_date": "2023-01-16T15:58:23+0000",
+          "last_publication_date": "2024-08-20T05:10:23+0000",
+          "uid": "_ds_components_accordion",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        }
+       ]
+      },
+      {
+       "type": "paragraph",
+       "text": "Accordion Section may also include an aside, for example, another component or module next to the Accordion. ",
+       "spans": []
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$3d4e0009-4cfd-4493-bdd4-9ac0b1203aa7",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   }
+  ]
+ }
+}

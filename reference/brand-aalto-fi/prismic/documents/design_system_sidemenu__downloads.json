@@ -1,0 +1,77 @@
+{
+ "id": "ZBC9nxAAACgAZap3",
+ "uid": "downloads",
+ "url": null,
+ "type": "design_system_sidemenu",
+ "href": "https://aalto-master-design-system.cdn.prismic.io/api/v2/documents/search?ref=ap6ZthEAACsAUnNI&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZBC9nxAAACgAZap3%22%29+%5D%5D",
+ "tags": [
+  "downloads"
+ ],
+ "first_publication_date": "2023-03-14T18:32:02+0000",
+ "last_publication_date": "2023-03-22T08:06:01+0000",
+ "slugs": [
+  "visual-elements"
+ ],
+ "linked_documents": [],
+ "lang": "en-eu",
+ "alternate_languages": [],
+ "data": {
+  "body": [
+   {
+    "primary": {
+     "section_title": [
+      {
+       "type": "heading5",
+       "text": "Visual Elements",
+       "spans": []
+      }
+     ],
+     "section_title_link": {
+      "id": "ZBq2kBAAACEAgmKM",
+      "type": "design_system_content",
+      "tags": [],
+      "lang": "en-eu",
+      "slug": "visual-elements",
+      "first_publication_date": "2023-03-22T08:04:36+0000",
+      "last_publication_date": "2023-03-22T08:04:36+0000",
+      "uid": ".downloads.visual-elements",
+      "link_type": "Document",
+      "key": "a653f60b-eb0e-4231-8359-e3a5e92fa1a4",
+      "isBroken": false
+     },
+     "section": "visual_elements"
+    },
+    "items": [
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Logo Originals",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "ZBq2txAAACEAgmLT",
+       "type": "design_system_content",
+       "tags": [
+        "downloads"
+       ],
+       "lang": "en-eu",
+       "slug": "-",
+       "first_publication_date": "2023-03-22T08:05:14+0000",
+       "last_publication_date": "2024-04-02T09:01:35+0000",
+       "uid": "_downloads_visual-elements_logo-originals",
+       "link_type": "Document",
+       "key": "1ffe5e73-b185-4d2b-b509-b9127abd3bea",
+       "isBroken": false
+      },
+      "hidden": false
+     }
+    ],
+    "id": "menu_section$f09ff03a-0278-4cde-b5c8-28c758916ea6",
+    "slice_type": "menu_section",
+    "slice_label": null
+   }
+  ]
+ }
+}

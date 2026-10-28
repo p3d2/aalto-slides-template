@@ -1,0 +1,467 @@
+{
+ "id": "ZaVUbBUAACYAhHYK",
+ "uid": "_ds_modules_image-tile",
+ "url": null,
+ "type": "design_system_content",
+ "href": "https://aalto-master-design-system.cdn.prismic.io/api/v2/documents/search?ref=ap6ZthEAACsAUnNI&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZaVUbBUAACYAhHYK%22%29+%5D%5D",
+ "tags": [],
+ "first_publication_date": "2024-01-15T15:55:53+0000",
+ "last_publication_date": "2025-06-16T17:46:54+0000",
+ "slugs": [
+  "image-tile"
+ ],
+ "linked_documents": [],
+ "lang": "en-eu",
+ "alternate_languages": [],
+ "data": {
+  "feedback_form": {
+   "link_type": "Document"
+  },
+  "body1": [
+   {
+    "primary": {
+     "title": [
+      {
+       "type": "heading1",
+       "text": "Image tile",
+       "spans": []
+      }
+     ],
+     "ingress": [],
+     "body_text": [
+      {
+       "type": "paragraph",
+       "text": "",
+       "spans": []
+      }
+     ],
+     "cta_label": [],
+     "cta_link": {
+      "link_type": "Any"
+     },
+     "image": {
+      "img_size_xs": {},
+      "img_size_s": {},
+      "img_size_m": {},
+      "img_size_l": {},
+      "img_size_xl": {},
+      "img_size_xxl": {}
+     },
+     "video_file_link": {
+      "link_type": "Any"
+     },
+     "aside": {
+      "link_type": "Document"
+     },
+     "theme": "black"
+    },
+    "items": [
+     {}
+    ],
+    "id": "hero$c739a3ce-a635-4ef3-8b95-00858e1fea5f",
+    "slice_type": "hero",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "An Image Tile presents a visual element with an optional caption. It is non-interactive and can display either an image or a video.",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$f950af1c-5398-4bb1-a3df-c08d4751d929",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Examples",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$3109c0b6-1dac-49b0-ae58-36ef6b441a89",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "ComponentPreview",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Default",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Used when there is just an image to show",
+       "spans": []
+      }
+     ],
+     "component_id": "modules/imagetile--default",
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": true,
+     "react_code_preview": true,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$b0a9b0a1-55b0-4060-80fd-b5027b7bf30e",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "ComponentPreview",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "With caption",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Used when there is a related text describing the image",
+       "spans": []
+      }
+     ],
+     "component_id": "modules/imagetile--with-caption",
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": true,
+     "react_code_preview": true,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$ac8459cd-914b-4b3c-9bae-0a90e914530e",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "ComponentPreview",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Video content",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Instead of an image, Image Tile may also contain video",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": "modules/imagetile--with-video",
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": true,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$7a2f72d9-4129-4d20-b2c6-218260825104",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Usage",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$a17a108d-1f86-47cc-ad70-166a34e17ba5",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Use Image Tiles to showcase visual media in a grid or gallery format, especially when no interaction is required, typically arranged using an Image Tile Collection or Image Tile Strip. It supports both static imagery and embedded video, making it well suited for media-rich layouts.",
+       "spans": [
+        {
+         "start": 142,
+         "end": 163,
+         "type": "hyperlink",
+         "data": {
+          "id": "ZaVVpRUAACgAhHiV",
+          "type": "design_system_content",
+          "tags": [],
+          "lang": "en-eu",
+          "slug": "image-tile-collection",
+          "first_publication_date": "2024-01-15T15:59:31+0000",
+          "last_publication_date": "2024-08-19T07:14:28+0000",
+          "uid": "_ds_sections_image-tile-collection",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        },
+        {
+         "start": 167,
+         "end": 183,
+         "type": "hyperlink",
+         "data": {
+          "id": "Z8jJTRAAACAAcXiu",
+          "type": "design_system_content",
+          "tags": [],
+          "lang": "en-eu",
+          "slug": "image-tile-strip",
+          "first_publication_date": "2025-03-05T22:00:15+0000",
+          "last_publication_date": "2025-03-05T22:03:07+0000",
+          "uid": "_ds_sections_image-tile-strip",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "Image Tile highlights visual content. If the text accompanying the media is critical, consider using a Content Box. If the media needs to link to another page or action, use Card or Liftup instead.",
+       "spans": [
+        {
+         "start": 103,
+         "end": 114,
+         "type": "hyperlink",
+         "data": {
+          "id": "Y8GXKhEAACMAeLAT",
+          "type": "design_system_content",
+          "tags": [],
+          "lang": "en-eu",
+          "slug": "content-box",
+          "first_publication_date": "2023-01-13T17:40:43+0000",
+          "last_publication_date": "2025-06-16T18:07:49+0000",
+          "uid": "_ds_modules_content-box",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        },
+        {
+         "start": 174,
+         "end": 178,
+         "type": "hyperlink",
+         "data": {
+          "id": "ZEZrDBQAACUAseQw",
+          "type": "design_system_content",
+          "tags": [],
+          "lang": "en-eu",
+          "slug": "card",
+          "first_publication_date": "2023-04-24T11:43:08+0000",
+          "last_publication_date": "2025-08-20T08:49:31+0000",
+          "uid": "_ds_modules_card",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        },
+        {
+         "start": 182,
+         "end": 188,
+         "type": "hyperlink",
+         "data": {
+          "id": "Y8GkpBEAACUAeO30",
+          "type": "design_system_content",
+          "tags": [],
+          "lang": "en-eu",
+          "slug": "liftup",
+          "first_publication_date": "2023-01-13T18:36:24+0000",
+          "last_publication_date": "2025-06-16T16:34:33+0000",
+          "uid": "_ds_modules_liftup",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$a61ad4ba-ed84-4877-ba60-2322118a62bc",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   }
+  ]
+ }
+}

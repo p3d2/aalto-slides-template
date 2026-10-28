@@ -1,0 +1,314 @@
+{
+ "id": "ZEZZ8RQAACYAsZT_",
+ "uid": "_ds_components_radio-button",
+ "url": null,
+ "type": "design_system_content",
+ "href": "https://aalto-master-design-system.cdn.prismic.io/api/v2/documents/search?ref=ap6ZthEAACsAUnNI&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZEZZ8RQAACYAsZT_%22%29+%5D%5D",
+ "tags": [],
+ "first_publication_date": "2023-04-24T10:30:15+0000",
+ "last_publication_date": "2024-08-16T10:28:56+0000",
+ "slugs": [
+  "radio-button"
+ ],
+ "linked_documents": [],
+ "lang": "en-eu",
+ "alternate_languages": [],
+ "data": {
+  "feedback_form": {
+   "link_type": "Document"
+  },
+  "body1": [
+   {
+    "primary": {
+     "title": [
+      {
+       "type": "heading1",
+       "text": "Radio Button",
+       "spans": []
+      }
+     ],
+     "ingress": [
+      {
+       "type": "paragraph",
+       "text": "Radio Button allows users to select only one option.",
+       "spans": []
+      }
+     ],
+     "body_text": [
+      {
+       "type": "paragraph",
+       "text": "",
+       "spans": []
+      }
+     ],
+     "cta_label": [],
+     "cta_link": {
+      "link_type": "Any"
+     },
+     "image": {
+      "img_size_xs": {},
+      "img_size_s": {},
+      "img_size_m": {},
+      "img_size_l": {},
+      "img_size_xl": {},
+      "img_size_xxl": {}
+     },
+     "video_file_link": {
+      "link_type": "Any"
+     },
+     "aside": {
+      "link_type": "Document"
+     },
+     "theme": "black"
+    },
+    "items": [
+     {}
+    ],
+    "id": "hero$e276a471-06ed-416f-86e4-1a90bdcca2cb",
+    "slice_type": "hero",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Radio Buttons allow choosing a single option out of multiple side-by-side options. When one option is selected, the other ones will become deselected. Using a single Radio Button without a Radio Group is therefore only ever necessary for library developers.",
+       "spans": [
+        {
+         "start": 189,
+         "end": 200,
+         "type": "hyperlink",
+         "data": {
+          "id": "Y5OWgBEAACEAQTBs",
+          "type": "design_system_content",
+          "tags": [],
+          "lang": "en-eu",
+          "slug": "radio-group",
+          "first_publication_date": "2022-12-09T20:12:00+0000",
+          "last_publication_date": "2024-08-16T10:29:40+0000",
+          "uid": "_ds_components_radio-group",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        }
+       ]
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$4573607f-35f3-49e3-8b55-4535bed58eeb",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Examples",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$f2fb7720-185e-4f4f-868f-39d324e1e8b1",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "ComponentPreview",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Radio Button",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": "components/radiobutton--default",
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": true,
+     "react_code_preview": true,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$f124e5d7-92d3-4810-8f93-4f6bc276826d",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Usage",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$8549dc6c-5f0e-460c-866f-0816d15a3430",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "See Radio Group",
+       "spans": [
+        {
+         "start": 4,
+         "end": 15,
+         "type": "hyperlink",
+         "data": {
+          "id": "Y5OWgBEAACEAQTBs",
+          "type": "design_system_content",
+          "tags": [],
+          "lang": "en-eu",
+          "slug": "radio-group",
+          "first_publication_date": "2022-12-09T20:12:00+0000",
+          "last_publication_date": "2024-08-16T10:29:40+0000",
+          "uid": "_ds_components_radio-group",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        }
+       ]
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$9d034688-2208-4e02-9ed1-d748e6416abf",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   }
+  ]
+ }
+}

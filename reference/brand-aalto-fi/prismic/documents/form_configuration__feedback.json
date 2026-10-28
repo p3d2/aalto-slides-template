@@ -1,0 +1,46 @@
+{
+ "id": "ZNo2LhAAACYAsGnO",
+ "uid": "feedback",
+ "url": null,
+ "type": "form_configuration",
+ "href": "https://aalto-master-design-system.cdn.prismic.io/api/v2/documents/search?ref=ap6ZthEAACsAUnNI&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZNo2LhAAACYAsGnO%22%29+%5D%5D",
+ "tags": [],
+ "first_publication_date": "2023-08-14T14:12:02+0000",
+ "last_publication_date": "2023-09-01T12:22:49+0000",
+ "slugs": [
+  "feedback"
+ ],
+ "linked_documents": [],
+ "lang": "en-eu",
+ "alternate_languages": [
+  {
+   "id": "aRw8UBcAACYAhzoL",
+   "type": "form_configuration",
+   "lang": "fi",
+   "uid": "feedback"
+  }
+ ],
+ "data": {
+  "title": [
+   {
+    "type": "heading1",
+    "text": "Feedback",
+    "spans": []
+   }
+  ],
+  "ingress": [
+   {
+    "type": "paragraph",
+    "text": "Did you find what you were looking for? Let us know if something's missing.",
+    "spans": []
+   }
+  ],
+  "form_id": [
+   {
+    "type": "paragraph",
+    "text": "brand_aalto_fi_feedback",
+    "spans": []
+   }
+  ]
+ }
+}

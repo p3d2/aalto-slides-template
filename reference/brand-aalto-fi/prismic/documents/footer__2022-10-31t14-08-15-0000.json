@@ -1,0 +1,350 @@
+{
+ "id": "Y1_WehEAACEAHJKy",
+ "uid": null,
+ "url": null,
+ "type": "footer",
+ "href": "https://aalto-master-design-system.cdn.prismic.io/api/v2/documents/search?ref=ap6ZthEAACsAUnNI&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22Y1_WehEAACEAHJKy%22%29+%5D%5D",
+ "tags": [],
+ "first_publication_date": "2022-10-31T14:08:15+0000",
+ "last_publication_date": "2023-11-30T09:00:32+0000",
+ "slugs": [
+  "footer"
+ ],
+ "linked_documents": [],
+ "lang": "en-eu",
+ "alternate_languages": [
+  {
+   "id": "Y1_W4xEAAF5wHJSm",
+   "type": "footer",
+   "lang": "fi"
+  }
+ ],
+ "data": {
+  "logo": {
+   "dimensions": {
+    "width": 150,
+    "height": 150
+   },
+   "alt": "Aalto University logo",
+   "copyright": null,
+   "url": "https://aalto-master-design-system.cdn.prismic.io/aalto-master-design-system/9b1312bd-4c2e-4dc5-9410-802a7e00b79b_aalto_logo_white.svg",
+   "id": "Y3YvdRAAACcAydXd",
+   "edit": {
+    "x": 0,
+    "y": 0,
+    "zoom": 1,
+    "background": "#fff"
+   }
+  },
+  "logo_link": {
+   "link_type": "Web",
+   "key": "7dd73afa-c9aa-4fcc-ab5e-bbcc72ae608e",
+   "url": "https://aalto.fi",
+   "target": "_blank"
+  },
+  "body2": [
+   {
+    "primary": {
+     "label": [
+      {
+       "type": "heading1",
+       "text": "Aalto University",
+       "spans": []
+      }
+     ],
+     "link": []
+    },
+    "items": [
+     {}
+    ],
+    "id": "contact_row$88eace66-fb14-4964-98c1-4c748cd56bd6",
+    "slice_type": "contact_row",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "label": [
+      {
+       "type": "heading1",
+       "text": "P.O. Box 11000 (Otakaari 1B)",
+       "spans": []
+      }
+     ],
+     "link": []
+    },
+    "items": [
+     {}
+    ],
+    "id": "contact_row$86e75147-8205-4d77-8645-cf2f4ec30ad3",
+    "slice_type": "contact_row",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "label": [
+      {
+       "type": "heading1",
+       "text": "FI-00076 AALTO",
+       "spans": []
+      }
+     ],
+     "link": []
+    },
+    "items": [
+     {}
+    ],
+    "id": "contact_row$37761a7d-46e6-43f8-b97f-0cb5bdb3c311",
+    "slice_type": "contact_row",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "label": [
+      {
+       "type": "heading1",
+       "text": "Switchboard: +3589 47001",
+       "spans": []
+      }
+     ],
+     "link": []
+    },
+    "items": [
+     {}
+    ],
+    "id": "contact_row$19943707-b0fa-4eaf-9189-aa69fd33721a",
+    "slice_type": "contact_row",
+    "slice_label": null
+   }
+  ],
+  "body": [
+   {
+    "primary": {
+     "section_title": [
+      {
+       "type": "heading5",
+       "text": "Quicklinks",
+       "spans": []
+      }
+     ],
+     "section_title_link": {
+      "link_type": "Any"
+     }
+    },
+    "items": [
+     {
+      "section_link": {
+       "link_type": "Web",
+       "key": "c91be02c-7bfc-47b7-a6f5-90299d752ed6",
+       "url": "https://www.aalto.fi/en",
+       "target": "_blank"
+      },
+      "label": [
+       {
+        "type": "paragraph",
+        "text": "Aalto.fi",
+        "spans": []
+       }
+      ]
+     },
+     {
+      "section_link": {
+       "link_type": "Web",
+       "key": "32a2d4a1-cf62-4d14-b7c0-a8fe8d7de8ed",
+       "url": "https://materialbank.aalto.fi/"
+      },
+      "label": [
+       {
+        "type": "paragraph",
+        "text": "Image bank",
+        "spans": []
+       }
+      ]
+     },
+     {
+      "section_link": {
+       "link_type": "Web",
+       "key": "fadecd9d-d734-42e8-b80a-ffc21b925d01",
+       "url": "https://www.aalto.fi/en/events-library"
+      },
+      "label": [
+       {
+        "type": "paragraph",
+        "text": "Events library",
+        "spans": []
+       }
+      ]
+     },
+     {
+      "section_link": {
+       "link_type": "Web",
+       "key": "225f62b9-f5d4-45af-bdb3-483b39cdee4f",
+       "url": "https://aaltologo.fi"
+      },
+      "label": [
+       {
+        "type": "paragraph",
+        "text": "Logo generator",
+        "spans": []
+       }
+      ]
+     }
+    ],
+    "id": "menu_section$f6664205-cfb3-4e44-a066-a1145df67303",
+    "slice_type": "menu_section",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "section_title": [
+      {
+       "type": "heading5",
+       "text": "Ask for brand support",
+       "spans": []
+      }
+     ],
+     "section_content": [
+      {
+       "type": "paragraph",
+       "text": "Get help with brand-related, design, and audiovisual projects.",
+       "spans": []
+      }
+     ],
+     "section_call_to_action_link": {
+      "id": "ZAcwrhAAACkAUXQy",
+      "type": "form",
+      "tags": [],
+      "lang": "en-eu",
+      "slug": "ask-for-brand-support",
+      "first_publication_date": "2023-03-07T12:40:23+0000",
+      "last_publication_date": "2025-11-18T21:05:41+0000",
+      "uid": "_support",
+      "link_type": "Document",
+      "key": "4aac7c93-f82f-458f-ae90-5f222d4f8d5e",
+      "isBroken": false
+     },
+     "section_call_to_action_label": [
+      {
+       "type": "paragraph",
+       "text": "Contact us",
+       "spans": []
+      }
+     ],
+     "collaborators_title": []
+    },
+    "items": [],
+    "id": "text_section$d23c082f-bb93-412c-b3e5-df310b4b4c56",
+    "slice_type": "text_section",
+    "slice_label": null
+   }
+  ],
+  "body1": [
+   {
+    "primary": {
+     "link": {
+      "id": "ZJGpTxAAACEAmB01",
+      "type": "design_system_content",
+      "tags": [],
+      "lang": "en-eu",
+      "slug": "privacy-notice",
+      "first_publication_date": "2023-06-20T13:30:24+0000",
+      "last_publication_date": "2025-02-20T08:58:54+0000",
+      "uid": "_privacy-notice",
+      "link_type": "Document",
+      "key": "03f9852a-6092-404c-86e5-163df2838053",
+      "isBroken": false
+     },
+     "label": [
+      {
+       "type": "paragraph",
+       "text": "Privacy notice",
+       "spans": []
+      }
+     ]
+    },
+    "items": [
+     {}
+    ],
+    "id": "link$7a55d9f3-53a5-4393-83b7-ed3e9a499538",
+    "slice_type": "link",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "link": {
+      "id": "ZHnbExEAACEAhZa6",
+      "type": "design_system_content",
+      "tags": [],
+      "lang": "en-eu",
+      "slug": "-",
+      "first_publication_date": "2023-06-02T12:06:48+0000",
+      "last_publication_date": "2024-04-02T09:01:32+0000",
+      "uid": "_cookie-policy",
+      "link_type": "Document",
+      "key": "d9c2ce12-a843-4df8-bbb7-d8e0ccb8363e",
+      "isBroken": false
+     },
+     "label": [
+      {
+       "type": "paragraph",
+       "text": "Cookie policy",
+       "spans": []
+      }
+     ]
+    },
+    "items": [
+     {}
+    ],
+    "id": "link$f9818981-9371-4e57-8146-08f5cb44e247",
+    "slice_type": "link",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "label": [
+      {
+       "type": "paragraph",
+       "text": "Cookie settings",
+       "spans": []
+      }
+     ]
+    },
+    "items": [
+     {}
+    ],
+    "id": "cookie_settings_link$225472c4-1f98-47f9-ad9e-946afb30a39c",
+    "slice_type": "cookie_settings_link",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "link": {
+      "id": "ZJGPYRAAACEAl5zL",
+      "type": "design_system_content",
+      "tags": [],
+      "lang": "en-eu",
+      "slug": "-",
+      "first_publication_date": "2023-06-20T11:37:10+0000",
+      "last_publication_date": "2024-04-02T09:01:33+0000",
+      "uid": "_accessibility-statement",
+      "link_type": "Document",
+      "key": "b6b81473-b67b-4440-ac0d-3a021d9262c1",
+      "isBroken": false
+     },
+     "label": [
+      {
+       "type": "paragraph",
+       "text": "Accessibility statement",
+       "spans": []
+      }
+     ]
+    },
+    "items": [
+     {}
+    ],
+    "id": "link$b920720f-d4e2-4192-8eaa-ca26e9cc5f98",
+    "slice_type": "link",
+    "slice_label": null
+   }
+  ]
+ }
+}

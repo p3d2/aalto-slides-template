@@ -1,0 +1,2723 @@
+{
+ "id": "Y2DQ7BEAAPhZIQay",
+ "uid": "ds",
+ "url": null,
+ "type": "design_system_sidemenu",
+ "href": "https://aalto-master-design-system.cdn.prismic.io/api/v2/documents/search?ref=ap6ZthEAACsAUnNI&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22Y2DQ7BEAAPhZIQay%22%29+%5D%5D",
+ "tags": [
+  "ds"
+ ],
+ "first_publication_date": "2022-11-01T07:55:26+0000",
+ "last_publication_date": "2026-01-13T13:16:15+0000",
+ "slugs": [
+  "design-system"
+ ],
+ "linked_documents": [],
+ "lang": "en-eu",
+ "alternate_languages": [
+  {
+   "id": "Y2DQ-BEAAF5wIQby",
+   "type": "design_system_sidemenu",
+   "lang": "fi",
+   "uid": "ds"
+  }
+ ],
+ "data": {
+  "body": [
+   {
+    "primary": {
+     "section_title": [
+      {
+       "type": "heading5",
+       "text": "Design system",
+       "spans": []
+      }
+     ],
+     "section_title_link": {
+      "id": "ZBnOmRAAACIAgO7B",
+      "type": "design_system_content",
+      "tags": [
+       "ds"
+      ],
+      "lang": "en-eu",
+      "slug": "design-system",
+      "first_publication_date": "2023-03-21T15:34:56+0000",
+      "last_publication_date": "2026-05-12T10:12:31+0000",
+      "uid": "_ds",
+      "link_type": "Document",
+      "key": "994ded7d-f79b-479d-b53b-ebba902e539a",
+      "isBroken": false
+     },
+     "section": "about"
+    },
+    "items": [
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Releases & roadmap",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "ZBnRLxAAACEAgPPg",
+       "type": "design_system_content",
+       "tags": [
+        "ds"
+       ],
+       "lang": "en-eu",
+       "slug": "releases--roadmap",
+       "first_publication_date": "2023-03-21T15:46:09+0000",
+       "last_publication_date": "2026-02-17T10:35:19+0000",
+       "uid": "_ds_about_releases",
+       "link_type": "Document",
+       "key": "e144b9e7-55ca-416e-94b6-dffea7c7552b",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Contributing",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "ZBnTbxAAACEAgPg6",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "-",
+       "first_publication_date": "2023-03-21T15:55:31+0000",
+       "last_publication_date": "2024-04-02T09:01:36+0000",
+       "uid": "_ds_about_contributing",
+       "link_type": "Document",
+       "key": "41786d97-70a2-4a17-a259-b85113d57555",
+       "isBroken": false
+      },
+      "hidden": false
+     }
+    ],
+    "id": "menu_section$06506ece-7a2e-4016-8120-6fc5dccb1115",
+    "slice_type": "menu_section",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "section_title": [
+      {
+       "type": "heading5",
+       "text": "For designers",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "section_title_link": {
+      "id": "ZGdbnhAAACAAevFi",
+      "type": "design_system_content",
+      "tags": [
+       "ds"
+      ],
+      "lang": "en-eu",
+      "slug": "for-designers",
+      "first_publication_date": "2023-05-19T11:22:35+0000",
+      "last_publication_date": "2024-06-10T11:01:19+0000",
+      "uid": "_ds_for-designers",
+      "link_type": "Document",
+      "key": "a1a8e915-2c2e-4f1f-9404-d1468ee2f522",
+      "isBroken": false
+     },
+     "section": null
+    },
+    "items": [
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Available resources",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "section_link": {
+       "id": "Zlcz3REAACMAeGdQ",
+       "type": "design_system_content",
+       "tags": [
+        "ds"
+       ],
+       "lang": "en-eu",
+       "slug": "available-resources",
+       "first_publication_date": "2024-05-29T13:56:05+0000",
+       "last_publication_date": "2025-04-29T13:15:45+0000",
+       "uid": "_ds_for-designers_resources",
+       "link_type": "Document",
+       "key": "86b4d768-b281-4f52-9791-50b60fadd90f",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Motion design",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "section_link": {
+       "id": "Zl3EoBIAACAAVPXs",
+       "type": "design_system_content",
+       "tags": [
+        "ds"
+       ],
+       "lang": "en-eu",
+       "slug": "motion-design",
+       "first_publication_date": "2024-06-03T13:36:04+0000",
+       "last_publication_date": "2024-06-13T09:02:08+0000",
+       "uid": "_ds_for-designers_motion-design",
+       "link_type": "Document",
+       "key": "6b81a58c-0afd-452a-81bb-8c6396c55136",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Tutorial videos",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "section_link": {
+       "id": "aWZAYxEAACIA8TA3",
+       "type": "design_system_content",
+       "tags": [
+        "ds"
+       ],
+       "lang": "en-eu",
+       "slug": "tutorial-videos",
+       "first_publication_date": "2026-01-13T13:16:10+0000",
+       "last_publication_date": "2026-01-13T13:51:07+0000",
+       "uid": "_ds_for-designers_tutorial-videos",
+       "link_type": "Document",
+       "key": "36f54153-c2ed-49f8-b7d9-845b3f4a0620",
+       "isBroken": false
+      },
+      "hidden": false
+     }
+    ],
+    "id": "menu_section$8623fcf1-8943-43d4-97ba-6b99cba1acdf",
+    "slice_type": "menu_section",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "section_title": [
+      {
+       "type": "heading5",
+       "text": "For developers",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "section_title_link": {
+      "id": "ZGdcBxAAACAAevIP",
+      "type": "design_system_content",
+      "tags": [
+       "ds"
+      ],
+      "lang": "en-eu",
+      "slug": "for-developers",
+      "first_publication_date": "2023-05-19T11:23:12+0000",
+      "last_publication_date": "2024-05-29T14:34:34+0000",
+      "uid": "_ds_for-developers",
+      "link_type": "Document",
+      "key": "48cb2853-ca5d-403a-b6ff-f30c60ad880a",
+      "isBroken": false
+     },
+     "section": null
+    },
+    "items": [
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Available resources",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "section_link": {
+       "id": "Zlc27BEAACUAeG1a",
+       "type": "design_system_content",
+       "tags": [
+        "ds"
+       ],
+       "lang": "en-eu",
+       "slug": "available-resources",
+       "first_publication_date": "2024-05-29T14:09:18+0000",
+       "last_publication_date": "2025-10-29T13:51:54+0000",
+       "uid": "_ds_for-developers_resources",
+       "link_type": "Document",
+       "key": "eb93934d-e669-462d-bb02-94d044aec25e",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Scenarios",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "section_link": {
+       "id": "Zlc4VhEAACIAeHAn",
+       "type": "design_system_content",
+       "tags": [
+        "ds"
+       ],
+       "lang": "en-eu",
+       "slug": "scenarios",
+       "first_publication_date": "2024-05-29T14:15:10+0000",
+       "last_publication_date": "2025-10-29T14:08:43+0000",
+       "uid": "_ds_for-developers_scenarios",
+       "link_type": "Document",
+       "key": "9c206999-d303-4994-b927-6ea90cb9caec",
+       "isBroken": false
+      },
+      "hidden": false
+     }
+    ],
+    "id": "menu_section$0b4571e5-9021-49ff-bfb8-1c5ae79b4e3b",
+    "slice_type": "menu_section",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "section_title": [
+      {
+       "type": "heading5",
+       "text": "Design tokens",
+       "spans": []
+      }
+     ],
+     "section_title_link": {
+      "id": "ZCVo5xAAACMAxN6J",
+      "type": "design_system_content",
+      "tags": [
+       "tokens"
+      ],
+      "lang": "en-eu",
+      "slug": "design-tokens",
+      "first_publication_date": "2023-03-30T10:50:39+0000",
+      "last_publication_date": "2025-03-07T14:33:40+0000",
+      "uid": "_ds_tokens",
+      "link_type": "Document",
+      "key": "4ca215d0-b101-48ed-bd10-07a86955c284",
+      "isBroken": false
+     },
+     "section": null
+    },
+    "items": [
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Colours",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "ZCVpCBAAAB8AxN6-",
+       "type": "design_system_content",
+       "tags": [
+        "tokens"
+       ],
+       "lang": "en-eu",
+       "slug": "colours",
+       "first_publication_date": "2023-03-30T10:48:43+0000",
+       "last_publication_date": "2025-10-30T11:23:32+0000",
+       "uid": "_ds_tokens_colours",
+       "link_type": "Document",
+       "key": "54aa87ec-6305-47ce-8d03-9f7d9ccbc7b4",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Typography",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "ZCVsNRAAACEAxOT0",
+       "type": "design_system_content",
+       "tags": [
+        "tokens"
+       ],
+       "lang": "en-eu",
+       "slug": "typography",
+       "first_publication_date": "2023-03-30T11:06:35+0000",
+       "last_publication_date": "2024-06-18T13:40:51+0000",
+       "uid": "_ds_tokens_typography",
+       "link_type": "Document",
+       "key": "e56a2abc-d44e-43f0-b994-f5ade69b2858",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Grids & spacing",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "ZCVuaBAAACEAxOj6",
+       "type": "design_system_content",
+       "tags": [
+        "tokens"
+       ],
+       "lang": "en-eu",
+       "slug": "grids--spacing",
+       "first_publication_date": "2023-03-30T11:17:25+0000",
+       "last_publication_date": "2025-03-10T15:24:40+0000",
+       "uid": "_ds_tokens_grid",
+       "link_type": "Document",
+       "key": "6fd7a2f8-6a75-4af8-a039-680aef3c58e8",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Icons",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "ZEGJdRQAACcAnGuy",
+       "type": "design_system_content",
+       "tags": [
+        "tokens"
+       ],
+       "lang": "en-eu",
+       "slug": "icons",
+       "first_publication_date": "2023-04-20T18:52:20+0000",
+       "last_publication_date": "2024-06-26T09:50:17+0000",
+       "uid": "_ds_tokens_icons",
+       "link_type": "Document",
+       "key": "59a3aa78-df8b-45ec-86f5-17935353f687",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Motion",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "ZEGH5hQAACcAnGRJ",
+       "type": "design_system_content",
+       "tags": [
+        "tokens"
+       ],
+       "lang": "en-eu",
+       "slug": "motion",
+       "first_publication_date": "2023-04-20T18:48:07+0000",
+       "last_publication_date": "2024-06-26T10:03:12+0000",
+       "uid": "_ds_tokens_motion",
+       "link_type": "Document",
+       "key": "659cc930-8cbe-4c3f-b8f9-42e8dc9cee50",
+       "isBroken": false
+      },
+      "hidden": false
+     }
+    ],
+    "id": "menu_section$8360bc6f-3dbf-403c-9558-737a066da7a6",
+    "slice_type": "menu_section",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "section_title": [
+      {
+       "type": "heading5",
+       "text": "Components",
+       "spans": []
+      }
+     ],
+     "section_title_link": {
+      "id": "ZBnPsxAAACIAgPDK",
+      "type": "design_system_content",
+      "tags": [
+       "ds",
+       "components"
+      ],
+      "lang": "en-eu",
+      "slug": "components",
+      "first_publication_date": "2023-03-21T15:39:38+0000",
+      "last_publication_date": "2025-10-13T09:28:45+0000",
+      "uid": "_ds_components",
+      "link_type": "Document",
+      "key": "5bd66475-2c86-452d-ad0a-730bb038907b",
+      "isBroken": false
+     },
+     "section": "components"
+    },
+    "items": [
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Accordion",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "Y8V0GhEAACQAicxE",
+       "type": "design_system_content",
+       "tags": [
+        "ds"
+       ],
+       "lang": "en-eu",
+       "slug": "accordion",
+       "first_publication_date": "2023-01-16T15:58:23+0000",
+       "last_publication_date": "2024-08-20T05:10:23+0000",
+       "uid": "_ds_components_accordion",
+       "link_type": "Document",
+       "key": "a9e54957-2529-42df-8fa3-7ef477f573ed",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Asset Preview",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "Y8GnwxEAACUAePxX",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "-",
+       "first_publication_date": "2023-01-13T18:49:44+0000",
+       "last_publication_date": "2024-04-02T09:01:26+0000",
+       "uid": "_ds_components_asset-preview",
+       "link_type": "Document",
+       "key": "c410cdf4-3d49-4e0f-ac75-e1a37bfb48c5",
+       "isBroken": false
+      },
+      "hidden": true
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Avatar",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "Y33egBcAAC0A5HFP",
+       "type": "design_system_content",
+       "tags": [
+        "ds"
+       ],
+       "lang": "en-eu",
+       "slug": "avatar",
+       "first_publication_date": "2022-11-23T08:49:29+0000",
+       "last_publication_date": "2024-08-16T08:38:13+0000",
+       "uid": "_ds_components_avatar",
+       "link_type": "Document",
+       "key": "b3d71c74-32c0-4532-b22c-221cbeddf075",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Badge",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "Y34CBxcAACsA5RKS",
+       "type": "design_system_content",
+       "tags": [
+        "components"
+       ],
+       "lang": "en-eu",
+       "slug": "badge",
+       "first_publication_date": "2022-11-23T11:36:14+0000",
+       "last_publication_date": "2025-10-13T10:27:50+0000",
+       "uid": "_ds_components_badge",
+       "link_type": "Document",
+       "key": "e8358c28-b70b-4477-805b-2d77ffda4761",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Button",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "Y2Jg5REAAFlHJ5bI",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "button",
+       "first_publication_date": "2022-11-02T12:22:02+0000",
+       "last_publication_date": "2026-05-07T09:30:50+0000",
+       "uid": "_ds_components_button",
+       "link_type": "Document",
+       "key": "e8cb14bc-0b17-4ff3-bdbc-c48fc9914e60",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Button group",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "section_link": {
+       "id": "aOjdVRIAACIAW-qF",
+       "type": "design_system_content",
+       "tags": [
+        "components"
+       ],
+       "lang": "en-eu",
+       "slug": "button-group",
+       "first_publication_date": "2025-10-13T09:04:45+0000",
+       "last_publication_date": "2025-10-13T09:04:45+0000",
+       "uid": "_ds_components_button-group",
+       "link_type": "Document",
+       "key": "c8c7beac-944c-485e-9a13-4c2d1635fec6",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Checkbox",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "Y43ySREAACMAYBgL",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "checkbox",
+       "first_publication_date": "2022-12-05T13:29:51+0000",
+       "last_publication_date": "2024-08-16T08:46:31+0000",
+       "uid": "_ds_components_checkbox",
+       "link_type": "Document",
+       "key": "7334c534-ac62-4fa2-9f80-4ee5e5b81ab9",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Checkbox group",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "ZEZYbRQAACUAsY3R",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "checkbox-group",
+       "first_publication_date": "2023-04-24T10:24:09+0000",
+       "last_publication_date": "2024-08-16T08:47:30+0000",
+       "uid": "_ds_components_checkbox-group",
+       "link_type": "Document",
+       "key": "6c34392a-8b0e-4fe1-9184-b659e8051c31",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Chip",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "Y5OKjREAACMAQPmi",
+       "type": "design_system_content",
+       "tags": [
+        "components"
+       ],
+       "lang": "en-eu",
+       "slug": "chip",
+       "first_publication_date": "2022-12-09T19:20:49+0000",
+       "last_publication_date": "2025-10-13T09:29:17+0000",
+       "uid": "_ds_components_chip",
+       "link_type": "Document",
+       "key": "a790966e-e9b4-4b2a-8427-504648801fbe",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Chip group",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "section_link": {
+       "id": "aOjXbxIAACAAW96J",
+       "type": "design_system_content",
+       "tags": [
+        "components"
+       ],
+       "lang": "en-eu",
+       "slug": "chip-group",
+       "first_publication_date": "2025-10-13T09:04:54+0000",
+       "last_publication_date": "2025-10-13T09:17:10+0000",
+       "uid": "_ds_components_chip-group",
+       "link_type": "Document",
+       "key": "79ab5ac4-0e70-462b-ac3c-a140e4f0c723",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Divider",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "Y5ORMhEAACAAQRgx",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "divider",
+       "first_publication_date": "2022-12-09T19:49:10+0000",
+       "last_publication_date": "2024-08-16T08:49:21+0000",
+       "uid": "_ds_components_divider",
+       "link_type": "Document",
+       "key": "3e4ffed7-5100-4ce8-b822-bc6942de9cc7",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Dropdown",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "Y5OSaREAACAAQR3N",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "dropdown",
+       "first_publication_date": "2022-12-09T19:54:22+0000",
+       "last_publication_date": "2024-08-16T08:50:42+0000",
+       "uid": "_ds_components_dropdown",
+       "link_type": "Document",
+       "key": "a752dcac-dd70-4fb5-bbad-c66768bc4186",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Icon",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "section_link": {
+       "id": "ZgQBDxEAAF0DDLwd",
+       "type": "design_system_content",
+       "tags": [
+        "ds"
+       ],
+       "lang": "en-eu",
+       "slug": "icon",
+       "first_publication_date": "2024-03-27T11:27:40+0000",
+       "last_publication_date": "2024-08-16T10:09:11+0000",
+       "uid": "_ds_components_icon",
+       "link_type": "Document",
+       "key": "a558cc6b-1a4a-4475-bf0f-44d9506a3430",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Image link",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "Y8GllhEAACUAePJP",
+       "type": "design_system_content",
+       "tags": [
+        "components"
+       ],
+       "lang": "en-eu",
+       "slug": "image-link",
+       "first_publication_date": "2023-01-13T18:40:27+0000",
+       "last_publication_date": "2024-08-16T10:08:10+0000",
+       "uid": "_ds_components_image-link",
+       "link_type": "Document",
+       "key": "df8e6812-fdf8-4178-a4c1-d39ca05b1da3",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Link",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "ZEZZWBQAACQAsZIq",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "link",
+       "first_publication_date": "2023-04-24T10:27:34+0000",
+       "last_publication_date": "2024-08-16T10:13:48+0000",
+       "uid": "_ds_components_link",
+       "link_type": "Document",
+       "key": "70e389fc-1862-47ac-9b45-efb0a749c94d",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "List",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "Y5N_6BEAACMAQMjA",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "list",
+       "first_publication_date": "2022-12-09T18:35:33+0000",
+       "last_publication_date": "2025-10-13T10:55:41+0000",
+       "uid": "_ds_components_list",
+       "link_type": "Document",
+       "key": "af547d8d-43a7-42f2-afd6-05e59b485847",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Mega link",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "section_link": {
+       "id": "Z8i8jRAAACMAcWRQ",
+       "type": "design_system_content",
+       "tags": [
+        "components"
+       ],
+       "lang": "en-eu",
+       "slug": "mega-link",
+       "first_publication_date": "2025-03-05T21:05:57+0000",
+       "last_publication_date": "2025-03-05T21:16:01+0000",
+       "uid": "_ds_components_mega-link",
+       "link_type": "Document",
+       "key": "cb765e01-8eb0-492c-8126-c4cf3e52be83",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Progress bar",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "ZSlcWhAAACMAvIy3",
+       "type": "design_system_content",
+       "tags": [
+        "components"
+       ],
+       "lang": "en-eu",
+       "slug": "progress-bar",
+       "first_publication_date": "2023-10-13T15:05:24+0000",
+       "last_publication_date": "2024-08-16T10:26:02+0000",
+       "uid": "_ds_components_progress-bar",
+       "link_type": "Document",
+       "key": "dfe8958c-04dd-4dcb-9f76-62c54e87ffe4",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Progress indicator",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "section_link": {
+       "id": "ZiEKsxAAAOYs3gpy",
+       "type": "design_system_content",
+       "tags": [
+        "ds"
+       ],
+       "lang": "en-eu",
+       "slug": "progress-indicator",
+       "first_publication_date": "2024-04-18T13:58:15+0000",
+       "last_publication_date": "2024-08-16T10:28:11+0000",
+       "uid": "_ds_components_progress-indicator",
+       "link_type": "Document",
+       "key": "dbfff789-bbc1-4e43-b3f0-cc8e7b14e2ca",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Radio button",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "ZEZZ8RQAACYAsZT_",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "radio-button",
+       "first_publication_date": "2023-04-24T10:30:15+0000",
+       "last_publication_date": "2024-08-16T10:28:56+0000",
+       "uid": "_ds_components_radio-button",
+       "link_type": "Document",
+       "key": "19f9fb8d-31ba-4b5a-8b0c-da04c333fe56",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Radio group",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "Y5OWgBEAACEAQTBs",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "radio-group",
+       "first_publication_date": "2022-12-09T20:12:00+0000",
+       "last_publication_date": "2024-08-16T10:29:40+0000",
+       "uid": "_ds_components_radio-group",
+       "link_type": "Document",
+       "key": "974c4475-98f8-4a04-9db0-567acfcb981e",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Search field",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "Y5OYxhEAACIAQTrn",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "search-field",
+       "first_publication_date": "2022-12-09T20:23:09+0000",
+       "last_publication_date": "2024-08-16T10:30:34+0000",
+       "uid": "_ds_components_search-field",
+       "link_type": "Document",
+       "key": "b9677759-1d42-4947-95a8-47ca1335e360",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Selection list",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "link_type": "Any"
+      },
+      "hidden": true
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Slider",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "Y5OblxEAACMAQUfF",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "slider",
+       "first_publication_date": "2022-12-09T20:33:32+0000",
+       "last_publication_date": "2024-08-16T10:31:22+0000",
+       "uid": "_ds_components_slider",
+       "link_type": "Document",
+       "key": "8de6aad7-40fb-4d1d-a2c3-94c8b2d5172b",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Snackbar",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "Y5OcxhEAACAAQU0a",
+       "type": "design_system_content",
+       "tags": [
+        "components"
+       ],
+       "lang": "en-eu",
+       "slug": "snackbar",
+       "first_publication_date": "2022-12-09T20:38:39+0000",
+       "last_publication_date": "2024-08-16T10:32:17+0000",
+       "uid": "_ds_components_snackbar",
+       "link_type": "Document",
+       "key": "c3e4fd68-0ffd-468e-9c6f-af33f185e6b9",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Switch",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "section_link": {
+       "id": "ZiEH1RAAAOcs3gB8",
+       "type": "design_system_content",
+       "tags": [
+        "ds"
+       ],
+       "lang": "en-eu",
+       "slug": "switch",
+       "first_publication_date": "2024-04-18T11:56:42+0000",
+       "last_publication_date": "2024-08-16T10:33:24+0000",
+       "uid": "_ds_components_switch",
+       "link_type": "Document",
+       "key": "40ef24b5-005a-45d3-857b-a0918fb59f7b",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Tag",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "Y5OelREAACAAQVVJ",
+       "type": "design_system_content",
+       "tags": [
+        "components"
+       ],
+       "lang": "en-eu",
+       "slug": "tag",
+       "first_publication_date": "2022-12-09T20:46:17+0000",
+       "last_publication_date": "2025-10-13T09:58:54+0000",
+       "uid": "_ds_components_tag",
+       "link_type": "Document",
+       "key": "64b91f4e-ccf8-49fc-9210-2c28a9354d54",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Tag group",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "section_link": {
+       "id": "ZgvQLxEAAHWRK5NY",
+       "type": "design_system_content",
+       "tags": [
+        "components"
+       ],
+       "lang": "en-eu",
+       "slug": "tag-group",
+       "first_publication_date": "2024-04-02T09:34:20+0000",
+       "last_publication_date": "2024-08-22T09:01:20+0000",
+       "uid": "_ds_components_tag-group",
+       "link_type": "Document",
+       "key": "5031ff60-d80c-4d7f-95d9-873f65c827a0",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Text area",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "Y5OfYREAACIAQVjg",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "text-area",
+       "first_publication_date": "2022-12-09T20:50:47+0000",
+       "last_publication_date": "2024-08-16T10:54:55+0000",
+       "uid": "_ds_components_text-area",
+       "link_type": "Document",
+       "key": "48360951-6340-4fe2-81ea-47d492373ee8",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Text input",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "ZEZa7xQAACcAsZmF",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "text-input",
+       "first_publication_date": "2023-04-24T10:34:09+0000",
+       "last_publication_date": "2024-08-16T10:55:46+0000",
+       "uid": "_ds_components_text-input",
+       "link_type": "Document",
+       "key": "03e7f26e-91c4-46a5-a484-71b05e1eb614",
+       "isBroken": false
+      },
+      "hidden": false
+     }
+    ],
+    "id": "menu_section$751aecda-1a9d-4563-baf8-f18b08251353",
+    "slice_type": "menu_section",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "section_title": [
+      {
+       "type": "heading5",
+       "text": "Modules",
+       "spans": []
+      }
+     ],
+     "section_title_link": {
+      "id": "ZBnQZBAAACAAgPI3",
+      "type": "design_system_content",
+      "tags": [
+       "ds",
+       "modules"
+      ],
+      "lang": "en-eu",
+      "slug": "modules",
+      "first_publication_date": "2023-03-21T15:42:37+0000",
+      "last_publication_date": "2025-08-20T12:50:34+0000",
+      "uid": "_ds_modules",
+      "link_type": "Document",
+      "key": "0cf2441e-6854-4639-a848-a78f4c1a1151",
+      "isBroken": false
+     },
+     "section": "modules"
+    },
+    "items": [
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Breadcrumbs",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "ZEZwxBQAACUAsgAc",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "breadcrumbs",
+       "first_publication_date": "2023-04-24T12:14:45+0000",
+       "last_publication_date": "2024-08-16T12:13:35+0000",
+       "uid": "_ds_modules_breadcrumbs",
+       "link_type": "Document",
+       "key": "6f6e1ab8-a882-4414-96bd-612ec520de0c",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Card",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "ZEZrDBQAACUAseQw",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "card",
+       "first_publication_date": "2023-04-24T11:43:08+0000",
+       "last_publication_date": "2025-08-20T08:49:31+0000",
+       "uid": "_ds_modules_card",
+       "link_type": "Document",
+       "key": "0a3ade6b-6324-42c3-8eec-9a73586d14e6",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Code preview",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "Y5N3nBEAACAAQKK3",
+       "type": "design_system_content",
+       "tags": [
+        "modules"
+       ],
+       "lang": "en-eu",
+       "slug": "code-preview",
+       "first_publication_date": "2022-12-09T18:00:30+0000",
+       "last_publication_date": "2024-08-20T07:33:00+0000",
+       "uid": "_ds_modules_code-preview",
+       "link_type": "Document",
+       "key": "3cdf6c7b-a59b-449a-82c7-baaec9713940",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Content box",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "Y8GXKhEAACMAeLAT",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "content-box",
+       "first_publication_date": "2023-01-13T17:40:43+0000",
+       "last_publication_date": "2025-06-16T18:07:49+0000",
+       "uid": "_ds_modules_content-box",
+       "link_type": "Document",
+       "key": "bcad96ac-fe8f-44cc-b910-cd215f309e36",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Date input",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "section_link": {
+       "id": "ZvLwDhAAACAAmXZN",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "date-input",
+       "first_publication_date": "2024-09-24T17:17:03+0000",
+       "last_publication_date": "2024-09-24T17:52:14+0000",
+       "uid": "_ds_modules_date-input",
+       "link_type": "Document",
+       "key": "c72a3616-75b8-4018-9108-b8844e3b884d",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Date picker",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "section_link": {
+       "id": "ZvLjTRAAACAAQIwV",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "date-picker",
+       "first_publication_date": "2024-09-24T16:28:47+0000",
+       "last_publication_date": "2024-09-24T17:58:27+0000",
+       "uid": "_ds_modules_date-picker",
+       "link_type": "Document",
+       "key": "24d4f921-1b0f-40e6-93ef-263e495983d9",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Directory block",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "section_link": {
+       "id": "aEaZWRUAAC8Asxkv",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "directory-block",
+       "first_publication_date": "2025-06-09T08:24:09+0000",
+       "last_publication_date": "2025-08-20T09:34:14+0000",
+       "uid": "_ds_modules_directory-block",
+       "link_type": "Document",
+       "key": "5dbb0b4f-7d14-4e0a-be3d-6f7ef6c751ee",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Image tile",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "ZaVUbBUAACYAhHYK",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "image-tile",
+       "first_publication_date": "2024-01-15T15:55:53+0000",
+       "last_publication_date": "2025-06-16T17:46:54+0000",
+       "uid": "_ds_modules_image-tile",
+       "link_type": "Document",
+       "key": "7a244bd3-d210-4ec1-9c61-de1ac1391ffc",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Info",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "section_link": {
+       "id": "Y5OUmhEAACMAQSfG",
+       "type": "design_system_content",
+       "tags": [
+        "components"
+       ],
+       "lang": "en-eu",
+       "slug": "info",
+       "first_publication_date": "2022-12-09T20:03:42+0000",
+       "last_publication_date": "2025-08-20T09:22:37+0000",
+       "uid": "_ds_modules_info",
+       "link_type": "Document",
+       "key": "ed9e64df-f9ac-4314-b776-c935748048af",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Info item",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "section_link": {
+       "id": "aKWMrBAAACgAJvK1",
+       "type": "design_system_content",
+       "tags": [
+        "components"
+       ],
+       "lang": "en-eu",
+       "slug": "info-item",
+       "first_publication_date": "2025-08-20T08:52:27+0000",
+       "last_publication_date": "2025-08-20T09:10:50+0000",
+       "uid": "_ds_modules_info-item",
+       "link_type": "Document",
+       "key": "1e1503cf-c1bb-4d9e-a680-60cdc5c76d55",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Liftup",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "Y8GkpBEAACUAeO30",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "liftup",
+       "first_publication_date": "2023-01-13T18:36:24+0000",
+       "last_publication_date": "2025-06-16T16:34:33+0000",
+       "uid": "_ds_modules_liftup",
+       "link_type": "Document",
+       "key": "e5644b4c-f2ad-4c59-8733-8c2620a33910",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Navigation accordion",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "ZEZrXxQAACQAseXC",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "navigation-accordion",
+       "first_publication_date": "2023-04-24T11:44:45+0000",
+       "last_publication_date": "2024-08-20T09:16:44+0000",
+       "uid": "_ds_modules_navigation-accordion",
+       "link_type": "Document",
+       "key": "2d340cb8-24fa-4a6b-b05d-c64f2d44abf9",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Pager",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "ZEZruxQAACQAsed6",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "pager",
+       "first_publication_date": "2023-04-24T11:45:53+0000",
+       "last_publication_date": "2024-08-16T12:29:25+0000",
+       "uid": "_ds_modules_pager",
+       "link_type": "Document",
+       "key": "6c42b4fb-2257-4a4f-a2cb-b6ca2e9c28b8",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Profile card",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "Y5OGDxEAACAAQOUE",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "profile-card",
+       "first_publication_date": "2022-12-09T19:01:41+0000",
+       "last_publication_date": "2025-03-05T20:08:09+0000",
+       "uid": "_ds_modules_profile-card",
+       "link_type": "Document",
+       "key": "929af501-6e04-4111-9ba9-ae0a9ecc828d",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Side navigation",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "ZEZx8BQAACYAsgYU",
+       "type": "design_system_content",
+       "tags": [
+        "modules"
+       ],
+       "lang": "en-eu",
+       "slug": "side-navigation",
+       "first_publication_date": "2023-04-24T12:11:55+0000",
+       "last_publication_date": "2025-10-13T10:25:55+0000",
+       "uid": "_ds_modules_side-navigation",
+       "link_type": "Document",
+       "key": "2f030949-d089-4cac-b2b7-96f6228e01cd",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Stepper",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "section_link": {
+       "id": "Zmly9BAAACAAkLkO",
+       "type": "design_system_content",
+       "tags": [
+        "modules"
+       ],
+       "lang": "en-eu",
+       "slug": "stepper",
+       "first_publication_date": "2024-06-12T10:06:49+0000",
+       "last_publication_date": "2024-08-16T12:31:52+0000",
+       "uid": "_ds_modules_stepper",
+       "link_type": "Document",
+       "key": "29bb70fe-39bb-4618-80ea-dcb6f1807d54",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Tabs block",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "Y43sfhEAACQAX_yq",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "tabs-block",
+       "first_publication_date": "2022-12-05T13:09:44+0000",
+       "last_publication_date": "2024-08-16T12:32:11+0000",
+       "uid": "_ds_modules_tabs-block",
+       "link_type": "Document",
+       "key": "ecd2f060-c311-4929-ad58-2f3ee83e7eab",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Text chapter block",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "Y8GiRBEAACMAeOLk",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "text-chapter-block",
+       "first_publication_date": "2023-01-13T18:26:37+0000",
+       "last_publication_date": "2024-08-16T12:32:53+0000",
+       "uid": "_ds_modules_text-chapter-block",
+       "link_type": "Document",
+       "key": "21e72dda-9020-4a97-aadd-1f28d7facb88",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Title block",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "section_link": {
+       "id": "ZmmKLRAAACMAkOD2",
+       "type": "design_system_content",
+       "tags": [
+        "modules"
+       ],
+       "lang": "en-eu",
+       "slug": "title-block",
+       "first_publication_date": "2024-06-12T11:51:16+0000",
+       "last_publication_date": "2024-08-16T12:33:17+0000",
+       "uid": "_ds_modules_title-block",
+       "link_type": "Document",
+       "key": "bc8300b3-3bca-41c4-865a-ea79ad73a8e0",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Video player",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "ZPHuyRIAACQAsJfG",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "video-player",
+       "first_publication_date": "2023-09-01T14:04:37+0000",
+       "last_publication_date": "2024-08-16T12:33:48+0000",
+       "uid": "_ds_modules_video-player",
+       "link_type": "Document",
+       "key": "853e4436-5b9d-43ec-9e44-ed9458a9b685",
+       "isBroken": false
+      },
+      "hidden": false
+     }
+    ],
+    "id": "menu_section$f0bfa93f-ae05-433a-a878-f04fc510d0c9",
+    "slice_type": "menu_section",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "section_title": [
+      {
+       "type": "heading5",
+       "text": "Sections",
+       "spans": []
+      }
+     ],
+     "section_title_link": {
+      "id": "ZEZpyhQAACcAsd4s",
+      "type": "design_system_content",
+      "tags": [
+       "ds",
+       "sections"
+      ],
+      "lang": "en-eu",
+      "slug": "sections",
+      "first_publication_date": "2023-04-24T11:39:26+0000",
+      "last_publication_date": "2025-06-10T07:17:36+0000",
+      "uid": "_ds_sections",
+      "link_type": "Document",
+      "key": "14cf5207-9a2c-4821-b29a-f33b1831aa66",
+      "isBroken": false
+     },
+     "section": "sections"
+    },
+    "items": [
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Accordion section",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "ZHXHERIAACUA4KkT",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "accordion-section",
+       "first_publication_date": "2023-05-30T09:53:20+0000",
+       "last_publication_date": "2024-08-20T06:02:52+0000",
+       "uid": "_ds_sections_accordion-section",
+       "link_type": "Document",
+       "key": "324948e3-f95f-4216-8d61-9318ed4a0888",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Alert",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "ZEZwkhQAACcAsf8i",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "alert",
+       "first_publication_date": "2023-04-24T12:14:45+0000",
+       "last_publication_date": "2024-08-19T07:03:54+0000",
+       "uid": "_ds_sections_alert",
+       "link_type": "Document",
+       "key": "e0f07777-1b52-461a-9a39-1de478bd26b6",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Anchor links",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "ZEZcRxQAACUAsZ_s",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "anchor-links",
+       "first_publication_date": "2023-04-24T11:27:26+0000",
+       "last_publication_date": "2024-08-19T07:04:32+0000",
+       "uid": "_ds_sections_anchor-links",
+       "link_type": "Document",
+       "key": "15fef668-e3e9-44cf-9d35-eb9ca66ddef1",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "CTA",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "ZEZw6hQAACUAsgD4",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "cta",
+       "first_publication_date": "2023-04-24T12:07:29+0000",
+       "last_publication_date": "2024-08-19T07:04:53+0000",
+       "uid": "_ds_sections_cta",
+       "link_type": "Document",
+       "key": "26ade5c2-c011-4b86-941d-ce45cd357719",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Card collection",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "ZEZxDRQAACUAsgG7",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "card-collection",
+       "first_publication_date": "2023-04-24T12:08:05+0000",
+       "last_publication_date": "2024-08-16T10:23:01+0000",
+       "uid": "_ds_sections_card-collection",
+       "link_type": "Document",
+       "key": "ef8f48b7-e88c-422b-bf57-b4badbe3f2a6",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Card strip",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "section_link": {
+       "id": "Z8jEURAAACEAcXCq",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "card-strip",
+       "first_publication_date": "2025-03-05T21:39:54+0000",
+       "last_publication_date": "2025-03-05T22:06:11+0000",
+       "uid": "_ds_sections_card-strip",
+       "link_type": "Document",
+       "key": "4aba9ab4-261e-4091-a39e-27639a3e1c21",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Code",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "ZICUxhUAACsAz6P1",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "code",
+       "first_publication_date": "2023-06-07T14:35:15+0000",
+       "last_publication_date": "2024-08-20T06:39:18+0000",
+       "uid": "_ds_sections_code",
+       "link_type": "Document",
+       "key": "98609d6b-f9f7-4ac6-a402-c57dec685d3a",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Component preview",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "ZEZxKRQAACcAsgJE",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "-",
+       "first_publication_date": "2023-04-24T12:08:41+0000",
+       "last_publication_date": "2024-04-02T09:01:31+0000",
+       "uid": "_ds_sections_component-preview",
+       "link_type": "Document",
+       "key": "657aab05-3c0a-4c3c-ad5f-45a7b52a71d0",
+       "isBroken": false
+      },
+      "hidden": true
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Content box collection",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "ZEZxVhQAACQAsgMq",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "content-box-collection",
+       "first_publication_date": "2023-04-24T12:09:21+0000",
+       "last_publication_date": "2024-08-19T07:10:19+0000",
+       "uid": "_ds_sections_content-box-collection",
+       "link_type": "Document",
+       "key": "9ea3d24d-ee30-46d2-9502-4ab4d6f08984",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Content box strip",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "section_link": {
+       "id": "Z8jIIBAAACEAcXba",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "content-box-strip",
+       "first_publication_date": "2025-03-05T21:55:16+0000",
+       "last_publication_date": "2025-03-05T22:04:41+0000",
+       "uid": "_ds_sections_content-box-strip",
+       "link_type": "Document",
+       "key": "cacd2679-5390-4233-bfd2-8ee49b822397",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Date picker modal",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "section_link": {
+       "id": "ZvL3dxAAACAAmYFY",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "date-picker-modal",
+       "first_publication_date": "2024-09-24T17:34:02+0000",
+       "last_publication_date": "2024-09-24T17:49:47+0000",
+       "uid": "_ds_sections_date-picker-modal",
+       "link_type": "Document",
+       "key": "4d8061bf-3de2-4191-9186-398021f50bd9",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Directory",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "section_link": {
+       "id": "aEafYBUAACkAsyIx",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "directory",
+       "first_publication_date": "2025-06-09T08:51:10+0000",
+       "last_publication_date": "2025-08-20T09:40:40+0000",
+       "uid": "_ds_sections_directory",
+       "link_type": "Document",
+       "key": "88a20c44-6f18-4cb8-a4c7-5df06ef4be77",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Footer",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "ZEZxdhQAACcAsgPO",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "footer",
+       "first_publication_date": "2023-04-24T12:09:50+0000",
+       "last_publication_date": "2024-08-19T07:12:05+0000",
+       "uid": "_ds_sections_footer",
+       "link_type": "Document",
+       "key": "437a064c-781e-408f-8e49-f643b5e93541",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Form",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "ZEZxlxQAACUAsgRm",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "form",
+       "first_publication_date": "2023-04-24T12:10:19+0000",
+       "last_publication_date": "2025-03-05T20:13:08+0000",
+       "uid": "_ds_sections_form",
+       "link_type": "Document",
+       "key": "fbe607f2-ed92-4a92-848c-5d7eaada0ebf",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Hero",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "ZEZxshQAACUAsgTl",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "hero",
+       "first_publication_date": "2023-04-24T12:10:49+0000",
+       "last_publication_date": "2024-08-19T07:13:11+0000",
+       "uid": "_ds_sections_hero",
+       "link_type": "Document",
+       "key": "31e57575-2388-4a3f-bd21-75fd4da417ed",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Highlight",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "ZRSPzRQAACsAsPrK",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "highlight",
+       "first_publication_date": "2023-09-27T20:26:28+0000",
+       "last_publication_date": "2025-03-05T20:19:02+0000",
+       "uid": "_ds_sections_highlight",
+       "link_type": "Document",
+       "key": "7011caea-c5fd-42ec-919e-ee5c7304d82d",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Image tile collection",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "ZaVVpRUAACgAhHiV",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "image-tile-collection",
+       "first_publication_date": "2024-01-15T15:59:31+0000",
+       "last_publication_date": "2024-08-19T07:14:28+0000",
+       "uid": "_ds_sections_image-tile-collection",
+       "link_type": "Document",
+       "key": "97493d70-87c2-403e-83f8-519c2e996ba5",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Image tile strip",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "section_link": {
+       "id": "Z8jJTRAAACAAcXiu",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "image-tile-strip",
+       "first_publication_date": "2025-03-05T22:00:15+0000",
+       "last_publication_date": "2025-03-05T22:03:07+0000",
+       "uid": "_ds_sections_image-tile-strip",
+       "link_type": "Document",
+       "key": "4e088868-8e72-441a-b612-38841ba325f3",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Liftup collection",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "ZEZx0RQAACcAsgV_",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "liftup-collection",
+       "first_publication_date": "2023-04-24T12:11:22+0000",
+       "last_publication_date": "2024-08-19T07:15:02+0000",
+       "uid": "_ds_sections_liftup-collection",
+       "link_type": "Document",
+       "key": "7daa71ea-9fc7-4df4-9789-0489d8a44051",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Logo wall",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "section_link": {
+       "id": "ZgvUgxEAACiSK6xM",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "logo-wall",
+       "first_publication_date": "2024-04-02T09:52:16+0000",
+       "last_publication_date": "2025-08-21T14:03:45+0000",
+       "uid": "_ds_sections_logo-wall",
+       "link_type": "Document",
+       "key": "e024e02f-5f70-4275-b567-61e100994001",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Mega links",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "section_link": {
+       "id": "ZgvTpREAAK6RK6c6",
+       "type": "design_system_content",
+       "tags": [
+        "sections"
+       ],
+       "lang": "en-eu",
+       "slug": "mega-links",
+       "first_publication_date": "2024-04-02T09:47:32+0000",
+       "last_publication_date": "2024-08-19T07:33:14+0000",
+       "uid": "_ds_sections_mega-links",
+       "link_type": "Document",
+       "key": "0725cded-923e-4b6d-af4d-c9a89efbea22",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Modal",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "section_link": {
+       "id": "ZhaG_RIAAHYn_Q8J",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "modal",
+       "first_publication_date": "2024-04-10T12:48:37+0000",
+       "last_publication_date": "2024-08-20T09:00:39+0000",
+       "uid": "_ds_sections_modal",
+       "link_type": "Document",
+       "key": "d8181a2b-dc42-41b9-991d-13e38148e779",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Profile card collection",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "ZaehQxAAACEAua5G",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "profile-card-collection",
+       "first_publication_date": "2024-01-17T09:46:41+0000",
+       "last_publication_date": "2024-08-19T11:01:59+0000",
+       "uid": "_ds_sections_profile-card-collection",
+       "link_type": "Document",
+       "key": "859a298d-4c0d-40c1-933c-4e8656c85ba2",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Quick links",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "ZQ3IMRAAACkAQ1NT",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "quick-links",
+       "first_publication_date": "2023-09-22T17:02:18+0000",
+       "last_publication_date": "2024-08-19T11:03:18+0000",
+       "uid": "_ds_sections_quicklinks",
+       "link_type": "Document",
+       "key": "e6310bd4-6da2-45e1-b213-e8bcc3218c26",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Stepper section",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "section_link": {
+       "id": "Zml-IxAAACAAkM2i",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "stepper-section",
+       "first_publication_date": "2024-06-12T10:56:20+0000",
+       "last_publication_date": "2024-08-19T11:04:42+0000",
+       "uid": "_ds_sections_stepper-section",
+       "link_type": "Document",
+       "key": "42c931c7-a695-42b2-9ee4-d0719373871d",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Table",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "Y5OdqxEAACAAQVEk",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "table",
+       "first_publication_date": "2022-12-09T20:42:23+0000",
+       "last_publication_date": "2024-08-19T11:05:26+0000",
+       "uid": "_ds_sections_table",
+       "link_type": "Document",
+       "key": "82738ed6-04eb-4b88-a53c-73f45f493e5d",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Tabs",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "ZEZyEBQAACQAsgav",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "tabs",
+       "first_publication_date": "2023-04-24T12:12:42+0000",
+       "last_publication_date": "2024-08-19T11:09:48+0000",
+       "uid": "_ds_sections_tabs",
+       "link_type": "Document",
+       "key": "edfecdc6-25c6-459c-a55f-23f010a07b0a",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Text and image",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "ZRSPIBQAACwAsPmr",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "text-and-image",
+       "first_publication_date": "2023-09-27T20:24:15+0000",
+       "last_publication_date": "2024-08-19T11:10:43+0000",
+       "uid": "_ds_sections_text-and-image",
+       "link_type": "Document",
+       "key": "f2b2129e-cc7e-4747-ab78-fae01a03d6d9",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Text chapter",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "ZEZyQxQAACQAsger",
+       "type": "design_system_content",
+       "tags": [
+        "sections"
+       ],
+       "lang": "en-eu",
+       "slug": "text-chapter",
+       "first_publication_date": "2023-04-24T12:13:11+0000",
+       "last_publication_date": "2025-03-05T20:21:57+0000",
+       "uid": "_ds_sections_text-chapter",
+       "link_type": "Document",
+       "key": "6c6129c0-08b0-4ffc-885c-fbffc2df2c99",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Title",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "ZEZyXhQAACQAsgg8",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "title",
+       "first_publication_date": "2023-04-24T12:13:40+0000",
+       "last_publication_date": "2024-08-19T11:12:04+0000",
+       "uid": "_ds_sections_title",
+       "link_type": "Document",
+       "key": "807af3b2-f835-4e3b-b4c2-0cce80cd7042",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Top navigation",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "ZEZyehQAACYAsgjA",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "top-navigation",
+       "first_publication_date": "2023-04-24T12:14:18+0000",
+       "last_publication_date": "2024-08-19T11:12:49+0000",
+       "uid": "_ds_sections_top-navigation",
+       "link_type": "Document",
+       "key": "36b1843a-cd8f-48da-8a08-3dd007341406",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Video section",
+        "spans": []
+       }
+      ],
+      "section_link": {
+       "id": "ZRVdrBQAACwAskkX",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "video-section",
+       "first_publication_date": "2023-09-28T11:05:42+0000",
+       "last_publication_date": "2024-08-19T11:13:53+0000",
+       "uid": "_ds_sections_video-section",
+       "link_type": "Document",
+       "key": "3d1cb4ef-0a9b-4904-9472-0e5516a7e91d",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Custom section",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "section_link": {
+       "id": "aCH29RAAAB4AZf8K",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "custom-section",
+       "first_publication_date": "2025-05-12T13:29:46+0000",
+       "last_publication_date": "2025-05-12T13:34:20+0000",
+       "uid": "_ds_sections_custom-section",
+       "link_type": "Document",
+       "key": "7f643402-4dbc-4741-861f-b86839caaf2a",
+       "isBroken": false
+      },
+      "hidden": false
+     }
+    ],
+    "id": "menu_section$7643137d-71e8-4780-b84c-5b845459e7ae",
+    "slice_type": "menu_section",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "section_title": [
+      {
+       "type": "heading5",
+       "text": "Templates",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "section_title_link": {
+      "id": "aCIISBAAACEAZh4Q",
+      "type": "design_system_content",
+      "tags": [
+       "ds",
+       "sections"
+      ],
+      "lang": "en-eu",
+      "slug": "templates",
+      "first_publication_date": "2025-05-12T14:45:23+0000",
+      "last_publication_date": "2025-05-13T08:14:27+0000",
+      "uid": "_ds_templates",
+      "link_type": "Document",
+      "key": "14cf5207-9a2c-4821-b29a-f33b1831aa66",
+      "isBroken": false
+     },
+     "section": "sections"
+    },
+    "items": [
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Article",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "section_link": {
+       "id": "aCHU2hAAAB8AZcIo",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "article",
+       "first_publication_date": "2025-05-12T11:10:44+0000",
+       "last_publication_date": "2025-05-12T13:53:50+0000",
+       "uid": "_ds_templates_article",
+       "link_type": "Document",
+       "key": "324948e3-f95f-4216-8d61-9318ed4a0888",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Contact",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "section_link": {
+       "id": "aCIBhBAAACEAZhIN",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "contact",
+       "first_publication_date": "2025-05-12T14:15:37+0000",
+       "last_publication_date": "2025-05-12T14:17:20+0000",
+       "uid": "_ds_templates_contact",
+       "link_type": "Document",
+       "key": "e0f07777-1b52-461a-9a39-1de478bd26b6",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Event",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "section_link": {
+       "id": "aCIDERAAAB4AZhWF",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "event",
+       "first_publication_date": "2025-05-12T14:21:30+0000",
+       "last_publication_date": "2025-05-12T14:23:35+0000",
+       "uid": "_ds_templates_event",
+       "link_type": "Document",
+       "key": "15fef668-e3e9-44cf-9d35-eb9ca66ddef1",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Frontpage",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "section_link": {
+       "id": "aCIExBAAACAAZhhl",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "frontpage",
+       "first_publication_date": "2025-05-12T14:28:31+0000",
+       "last_publication_date": "2025-05-12T14:28:31+0000",
+       "uid": "_ds_templates_frontpage",
+       "link_type": "Document",
+       "key": "26ade5c2-c011-4b86-941d-ce45cd357719",
+       "isBroken": false
+      },
+      "hidden": false
+     },
+     {
+      "section_link_label": [
+       {
+        "type": "paragraph",
+        "text": "Hub",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "section_link": {
+       "id": "aCIF7xAAAB8AZhpM",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "hub",
+       "first_publication_date": "2025-05-12T14:35:18+0000",
+       "last_publication_date": "2025-05-13T07:23:38+0000",
+       "uid": "_ds_templates_hub",
+       "link_type": "Document",
+       "key": "ef8f48b7-e88c-422b-bf57-b4badbe3f2a6",
+       "isBroken": false
+      },
+      "hidden": false
+     }
+    ],
+    "id": "menu_section$b0554d97-e8ee-48a0-a221-b89d3c6ba34b",
+    "slice_type": "menu_section",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "section_title": [
+      {
+       "type": "heading5",
+       "text": "FAQ",
+       "spans": []
+      }
+     ],
+     "section_title_link": {
+      "id": "ZG2zmxAAACUAaV2A",
+      "type": "design_system_content",
+      "tags": [
+       "ds"
+      ],
+      "lang": "en-eu",
+      "slug": "frequently-asked-questions",
+      "first_publication_date": "2023-05-24T06:50:47+0000",
+      "last_publication_date": "2026-06-05T13:34:53+0000",
+      "uid": "_ds_faq",
+      "link_type": "Document",
+      "key": "48bcb348-fd1b-4b42-bed6-dd848795fec9",
+      "isBroken": false
+     },
+     "section": null
+    },
+    "items": [
+     {
+      "section_link_label": [],
+      "section_link": {
+       "link_type": "Any"
+      },
+      "hidden": false
+     }
+    ],
+    "id": "menu_section$714c58a5-79d9-46ac-969a-cd59759c1ff7",
+    "slice_type": "menu_section",
+    "slice_label": null
+   }
+  ]
+ }
+}

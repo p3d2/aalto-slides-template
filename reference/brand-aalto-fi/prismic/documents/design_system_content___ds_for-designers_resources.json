@@ -1,0 +1,521 @@
+{
+ "id": "Zlcz3REAACMAeGdQ",
+ "uid": "_ds_for-designers_resources",
+ "url": null,
+ "type": "design_system_content",
+ "href": "https://aalto-master-design-system.cdn.prismic.io/api/v2/documents/search?ref=ap6ZthEAACsAUnNI&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22Zlcz3REAACMAeGdQ%22%29+%5D%5D",
+ "tags": [
+  "ds"
+ ],
+ "first_publication_date": "2024-05-29T13:56:05+0000",
+ "last_publication_date": "2025-04-29T13:15:45+0000",
+ "slugs": [
+  "available-resources"
+ ],
+ "linked_documents": [],
+ "lang": "en-eu",
+ "alternate_languages": [],
+ "data": {
+  "feedback_form": {
+   "id": "ZNo2LhAAACYAsGnO",
+   "type": "form_configuration",
+   "tags": [],
+   "lang": "en-eu",
+   "slug": "feedback",
+   "first_publication_date": "2023-08-14T14:12:02+0000",
+   "last_publication_date": "2023-09-01T12:22:49+0000",
+   "uid": "feedback",
+   "link_type": "Document",
+   "key": "ed1fd27f-dbb2-40da-b5c3-1edc781f3351",
+   "isBroken": false
+  },
+  "body1": [
+   {
+    "primary": {
+     "title": [
+      {
+       "type": "heading1",
+       "text": "Available resources",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "ingress": [],
+     "body_text": [
+      {
+       "type": "paragraph",
+       "text": "",
+       "spans": []
+      }
+     ],
+     "cta_label": [],
+     "cta_link": {
+      "link_type": "Any"
+     },
+     "image": {
+      "img_size_xs": {},
+      "img_size_s": {},
+      "img_size_m": {},
+      "img_size_l": {},
+      "img_size_xl": {},
+      "img_size_xxl": {}
+     },
+     "video_file_link": {
+      "link_type": "Any"
+     },
+     "aside": {
+      "link_type": "Document"
+     },
+     "theme": "black"
+    },
+    "items": [
+     {}
+    ],
+    "id": "hero$5f436fd6-0cee-4fba-a8d3-39ad9dc71ad0",
+    "slice_type": "hero",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Figma design library",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$96d4b31f-e222-415a-a19f-023f86e28760",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Aalto Design system library consists of components, modules, sections, and design tokens that are required to build Aalto’s digital products. To start using Aalto Design system libraries in your Figma project, you will need access to the design system library project in Aalto’s Figma. To obtain access, kindly reach out to the Design system team.",
+       "spans": []
+      },
+      {
+       "type": "paragraph",
+       "text": "If you find that the current design is missing elements or is not usable with your platform, we encourage you to reach out to the Design system team to discuss the possibilities for expanding the shared libraries.",
+       "spans": []
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$4d185106-d8ef-4141-92ee-b117bbb2d4ae",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Using Figma design library",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "1. Access the design library: Open your Figma project and locate the design library file (.fig file) that contains the desired design components and styles.",
+       "spans": []
+      },
+      {
+       "type": "paragraph",
+       "text": "2. Add the design library: Go to the main menu and select \"File\" > \"Add Library to Figma.\" Choose the design library file from your local storage",
+       "spans": []
+      },
+      {
+       "type": "paragraph",
+       "text": "3. Enable the design library: Once added, enable the design library by selecting \"Plugins\" > \"Manage Libraries\" from the main menu. Enable the library by toggling the switch next to its name.",
+       "spans": []
+      },
+      {
+       "type": "paragraph",
+       "text": "4. With the design library enabled, you can start using its components in your Figma project. Access the components panel (or use the shortcut \"Cmd+/\") and browse through the library to find the desired components. Drag and drop components onto your canvas.",
+       "spans": []
+      },
+      {
+       "type": "paragraph",
+       "text": "5. The design library also includes predefined text styles, colour palettes, and other design elements. To apply styles from the library, select the desired text or shape, and choose the appropriate style from the styles panel or the right-click context menu.",
+       "spans": []
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$db13e5f6-33a1-4dff-a938-88826d4a32ce",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Fonts",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$b534fa9c-5372-4dd5-ada4-f47f481ad1d1",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Aalto Design system currently uses custom fonts that must be installed locally on the computer if the texts are edited in Figma. Aalto University’s primary typeface is Inter from Google Fonts.",
+       "spans": [],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "Download Inter",
+       "spans": [
+        {
+         "start": 0,
+         "end": 14,
+         "type": "hyperlink",
+         "data": {
+          "link_type": "Web",
+          "url": "https://rsms.me/inter/download/",
+          "target": "_blank"
+         }
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "More information about font usage can be found in Type.",
+       "spans": [
+        {
+         "start": 50,
+         "end": 54,
+         "type": "hyperlink",
+         "data": {
+          "id": "ZlcNVBEAACUAeB0m",
+          "type": "broken_type",
+          "tags": [],
+          "lang": null,
+          "slug": "-",
+          "first_publication_date": null,
+          "last_publication_date": null,
+          "link_type": "Document",
+          "isBroken": true
+         }
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$d30617fa-a840-4031-b77e-575707b80dd0",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Icons",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$b1f47012-5e2c-4179-83c8-3be4907b7efd",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Aalto uses an icon font that can be easily inserted and styled using font ligatures. You need to download the Aalto icon font to edit icon parameters like colors or sizing. Download the font and install it on your computer. Once the font is installed, you can insert icons into your design with the icon ligature names.",
+       "spans": [],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "Download aalto-icons font files",
+       "spans": [
+        {
+         "start": 0,
+         "end": 31,
+         "type": "hyperlink",
+         "data": {
+          "link_type": "Media",
+          "kind": "file",
+          "id": "aBDAvfIqRLdaBtNh",
+          "url": "https://aalto-master-design-system.cdn.prismic.io/aalto-master-design-system/aBDAvfIqRLdaBtNh_aalto-icons-v1.4.zip",
+          "name": "aalto-icons-v1.4.zip",
+          "size": "371085"
+         }
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$a8f0bbed-95d2-4eb1-a475-74e9133fae3a",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Using icons",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "1. Download the icon files using the link above\n2. Extract the .zip archive on your local computer (typically just double click it)\n3. In the folder, locate the font file /fonts/aalto-icons.ttf\n4. Install the font into your local computer\n5. Close Figma and restart\n6. Select aalto-icons from the fonts list in the Text panel\n7. Add an icon by typing the corresponding ligature name, for example icon-quotation-marks",
+       "spans": [
+        {
+         "start": 171,
+         "end": 193,
+         "type": "strong"
+        },
+        {
+         "start": 276,
+         "end": 287,
+         "type": "strong"
+        },
+        {
+         "start": 396,
+         "end": 416,
+         "type": "em"
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$126a12c5-bb6d-4bd3-bf4c-dfab09a71202",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   }
+  ]
+ }
+}

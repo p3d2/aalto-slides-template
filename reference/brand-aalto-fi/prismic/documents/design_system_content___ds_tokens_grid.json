@@ -1,0 +1,1279 @@
+{
+ "id": "ZCVuaBAAACEAxOj6",
+ "uid": "_ds_tokens_grid",
+ "url": null,
+ "type": "design_system_content",
+ "href": "https://aalto-master-design-system.cdn.prismic.io/api/v2/documents/search?ref=ap6ZthEAACsAUnNI&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZCVuaBAAACEAxOj6%22%29+%5D%5D",
+ "tags": [
+  "tokens"
+ ],
+ "first_publication_date": "2023-03-30T11:17:25+0000",
+ "last_publication_date": "2025-03-10T15:24:40+0000",
+ "slugs": [
+  "grids--spacing"
+ ],
+ "linked_documents": [],
+ "lang": "en-eu",
+ "alternate_languages": [],
+ "data": {
+  "feedback_form": {
+   "link_type": "Document"
+  },
+  "body1": [
+   {
+    "primary": {
+     "title": [
+      {
+       "type": "heading1",
+       "text": "Grids & spacing",
+       "spans": []
+      }
+     ],
+     "ingress": [],
+     "body_text": [
+      {
+       "type": "paragraph",
+       "text": "",
+       "spans": []
+      }
+     ],
+     "cta_label": [],
+     "cta_link": {
+      "link_type": "Any"
+     },
+     "image": {
+      "img_size_xs": {},
+      "img_size_s": {},
+      "img_size_m": {},
+      "img_size_l": {},
+      "img_size_xl": {},
+      "img_size_xxl": {}
+     },
+     "video_file_link": {
+      "link_type": "Any"
+     },
+     "aside": {
+      "link_type": "Document"
+     },
+     "theme": "black"
+    },
+    "items": [
+     {}
+    ],
+    "id": "hero$a844d7a2-b8c3-4cd5-b6c5-72f97bab5ae0",
+    "slice_type": "hero",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Organising visual content in a grid is essential to establishing a sense of structure and organisation for any layout. While the final decisions always remain in the hands of the designer, the Aalto design system provides an array of tools and assets that make it easy to create consistent, responsive layouts for any digital medium. In addition to enhancing the aesthetic quality of your design, adhering to set layout rules helps ensure compliance with accessibility standards and fundamental principles of good user interface design.",
+       "spans": []
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$d0d87985-6f10-4272-adeb-ea60e8d70928",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "title": [
+      {
+       "type": "heading2",
+       "text": "Dimensions",
+       "spans": []
+      }
+     ],
+     "ingress_title": [],
+     "body": [
+      {
+       "type": "paragraph",
+       "text": "The foundation of the Aalto design system grid is the 1 rem / 16 px unit. Ideally, most content should be arranged using a 1rem x 1rem grid, including visual item sizes and negative space. However, in some instances, smaller distances may be necessary and the Aalto design system thus provides a set of tokens to accommodate those needs as well.",
+       "spans": []
+      }
+     ],
+     "tier": "base",
+     "group": "dimension",
+     "variable_map": null,
+     "typography_placeholder": [],
+     "item_prefix": [
+      {
+       "type": "paragraph",
+       "text": "Dimension",
+       "spans": []
+      }
+     ],
+     "extension": [],
+     "subtitle": [],
+     "attribute_labels": [],
+     "tinted": false,
+     "hidden": false
+    },
+    "items": [],
+    "id": "tokens_section$d0220253-29f3-4f95-a92b-b1d1d9184ec7",
+    "slice_type": "tokens_section",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "title": [
+      {
+       "type": "heading2",
+       "text": "Breakpoints",
+       "spans": []
+      }
+     ],
+     "ingress_title": [],
+     "body": [
+      {
+       "type": "paragraph",
+       "text": "Breakpoints enable the adaptation of digital content display in response to a user's device viewport size, allowing for adjustments for example in layout, typography, or the visibility of individual visual elements. The Breakpoint design tokens in the Aalto design system offer an efficient means of delivering responsive design across diverse screen sizes and device types.",
+       "spans": []
+      }
+     ],
+     "tier": "base",
+     "group": "screen",
+     "variable_map": null,
+     "typography_placeholder": [],
+     "item_prefix": [],
+     "extension": [],
+     "subtitle": [],
+     "attribute_labels": [
+      {
+       "type": "paragraph",
+       "text": "Min",
+       "spans": []
+      }
+     ],
+     "tinted": false,
+     "hidden": false
+    },
+    "items": [
+     {
+      "token_image": {
+       "dimensions": {
+        "width": 2240,
+        "height": 1260
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/Z8sDbBsAHJWomO5__c01Tokens-Breakpoints-Phoneportrait.png?auto=format,compress",
+       "id": "Z8sDbBsAHJWomO5_",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       }
+      },
+      "token_image_id": "phone-portrait"
+     },
+     {
+      "token_image": {
+       "dimensions": {
+        "width": 2240,
+        "height": 1260
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/Z8sDaxsAHJWomO5-_c01Tokens-Breakpoints-PhoneLandscape.png?auto=format,compress",
+       "id": "Z8sDaxsAHJWomO5-",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       }
+      },
+      "token_image_id": "phone-landscape"
+     },
+     {
+      "token_image": {
+       "dimensions": {
+        "width": 2240,
+        "height": 1260
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/Z8sDbRsAHJWomO6A_c01Tokens-Breakpoints-Tablet.png?auto=format,compress",
+       "id": "Z8sDbRsAHJWomO6A",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       }
+      },
+      "token_image_id": "tablet"
+     },
+     {
+      "token_image": {
+       "dimensions": {
+        "width": 2240,
+        "height": 1260
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/Z8sDahsAHJWomO59_c01Tokens-Breakpoints-Desktop.png?auto=format,compress",
+       "id": "Z8sDahsAHJWomO59",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       }
+      },
+      "token_image_id": "desktop"
+     },
+     {
+      "token_image": {
+       "dimensions": {
+        "width": 2240,
+        "height": 1260
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/Z8sDbhsAHJWomO6B_c01Tokens-Breakpoints-XL.png?auto=format,compress",
+       "id": "Z8sDbhsAHJWomO6B",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       }
+      },
+      "token_image_id": "xl"
+     }
+    ],
+    "id": "tokens_section$b5602e86-3c6f-4ac5-bc71-4a723aac2570",
+    "slice_type": "tokens_section",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "title": [
+      {
+       "type": "heading2",
+       "text": "Layout grid",
+       "spans": []
+      }
+     ],
+     "ingress_title": [],
+     "body": [
+      {
+       "type": "paragraph",
+       "text": "The Aalto design system uses a 12-column layout grid to help structure and organise content in a responsive way across various screen sizes. From tablets and up, all breakpoints follow this standard grid. On smaller mobile phone screens, a 2-column layout is utilized instead.",
+       "spans": []
+      },
+      {
+       "type": "paragraph",
+       "text": "While it's possible for designers to place elements outside of the grid columns, it is recommended to align content in relation to the columns for consistency and harmony between different content modules.",
+       "spans": []
+      }
+     ],
+     "tier": "semantic",
+     "group": "dimension",
+     "variable_map": null,
+     "typography_placeholder": [],
+     "item_prefix": [],
+     "extension": [],
+     "subtitle": [],
+     "attribute_labels": [],
+     "tinted": false,
+     "hidden": false
+    },
+    "items": [
+     {
+      "token_image": {
+       "dimensions": {
+        "width": 2240,
+        "height": 1260
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/Z8sDcBsAHJWomO6E_c01Tokens-Grid-Phoneportrait.png?auto=format,compress",
+       "id": "Z8sDcBsAHJWomO6E",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       }
+      },
+      "token_image_id": "phone-portrait"
+     },
+     {
+      "token_image": {
+       "dimensions": {
+        "width": 1536,
+        "height": 872
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/f0d36db4-2520-4a40-a3ec-48c3067b615a_Tokens+-+Grid+-+Tablet.png?auto=compress,format",
+       "id": "ZEfJrBQAACUAuBcV",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       }
+      },
+      "token_image_id": "tablet"
+     },
+     {
+      "token_image": {
+       "dimensions": {
+        "width": 1536,
+        "height": 872
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/05964abe-c316-4c85-8e31-b1f823ffc4c7_Tokens+-+Grid+-+Desktop.png?auto=compress,format",
+       "id": "ZEfJrBQAACcAuBcU",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       }
+      },
+      "token_image_id": "desktop"
+     }
+    ],
+    "id": "tokens_section$757cc1be-bd00-435d-a8a2-3fce7b9ad064",
+    "slice_type": "tokens_section",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "LiftupCollection",
+     "tiles_per_row": "3",
+     "default_cta_label": [],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": false,
+     "hidden": false,
+     "skim": "none"
+    },
+    "items": [
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/Z8sDcBsAHJWomO6E_c01Tokens-Grid-Phoneportrait.png?auto=format,compress&rect=0,0,2240,1260&w=640&h=360",
+       "id": "Z8sDcBsAHJWomO6E",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDcBsAHJWomO6E_c01Tokens-Grid-Phoneportrait.png?auto=format,compress&rect=0,0,2239,1260&w=750&h=422",
+        "id": "Z8sDcBsAHJWomO6E",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDcBsAHJWomO6E_c01Tokens-Grid-Phoneportrait.png?auto=format,compress&rect=1,0,2239,1260&w=828&h=466",
+        "id": "Z8sDcBsAHJWomO6E",
+        "edit": {
+         "x": 1,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDcBsAHJWomO6E_c01Tokens-Grid-Phoneportrait.png?auto=format,compress&rect=1,0,2238,1260&w=1080&h=608",
+        "id": "Z8sDcBsAHJWomO6E",
+        "edit": {
+         "x": 1,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDcBsAHJWomO6E_c01Tokens-Grid-Phoneportrait.png?auto=format,compress&rect=0,0,2240,1260&w=1200&h=675",
+        "id": "Z8sDcBsAHJWomO6E",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDcBsAHJWomO6E_c01Tokens-Grid-Phoneportrait.png?auto=format,compress&rect=0,0,2240,1260&w=1600&h=900",
+        "id": "Z8sDcBsAHJWomO6E",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDcBsAHJWomO6E_c01Tokens-Grid-Phoneportrait.png?auto=format,compress&rect=0,0,2240,1260&w=1920&h=1080",
+        "id": "Z8sDcBsAHJWomO6E",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/Z88AWhsAHJWomSdC_c01Tokens-Grid-PhoneLandscape.png?auto=format,compress&rect=0,0,2240,1260&w=640&h=360",
+       "id": "Z88AWhsAHJWomSdC",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88AWhsAHJWomSdC_c01Tokens-Grid-PhoneLandscape.png?auto=format,compress&rect=0,0,2239,1260&w=750&h=422",
+        "id": "Z88AWhsAHJWomSdC",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88AWhsAHJWomSdC_c01Tokens-Grid-PhoneLandscape.png?auto=format,compress&rect=1,0,2239,1260&w=828&h=466",
+        "id": "Z88AWhsAHJWomSdC",
+        "edit": {
+         "x": 1,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88AWhsAHJWomSdC_c01Tokens-Grid-PhoneLandscape.png?auto=format,compress&rect=1,0,2238,1260&w=1080&h=608",
+        "id": "Z88AWhsAHJWomSdC",
+        "edit": {
+         "x": 1,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88AWhsAHJWomSdC_c01Tokens-Grid-PhoneLandscape.png?auto=format,compress&rect=0,0,2240,1260&w=1200&h=675",
+        "id": "Z88AWhsAHJWomSdC",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88AWhsAHJWomSdC_c01Tokens-Grid-PhoneLandscape.png?auto=format,compress&rect=0,0,2240,1260&w=1600&h=900",
+        "id": "Z88AWhsAHJWomSdC",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88AWhsAHJWomSdC_c01Tokens-Grid-PhoneLandscape.png?auto=format,compress&rect=0,0,2240,1260&w=1920&h=1080",
+        "id": "Z88AWhsAHJWomSdC",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/Z8sDcRsAHJWomO6F_c01Tokens-Grid-Tablet.png?auto=format,compress&rect=0,6,2240,1260&w=640&h=360",
+       "id": "Z8sDcRsAHJWomO6F",
+       "edit": {
+        "x": 0,
+        "y": 6,
+        "zoom": 1,
+        "background": "transparent"
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDcRsAHJWomO6F_c01Tokens-Grid-Tablet.png?auto=format,compress&rect=0,6,2240,1260&w=750&h=422",
+        "id": "Z8sDcRsAHJWomO6F",
+        "edit": {
+         "x": 0,
+         "y": 6,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDcRsAHJWomO6F_c01Tokens-Grid-Tablet.png?auto=format,compress&rect=0,6,2240,1261&w=828&h=466",
+        "id": "Z8sDcRsAHJWomO6F",
+        "edit": {
+         "x": 0,
+         "y": 6,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDcRsAHJWomO6F_c01Tokens-Grid-Tablet.png?auto=format,compress&rect=0,5,2240,1261&w=1080&h=608",
+        "id": "Z8sDcRsAHJWomO6F",
+        "edit": {
+         "x": 0,
+         "y": 5,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDcRsAHJWomO6F_c01Tokens-Grid-Tablet.png?auto=format,compress&rect=0,6,2240,1260&w=1200&h=675",
+        "id": "Z8sDcRsAHJWomO6F",
+        "edit": {
+         "x": 0,
+         "y": 6,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDcRsAHJWomO6F_c01Tokens-Grid-Tablet.png?auto=format,compress&rect=0,6,2240,1260&w=1600&h=900",
+        "id": "Z8sDcRsAHJWomO6F",
+        "edit": {
+         "x": 0,
+         "y": 6,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDcRsAHJWomO6F_c01Tokens-Grid-Tablet.png?auto=format,compress&rect=0,6,2240,1260&w=1920&h=1080",
+        "id": "Z8sDcRsAHJWomO6F",
+        "edit": {
+         "x": 0,
+         "y": 6,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/Z8sDbxsAHJWomO6C_c01Tokens-Grid-Desktop.png?auto=format,compress&rect=0,6,2240,1260&w=640&h=360",
+       "id": "Z8sDbxsAHJWomO6C",
+       "edit": {
+        "x": 0,
+        "y": 6,
+        "zoom": 1,
+        "background": "transparent"
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDbxsAHJWomO6C_c01Tokens-Grid-Desktop.png?auto=format,compress&rect=0,6,2240,1260&w=750&h=422",
+        "id": "Z8sDbxsAHJWomO6C",
+        "edit": {
+         "x": 0,
+         "y": 6,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDbxsAHJWomO6C_c01Tokens-Grid-Desktop.png?auto=format,compress&rect=0,6,2240,1261&w=828&h=466",
+        "id": "Z8sDbxsAHJWomO6C",
+        "edit": {
+         "x": 0,
+         "y": 6,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDbxsAHJWomO6C_c01Tokens-Grid-Desktop.png?auto=format,compress&rect=0,5,2240,1261&w=1080&h=608",
+        "id": "Z8sDbxsAHJWomO6C",
+        "edit": {
+         "x": 0,
+         "y": 5,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDbxsAHJWomO6C_c01Tokens-Grid-Desktop.png?auto=format,compress&rect=0,6,2240,1260&w=1200&h=675",
+        "id": "Z8sDbxsAHJWomO6C",
+        "edit": {
+         "x": 0,
+         "y": 6,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDbxsAHJWomO6C_c01Tokens-Grid-Desktop.png?auto=format,compress&rect=0,6,2240,1260&w=1600&h=900",
+        "id": "Z8sDbxsAHJWomO6C",
+        "edit": {
+         "x": 0,
+         "y": 6,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDbxsAHJWomO6C_c01Tokens-Grid-Desktop.png?auto=format,compress&rect=0,6,2240,1260&w=1920&h=1080",
+        "id": "Z8sDbxsAHJWomO6C",
+        "edit": {
+         "x": 0,
+         "y": 6,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/Z8sDchsAHJWomO6G_c01Tokens-Grid-XL.png?auto=format,compress&rect=0,6,2240,1260&w=640&h=360",
+       "id": "Z8sDchsAHJWomO6G",
+       "edit": {
+        "x": 0,
+        "y": 6,
+        "zoom": 1,
+        "background": "transparent"
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDchsAHJWomO6G_c01Tokens-Grid-XL.png?auto=format,compress&rect=0,6,2240,1260&w=750&h=422",
+        "id": "Z8sDchsAHJWomO6G",
+        "edit": {
+         "x": 0,
+         "y": 6,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDchsAHJWomO6G_c01Tokens-Grid-XL.png?auto=format,compress&rect=0,6,2240,1261&w=828&h=466",
+        "id": "Z8sDchsAHJWomO6G",
+        "edit": {
+         "x": 0,
+         "y": 6,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDchsAHJWomO6G_c01Tokens-Grid-XL.png?auto=format,compress&rect=0,5,2240,1261&w=1080&h=608",
+        "id": "Z8sDchsAHJWomO6G",
+        "edit": {
+         "x": 0,
+         "y": 5,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDchsAHJWomO6G_c01Tokens-Grid-XL.png?auto=format,compress&rect=0,6,2240,1260&w=1200&h=675",
+        "id": "Z8sDchsAHJWomO6G",
+        "edit": {
+         "x": 0,
+         "y": 6,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDchsAHJWomO6G_c01Tokens-Grid-XL.png?auto=format,compress&rect=0,6,2240,1260&w=1600&h=900",
+        "id": "Z8sDchsAHJWomO6G",
+        "edit": {
+         "x": 0,
+         "y": 6,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDchsAHJWomO6G_c01Tokens-Grid-XL.png?auto=format,compress&rect=0,6,2240,1260&w=1920&h=1080",
+        "id": "Z8sDchsAHJWomO6G",
+        "edit": {
+         "x": 0,
+         "y": 6,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$6bacea3c-bc5d-49e5-a6f3-380a1b672590",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "title": [
+      {
+       "type": "heading2",
+       "text": "Aspect ratio",
+       "spans": []
+      }
+     ],
+     "ingress_title": [],
+     "body": [
+      {
+       "type": "paragraph",
+       "text": "To maintain visual consistency, it's recommended to present visual content, such as photography, illustrations, or video, in one of the standard aspect ratios. This not only improves the overall coherence of the design but also ensures that the same content can be easily repurposed for use across different channels without having to adjust it individually for various platforms and devices.",
+       "spans": []
+      }
+     ],
+     "tier": "base",
+     "group": "aspect",
+     "variable_map": null,
+     "typography_placeholder": [],
+     "item_prefix": [],
+     "extension": [],
+     "subtitle": [],
+     "attribute_labels": [],
+     "tinted": false,
+     "hidden": false
+    },
+    "items": [
+     {
+      "token_image": {
+       "dimensions": {
+        "width": 2240,
+        "height": 1272
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/Z8sDZhsAHJWomO55_c01Tokens-Aspect-HD.png?auto=format,compress",
+       "id": "Z8sDZhsAHJWomO55",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       }
+      },
+      "token_image_id": "hd"
+     },
+     {
+      "token_image": {
+       "dimensions": {
+        "width": 2240,
+        "height": 1272
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/Z8sDaBsAHJWomO57_c01Tokens-Aspect-SD.png?auto=format,compress",
+       "id": "Z8sDaBsAHJWomO57",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       }
+      },
+      "token_image_id": "sd"
+     },
+     {
+      "token_image": {
+       "dimensions": {
+        "width": 2240,
+        "height": 1260
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/Z8sDaRsAHJWomO58_c01Tokens-Aspect-Square.png?auto=format,compress",
+       "id": "Z8sDaRsAHJWomO58",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       }
+      },
+      "token_image_id": "square"
+     },
+     {
+      "token_image": {
+       "dimensions": {
+        "width": 2240,
+        "height": 1272
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/Z8sDZBsAHJWomO52_c01Tokens-Aspect-Cinescope.png?auto=format,compress",
+       "id": "Z8sDZBsAHJWomO52",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       }
+      },
+      "token_image_id": "cinemascope"
+     },
+     {
+      "token_image": {
+       "dimensions": {
+        "width": 2240,
+        "height": 1272
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/Z8sDZRsAHJWomO54_c01Tokens-Aspect-HDPortrait.png?auto=format,compress",
+       "id": "Z8sDZRsAHJWomO54",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       }
+      },
+      "token_image_id": "hdPortrait"
+     },
+     {
+      "token_image": {
+       "dimensions": {
+        "width": 2240,
+        "height": 1272
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/Z8sDZxsAHJWomO56_c01Tokens-Aspect-SDPortrait.png?auto=format,compress",
+       "id": "Z8sDZxsAHJWomO56",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       }
+      },
+      "token_image_id": "sdPortrait"
+     },
+     {
+      "token_image": {
+       "dimensions": {
+        "width": 2240,
+        "height": 1272
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/Z8sDYxsAHJWomO51_c01Tokens-Aspect-CinescopePortrait.png?auto=format,compress",
+       "id": "Z8sDYxsAHJWomO51",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       }
+      },
+      "token_image_id": "cinemascopePortrait"
+     }
+    ],
+    "id": "tokens_section$9dbd0957-f37d-4f93-8a80-7ec2444c5acb",
+    "slice_type": "tokens_section",
+    "slice_label": null
+   }
+  ]
+ }
+}

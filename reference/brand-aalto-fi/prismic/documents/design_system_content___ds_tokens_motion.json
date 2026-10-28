@@ -1,0 +1,214 @@
+{
+ "id": "ZEGH5hQAACcAnGRJ",
+ "uid": "_ds_tokens_motion",
+ "url": null,
+ "type": "design_system_content",
+ "href": "https://aalto-master-design-system.cdn.prismic.io/api/v2/documents/search?ref=ap6ZthEAACsAUnNI&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZEGH5hQAACcAnGRJ%22%29+%5D%5D",
+ "tags": [
+  "tokens"
+ ],
+ "first_publication_date": "2023-04-20T18:48:07+0000",
+ "last_publication_date": "2024-06-26T10:03:12+0000",
+ "slugs": [
+  "motion"
+ ],
+ "linked_documents": [],
+ "lang": "en-eu",
+ "alternate_languages": [],
+ "data": {
+  "feedback_form": {
+   "link_type": "Document"
+  },
+  "body1": [
+   {
+    "primary": {
+     "title": [
+      {
+       "type": "heading1",
+       "text": "Motion",
+       "spans": []
+      }
+     ],
+     "ingress": [],
+     "body_text": [
+      {
+       "type": "paragraph",
+       "text": "",
+       "spans": []
+      }
+     ],
+     "cta_label": [],
+     "cta_link": {
+      "link_type": "Any"
+     },
+     "image": {
+      "img_size_xs": {},
+      "img_size_s": {},
+      "img_size_m": {},
+      "img_size_l": {},
+      "img_size_xl": {},
+      "img_size_xxl": {}
+     },
+     "video_file_link": {
+      "link_type": "Any"
+     },
+     "aside": {
+      "link_type": "Document"
+     },
+     "theme": "black"
+    },
+    "items": [
+     {}
+    ],
+    "id": "hero$a844d7a2-b8c3-4cd5-b6c5-72f97bab5ae0",
+    "slice_type": "hero",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Animated graphics, videos, and other dynamic elements are integral to the Aalto design language. User interfaces may also include animated transitions and micro-interactions. However, it is essential to use motion thoughtfully to prevent distracting the user's attention from the primary content.",
+       "spans": []
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": null,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$f4a4d665-9648-4581-bf22-cb674d9df703",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "title": [
+      {
+       "type": "heading2",
+       "text": "Transition",
+       "spans": []
+      }
+     ],
+     "ingress_title": [],
+     "body": [
+      {
+       "type": "paragraph",
+       "text": "Transition tokens should be used to define the duration of short animations like mouse-over effects. There is no one-size-fits-all solution, and designers should consider both the desired impact and the size of the movement when selecting the appropriate duration.",
+       "spans": []
+      }
+     ],
+     "tier": "base",
+     "group": "transition",
+     "variable_map": null,
+     "typography_placeholder": [],
+     "item_prefix": [],
+     "extension": [],
+     "subtitle": [],
+     "attribute_labels": [],
+     "tinted": false,
+     "hidden": false
+    },
+    "items": [],
+    "id": "tokens_section$5c63579f-e9ca-49cb-bce8-1b1033082d6b",
+    "slice_type": "tokens_section",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "title": [
+      {
+       "type": "heading2",
+       "text": "Easing",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "ingress_title": [
+      {
+       "type": "heading2",
+       "text": " ",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "body": [
+      {
+       "type": "paragraph",
+       "text": "Easing in animation refers to the way an animation progresses through its duration, affecting the motion's speed and acceleration. Instead of moving at a constant pace, easing functions create more natural and realistic movements by varying the rate of change.",
+       "spans": [],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "The Aalto design system defines the following easing tokens:\n- In: The animation starts slowly and accelerates towards the end. This is often used to simulate the way objects gain speed gradually.\n- Out: The animation starts quickly and decelerates towards the end, mimicking the way objects slow down before coming to a stop.\n- In Out: The animation starts slowly, speeds up in the middle, and then slows down again towards the end, providing a smooth and natural transition.",
+       "spans": [
+        {
+         "start": 61,
+         "end": 66,
+         "type": "strong"
+        },
+        {
+         "start": 197,
+         "end": 203,
+         "type": "strong"
+        },
+        {
+         "start": 327,
+         "end": 336,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "tier": "base",
+     "group": "easing",
+     "variable_map": null,
+     "typography_placeholder": [],
+     "item_prefix": [],
+     "extension": [],
+     "subtitle": [
+      {
+       "type": "paragraph",
+       "text": " ",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "attribute_labels": [],
+     "tinted": false,
+     "hidden": false
+    },
+    "items": [],
+    "id": "tokens_section$5db29354-b822-4e90-a717-42df969a7b8e",
+    "slice_type": "tokens_section",
+    "slice_label": null
+   }
+  ]
+ }
+}

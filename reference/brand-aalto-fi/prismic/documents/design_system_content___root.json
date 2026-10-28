@@ -1,0 +1,2624 @@
+{
+ "id": "ZBrF2xAAACEAgn47",
+ "uid": "_root",
+ "url": null,
+ "type": "design_system_content",
+ "href": "https://aalto-master-design-system.cdn.prismic.io/api/v2/documents/search?ref=ap6ZthEAACsAUnNI&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZBrF2xAAACEAgn47%22%29+%5D%5D",
+ "tags": [],
+ "first_publication_date": "2023-03-22T09:09:51+0000",
+ "last_publication_date": "2025-08-21T14:16:55+0000",
+ "slugs": [
+  "the-abcs-of-the-aalto-university-brand"
+ ],
+ "linked_documents": [],
+ "lang": "en-eu",
+ "alternate_languages": [
+  {
+   "id": "aRsTJBcAACgAhQR4",
+   "type": "design_system_content",
+   "lang": "fi",
+   "uid": "_root"
+  }
+ ],
+ "data": {
+  "feedback_form": {
+   "link_type": "Document"
+  },
+  "body1": [
+   {
+    "primary": {
+     "title": [
+      {
+       "type": "heading1",
+       "text": "The ABC's of the Aalto University brand",
+       "spans": []
+      }
+     ],
+     "ingress": [],
+     "body_text": [
+      {
+       "type": "paragraph",
+       "text": "Discover visual identity elements and guidelines to bring our brand to life. United by our passion for impact and positive change, we, a diverse community of engineers, artists, scientists, business leaders, and designers, collaborate to shape a sustainable future. Join us in tackling challenges deemed impossible through radical creativity and entrepreneurial thinking",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "cta_label": [
+      {
+       "type": "paragraph",
+       "text": "",
+       "spans": []
+      }
+     ],
+     "cta_link": {
+      "link_type": "Any"
+     },
+     "image": {
+      "dimensions": {
+       "width": 640,
+       "height": 640
+      },
+      "alt": "Two students sitting in front of A! sign",
+      "copyright": null,
+      "url": "https://images.prismic.io/aalto-master-design-system/1dc9ab36-ba2b-430e-994c-636d02197449_Aalto+DS+photoshoot+01.png?auto=compress,format&rect=0,0,6400,6400&w=640&h=640",
+      "id": "ZVy51xAAACgA7L14",
+      "edit": {
+       "x": 0,
+       "y": 0,
+       "zoom": 0.1,
+       "background": "transparent"
+      },
+      "img_size_xl": {
+       "dimensions": {
+        "width": 1600,
+        "height": 1600
+       },
+       "alt": "Two students sitting in front of Aalto sign",
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/1dc9ab36-ba2b-430e-994c-636d02197449_Aalto+DS+photoshoot+01.png?auto=compress,format&rect=0,0,6400,6400&w=1600&h=1600",
+       "id": "ZVy51xAAACgA7L14",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 0.25,
+        "background": "transparent"
+       }
+      },
+      "img_size_xxl": {
+       "dimensions": {
+        "width": 1920,
+        "height": 1920
+       },
+       "alt": "Two students sitting in front of Aalto sign",
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/1dc9ab36-ba2b-430e-994c-636d02197449_Aalto+DS+photoshoot+01.png?auto=compress,format&rect=0,0,6400,6400&w=1920&h=1920",
+       "id": "ZVy51xAAACgA7L14",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 0.3,
+        "background": "transparent"
+       }
+      },
+      "img_size_l": {
+       "dimensions": {
+        "width": 1200,
+        "height": 1200
+       },
+       "alt": "Two students sitting in front of Aalto sign",
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/1dc9ab36-ba2b-430e-994c-636d02197449_Aalto+DS+photoshoot+01.png?auto=compress,format&rect=0,0,6400,6400&w=1200&h=1200",
+       "id": "ZVy51xAAACgA7L14",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 0.1875,
+        "background": "transparent"
+       }
+      },
+      "img_size_s": {
+       "dimensions": {
+        "width": 828,
+        "height": 828
+       },
+       "alt": "Two students sitting in front of Aalto sign",
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/1dc9ab36-ba2b-430e-994c-636d02197449_Aalto+DS+photoshoot+01.png?auto=compress,format&rect=0,0,6400,6400&w=828&h=828",
+       "id": "ZVy51xAAACgA7L14",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 0.129375,
+        "background": "transparent"
+       }
+      },
+      "img_size_m": {
+       "dimensions": {
+        "width": 1080,
+        "height": 1080
+       },
+       "alt": "Two students sitting in front of Aalto sign",
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/1dc9ab36-ba2b-430e-994c-636d02197449_Aalto+DS+photoshoot+01.png?auto=compress,format&rect=0,0,6400,6400&w=1080&h=1080",
+       "id": "ZVy51xAAACgA7L14",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 0.16875,
+        "background": "transparent"
+       }
+      },
+      "img_size_xs": {
+       "dimensions": {
+        "width": 750,
+        "height": 750
+       },
+       "alt": "Two students sitting in front of Aalto sign",
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/1dc9ab36-ba2b-430e-994c-636d02197449_Aalto+DS+photoshoot+01.png?auto=compress,format&rect=0,0,6400,6400&w=750&h=750",
+       "id": "ZVy51xAAACgA7L14",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 0.1171875,
+        "background": "transparent"
+       }
+      }
+     },
+     "video_file_link": {
+      "link_type": "Any"
+     },
+     "aside": {
+      "link_type": "Document"
+     },
+     "theme": "black"
+    },
+    "items": [
+     {}
+    ],
+    "id": "hero$d0b32a5e-69db-4650-aab8-b34b8fe89a13",
+    "slice_type": "hero",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Aalto University brand",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$474cdf58-a139-4df5-b6e6-2406aade2d3f",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "What the Aalto University brand stands for, and how it behaves and sounds like.",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$78bedeb7-e432-4f28-a1ec-13cbc60766e9",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "CardCollection",
+     "tiles_per_row": "3",
+     "default_cta_label": [],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": false,
+     "hidden": false,
+     "skim": "top"
+    },
+    "items": [
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/Z88F3xsAHJWomShv_c01Home-Brand-Brand.png?auto=format,compress&rect=0,0,2240,1260&w=640&h=360",
+       "id": "Z88F3xsAHJWomShv",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88F3xsAHJWomShv_c01Home-Brand-Brand.png?auto=format,compress&rect=0,0,2239,1260&w=750&h=422",
+        "id": "Z88F3xsAHJWomShv",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88F3xsAHJWomShv_c01Home-Brand-Brand.png?auto=format,compress&rect=1,0,2239,1260&w=828&h=466",
+        "id": "Z88F3xsAHJWomShv",
+        "edit": {
+         "x": 1,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88F3xsAHJWomShv_c01Home-Brand-Brand.png?auto=format,compress&rect=1,0,2238,1260&w=1080&h=608",
+        "id": "Z88F3xsAHJWomShv",
+        "edit": {
+         "x": 1,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88F3xsAHJWomShv_c01Home-Brand-Brand.png?auto=format,compress&rect=0,0,2240,1260&w=1200&h=675",
+        "id": "Z88F3xsAHJWomShv",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88F3xsAHJWomShv_c01Home-Brand-Brand.png?auto=format,compress&rect=0,0,2240,1260&w=1600&h=900",
+        "id": "Z88F3xsAHJWomShv",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88F3xsAHJWomShv_c01Home-Brand-Brand.png?auto=format,compress&rect=0,0,2240,1260&w=1920&h=1080",
+        "id": "Z88F3xsAHJWomShv",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Brand",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "id": "ZlbS8REAACUAd72o",
+       "type": "design_system_content",
+       "tags": [
+        "identity"
+       ],
+       "lang": "en-eu",
+       "slug": "brand",
+       "first_publication_date": "2024-05-29T07:03:27+0000",
+       "last_publication_date": "2025-08-20T14:39:52+0000",
+       "uid": "_brand",
+       "link_type": "Document",
+       "key": "e7dff5e9-d1f2-4756-8b97-c47a99f892eb",
+       "isBroken": false
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/Z88F3xsAHJWomShw_c01Home-Brand-Toneofvoice.png?auto=format,compress&rect=0,0,2240,1260&w=640&h=360",
+       "id": "Z88F3xsAHJWomShw",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88F3xsAHJWomShw_c01Home-Brand-Toneofvoice.png?auto=format,compress&rect=0,0,2239,1260&w=750&h=422",
+        "id": "Z88F3xsAHJWomShw",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88F3xsAHJWomShw_c01Home-Brand-Toneofvoice.png?auto=format,compress&rect=1,0,2239,1260&w=828&h=466",
+        "id": "Z88F3xsAHJWomShw",
+        "edit": {
+         "x": 1,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88F3xsAHJWomShw_c01Home-Brand-Toneofvoice.png?auto=format,compress&rect=1,0,2238,1260&w=1080&h=608",
+        "id": "Z88F3xsAHJWomShw",
+        "edit": {
+         "x": 1,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88F3xsAHJWomShw_c01Home-Brand-Toneofvoice.png?auto=format,compress&rect=0,0,2240,1260&w=1200&h=675",
+        "id": "Z88F3xsAHJWomShw",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88F3xsAHJWomShw_c01Home-Brand-Toneofvoice.png?auto=format,compress&rect=0,0,2240,1260&w=1600&h=900",
+        "id": "Z88F3xsAHJWomShw",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88F3xsAHJWomShw_c01Home-Brand-Toneofvoice.png?auto=format,compress&rect=0,0,2240,1260&w=1920&h=1080",
+        "id": "Z88F3xsAHJWomShw",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Tone of voice",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "id": "Z__T_xAAAB8AzpSb",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "tone-of-voice",
+       "first_publication_date": "2025-04-16T16:16:45+0000",
+       "last_publication_date": "2025-06-03T08:20:21+0000",
+       "uid": "_brand_writing-guidelines_tone-of-voice",
+       "link_type": "Document",
+       "key": "1e88182a-6e2b-4b5e-b3c8-64421bf4cc50",
+       "isBroken": false
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/Z88F3hsAHJWomSht_c01Home-Brand-Brandarchitecture.png?auto=format,compress&rect=0,0,2240,1260&w=640&h=360",
+       "id": "Z88F3hsAHJWomSht",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88F3hsAHJWomSht_c01Home-Brand-Brandarchitecture.png?auto=format,compress&rect=0,0,2239,1260&w=750&h=422",
+        "id": "Z88F3hsAHJWomSht",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88F3hsAHJWomSht_c01Home-Brand-Brandarchitecture.png?auto=format,compress&rect=1,0,2239,1260&w=828&h=466",
+        "id": "Z88F3hsAHJWomSht",
+        "edit": {
+         "x": 1,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88F3hsAHJWomSht_c01Home-Brand-Brandarchitecture.png?auto=format,compress&rect=1,0,2238,1260&w=1080&h=608",
+        "id": "Z88F3hsAHJWomSht",
+        "edit": {
+         "x": 1,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88F3hsAHJWomSht_c01Home-Brand-Brandarchitecture.png?auto=format,compress&rect=0,0,2240,1260&w=1200&h=675",
+        "id": "Z88F3hsAHJWomSht",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88F3hsAHJWomSht_c01Home-Brand-Brandarchitecture.png?auto=format,compress&rect=0,0,2240,1260&w=1600&h=900",
+        "id": "Z88F3hsAHJWomSht",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88F3hsAHJWomSht_c01Home-Brand-Brandarchitecture.png?auto=format,compress&rect=0,0,2240,1260&w=1920&h=1080",
+        "id": "Z88F3hsAHJWomSht",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Brand architecture",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "id": "ZlbYGBEAACMAd8V9",
+       "type": "design_system_content",
+       "tags": [
+        "identity"
+       ],
+       "lang": "en-eu",
+       "slug": "brand-architecture",
+       "first_publication_date": "2024-05-29T07:24:25+0000",
+       "last_publication_date": "2025-08-21T09:19:40+0000",
+       "uid": "_brand_about_brand-architecture",
+       "link_type": "Document",
+       "key": "2a071ea5-da9a-46e1-abb5-30b42b14c1e5",
+       "isBroken": false
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$1ff8748f-5f77-4e58-905e-321498b38ba6",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Identity elements",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$a4e376e9-5fa2-4999-91a2-223caecf4d14",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Visual identity elements and guidelines to help you bring our brand to life.",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$93dbf293-8cbb-4e2c-8a38-5fd6b2d3c780",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "CardCollection",
+     "tiles_per_row": "3",
+     "default_cta_label": [
+      {
+       "type": "paragraph",
+       "text": "Learn more",
+       "spans": []
+      }
+     ],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": false,
+     "hidden": false,
+     "skim": "top"
+    },
+    "items": [
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/Z88GChsAHJWomSiG_c01Home-Identity-Logo.png?auto=format,compress&rect=0,0,2240,1260&w=640&h=360",
+       "id": "Z88GChsAHJWomSiG",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GChsAHJWomSiG_c01Home-Identity-Logo.png?auto=format,compress&rect=0,0,2239,1260&w=750&h=422",
+        "id": "Z88GChsAHJWomSiG",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GChsAHJWomSiG_c01Home-Identity-Logo.png?auto=format,compress&rect=1,0,2239,1260&w=828&h=466",
+        "id": "Z88GChsAHJWomSiG",
+        "edit": {
+         "x": 1,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GChsAHJWomSiG_c01Home-Identity-Logo.png?auto=format,compress&rect=1,0,2238,1260&w=1080&h=608",
+        "id": "Z88GChsAHJWomSiG",
+        "edit": {
+         "x": 1,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GChsAHJWomSiG_c01Home-Identity-Logo.png?auto=format,compress&rect=0,0,2240,1260&w=1200&h=675",
+        "id": "Z88GChsAHJWomSiG",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GChsAHJWomSiG_c01Home-Identity-Logo.png?auto=format,compress&rect=0,0,2240,1260&w=1600&h=900",
+        "id": "Z88GChsAHJWomSiG",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GChsAHJWomSiG_c01Home-Identity-Logo.png?auto=format,compress&rect=0,0,2240,1260&w=1920&h=1080",
+        "id": "Z88GChsAHJWomSiG",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Logo",
+        "spans": []
+       }
+      ],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [
+       {
+        "type": "paragraph",
+        "text": "Logo",
+        "spans": []
+       }
+      ],
+      "cta_link": {
+       "id": "Z__UvxAAAB8AzpWh",
+       "type": "design_system_content",
+       "tags": [
+        "identity"
+       ],
+       "lang": "en-eu",
+       "slug": "logo",
+       "first_publication_date": "2025-04-16T16:15:26+0000",
+       "last_publication_date": "2025-06-10T07:40:16+0000",
+       "uid": "_brand_visual-guidelines_logo",
+       "link_type": "Document",
+       "key": "4d5ee722-e6e2-4f80-ada0-479110485f0c",
+       "isBroken": false
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/Z88GBhsAHJWomSiB_c01Home-Identity-Colour.png?auto=format,compress&rect=0,0,2240,1260&w=640&h=360",
+       "id": "Z88GBhsAHJWomSiB",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GBhsAHJWomSiB_c01Home-Identity-Colour.png?auto=format,compress&rect=0,0,2239,1260&w=750&h=422",
+        "id": "Z88GBhsAHJWomSiB",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GBhsAHJWomSiB_c01Home-Identity-Colour.png?auto=format,compress&rect=1,0,2239,1260&w=828&h=466",
+        "id": "Z88GBhsAHJWomSiB",
+        "edit": {
+         "x": 1,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GBhsAHJWomSiB_c01Home-Identity-Colour.png?auto=format,compress&rect=1,0,2238,1260&w=1080&h=608",
+        "id": "Z88GBhsAHJWomSiB",
+        "edit": {
+         "x": 1,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GBhsAHJWomSiB_c01Home-Identity-Colour.png?auto=format,compress&rect=0,0,2240,1260&w=1200&h=675",
+        "id": "Z88GBhsAHJWomSiB",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GBhsAHJWomSiB_c01Home-Identity-Colour.png?auto=format,compress&rect=0,0,2240,1260&w=1600&h=900",
+        "id": "Z88GBhsAHJWomSiB",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GBhsAHJWomSiB_c01Home-Identity-Colour.png?auto=format,compress&rect=0,0,2240,1260&w=1920&h=1080",
+        "id": "Z88GBhsAHJWomSiB",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Colour palette",
+        "spans": []
+       }
+      ],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [
+       {
+        "type": "paragraph",
+        "text": "Colour palette",
+        "spans": []
+       }
+      ],
+      "cta_link": {
+       "id": "Z__VNhAAAB8AzpZa",
+       "type": "design_system_content",
+       "tags": [
+        "identity"
+       ],
+       "lang": "en-eu",
+       "slug": "colours",
+       "first_publication_date": "2025-04-16T16:15:16+0000",
+       "last_publication_date": "2025-11-03T10:31:54+0000",
+       "uid": "_brand_visual-guidelines_colours",
+       "link_type": "Document",
+       "key": "1465a525-7689-4966-9a1e-da65f4804913",
+       "isBroken": false
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/Z88GCxsAHJWomSiJ_c01Home-Identity-Typography.png?auto=format,compress&rect=0,0,2240,1260&w=640&h=360",
+       "id": "Z88GCxsAHJWomSiJ",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GCxsAHJWomSiJ_c01Home-Identity-Typography.png?auto=format,compress&rect=0,0,2239,1260&w=750&h=422",
+        "id": "Z88GCxsAHJWomSiJ",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GCxsAHJWomSiJ_c01Home-Identity-Typography.png?auto=format,compress&rect=1,0,2239,1260&w=828&h=466",
+        "id": "Z88GCxsAHJWomSiJ",
+        "edit": {
+         "x": 1,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GCxsAHJWomSiJ_c01Home-Identity-Typography.png?auto=format,compress&rect=1,0,2238,1260&w=1080&h=608",
+        "id": "Z88GCxsAHJWomSiJ",
+        "edit": {
+         "x": 1,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GCxsAHJWomSiJ_c01Home-Identity-Typography.png?auto=format,compress&rect=0,0,2240,1260&w=1200&h=675",
+        "id": "Z88GCxsAHJWomSiJ",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GCxsAHJWomSiJ_c01Home-Identity-Typography.png?auto=format,compress&rect=0,0,2240,1260&w=1600&h=900",
+        "id": "Z88GCxsAHJWomSiJ",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GCxsAHJWomSiJ_c01Home-Identity-Typography.png?auto=format,compress&rect=0,0,2240,1260&w=1920&h=1080",
+        "id": "Z88GCxsAHJWomSiJ",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Type",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [
+       {
+        "type": "paragraph",
+        "text": "Type",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "cta_link": {
+       "id": "Z__U6xAAAP0UzpXj",
+       "type": "design_system_content",
+       "tags": [
+        "identity"
+       ],
+       "lang": "en-eu",
+       "slug": "type",
+       "first_publication_date": "2025-04-16T16:20:45+0000",
+       "last_publication_date": "2025-11-03T10:29:08+0000",
+       "uid": "_brand_visual-guidelines_type",
+       "link_type": "Document",
+       "key": "26587856-c150-496a-adbe-5b183a19c64e",
+       "isBroken": false
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/Z88GChsAHJWomSiI_c01Home-Identity-Photography.png?auto=format,compress&rect=0,0,2240,1260&w=640&h=360",
+       "id": "Z88GChsAHJWomSiI",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GChsAHJWomSiI_c01Home-Identity-Photography.png?auto=format,compress&rect=0,0,2239,1260&w=750&h=422",
+        "id": "Z88GChsAHJWomSiI",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GChsAHJWomSiI_c01Home-Identity-Photography.png?auto=format,compress&rect=1,0,2239,1260&w=828&h=466",
+        "id": "Z88GChsAHJWomSiI",
+        "edit": {
+         "x": 1,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GChsAHJWomSiI_c01Home-Identity-Photography.png?auto=format,compress&rect=1,0,2238,1260&w=1080&h=608",
+        "id": "Z88GChsAHJWomSiI",
+        "edit": {
+         "x": 1,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GChsAHJWomSiI_c01Home-Identity-Photography.png?auto=format,compress&rect=0,0,2240,1260&w=1200&h=675",
+        "id": "Z88GChsAHJWomSiI",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GChsAHJWomSiI_c01Home-Identity-Photography.png?auto=format,compress&rect=0,0,2240,1260&w=1600&h=900",
+        "id": "Z88GChsAHJWomSiI",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GChsAHJWomSiI_c01Home-Identity-Photography.png?auto=format,compress&rect=0,0,2240,1260&w=1920&h=1080",
+        "id": "Z88GChsAHJWomSiI",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Images",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [
+       {
+        "type": "paragraph",
+        "text": "Images",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "cta_link": {
+       "id": "Z__ViRAAAP0UzpbX",
+       "type": "design_system_content",
+       "tags": [
+        "identity"
+       ],
+       "lang": "en-eu",
+       "slug": "images",
+       "first_publication_date": "2025-04-16T16:15:16+0000",
+       "last_publication_date": "2025-06-17T14:54:29+0000",
+       "uid": "_brand_visual-guidelines_images",
+       "link_type": "Document",
+       "key": "5615cbcc-7267-474a-8cb8-5212208207a9",
+       "isBroken": false
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/Z88GDBsAHJWomSiK_c01Home-Identity-Videos.png?auto=format,compress&rect=0,0,2240,1260&w=640&h=360",
+       "id": "Z88GDBsAHJWomSiK",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GDBsAHJWomSiK_c01Home-Identity-Videos.png?auto=format,compress&rect=0,0,2239,1260&w=750&h=422",
+        "id": "Z88GDBsAHJWomSiK",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GDBsAHJWomSiK_c01Home-Identity-Videos.png?auto=format,compress&rect=1,0,2239,1260&w=828&h=466",
+        "id": "Z88GDBsAHJWomSiK",
+        "edit": {
+         "x": 1,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GDBsAHJWomSiK_c01Home-Identity-Videos.png?auto=format,compress&rect=1,0,2238,1260&w=1080&h=608",
+        "id": "Z88GDBsAHJWomSiK",
+        "edit": {
+         "x": 1,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GDBsAHJWomSiK_c01Home-Identity-Videos.png?auto=format,compress&rect=0,0,2240,1260&w=1200&h=675",
+        "id": "Z88GDBsAHJWomSiK",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GDBsAHJWomSiK_c01Home-Identity-Videos.png?auto=format,compress&rect=0,0,2240,1260&w=1600&h=900",
+        "id": "Z88GDBsAHJWomSiK",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GDBsAHJWomSiK_c01Home-Identity-Videos.png?auto=format,compress&rect=0,0,2240,1260&w=1920&h=1080",
+        "id": "Z88GDBsAHJWomSiK",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Videos",
+        "spans": []
+       }
+      ],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [
+       {
+        "type": "paragraph",
+        "text": "Videos",
+        "spans": []
+       }
+      ],
+      "cta_link": {
+       "id": "Z__VsRAAAKHuzpcT",
+       "type": "design_system_content",
+       "tags": [
+        "identity"
+       ],
+       "lang": "en-eu",
+       "slug": "videos",
+       "first_publication_date": "2025-04-16T16:15:06+0000",
+       "last_publication_date": "2025-10-21T07:57:47+0000",
+       "uid": "_brand_visual-guidelines_videos",
+       "link_type": "Document",
+       "key": "47770650-ace9-407b-a7bd-caee227c94dd",
+       "isBroken": false
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$4a055280-5629-4de3-b2a9-8c143cd07d88",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Design system",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$b1e06147-8059-4f83-8cc0-8dc803e182cb",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Tools and guidelines to build digital touchpoints and experiences.",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$dcef8214-b078-4185-8419-7708b6a9cb4d",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "CardCollection",
+     "tiles_per_row": "3",
+     "default_cta_label": [],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": false,
+     "hidden": false,
+     "skim": "top"
+    },
+    "items": [
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/Z88GUxsAHJWomSif_c01Home-DS-Designsystem.png?auto=format,compress&rect=0,0,2240,1260&w=640&h=360",
+       "id": "Z88GUxsAHJWomSif",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GUxsAHJWomSif_c01Home-DS-Designsystem.png?auto=format,compress&rect=0,0,2239,1260&w=750&h=422",
+        "id": "Z88GUxsAHJWomSif",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GUxsAHJWomSif_c01Home-DS-Designsystem.png?auto=format,compress&rect=1,0,2239,1260&w=828&h=466",
+        "id": "Z88GUxsAHJWomSif",
+        "edit": {
+         "x": 1,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GUxsAHJWomSif_c01Home-DS-Designsystem.png?auto=format,compress&rect=1,0,2238,1260&w=1080&h=608",
+        "id": "Z88GUxsAHJWomSif",
+        "edit": {
+         "x": 1,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GUxsAHJWomSif_c01Home-DS-Designsystem.png?auto=format,compress&rect=0,0,2240,1260&w=1200&h=675",
+        "id": "Z88GUxsAHJWomSif",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GUxsAHJWomSif_c01Home-DS-Designsystem.png?auto=format,compress&rect=0,0,2240,1260&w=1600&h=900",
+        "id": "Z88GUxsAHJWomSif",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GUxsAHJWomSif_c01Home-DS-Designsystem.png?auto=format,compress&rect=0,0,2240,1260&w=1920&h=1080",
+        "id": "Z88GUxsAHJWomSif",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Design system",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "id": "ZBnOmRAAACIAgO7B",
+       "type": "design_system_content",
+       "tags": [
+        "ds"
+       ],
+       "lang": "en-eu",
+       "slug": "design-system",
+       "first_publication_date": "2023-03-21T15:34:56+0000",
+       "last_publication_date": "2026-05-12T10:12:31+0000",
+       "uid": "_ds",
+       "link_type": "Document",
+       "key": "ee489ee4-8e7e-46b1-ad93-be5be0b3f191",
+       "isBroken": false
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/Z88GVRsAHJWomSih_c01Home-DS-Fordevelopers.png?auto=format,compress&rect=0,0,2240,1260&w=640&h=360",
+       "id": "Z88GVRsAHJWomSih",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GVRsAHJWomSih_c01Home-DS-Fordevelopers.png?auto=format,compress&rect=0,0,2239,1260&w=750&h=422",
+        "id": "Z88GVRsAHJWomSih",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GVRsAHJWomSih_c01Home-DS-Fordevelopers.png?auto=format,compress&rect=1,0,2239,1260&w=828&h=466",
+        "id": "Z88GVRsAHJWomSih",
+        "edit": {
+         "x": 1,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GVRsAHJWomSih_c01Home-DS-Fordevelopers.png?auto=format,compress&rect=1,0,2238,1260&w=1080&h=608",
+        "id": "Z88GVRsAHJWomSih",
+        "edit": {
+         "x": 1,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GVRsAHJWomSih_c01Home-DS-Fordevelopers.png?auto=format,compress&rect=0,0,2240,1260&w=1200&h=675",
+        "id": "Z88GVRsAHJWomSih",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GVRsAHJWomSih_c01Home-DS-Fordevelopers.png?auto=format,compress&rect=0,0,2240,1260&w=1600&h=900",
+        "id": "Z88GVRsAHJWomSih",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GVRsAHJWomSih_c01Home-DS-Fordevelopers.png?auto=format,compress&rect=0,0,2240,1260&w=1920&h=1080",
+        "id": "Z88GVRsAHJWomSih",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "For developers",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "id": "ZGdcBxAAACAAevIP",
+       "type": "design_system_content",
+       "tags": [
+        "ds"
+       ],
+       "lang": "en-eu",
+       "slug": "for-developers",
+       "first_publication_date": "2023-05-19T11:23:12+0000",
+       "last_publication_date": "2024-05-29T14:34:34+0000",
+       "uid": "_ds_for-developers",
+       "link_type": "Document",
+       "key": "8807e3c8-4aa4-4fbe-8872-69d582540846",
+       "isBroken": false
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/Z88GVBsAHJWomSig_c01Home-DS-Fordesigners.png?auto=format,compress&rect=0,0,2240,1260&w=640&h=360",
+       "id": "Z88GVBsAHJWomSig",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GVBsAHJWomSig_c01Home-DS-Fordesigners.png?auto=format,compress&rect=0,0,2239,1260&w=750&h=422",
+        "id": "Z88GVBsAHJWomSig",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GVBsAHJWomSig_c01Home-DS-Fordesigners.png?auto=format,compress&rect=1,0,2239,1260&w=828&h=466",
+        "id": "Z88GVBsAHJWomSig",
+        "edit": {
+         "x": 1,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GVBsAHJWomSig_c01Home-DS-Fordesigners.png?auto=format,compress&rect=1,0,2238,1260&w=1080&h=608",
+        "id": "Z88GVBsAHJWomSig",
+        "edit": {
+         "x": 1,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GVBsAHJWomSig_c01Home-DS-Fordesigners.png?auto=format,compress&rect=0,0,2240,1260&w=1200&h=675",
+        "id": "Z88GVBsAHJWomSig",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GVBsAHJWomSig_c01Home-DS-Fordesigners.png?auto=format,compress&rect=0,0,2240,1260&w=1600&h=900",
+        "id": "Z88GVBsAHJWomSig",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z88GVBsAHJWomSig_c01Home-DS-Fordesigners.png?auto=format,compress&rect=0,0,2240,1260&w=1920&h=1080",
+        "id": "Z88GVBsAHJWomSig",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "For designers",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "id": "ZGdbnhAAACAAevFi",
+       "type": "design_system_content",
+       "tags": [
+        "ds"
+       ],
+       "lang": "en-eu",
+       "slug": "for-designers",
+       "first_publication_date": "2023-05-19T11:22:35+0000",
+       "last_publication_date": "2024-06-10T11:01:19+0000",
+       "uid": "_ds_for-designers",
+       "link_type": "Document",
+       "key": "8337aba7-40a4-425c-8a94-e01060c4497e",
+       "isBroken": false
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$92916126-53a8-4142-9ee4-ab45d3597e67",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "title": [
+      {
+       "type": "heading2",
+       "text": "Read more about the design system",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "theme": "black",
+     "hidden": false
+    },
+    "items": [
+     {
+      "label": [
+       {
+        "type": "heading6",
+        "text": "Releases & Roadmap",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "icon": "document",
+      "link": {
+       "id": "ZBnRLxAAACEAgPPg",
+       "type": "design_system_content",
+       "tags": [
+        "ds"
+       ],
+       "lang": "en-eu",
+       "slug": "releases--roadmap",
+       "first_publication_date": "2023-03-21T15:46:09+0000",
+       "last_publication_date": "2026-02-17T10:35:19+0000",
+       "uid": "_ds_about_releases",
+       "link_type": "Document",
+       "key": "9919e2c6-14b9-4a38-9f0b-27e27ad294d0",
+       "isBroken": false
+      }
+     },
+     {
+      "label": [
+       {
+        "type": "heading6",
+        "text": "Contributing",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "icon": "plus",
+      "link": {
+       "id": "ZBnTbxAAACEAgPg6",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "-",
+       "first_publication_date": "2023-03-21T15:55:31+0000",
+       "last_publication_date": "2024-04-02T09:01:36+0000",
+       "uid": "_ds_about_contributing",
+       "link_type": "Document",
+       "key": "288b9c10-2bbd-4999-9a05-6365b0de7bef",
+       "isBroken": false
+      }
+     },
+     {
+      "label": [
+       {
+        "type": "heading6",
+        "text": "FAQ",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "icon": "circle-info",
+      "link": {
+       "id": "ZG2zmxAAACUAaV2A",
+       "type": "design_system_content",
+       "tags": [
+        "ds"
+       ],
+       "lang": "en-eu",
+       "slug": "frequently-asked-questions",
+       "first_publication_date": "2023-05-24T06:50:47+0000",
+       "last_publication_date": "2026-06-05T13:34:53+0000",
+       "uid": "_ds_faq",
+       "link_type": "Document",
+       "key": "c49ce3c2-f62b-4ea7-ab9e-9af54f7bc7f4",
+       "isBroken": false
+      }
+     }
+    ],
+    "id": "quick_links$ee87c0c3-e578-4301-8acc-a17c9335d196",
+    "slice_type": "quick_links",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "CTA",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Ask for brand support",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "You can ask for help with brand-related, design, and audiovisual projects from the Aalto University Communications team.",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [
+      {
+       "type": "paragraph",
+       "text": "Contact us",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "button_link": {
+      "id": "ZAcwrhAAACkAUXQy",
+      "type": "form",
+      "tags": [],
+      "lang": "en-eu",
+      "slug": "ask-for-brand-support",
+      "first_publication_date": "2023-03-07T12:40:23+0000",
+      "last_publication_date": "2025-11-18T21:05:41+0000",
+      "uid": "_support",
+      "link_type": "Document",
+      "key": "1732bfff-2575-4895-8933-3cc9580843ec",
+      "isBroken": false
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "red",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$357bc68c-74cf-437b-b213-445ca9513b24",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "title": [
+      {
+       "type": "heading2",
+       "text": "Awards & recognition",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "body": [
+      {
+       "type": "paragraph",
+       "text": "Aalto design system has been recognised in some of the world's most prestigious design competitions.",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "theme": "black",
+     "hidden": false
+    },
+    "items": [
+     {
+      "image": {
+       "dimensions": {
+        "width": 956,
+        "height": 956
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/aKcmkaTt2nPbak3l_c01Home-Awards-RedDot.png?auto=format,compress",
+       "id": "aKcmkaTt2nPbak3l",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       }
+      },
+      "link": {
+       "link_type": "Web",
+       "key": "666a9b96-c6be-4b57-8a79-e493870edc0e",
+       "url": "https://www.red-dot.org/",
+       "target": "_blank"
+      }
+     },
+     {
+      "image": {
+       "dimensions": {
+        "width": 957,
+        "height": 956
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/aKcmjaTt2nPbak3h_c01Home-Awards-AnthemAwards.png?auto=format,compress",
+       "id": "aKcmjaTt2nPbak3h",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       }
+      },
+      "link": {
+       "link_type": "Web",
+       "key": "5fc211c5-4384-45b6-bfb8-aff40213114e",
+       "url": "https://www.anthemawards.com/",
+       "target": "_blank"
+      }
+     },
+     {
+      "image": {
+       "dimensions": {
+        "width": 957,
+        "height": 956
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/aKcmkKTt2nPbak3k_c01Home-Awards-LovieAwards.png?auto=format,compress",
+       "id": "aKcmkKTt2nPbak3k",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       }
+      },
+      "link": {
+       "link_type": "Web",
+       "key": "511a6257-4a8f-4b95-9174-a3280c2bc495",
+       "url": "https://winners.lovieawards.com/categories/details/2024/websites-mobile-sites/websites-mobile-sites-general/software-applications/",
+       "target": "_blank"
+      }
+     },
+     {
+      "image": {
+       "dimensions": {
+        "width": 957,
+        "height": 956
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/aKcmjqTt2nPbak3i_c01Home-Awards-EDAwards.png?auto=format,compress",
+       "id": "aKcmjqTt2nPbak3i",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       }
+      },
+      "link": {
+       "link_type": "Web",
+       "key": "7be19709-7f4d-4ac1-82f2-3e8a161d1a38",
+       "url": "https://awards.europeandesign.org/winners",
+       "target": "_blank"
+      }
+     },
+     {
+      "image": {
+       "dimensions": {
+        "width": 957,
+        "height": 956
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/aKcmkqTt2nPbak3m_c01Home-Awards-UXDesignAwards.png?auto=format,compress",
+       "id": "aKcmkqTt2nPbak3m",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       }
+      },
+      "link": {
+       "link_type": "Web",
+       "key": "52be7030-b749-4257-ae59-168908a6b704",
+       "url": "https://ux-design-awards.com/winners?grouped=&search=&filter=&year=2024",
+       "target": "_blank"
+      }
+     },
+     {
+      "image": {
+       "dimensions": {
+        "width": 956,
+        "height": 956
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/aKcmj6Tt2nPbak3j_c01Home-Awards-InteractionAwards.png?auto=format,compress",
+       "id": "aKcmj6Tt2nPbak3j",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       }
+      },
+      "link": {
+       "link_type": "Web",
+       "key": "584c2f68-98a1-4ff4-8d5a-2831f0c7a7d7",
+       "url": "https://awards.ixda.org/",
+       "target": "_blank"
+      }
+     }
+    ],
+    "id": "logo_wall$bef7a890-35c5-426f-a9af-bbc2227c22d3",
+    "slice_type": "logo_wall",
+    "slice_label": null
+   }
+  ]
+ }
+}

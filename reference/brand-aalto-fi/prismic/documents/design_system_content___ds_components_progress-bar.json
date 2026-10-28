@@ -1,0 +1,354 @@
+{
+ "id": "ZSlcWhAAACMAvIy3",
+ "uid": "_ds_components_progress-bar",
+ "url": null,
+ "type": "design_system_content",
+ "href": "https://aalto-master-design-system.cdn.prismic.io/api/v2/documents/search?ref=ap6ZthEAACsAUnNI&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZSlcWhAAACMAvIy3%22%29+%5D%5D",
+ "tags": [
+  "components"
+ ],
+ "first_publication_date": "2023-10-13T15:05:24+0000",
+ "last_publication_date": "2024-08-16T10:26:02+0000",
+ "slugs": [
+  "progress-bar"
+ ],
+ "linked_documents": [],
+ "lang": "en-eu",
+ "alternate_languages": [],
+ "data": {
+  "feedback_form": {
+   "link_type": "Document"
+  },
+  "body1": [
+   {
+    "primary": {
+     "title": [
+      {
+       "type": "heading1",
+       "text": "Progress Bar",
+       "spans": []
+      }
+     ],
+     "ingress": [
+      {
+       "type": "paragraph",
+       "text": "",
+       "spans": []
+      }
+     ],
+     "body_text": [
+      {
+       "type": "paragraph",
+       "text": "",
+       "spans": []
+      }
+     ],
+     "cta_label": [],
+     "cta_link": {
+      "link_type": "Any"
+     },
+     "image": {
+      "img_size_xs": {},
+      "img_size_s": {},
+      "img_size_m": {},
+      "img_size_l": {},
+      "img_size_xl": {},
+      "img_size_xxl": {}
+     },
+     "video_file_link": {
+      "link_type": "Any"
+     },
+     "aside": {
+      "link_type": "Document"
+     },
+     "theme": "black"
+    },
+    "items": [
+     {}
+    ],
+    "id": "hero$c861f8ca-90cd-4741-a88b-b8d3e5e8e002",
+    "slice_type": "hero",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "A progress bar component provides dynamic visual feedback on the completion status of a task or process. Whether it's a straightforward loading indication or a complex operation divided into stages, this component offers clarity and transparency in tracking progress of a long-lasting operation.",
+       "spans": []
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$6d1376b3-50c5-467f-b3ff-dd1888fe7381",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Examples",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$8505a762-69a8-419b-ae13-f3190838ad1d",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "ComponentPreview",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Simple",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "",
+       "spans": []
+      }
+     ],
+     "component_id": "components/progressbar--simple",
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": true,
+     "react_code_preview": true,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$8b689242-cd54-4baa-8234-570876aae2e9",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "ComponentPreview",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Multiple stages",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": "components/progressbar--multi-part",
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": true,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$83c58922-73cd-422f-b845-fced40d7f999",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Usage",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "",
+       "spans": []
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": true,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$97cb5de5-b8c6-4c5a-98a5-2e6eb376888d",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Progress bar is suitable for a wide range of applications, from simple file uploads to more intricate multi-step processes. Depending on the specific use case, the Progress bar allows for animated indicators or precise progress representation. If the duration of the process is unknown and it is not possible to display a percentage completed, it is advisable to use Progress Indicator component instead.",
+       "spans": [
+        {
+         "start": 367,
+         "end": 385,
+         "type": "hyperlink",
+         "data": {
+          "id": "ZiEKsxAAAOYs3gpy",
+          "type": "design_system_content",
+          "tags": [
+           "ds"
+          ],
+          "lang": "en-eu",
+          "slug": "progress-indicator",
+          "first_publication_date": "2024-04-18T13:58:15+0000",
+          "last_publication_date": "2024-08-16T10:28:11+0000",
+          "uid": "_ds_components_progress-indicator",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$506d0074-9f05-4b7d-90c3-03494e9e6102",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   }
+  ]
+ }
+}

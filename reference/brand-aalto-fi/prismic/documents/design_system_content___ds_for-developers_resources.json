@@ -1,0 +1,763 @@
+{
+ "id": "Zlc27BEAACUAeG1a",
+ "uid": "_ds_for-developers_resources",
+ "url": null,
+ "type": "design_system_content",
+ "href": "https://aalto-master-design-system.cdn.prismic.io/api/v2/documents/search?ref=ap6ZthEAACsAUnNI&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22Zlc27BEAACUAeG1a%22%29+%5D%5D",
+ "tags": [
+  "ds"
+ ],
+ "first_publication_date": "2024-05-29T14:09:18+0000",
+ "last_publication_date": "2025-10-29T13:51:54+0000",
+ "slugs": [
+  "available-resources"
+ ],
+ "linked_documents": [],
+ "lang": "en-eu",
+ "alternate_languages": [],
+ "data": {
+  "feedback_form": {
+   "id": "ZNo2LhAAACYAsGnO",
+   "type": "form_configuration",
+   "tags": [],
+   "lang": "en-eu",
+   "slug": "feedback",
+   "first_publication_date": "2023-08-14T14:12:02+0000",
+   "last_publication_date": "2023-09-01T12:22:49+0000",
+   "uid": "feedback",
+   "link_type": "Document",
+   "key": "3668b4e2-0f15-452e-8a21-6e628bcb009e",
+   "isBroken": false
+  },
+  "body1": [
+   {
+    "primary": {
+     "title": [
+      {
+       "type": "heading1",
+       "text": "Available resources",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "ingress": [],
+     "body_text": [
+      {
+       "type": "paragraph",
+       "text": "",
+       "spans": []
+      }
+     ],
+     "cta_label": [],
+     "cta_link": {
+      "link_type": "Any"
+     },
+     "image": {
+      "img_size_xs": {},
+      "img_size_s": {},
+      "img_size_m": {},
+      "img_size_l": {},
+      "img_size_xl": {},
+      "img_size_xxl": {}
+     },
+     "video_file_link": {
+      "link_type": "Any"
+     },
+     "aside": {
+      "link_type": "Document"
+     },
+     "theme": "black"
+    },
+    "items": [
+     {}
+    ],
+    "id": "hero$5f436fd6-0cee-4fba-a8d3-39ad9dc71ad0",
+    "slice_type": "hero",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Packages",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": true
+    },
+    "items": [],
+    "id": "page_section_element$797c520e-f221-4a62-9858-269ebc78e937",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "The Aalto design system strives to be technology agnostic, ensuring that its components and assets are available across multiple technologies. As the design system continues to evolve, additional language implementations will be incorporated. ",
+       "spans": [],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "Currently, the following packages are available:\n- @aalto-dx/tokens: Design tokens in CSS and JSON formats, and a custom CSS reset\n- @aalto-dx/react-components: User interface elements (Components, Modules and Sections) for React projects\n- @aalto-dx/component-styles: CSS styling for the UI elements used in non-React projects\n- @aalto-dx/react-starter: Quick-start template project(s) exemplifying DS usage in a React channel",
+       "spans": [
+        {
+         "start": 51,
+         "end": 67,
+         "type": "strong"
+        },
+        {
+         "start": 133,
+         "end": 159,
+         "type": "strong"
+        },
+        {
+         "start": 224,
+         "end": 229,
+         "type": "hyperlink",
+         "data": {
+          "link_type": "Web",
+          "url": "https://react.dev/",
+          "target": "_blank"
+         }
+        },
+        {
+         "start": 241,
+         "end": 267,
+         "type": "strong"
+        },
+        {
+         "start": 330,
+         "end": 353,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "To start using any Aalto libraries in your project, you will need access to the Aalto Git package registry. The libraries are distributed as npm packages, so you must have npm installed. We recommend configuring registry access by using a .npmrc file. Additionally, ensure that your project is using compatible versions of node, npm, and relevant libraries such as React.",
+       "spans": [
+        {
+         "start": 239,
+         "end": 245,
+         "type": "em"
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$dd11047f-0385-488b-b87e-a823989712a0",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "ContentBoxCollection",
+     "tiles_per_row": "1",
+     "default_cta_label": [],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": false,
+     "hidden": false,
+     "skim": "top"
+    },
+    "items": [
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Credentials",
+        "spans": []
+       }
+      ],
+      "body_text": [
+       {
+        "type": "paragraph",
+        "text": "Please contact the Aalto Design System team for more specific configuration instructions and package registry access tokens.",
+        "spans": []
+       }
+      ],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$e96c92ec-d5bb-43ac-80e6-33865596769c",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Fonts",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": true
+    },
+    "items": [],
+    "id": "page_section_element$a9deda58-514b-4ff8-8a3d-dec4c22783e5",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Aalto University’s primary typeface is Inter:\nDownload Inter",
+       "spans": [
+        {
+         "start": 46,
+         "end": 60,
+         "type": "hyperlink",
+         "data": {
+          "link_type": "Web",
+          "url": "https://rsms.me/inter/download/",
+          "target": "_new"
+         }
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "For web development however, it is often more efficient to import the font directly from Google Fonts in the head of your page, rather than downloading it:",
+       "spans": [
+        {
+         "start": 109,
+         "end": 113,
+         "type": "em"
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$888089dc-2214-4411-a662-67c940b0352a",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "Code",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "<head>\n  <!-- ... -->\n\n  <!-- Import the Aalto font (Inter) from Google -->\n  <style>\n    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');\n  </style>\n\n  <!-- Preconnecting to the font file source (and other known resources) improves page loading speed -->\n  <link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" />\n\n  <!-- ... -->\n</head>",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": "html",
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$5763ff8f-768c-4137-991b-86a60e74d854",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Please note that, for the sake of modularity and performance optimisation, the font is NOT included in the aforementioned packages. You must thus include it separately in your project using your preferred method.",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$6840e628-dcc8-41c5-af19-bb2f955bf327",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Storybook libraries",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": true
+    },
+    "items": [],
+    "id": "page_section_element$ba57f81c-66cc-45f7-89c3-a20a44514fa8",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "In addition to the npm packages, developers can explore the implemented libraries through Storybook sites. Storybook provides a dedicated environment for showcasing UI elements in various states, allowing developers to effectively view their props, explore different variations, and interact with them to observe their behavior in different scenarios.",
+       "spans": [
+        {
+         "start": 90,
+         "end": 99,
+         "type": "hyperlink",
+         "data": {
+          "link_type": "Web",
+          "url": "https://storybook.js.org/",
+          "target": "_blank"
+         }
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "Currently, the following Storybooks are provided:\nReact Components",
+       "spans": [
+        {
+         "start": 50,
+         "end": 66,
+         "type": "hyperlink",
+         "data": {
+          "link_type": "Web",
+          "url": "https://dx-react-components.aalto.fi/",
+          "target": "_blank"
+         }
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$aa838575-c482-41ee-8736-10e88b999c81",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "ContentBoxCollection",
+     "tiles_per_row": "1",
+     "default_cta_label": [
+      {
+       "type": "paragraph",
+       "text": "",
+       "spans": []
+      }
+     ],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": false,
+     "hidden": false,
+     "skim": "none"
+    },
+    "items": [
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "What about content management?",
+        "spans": []
+       }
+      ],
+      "body_text": [
+       {
+        "type": "paragraph",
+        "text": "The core concept of the design system is to offer users a comprehensive collection of versatile UI elements that can effectively present various types of content. It's important to note that content management systems (CMS) are not included in the design system's scope. Instead, individual channels are responsible for implementing their own CMS to manage and host content such as text and images. This separation allows the design system to focus on providing the necessary building blocks for consistent user interfaces while enabling full freedom of content management solutions at the channel level.",
+        "spans": []
+       }
+      ],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$09ed8808-d792-4782-898a-7fa3caeb5e3b",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Read next",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$a3c94a8f-02b4-410a-81bb-1c9e76ce4791",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "CardCollection",
+     "tiles_per_row": "2",
+     "default_cta_label": [],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": false,
+     "hidden": false,
+     "skim": "none"
+    },
+    "items": [
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Scenarios",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "id": "Zlc4VhEAACIAeHAn",
+       "type": "design_system_content",
+       "tags": [
+        "ds"
+       ],
+       "lang": "en-eu",
+       "slug": "scenarios",
+       "first_publication_date": "2024-05-29T14:15:10+0000",
+       "last_publication_date": "2025-10-29T14:08:43+0000",
+       "uid": "_ds_for-developers_scenarios",
+       "link_type": "Document",
+       "key": "08bb99b0-deae-4957-8ff4-2161d31e44a3",
+       "isBroken": false
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$9c8ff431-d623-40a3-b14e-ef799edae510",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,241 @@
+{
+ "id": "ZJGPYRAAACEAl5zL",
+ "uid": "_accessibility-statement",
+ "url": null,
+ "type": "design_system_content",
+ "href": "https://aalto-master-design-system.cdn.prismic.io/api/v2/documents/search?ref=ap6ZthEAACsAUnNI&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZJGPYRAAACEAl5zL%22%29+%5D%5D",
+ "tags": [],
+ "first_publication_date": "2023-06-20T11:37:10+0000",
+ "last_publication_date": "2024-04-02T09:01:33+0000",
+ "slugs": [],
+ "linked_documents": [],
+ "lang": "en-eu",
+ "alternate_languages": [
+  {
+   "id": "aRw6YBcAACgAhzUV",
+   "type": "design_system_content",
+   "lang": "fi",
+   "uid": "_accessibility-statement"
+  }
+ ],
+ "data": {
+  "feedback_form": {
+   "link_type": "Document"
+  },
+  "body1": [
+   {
+    "primary": {
+     "title": [
+      {
+       "type": "heading1",
+       "text": "Accessibility statement",
+       "spans": []
+      }
+     ],
+     "ingress": [],
+     "body_text": [],
+     "cta_label": [],
+     "cta_link": {
+      "link_type": "Any"
+     },
+     "image": {
+      "img_size_xs": {},
+      "img_size_s": {},
+      "img_size_m": {},
+      "img_size_l": {},
+      "img_size_xl": {},
+      "img_size_xxl": {}
+     },
+     "video_file_link": {
+      "link_type": "Any"
+     },
+     "aside": {
+      "link_type": "Document"
+     },
+     "theme": "black"
+    },
+    "items": [
+     {}
+    ],
+    "id": "hero$26b18777-e81c-4039-a01b-890f5194fb86",
+    "slice_type": "hero",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Aalto University's brand.aalto.fi website is subject to the EU's accessibility directive, the aim of which is to ensure equality in a digitalised society and set uniform requirements for accessibility.",
+       "spans": []
+      },
+      {
+       "type": "paragraph",
+       "text": "The brand.aalto.fi website was launched on 21 June 2023. The site's current accessibility standard is WCAG 2.1, level AA. The requirements of the Directive have been taken into account in the development of the website, and the work continues. The information in this statement is based on self-assessment.",
+       "spans": []
+      },
+      {
+       "type": "paragraph",
+       "text": "Aalto University is committed to observing accessibility standards. The following measures are implemented in order to achieve this goal:",
+       "spans": []
+      },
+      {
+       "type": "paragraph",
+       "text": "- accessibility is part of our mission statement,\n- accessibility has been taken into account in the university practices,\n- a member of staff has been appointed to be responsible for accessibility at the university.",
+       "spans": []
+      },
+      {
+       "type": "paragraph",
+       "text": "Aalto University's objective is to maintain a website that is technically accessible and understandable in terms of its contents and that is clear and easy to use for all types of users.",
+       "spans": []
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": null,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$a2b5cd83-2d3d-4b3e-a443-c100ff3eec9a",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Non-accessible content",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "The Aalto website largely meets the requirements for accessibility. The website requires further improvements, however, in the following areas:",
+       "spans": []
+      },
+      {
+       "type": "paragraph",
+       "text": "- image descriptions (alt texts)",
+       "spans": []
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": null,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$fc157bc0-b972-4874-b84c-34cbf88cefa5",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Did you find an accessibility issue on our website?",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "If you notice any deficiencies regarding the accessibility of the site, you can provide feedback to: aaltofi-feedback@aalto.fi\nWe will respond to your feedback within two weeks, at the latest. We are actively working to address the accessibility issues that have been identified.",
+       "spans": [
+        {
+         "start": 101,
+         "end": 126,
+         "type": "hyperlink",
+         "data": {
+          "link_type": "Web",
+          "url": "mailto:aaltofi-feedback@aalto.fi"
+         }
+        }
+       ]
+      },
+      {
+       "type": "paragraph",
+       "text": "This statement was created on 20 June 2023.",
+       "spans": []
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": null,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$1181aa94-efb5-439e-887e-0dfa638ef160",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   }
+  ]
+ }
+}

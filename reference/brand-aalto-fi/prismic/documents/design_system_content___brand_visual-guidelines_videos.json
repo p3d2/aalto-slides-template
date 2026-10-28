@@ -1,0 +1,1817 @@
+{
+ "id": "Z__VsRAAAKHuzpcT",
+ "uid": "_brand_visual-guidelines_videos",
+ "url": null,
+ "type": "design_system_content",
+ "href": "https://aalto-master-design-system.cdn.prismic.io/api/v2/documents/search?ref=ap6ZthEAACsAUnNI&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22Z__VsRAAAKHuzpcT%22%29+%5D%5D",
+ "tags": [
+  "identity"
+ ],
+ "first_publication_date": "2025-04-16T16:15:06+0000",
+ "last_publication_date": "2025-10-21T07:57:47+0000",
+ "slugs": [
+  "videos"
+ ],
+ "linked_documents": [],
+ "lang": "en-eu",
+ "alternate_languages": [
+  {
+   "id": "aRw6UhcAACgAhzTN",
+   "type": "design_system_content",
+   "lang": "fi",
+   "uid": "_brand_visual-guidelines_videos"
+  }
+ ],
+ "data": {
+  "feedback_form": {
+   "link_type": "Document"
+  },
+  "body1": [
+   {
+    "primary": {
+     "title": [
+      {
+       "type": "heading1",
+       "text": "Videos",
+       "spans": []
+      }
+     ],
+     "ingress": [],
+     "body_text": [
+      {
+       "type": "paragraph",
+       "text": "",
+       "spans": []
+      }
+     ],
+     "cta_label": [],
+     "cta_link": {
+      "link_type": "Any"
+     },
+     "image": {
+      "img_size_xs": {},
+      "img_size_s": {},
+      "img_size_m": {},
+      "img_size_l": {},
+      "img_size_xl": {},
+      "img_size_xxl": {}
+     },
+     "video_file_link": {
+      "link_type": "Any"
+     },
+     "aside": {
+      "link_type": "Document"
+     },
+     "theme": "black"
+    },
+    "items": [
+     {}
+    ],
+    "id": "hero$f325b78b-aa4f-4ea4-a567-e4c5ebf50675",
+    "slice_type": "hero",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Videos are a great way for telling stories, conveying emotions and creating compelling visual experiences. Thanks for reading how to stay on brand when making video materials for Aalto University.",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$7b0ab91c-e66a-473a-83fa-79c8465fbf58",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Video examples",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$3a2349d9-b7eb-43e5-ac34-9ee8669be109",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "VideoSection",
+     "page_section_element_title": [],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Web",
+      "key": "efc0a276-dc92-4ab6-b9bc-8c1cf2680056",
+      "url": "https://player.vimeo.com/progressive_redirect/playback/1129098970/rendition/720p/file.mp4?loc=external&signature=9a96bf69942c1ae29e5d8e1b16a79db43b3e1d54ff3416edf9bf75378bfe6f66"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$23d7f1c8-4889-40d4-9a22-59b7e98b5d2d",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "VideoSection",
+     "page_section_element_title": [],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Web",
+      "key": "ca709fef-14ef-4bf6-9b53-c60515605c7a",
+      "url": "https://player.vimeo.com/progressive_redirect/playback/1129100238/rendition/720p/file.mp4?loc=external&signature=315d8cd3116aaa2708cb2deb71c16e34e932f7303c53be5334762b0607769d58"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$196251e2-0aa9-4ae3-9bd4-bc1e2b004e4a",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "VideoSection",
+     "page_section_element_title": [],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Web",
+      "key": "35fcb0f9-e3b8-4334-9bc9-9d87f9d4251b",
+      "url": "https://player.vimeo.com/progressive_redirect/playback/1129101976/rendition/720p/file.mp4?loc=external&signature=ad7278f089d5befa073168cc0a54a006750a3bea49da14a438a963454e336df1"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$3a65c969-6a5d-4ed5-b771-7c27151b10b4",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "VideoSection",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "This is Aalto University",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": true,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Web",
+      "key": "681ec36d-a6b1-46cd-9ccc-3f22eb0ac512",
+      "url": "https://www.youtube.com/embed/MirHf3kkD4s?si=TrqbdK2XqsqRg0A5"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$a0ee2eff-f897-4805-b219-5535d0e3ab62",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "CardCollection",
+     "tiles_per_row": "3",
+     "default_cta_label": [],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": false,
+     "hidden": false,
+     "skim": "none"
+    },
+    "items": [
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "This is Aalto University!",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [
+       {
+        "type": "paragraph",
+        "text": "View on Youtube",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "cta_link": {
+       "link_type": "Web",
+       "key": "30bded85-8c3c-44aa-8ad5-138494b4b234",
+       "url": "https://youtu.be/MirHf3kkD4s"
+      },
+      "cta_link_custom_icon": "Web",
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Welcome to Aalto University, our new student!",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [
+       {
+        "type": "paragraph",
+        "text": "View on YouTube",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "cta_link": {
+       "link_type": "Web",
+       "key": "d10a2feb-00df-4cbb-8808-1e33534d7589",
+       "url": "https://www.youtube.com/watch?v=pbjOIbduuuE"
+      },
+      "cta_link_custom_icon": "Web",
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Discover Aalto University in Finland",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [
+       {
+        "type": "paragraph",
+        "text": "View on YouTube",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "cta_link": {
+       "link_type": "Web",
+       "key": "cc22a055-c8bc-42df-bdd9-f8157c7b0703",
+       "url": "https://www.youtube.com/watch?v=BugH1HySFD0"
+      },
+      "cta_link_custom_icon": "Web",
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$64c795da-bdf3-4fdb-860c-98d7279e1889",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Storytelling",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": true,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$1fdab163-c17a-4e01-9f3c-82679eb28920",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "As a general rule, we strive for authenticity in our communications and brand, and want to showcase real Aalto people in authentic environments in our videos as well.",
+       "spans": [],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "For videos meant for an external audience, and especially in social media, please note that:",
+       "spans": [],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "- People tend to decide based on the first 2-10 seconds whether they want to watch the video or not.",
+       "spans": [],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "- The very beginning of the video should be captivating. Avoid long introductions and go straight to the point. What is the ‘hook’ in your story?",
+       "spans": [],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "- The visuals in the beginning of the video should be as interesting as possible. A “talking head” is not always considered that fascinating, unless it’s a well-known person.",
+       "spans": [],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "- Think about what makes your topic engaging for the general / international audience? What would you tell a friend about it at a party? Avoid Aalto jargon, abbreviations or internal information related to courses, projects, events etc. ",
+       "spans": [],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "",
+       "spans": [],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "Since video format can be cumbersome to update, consider making timeless materials by omitting dates or years in the storytelling.",
+       "spans": [],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "For example, if you want to create a video ad for summer school with a call-to-action “Apply by 5th of April 2025”, the video could say “Apply now” and you can provide more information about dates in the social media copy text, or other context, when sharing the video. Thus the video could be used for the same purpose for several years.",
+       "spans": [
+        {
+         "start": 0,
+         "end": 338,
+         "type": "em"
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": true,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$2887390b-21a4-4719-9583-5fb8e7d11c61",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Branding",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$e1e62498-b931-488d-869b-9d4885fd1662",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "The animated Aalto logo can be used at the end of videos related to Aalto University. You can either use it as it is, or use the white logo on top of the video image. If an image is used as background to the logo, it should be sufficiently calm and even in tone for the logo to be clearly visible.",
+       "spans": [],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "Note: Always use the logo originals. The Aalto University logos are registered trademarks, and altering them is not allowed.",
+       "spans": [],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "",
+       "spans": [],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "Follow general visual guidelines on all graphics in your video.",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$ea6ee2d9-4495-446b-93e0-a9c78e97e31a",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "CardCollection",
+     "tiles_per_row": "3",
+     "default_cta_label": [],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": false,
+     "hidden": false,
+     "skim": "none"
+    },
+    "items": [
+     {
+      "image": {
+       "dimensions": {
+        "width": 895,
+        "height": 503
+       },
+       "alt": "Screenshot of centered white Aalto logo on black background and a play button on top",
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/10c24903-2ae6-470f-ba6e-e06024e07ef1_Aalto+end+bumper.jpg?auto=compress,format",
+       "id": "ZOc7EhEAACYAsfnt",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "#fff"
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Animated Aalto logo",
+        "spans": []
+       }
+      ],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [
+       {
+        "type": "paragraph",
+        "text": "Download versions from material bank",
+        "spans": []
+       }
+      ],
+      "cta_link": {
+       "link_type": "Web",
+       "key": "8941d6c1-fae7-4da3-b0ad-2564fdc8bbac",
+       "url": "https://materialbank.aalto.fi/l/8nvbbLNLRZv-"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": "Six alternative Youtube thumbnails with images, colour blocks, Aalto logo and titles",
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/Zierd_Pdc1huKs6N_youtubethumbnails.png?auto=format%2Ccompress&rect=81%2C0%2C1662%2C935&w=640&h=360",
+       "id": "Zierd_Pdc1huKs6N",
+       "edit": {
+        "x": 81,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": "Six alternative Youtube thumbnails with images, colour blocks, Aalto logo and titles",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Zierd_Pdc1huKs6N_youtubethumbnails.png?auto=format%2Ccompress&rect=81%2C0%2C1662%2C935&w=750&h=422",
+        "id": "Zierd_Pdc1huKs6N",
+        "edit": {
+         "x": 81,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": "Six alternative Youtube thumbnails with images, colour blocks, Aalto logo and titles",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Zierd_Pdc1huKs6N_youtubethumbnails.png?auto=format%2Ccompress&rect=81%2C0%2C1661%2C935&w=828&h=466",
+        "id": "Zierd_Pdc1huKs6N",
+        "edit": {
+         "x": 81,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": "Six alternative Youtube thumbnails with images, colour blocks, Aalto logo and titles",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Zierd_Pdc1huKs6N_youtubethumbnails.png?auto=format%2Ccompress&rect=82%2C0%2C1661%2C935&w=1080&h=608",
+        "id": "Zierd_Pdc1huKs6N",
+        "edit": {
+         "x": 82,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": "Six alternative Youtube thumbnails with images, colour blocks, Aalto logo and titles",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Zierd_Pdc1huKs6N_youtubethumbnails.png?auto=format%2Ccompress&rect=81%2C0%2C1662%2C935&w=1200&h=675",
+        "id": "Zierd_Pdc1huKs6N",
+        "edit": {
+         "x": 81,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": "Six alternative Youtube thumbnails with images, colour blocks, Aalto logo and titles",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Zierd_Pdc1huKs6N_youtubethumbnails.png?auto=format%2Ccompress&rect=81%2C0%2C1662%2C935&w=1600&h=900",
+        "id": "Zierd_Pdc1huKs6N",
+        "edit": {
+         "x": 81,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": "Six alternative Youtube thumbnails with images, colour blocks, Aalto logo and titles",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Zierd_Pdc1huKs6N_youtubethumbnails.png?auto=format%2Ccompress&rect=81%2C0%2C1662%2C935&w=1920&h=1080",
+        "id": "Zierd_Pdc1huKs6N",
+        "edit": {
+         "x": 81,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Youtube thumbnails",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Web",
+       "key": "a1f145fe-23ec-4d02-89f8-3ab6094d575d",
+       "url": "https://materialbank.aalto.fi/f/ZDhB",
+       "target": ""
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$60b1114b-8162-41ca-8706-ecde3bbe022f",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Captions",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "All videos published officially under Aalto University should be captioned according to the EU accessibility directive. The captions can be either burned-in the video (i.e. for Instagram, Facebook, LinkedIn) or delivered as a separate captions file (Youtube, Panopto, Workday).",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": true,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$7173e319-1c19-47df-aa93-4bd159786a50",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Technical specifications",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$f23832d0-5d63-4fd1-8039-4956f7b7c248",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "The preferred video resolution is UHD (3840 x 2160 pixels). This is the Marsio Stage and Cinema screen resolution. Marsio is our main venue for events and our best videos could be showcased there. Material in UHD resolution can also be easily cropped into portrait video for social media channels if needed.",
+       "spans": [
+        {
+         "start": 34,
+         "end": 58,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "For social media channels mainly consumed with a mobile phone, consider delivering the video in vertical format (resolution 1080 x 1920) or a square (1080 x 1080). Please contact our social media manager through communications@aalto.fi for further information.",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$3befab27-e409-4a70-8803-f002b82b67be",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Video length",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Some rough guidelines:",
+       "spans": [],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "- Fun / inspirational social media video: 15 - 90 seconds.",
+       "spans": [],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "- Video for self-development / learning (high motivation to watch): 2 - 120 minutes.",
+       "spans": [],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "- Inspirational / informative video to be shown at events: 2-3 minutes.",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$7f780d69-9b88-44f1-b6b3-61dbde11332d",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "LiftupCollection",
+     "tiles_per_row": "2",
+     "default_cta_label": [],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": false,
+     "hidden": false,
+     "skim": "none"
+    },
+    "items": [
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Captions",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "body_text": [
+       {
+        "type": "paragraph",
+        "text": "All videos published officially under Aalto University should be captioned according to the EU accessibility directive. The captions can be either burned-in the video (i.e. for Instagram, Facebook, LinkedIn) or delivered as a separate captions file (Youtube, Panopto, Workday).",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "caption": [],
+      "cta_label": [
+       {
+        "type": "paragraph",
+        "text": "Instructions for captions in aalto.fi",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "cta_link": {
+       "link_type": "Web",
+       "key": "262b2572-0ebd-42ab-bebe-e27f3d1a1960",
+       "url": "https://www.aalto.fi/en/services/accessibility-guidelines-regarding-video-and-audio-captions"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Diversity and Code of Conduct",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "body_text": [
+       {
+        "type": "paragraph",
+        "text": "Aalto University is the most diverse university in Finland in terms of staff and students, so let it show in your videos. At minimum be mindful of gender diversity, but aim for diverse nationalities as well. All materials published under Aalto University brand need to comply with our Code of Conduct.",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "caption": [],
+      "cta_label": [
+       {
+        "type": "paragraph",
+        "text": "More on aalto.fi",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "cta_link": {
+       "link_type": "Web",
+       "key": "b95ddc89-b336-4b50-ba20-a3f164cd3cfa",
+       "url": "https://www.aalto.fi/en/aalto-university/code-of-conduct-values-into-practice"
+      },
+      "cta_link_custom_icon": "Web",
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$9a39915d-476a-4b99-a1a4-73709e845fd1",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Filming permissions and copyright contracts",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$bc2065ef-e253-4581-bfc7-c27fe494b639",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "When ordering a video production from a production company or a freelancer, make a contract with the producer to make sure the rights to use and distribute the video are transferred to Aalto University. Sign the contracts before the production begins.",
+       "spans": [
+        {
+         "start": 123,
+         "end": 165,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "You also need a written permission from the people presented on the video (the ‘models’).",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$dc598e4e-8f5e-4926-a088-cbd3af1fa286",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "title": [
+      {
+       "type": "heading2",
+       "text": "Links for permissions and contracts",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "body": [],
+     "link_label": [],
+     "link_target": {
+      "link_type": "Any"
+     },
+     "alignment": "right"
+    },
+    "items": [
+     {
+      "main_info_title": [],
+      "main_info_body": [
+       {
+        "type": "paragraph",
+        "text": "Downloadable contract files and more information",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "main_info_link_label": [
+       {
+        "type": "heading6",
+        "text": "Right of use and copyright info in aalto.fi",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "main_info_link_target": {
+       "link_type": "Web",
+       "key": "cb068f1a-4f63-4ef5-a503-217368d78c6d",
+       "url": "https://www.aalto.fi/en/services/right-of-use-and-copyright-photograph-video-and-audio "
+      },
+      "details_title": [],
+      "details_body": []
+     },
+     {
+      "main_info_title": [],
+      "main_info_body": [
+       {
+        "type": "paragraph",
+        "text": "The contracts should be delivered to Aalto University registry for archiving",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "main_info_link_label": [
+       {
+        "type": "heading6",
+        "text": "Registry on aalto.fi",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "main_info_link_target": {
+       "link_type": "Web",
+       "key": "52b69bbb-3de4-41d1-a65c-c0ed8dee94df",
+       "url": "https://www.aalto.fi/en/services/registry "
+      },
+      "details_title": [],
+      "details_body": []
+     }
+    ],
+    "id": "directory$f9c4e005-f57c-4447-b9dd-aa7a38cee82c",
+    "slice_type": "directory",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Video assets in design system",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$24befd26-279d-4469-afd3-6a8baed57da7",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "CardCollection",
+     "tiles_per_row": "2",
+     "default_cta_label": [
+      {
+       "type": "paragraph",
+       "text": "Read more",
+       "spans": []
+      }
+     ],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": false,
+     "hidden": false,
+     "skim": "none"
+    },
+    "items": [
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Video player module",
+        "spans": []
+       }
+      ],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "id": "ZPHuyRIAACQAsJfG",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "video-player",
+       "first_publication_date": "2023-09-01T14:04:37+0000",
+       "last_publication_date": "2024-08-16T12:33:48+0000",
+       "uid": "_ds_modules_video-player",
+       "link_type": "Document",
+       "key": "3d122892-f31b-4189-a7d6-296dc94221a4",
+       "isBroken": false
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Video player section",
+        "spans": []
+       }
+      ],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "id": "ZRVdrBQAACwAskkX",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "video-section",
+       "first_publication_date": "2023-09-28T11:05:42+0000",
+       "last_publication_date": "2024-08-19T11:13:53+0000",
+       "uid": "_ds_sections_video-section",
+       "link_type": "Document",
+       "key": "f7dd704f-dc11-429e-bb31-33e9e7c12dfa",
+       "isBroken": false
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$ffa7fbd0-bd1f-48f6-b64b-e98dc27d64ba",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Read next",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$4b8b0de1-9d4d-4c7b-947a-7cf73d035d7c",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "CardCollection",
+     "tiles_per_row": "2",
+     "default_cta_label": [],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": false,
+     "hidden": false,
+     "skim": "none"
+    },
+    "items": [
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Images",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [
+       {
+        "type": "paragraph",
+        "text": "Read image guidelines",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "cta_link": {
+       "id": "Z__ViRAAAP0UzpbX",
+       "type": "design_system_content",
+       "tags": [
+        "identity"
+       ],
+       "lang": "en-eu",
+       "slug": "images",
+       "first_publication_date": "2025-04-16T16:15:16+0000",
+       "last_publication_date": "2025-06-17T14:54:29+0000",
+       "uid": "_brand_visual-guidelines_images",
+       "link_type": "Document",
+       "key": "50a5a4a9-4ddd-4b5d-a37a-9c836019c7ec",
+       "isBroken": false
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Data visualisation",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "id": "Z__WERAAAP0Uzpeq",
+       "type": "design_system_content",
+       "tags": [
+        "identity"
+       ],
+       "lang": "en-eu",
+       "slug": "data-visualisation",
+       "first_publication_date": "2025-04-16T16:13:45+0000",
+       "last_publication_date": "2025-06-10T07:40:16+0000",
+       "uid": "_brand_visual-guidelines_data-visualisation",
+       "link_type": "Document",
+       "key": "5a65775c-9aab-4f3e-8ed1-f2571446bd97",
+       "isBroken": false
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$0db7fce0-46e6-459a-8072-9584b675a234",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   }
+  ]
+ }
+}

@@ -14,12 +14,30 @@ cd "$(dirname "$0")"
 TYPST="${TYPST:-typst}"
 ARGS=(compile --root . --font-path fonts)
 
+# Normalize color profiles to sRGB so PDF.js and native viewers match
+fix_colors() {
+  local target="$1"
+  local tmp="${target}.srgb.pdf"
+  if command -v gs >/dev/null 2>&1; then
+    gs -q -dSAFER -dBATCH -dNOPAUSE \
+       -sDEVICE=pdfwrite \
+       -dCompatibilityLevel=1.7 \
+       -sColorConversionStrategy=sRGB \
+       -sProcessColorModel=DeviceRGB \
+       -dOverrideICC=true \
+       -sOutputFile="$tmp" \
+       "$target"
+    mv "$tmp" "$target"
+  fi
+}
+
 cmd="${1:-help}"
 name="${2:-}"
 
 case "$cmd" in
   demo)
     "$TYPST" "${ARGS[@]}" demo/main.typ demo/demo.pdf
+    fix_colors demo/demo.pdf
     echo "built demo/demo.pdf"
     ;;
   watch-demo)
@@ -39,6 +57,7 @@ case "$cmd" in
   deck)
     [ -n "$name" ] || { echo "usage: ./slides deck my-talk"; exit 1; }
     "$TYPST" "${ARGS[@]}" "decks/$name/main.typ" "decks/$name/main.pdf"
+    fix_colors "decks/$name/main.pdf"
     echo "built decks/$name/main.pdf"
     ;;
   watch-deck)
@@ -47,6 +66,7 @@ case "$cmd" in
     ;;
   cheatsheet)
     "$TYPST" "${ARGS[@]}" docs/cheatsheet.typ docs/cheatsheet.pdf
+    fix_colors docs/cheatsheet.pdf
     echo "built docs/cheatsheet.pdf"
     ;;
   clean)

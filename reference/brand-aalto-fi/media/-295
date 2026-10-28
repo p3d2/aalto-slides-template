@@ -1,0 +1,392 @@
+<!DOCTYPE html><!-- Last Published: Sat Sep 07 2024 11:26:48 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="awards.ixda.org" data-wf-page="64a30e0bd92004124e4ccfd7" data-wf-site="62e0491ea0e532ba0a03a34f"><head><meta charset="utf-8"/><title>IxDA | Interaction Awards</title><meta content="The Interaction Awards honor design craft, leadership, and innovation–recognizing excellence in Interaction Design across domains, channels, environments, and cultures." name="description"/><meta content="IxDA | Interaction Awards" property="og:title"/><meta content="The Interaction Awards honor design craft, leadership, and innovation–recognizing excellence in Interaction Design across domains, channels, environments, and cultures." property="og:description"/><meta content="https://cdn.prod.website-files.com/62e0491ea0e532ba0a03a34f/64c91a9e0a2ad636e813e1ab_IA24_Open%20Graph.png" property="og:image"/><meta content="IxDA | Interaction Awards" property="twitter:title"/><meta content="The Interaction Awards honor design craft, leadership, and innovation–recognizing excellence in Interaction Design across domains, channels, environments, and cultures." property="twitter:description"/><meta content="https://cdn.prod.website-files.com/62e0491ea0e532ba0a03a34f/64c91a9e0a2ad636e813e1ab_IA24_Open%20Graph.png" property="twitter:image"/><meta property="og:type" content="website"/><meta content="summary_large_image" name="twitter:card"/><meta content="width=device-width, initial-scale=1" name="viewport"/><link href="../cdn.prod.website-files.com/62e0491ea0e532ba0a03a34f/css/ixda-awards.webflow.1d1eaa9c5.css" rel="stylesheet" type="text/css"/><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="../cdn.prod.website-files.com/62e0491ea0e532ba0a03a34f/63629ca47849bcfc1c6a08f7_Group.png" rel="shortcut icon" type="image/x-icon"/><link href="../cdn.prod.website-files.com/62e0491ea0e532ba0a03a34f/63629cee3e3feb717a728695_Webclip.png" rel="apple-touch-icon"/><link href="https://awards.ixda.org/" rel="canonical"/><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-43SZML7R3X"></script><script type="text/javascript">window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('set', 'developer_id.dZGVlNj', true);gtag('config', 'G-43SZML7R3X');</script><!-- Please keep this css code to improve the font quality-->
+<style>
+  * {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+</style>
+<!-- [Attributes by Finsweet] Disable scrolling -->
+<script defer src="cdn.jsdelivr.net/npm/@finsweet/attributes-scrolldisable@1/scrolldisable.js"></script>
+
+<!-- [Attributes by Finsweet] CMS Nest -->
+<script async src="cdn.jsdelivr.net/npm/@finsweet/attributes-cmsnest@1/cmsnest.js"></script>
+
+<!-- [Attributes by Finsweet] CMS Filter -->
+<script async src="cdn.jsdelivr.net/npm/@finsweet/attributes-cmsfilter@1/cmsfilter.js"></script>
+
+<!-- [Attributes by Finsweet] Custom Form Select -->
+<script defer src="cdn.jsdelivr.net/npm/@finsweet/attributes-selectcustom@1/selectcustom.js"></script>
+
+<!-- [Attributes by Finsweet] CMS Sort -->
+<script async src="cdn.jsdelivr.net/npm/@finsweet/attributes-cmssort@1/cmssort.js"></script>
+
+<!-- [Attributes by Finsweet] CMS Load -->
+<script async src="cdn.jsdelivr.net/npm/@finsweet/attributes-cmsload@1/cmsload.js"></script>
+
+<!-- [Attributes by Finsweet] Form Submit Actions -->
+<script defer src="cdn.jsdelivr.net/npm/@finsweet/attributes-formsubmit@1/formsubmit.js"></script>
+
+<!-- [Attributes by Finsweet] Mirror click events -->
+<script defer src="cdn.jsdelivr.net/npm/@finsweet/attributes-mirrorclick@1/mirrorclick.js"></script>
+
+<!-- Finsweet Cookie Consent -->
+<script async src="cdn.jsdelivr.net/npm/@finsweet/cookie-consent@1/fs-cc.js" fs-cc-mode="opt-in"></script>
+    
+<script type="text/javascript" src="../cdn.weglot.com/weglot.min.js"></script>
+<script>
+    Weglot.initialize({
+        api_key: 'wg_5d20250d855aac5746f315047e7033c31'
+    });
+</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-43SZML7R3X"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-43SZML7R3X');
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5V7DSB');</script>
+<!-- End Google Tag Manager --></head><body><div class="w-embed w-script"><!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-43SZML7R3X"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-43SZML7R3X');
+</script></div><div class="page-wrapper"><div class="global-styles w-embed"><style>
+
+/* Snippet gets rid of top margin on first element in any rich text*/
+.w-richtext>:first-child {
+	margin-top: 0;
+}
+
+/* Snippet gets rid of bottom margin on last element in any rich text*/
+.w-richtext>:last-child, .w-richtext ol li:last-child, .w-richtext ul li:last-child {
+	margin-bottom: 0;
+}
+
+/* Snippet prevents all click and hover interaction with an element */
+.clickable-off {
+	pointer-events: none;
+}
+
+/* Snippet enables all click and hover interaction with an element */
+.clickable-on{
+  pointer-events: auto;
+}
+
+/* Snippet enables you to add class of div-square which creates and maintains a 1:1 dimension of a div.*/
+.div-square::after {
+	content: "";
+	display: block;
+	padding-bottom: 100%;
+}
+
+/*Hide focus outline for main content element*/
+main:focus-visible {
+	outline: -webkit-focus-ring-color auto 0px;
+}
+
+/* Make sure containers never lose their center alignment*/
+.container-medium, .container-small, .container-large {
+	margin-right: auto !important;
+	margin-left: auto !important;
+}
+
+/*Reset buttons, and links styles*/
+a {
+	color: inherit;
+	/*text-decoration: inherit;*/
+	font-size: inherit;
+}
+
+/*Apply "..." after 3 lines of text */
+.text-style-3lines {
+	display: -webkit-box;
+	overflow: hidden;
+	-webkit-line-clamp: 3;
+	-webkit-box-orient: vertical;
+}
+
+/*Apply "..." after 2 lines of text */
+.text-style-2lines {
+	display: -webkit-box;
+	overflow: hidden;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+}
+
+</style></div><div class="cookies_component"><div fs-cc="banner" class="fs-cc-banner2_component"><div class="fs-cc-banner2_container"><div class="fs-cc-banner2_text">By clicking “Accept”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. View <a href="privacy.html" target="_blank">Privacy Policy</a> for more information.</div><div class="fs-cc-banner2_buttons-wrapper"><a fs-cc="deny" href="index.html#" class="fs-cc-banner2_button fs-cc-button-alt w-button">Deny</a><a fs-cc="allow" href="index.html#" class="fs-cc-banner2_button w-button">Accept</a></div></div></div><div fs-cc-scroll="disable" fs-cc="preferences" class="fs-cc-prefs2_component"><div class="fs-cc-prefs2_form-wrapper w-form"><form id="cookie-preferences" name="wf-form-Cookie-Preferences" data-name="Cookie Preferences" method="get" class="fs-cc-prefs2_form" data-wf-page-id="64a30e0bd92004124e4ccfd7" data-wf-element-id="e7345168-d8e2-a289-a678-437e25317fc2"><div fs-cc="close" class="fs-cc-prefs2_close"><div class="fs-cc-preferences2_close-icon w-embed"><svg fill="currentColor" aria-hidden="true" focusable="false" viewBox="0 0 16 16">
+	<path d="M9.414 8l4.293-4.293-1.414-1.414L8 6.586 3.707 2.293 2.293 3.707 6.586 8l-4.293 4.293 1.414 1.414L8 9.414l4.293 4.293 1.414-1.414L9.414 8z"></path>
+</svg></div></div><div class="fs-cc-prefs2_content"><div class="fs-cc-prefs2_space-small"><div class="fs-cc-prefs2_title">Privacy Preferences</div></div><div class="fs-cc-prefs2_option"><div class="fs-cc-prefs2_toggle-wrapper"><div class="fs-cc-prefs2_label">Essential cookies</div><div>Required</div></div></div><div class="fs-cc-prefs2_option"><div class="fs-cc-prefs2_toggle-wrapper"><div class="fs-cc-prefs2_label">Marketing cookies</div><label class="w-checkbox fs-cc-prefs2_checkbox-field"><div class="w-checkbox-input w-checkbox-input--inputType-custom fs-cc-prefs2_checkbox"></div><input type="checkbox" id="marketing-2" name="marketing-2" data-name="Marketing 2" fs-cc-checkbox="marketing" style="opacity:0;position:absolute;z-index:-1"/><span for="marketing-2" class="fs-cc-prefs2_checkbox-label w-form-label">Essential</span></label></div></div><div class="fs-cc-prefs2_option"><div class="fs-cc-prefs2_toggle-wrapper"><div class="fs-cc-prefs2_label">Personalization cookies</div><label class="w-checkbox fs-cc-prefs2_checkbox-field"><div class="w-checkbox-input w-checkbox-input--inputType-custom fs-cc-prefs2_checkbox"></div><input type="checkbox" id="personalization-2" name="personalization-2" data-name="Personalization 2" fs-cc-checkbox="personalization" style="opacity:0;position:absolute;z-index:-1"/><span for="personalization-2" class="fs-cc-prefs2_checkbox-label w-form-label">Essential</span></label></div></div><div class="fs-cc-prefs2_option"><div class="fs-cc-prefs2_toggle-wrapper"><div class="fs-cc-prefs2_label">Analytics cookies</div><label class="w-checkbox fs-cc-prefs2_checkbox-field"><div class="w-checkbox-input w-checkbox-input--inputType-custom fs-cc-prefs2_checkbox"></div><input type="checkbox" id="analytics-2" name="analytics-2" data-name="Analytics 2" fs-cc-checkbox="analytics" style="opacity:0;position:absolute;z-index:-1"/><span for="analytics-2" class="fs-cc-prefs2_checkbox-label w-form-label">Essential</span></label></div></div><div class="fs-cc-prefs2_buttons-wrapper"><a fs-cc="deny" href="index.html#" class="fs-cc-prefs2_button fs-cc-button-alt w-button">Reject all cookies</a><a fs-cc="allow" href="index.html#" class="fs-cc-prefs2_button w-button">Allow all cookies</a><a fs-cc="submit" href="index.html#" class="fs-cc-prefs2_submit w-button">Save preferences</a></div></div></form><div class="w-form-done"></div><div class="w-form-fail"></div><div fs-cc="close" class="fs-cc-prefs2_overlay"></div></div></div></div><div class="splide-css w-embed"><style>
+/* Disabled Arrow Button */
+.splide button:disabled {
+	opacity: 0.4;
+}
+/* Dark Sections */
+.is--dark .splide__arrow {
+	filter: invert(100%);
+}
+.is--dark .splide__pagination__page {
+	background-color: #dfdad5;
+}
+
+/* Pill slider */
+.splide.pill .splide__pagination {
+	display: none;
+}
+.splide__slide.is-active .slider-pill_photo {
+	transform: scale(1.2);
+}
+
+/* Square slider */
+.splide__slide.is-active .slider-square_img {
+	transform: scale(1.05);
+}
+.splide__slide.is-active .slider-square_photo {
+	transform: scale(1.0);
+}
+.splide__slide.is-active .text-opacity {
+	opacity: 1.0;
+}
+
+/* Tall slider */
+.splide.tall .splide__pagination {
+	display: none;
+}
+.splide__slide.is-active .text-opacity {
+	opacity: 1.0;
+}
+.splide__slide.is-active .slider-tall_img {
+	transform: scale(1.05);
+}
+.splide__slide.is-active .slider-tall_photo {
+	transform: scale(1.0);
+}
+.splide__slide.is-active .rounded {
+	border-radius: 0em;
+}
+</style></div><div class="navbar_component"><div class="navbar_fixed-wrapper"><div data-animation="default" class="navbar_navbar-fixed w-nav" data-easing2="ease" data-easing="ease" data-collapse="medium" data-w-id="b84b6dbb-a9a5-849e-6120-2614de1bfcea" role="banner" data-duration="400" id="navbar_navbar-fixed"><div class="navbar_page-padding"><div class="navbar_container"><a href="index.html" aria-current="page" class="navbar_brand w-nav-brand w--current"><img src="../cdn.prod.website-files.com/62e0491ea0e532ba0a03a34f/6341de2144f1dcdb52783343_Awards_Master_k.png" loading="lazy" alt="Interaction Awards logo" class="navbar_logo-image"/></a><nav role="navigation" class="navbar_menu w-nav-menu"><div class="navbar_desktop-menu"><div data-hover="true" data-delay="250" data-w-id="20f7a68b-f3d2-0e8f-99a0-6f61979a01ef" class="navbar_link w-dropdown"><div class="navbar_link-toogle w-dropdown-toggle"><div>About</div><div class="navbar_link-dropdown-icon w-embed"><svg  height="100%" viewBox="0 0 11 7" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M2.19311 0.279167C1.795 -0.103626 1.16196 -0.0912138 0.779167 0.306891C0.396374 0.704996 0.408786 1.33804 0.806891 1.72083L2.19311 0.279167ZM5.66 5L4.96689 5.72083L5.6883 6.4145L6.38139 5.69253L5.66 5ZM10.2214 1.69253C10.6039 1.29412 10.5909 0.661087 10.1925 0.278613C9.79412 -0.103862 9.16109 -0.0909431 8.77861 0.307468L10.2214 1.69253ZM0.806891 1.72083L4.96689 5.72083L6.35311 4.27917L2.19311 0.279167L0.806891 1.72083ZM6.38139 5.69253L10.2214 1.69253L8.77861 0.307468L4.93861 4.30747L6.38139 5.69253Z" fill="#3E7DA9"/>
+</svg></div></div><nav class="navbar_link-dropdown-list w-dropdown-list"><div class="navbar_link-dropdown-list-wrapper"><a href="about.html" class="navbar_link is-dropdown-link w-dropdown-link">Interaction Awards</a><a href="about-jury.html" class="navbar_link is-dropdown-link w-dropdown-link">Jury</a><a href="peer-reviewers.html" class="navbar_link is-dropdown-link w-dropdown-link">Peer Reviewers<br/></a><a href="team.html" class="navbar_link is-dropdown-link w-dropdown-link">Awards Team</a><a href="about.html#faq" class="navbar_link is-dropdown-link w-dropdown-link">FAQs</a></div></nav></div><a href="winners-finalist%3Fyear=2012.html" class="navbar_link w-nav-link">Winners &amp; Finalists </a><a href="blog-news.html" class="navbar_link w-nav-link">News</a><a href="partners.html" class="navbar_link w-nav-link">Sponsors</a></div><div class="navbar_mobile-menu"><div class="navbar_mobile-menu-wrapper"><a href="index.html" aria-current="page" class="navbar_link w-nav-link w--current">Home</a><div data-w-id="50e2cf95-5af2-a77f-c536-814c8f1e25e5" class="navbar_link"><div>About</div><div class="navbar_link-mobile-dropdown-icon w-embed"><svg height="100%" viewBox="0 0 7 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0.278614 0.307467C0.661089 -0.0909443 1.29412 -0.103863 1.69253 0.278612L6.4145 4.8117L1.72083 9.69311C1.33804 10.0912 0.704998 10.1036 0.306893 9.72083C-0.0912125 9.33804 -0.103625 8.705 0.279168 8.30689L3.5855 4.8683L0.307469 1.72139C-0.0909418 1.33891 -0.103861 0.705878 0.278614 0.307467Z" fill="#3E7DA9"/>
+</svg></div></div><a href="enter.html" class="navbar_link w-nav-link">Submission</a><a href="winners-finalist%3Fyear=2012.html" class="navbar_link w-nav-link">Winners &amp; Finalists </a><a href="blog-news.html" class="navbar_link w-nav-link">News</a><a href="partners.html" class="navbar_link w-nav-link">Sponsors</a><div data-w-id="f78ba1e5-105a-3673-4965-edb28745b42c" class="wg-element-wrapper sw5"><div data-hover="false" data-delay="300" data-w-id="f78ba1e5-105a-3673-4965-edb28745b42d" class="wg-dropdown-1 w-dropdown"><div lang="en" class="wg-dd-1-togle w-dropdown-toggle"><div>en</div></div><nav data-w-id="f78ba1e5-105a-3673-4965-edb28745b431" class="wg-dd-1-list w-dropdown-list"><div class="wg-dropdown-list-wrapper"><a href="index.html#" lang="es" class="wg-dropdown-1-link w-dropdown-link">es</a><a href="index.html#" lang="br" class="wg-dropdown-1-link w-dropdown-link">BR</a><a href="index.html#" lang="fr" class="wg-dropdown-1-link w-dropdown-link">fr</a><a href="index.html#" lang="ar" class="wg-dropdown-1-link w-dropdown-link">AR</a><a href="index.html#" lang="zh" class="wg-dropdown-1-link w-dropdown-link">CN</a></div></nav></div></div></div><div class="navbar_mobile-secondary-wrapper"><div class="navbar_mobile-secondary-menu-1"><div data-w-id="990a9e06-7827-d7c7-43c1-c16fb1aa1195" class="navbar_link is-back"><div class="navbar_link-mobile-dropdown-icon is-back w-embed"><svg height="100%" viewBox="0 0 7 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0.278614 0.307467C0.661089 -0.0909443 1.29412 -0.103863 1.69253 0.278612L6.4145 4.8117L1.72083 9.69311C1.33804 10.0912 0.704998 10.1036 0.306893 9.72083C-0.0912125 9.33804 -0.103625 8.705 0.279168 8.30689L3.5855 4.8683L0.307469 1.72139C-0.0909418 1.33891 -0.103861 0.705878 0.278614 0.307467Z" fill="#3E7DA9"/>
+</svg></div><div>About</div></div><a href="about.html" class="navbar_link w-nav-link">IxDAwards</a><a href="about-jury.html" class="navbar_link w-nav-link">Jury</a><a href="peer-reviewers.html" class="navbar_link w-nav-link">Peer Reviewers<br/></a><a href="team.html" class="navbar_link w-nav-link">Awards Team</a><a href="about.html#faq" class="navbar_link w-nav-link">FAQs<br/></a></div></div></div></nav><div fs-mirrorclick-element="target-5" class="navbar_menu-button w-nav-button"><div data-w-id="6cdc955b-0a3b-9acf-0ca9-0d257e0ba7e8" class="ham-icon_component"><div class="ham-icon_line"><div class="ham-icon_internal-line-2"></div><div class="ham-icon_internal-line"></div></div></div></div></div></div></div></div><div data-w-id="42b5f7c5-8614-0bf4-34d5-516f0bf10415" class="navbar_mobile-close-mask"></div></div><main id="main" class="main-wrapper"><header class="section-home-header"><div class="w-dyn-list"><div class="home-header_empty-state w-dyn-empty"><div class="home-header_regular-state"><div class="page-padding"><div class="container-large"><div class="padding-vertical padding-huge"><div class="max-width-xlarge"><h1 class="heading-large">We recognized outstanding Interaction Design from all over the world, welcoming work created by individuals, companies, as well as students.<br/><br/>2024 <a href="blog-news.html">was the last edition of the Awards.</a></h1></div></div></div></div></div></div></div></header><section class="section-home-timeline"><div class="page-padding"><div class="container-large"><div class="padding-top padding-medium"></div></div></div></section><section class="section-home-past-awards"><div class="page-padding"><div class="container-large"><div class="padding-vertical padding-large"><div class="margin-bottom margin-large"><h2 class="heading-medium">2024 Interaction Awards</h2></div><div class="margin-bottom margin-medium"><div class="featured-projects_component"><div class="splide slider1 pill"><div class="splide__track w-dyn-list"><div role="list" class="splide__list w-dyn-items"><div role="listitem" class="splide__slide w-dyn-item"><a href="projects/mobywatel.html" class="featured-projects_item-card w-inline-block"><div class="featured-projects_item-image-wrapper"><img src="../cdn.prod.website-files.com/62e066afb75d5652e7122f80/6619fec6b0e7d37fe27846dd_44560248.jpg" loading="lazy" alt="mObywatel 2.0" sizes="(max-width: 479px) 22vw, 23vw" srcset="../cdn.prod.website-files.com/62e066afb75d5652e7122f80/6619fec6b0e7d37fe27846dd_44560248-p-500.jpg 500w, ../cdn.prod.website-files.com/62e066afb75d5652e7122f80/6619fec6b0e7d37fe27846dd_44560248-p-800.jpg 800w, ../cdn.prod.website-files.com/62e066afb75d5652e7122f80/6619fec6b0e7d37fe27846dd_44560248-p-1080.jpg 1080w, ../cdn.prod.website-files.com/62e066afb75d5652e7122f80/6619fec6b0e7d37fe27846dd_44560248-p-1600.jpg 1600w, ../cdn.prod.website-files.com/62e066afb75d5652e7122f80/6619fec6b0e7d37fe27846dd_44560248-p-2000.jpg 2000w, ../cdn.prod.website-files.com/62e066afb75d5652e7122f80/6619fec6b0e7d37fe27846dd_44560248.jpg 2400w" class="image-absolute"/></div><div class="featured-projects_item-content"><div class="text-color-black"><h3 class="heading-regular text-style-2lines">mObywatel 2.0</h3></div><div class="hide-mobile-landscape"><p class="text-style-3lines">Introducing mObywatel 2.0 , a game-changing mobile application from the Polish government, designed to transform how citizens interact with public services. Imagine a world where government processes are streamlined and accessible right from the palm of your hand. Crafted to simplify life and elevate access to public services, mObywatel 2.0 boasts advanced features that redefine convenience. At its heart lies mDowód, a revolutionary feature that puts your ID directly on your phone. But that&#x27;s not all. </p></div></div></a></div><div role="listitem" class="splide__slide w-dyn-item"><a href="projects/oli-fostering-human-connections.html" class="featured-projects_item-card w-inline-block"><div class="featured-projects_item-image-wrapper"><img src="../cdn.prod.website-files.com/62e066afb75d5652e7122f80/6619c81e96c549bc4df6458f_44083688.jpg" loading="lazy" alt="Oli: Fostering Human Connections " sizes="(max-width: 479px) 22vw, 23vw" srcset="../cdn.prod.website-files.com/62e066afb75d5652e7122f80/6619c81e96c549bc4df6458f_44083688-p-500.jpg 500w, ../cdn.prod.website-files.com/62e066afb75d5652e7122f80/6619c81e96c549bc4df6458f_44083688-p-800.jpg 800w, ../cdn.prod.website-files.com/62e066afb75d5652e7122f80/6619c81e96c549bc4df6458f_44083688-p-1080.jpg 1080w, ../cdn.prod.website-files.com/62e066afb75d5652e7122f80/6619c81e96c549bc4df6458f_44083688-p-1600.jpg 1600w, ../cdn.prod.website-files.com/62e066afb75d5652e7122f80/6619c81e96c549bc4df6458f_44083688-p-2000.jpg 2000w, ../cdn.prod.website-files.com/62e066afb75d5652e7122f80/6619c81e96c549bc4df6458f_44083688.jpg 2400w" class="image-absolute"/></div><div class="featured-projects_item-content"><div class="text-color-black"><h3 class="heading-regular text-style-2lines">Oli: Fostering Human Connections </h3></div><div class="hide-mobile-landscape"><p class="text-style-3lines">Oli combats loneliness in cities by creating experiences that encourage people to gather and relish each other&#x27;s presence in public spaces. By simply moving the hands around Oli, one can create tunes and connect with the surroundings. </p></div></div></a></div><div role="listitem" class="splide__slide w-dyn-item"><a href="projects/persona-mapper.html" class="featured-projects_item-card w-inline-block"><div class="featured-projects_item-image-wrapper"><img src="../cdn.prod.website-files.com/62e066afb75d5652e7122f80/6619f2becd2040ad661eeb11_44096490.jpg" loading="lazy" alt="Persona Mapper: Better, Faster, More Actionable Personas" sizes="(max-width: 479px) 22vw, 23vw" srcset="../cdn.prod.website-files.com/62e066afb75d5652e7122f80/6619f2becd2040ad661eeb11_44096490-p-500.jpg 500w, ../cdn.prod.website-files.com/62e066afb75d5652e7122f80/6619f2becd2040ad661eeb11_44096490-p-800.jpg 800w, ../cdn.prod.website-files.com/62e066afb75d5652e7122f80/6619f2becd2040ad661eeb11_44096490-p-1080.jpg 1080w, ../cdn.prod.website-files.com/62e066afb75d5652e7122f80/6619f2becd2040ad661eeb11_44096490-p-1600.jpg 1600w, ../cdn.prod.website-files.com/62e066afb75d5652e7122f80/6619f2becd2040ad661eeb11_44096490-p-2000.jpg 2000w, ../cdn.prod.website-files.com/62e066afb75d5652e7122f80/6619f2becd2040ad661eeb11_44096490.jpg 2400w" class="image-absolute"/></div><div class="featured-projects_item-content"><div class="text-color-black"><h3 class="heading-regular text-style-2lines">Persona Mapper: Better, Faster, More Actionable Personas</h3></div><div class="hide-mobile-landscape"><p class="text-style-3lines">Across the globe, User Experience (UX) Research teams invest months in user interviews and weeks in crafting a set of Personas. A User Persona, is a detailed and semi-fictional representation of a target user, based on research and insights. Yet, these Personas often fall short of their intended impact on UX and products. We embarked on a mission to enhance Personas, ensuring they deliver their true value in understanding users and facilitating exceptional user experiences. After numerous iterations, we developed the Persona Mapper—a tool designed to revitalize Personas. </p></div></div></a></div><div role="listitem" class="splide__slide w-dyn-item"><a href="projects/midas.html" class="featured-projects_item-card w-inline-block"><div class="featured-projects_item-image-wrapper"><img src="../cdn.prod.website-files.com/62e066afb75d5652e7122f80/6619eb0210a9b25b985d128f_44059393.jpg" loading="lazy" alt="Midas - Accessible Controller for Gamers Living with Muscular Dystrophy" sizes="(max-width: 479px) 22vw, 23vw" srcset="../cdn.prod.website-files.com/62e066afb75d5652e7122f80/6619eb0210a9b25b985d128f_44059393-p-500.jpg 500w, ../cdn.prod.website-files.com/62e066afb75d5652e7122f80/6619eb0210a9b25b985d128f_44059393-p-800.jpg 800w, ../cdn.prod.website-files.com/62e066afb75d5652e7122f80/6619eb0210a9b25b985d128f_44059393-p-1080.jpg 1080w, ../cdn.prod.website-files.com/62e066afb75d5652e7122f80/6619eb0210a9b25b985d128f_44059393-p-1600.jpg 1600w, ../cdn.prod.website-files.com/62e066afb75d5652e7122f80/6619eb0210a9b25b985d128f_44059393-p-2000.jpg 2000w, ../cdn.prod.website-files.com/62e066afb75d5652e7122f80/6619eb0210a9b25b985d128f_44059393.jpg 2400w" class="image-absolute"/></div><div class="featured-projects_item-content"><div class="text-color-black"><h3 class="heading-regular text-style-2lines">Midas - Accessible Controller for Gamers Living with Muscular Dystrophy</h3></div><div class="hide-mobile-landscape"><p class="text-style-3lines">Midas is an accessible gaming controller which can turn any object or surface touched into a control interface. Designed to improve the gaming experience for people living with Muscular Dystrophy (MD), Midas acknowledges the lack of inclusive gaming hardware for people living with musculoskeletal disabilities. It challenges the idea of a traditional controller by proposing a solution which caters to an individual’s experience of MD, unique even within a similar diagnosis. </p></div></div></a></div><div role="listitem" class="splide__slide w-dyn-item"><a href="projects/alba-a-period-detection-wipe-for-the-visually-impaired.html" class="featured-projects_item-card w-inline-block"><div class="featured-projects_item-image-wrapper"><img src="../cdn.prod.website-files.com/62e066afb75d5652e7122f80/6619dc756042563326cdb0d5_44747725.jpg" loading="lazy" alt="Alba: A Period Detection Wipe for the Visually Impaired" class="image-absolute"/></div><div class="featured-projects_item-content"><div class="text-color-black"><h3 class="heading-regular text-style-2lines">Alba: A Period Detection Wipe for the Visually Impaired</h3></div><div class="hide-mobile-landscape"><p class="text-style-3lines">Menstruating individuals generally rely on visual cues to know when they have gotten their period. However, menstruating people who are blind or visually impaired have to rely on other senses including touch, smell or even taste to distinguish between blood and other bodily fluids, or rely on others to know when they&#x27;ve started their period. Moreover, it also inhibits their ability to make decisions regarding intercourse and pregnancy independently.</p></div></div></a></div></div></div><div class="splide__arrows"><div class="splide__arrow splide__arrow--prev"><div class="splide_arrow is-left w-embed"><svg  height="1rem" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M17 6.99995C17.5523 6.99995 18 7.44767 18 7.99995C18 8.55223 17.5523 8.99995 17 8.99995V6.99995ZM0.292893 8.70706C-0.0976309 8.31653 -0.0976309 7.68337 0.292893 7.29284L6.65685 0.928879C7.04738 0.538355 7.68054 0.538355 8.07107 0.928879C8.46159 1.31941 8.46159 1.95257 8.07107 2.3431L2.41421 7.99995L8.07107 13.6568C8.46159 14.0473 8.46159 14.6804 8.07107 15.071C7.68054 15.4615 7.04738 15.4615 6.65685 15.071L0.292893 8.70706ZM17 8.99995H1V6.99995H17V8.99995Z" fill="currentcolor"/>
+</svg></div></div><div class="splide__arrow splide__arrow--next"><div class="splide_arrow is-right w-embed"><svg  height="1rem" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M17 6.99995C17.5523 6.99995 18 7.44767 18 7.99995C18 8.55223 17.5523 8.99995 17 8.99995V6.99995ZM0.292893 8.70706C-0.0976309 8.31653 -0.0976309 7.68337 0.292893 7.29284L6.65685 0.928879C7.04738 0.538355 7.68054 0.538355 8.07107 0.928879C8.46159 1.31941 8.46159 1.95257 8.07107 2.3431L2.41421 7.99995L8.07107 13.6568C8.46159 14.0473 8.46159 14.6804 8.07107 15.071C7.68054 15.4615 7.04738 15.4615 6.65685 15.071L0.292893 8.70706ZM17 8.99995H1V6.99995H17V8.99995Z" fill="currentcolor"/>
+</svg></div></div></div></div></div></div><div class="see-all-cta_component"><h3 class="heading-2">See all projects</h3><a href="winners-finalist%3Fyear=2012.html" class="button w-button">all projects</a></div></div></div></div></section><section class="section-home-news"><div class="z-1"><div class="page-padding"><div class="container-large"><div class="padding-bottom padding-medium"><div class="padding-vertical padding-large"><div class="margin-bottom margin-large"><h2 class="heading-medium">IxDAwards News</h2></div><div class="news-home_component"><div class="news-home_collection-wrapper w-dyn-list"><div role="list" class="news-home_list w-dyn-items"><div role="listitem" class="news-home_item-wrapper w-dyn-item"><div class="news-home_item"><div class="hide-mobile-portrait"><div class="news-home_date-wrapper"><div class="news-home_date-square"></div><div>30 Jun</div><div>2024</div></div><h3 class="heading-xlarge">This is the end, friends.</h3></div><div class="news-home_bottom-wrapper"><div class="news-home_image-wrapper"><img loading="lazy" alt="" src="../cdn.prod.website-files.com/62e066afb75d5652e7122f80/6681c8d082172d8ebb1790ad_Blog%20-%20END@2x.png" sizes="(max-width: 479px) 96px, (max-width: 767px) 160px, 192px" srcset="../cdn.prod.website-files.com/62e066afb75d5652e7122f80/6681c8d082172d8ebb1790ad_Blog%20-%20END@2x-p-500.png 500w, ../cdn.prod.website-files.com/62e066afb75d5652e7122f80/6681c8d082172d8ebb1790ad_Blog%20-%20END@2x-p-800.png 800w, ../cdn.prod.website-files.com/62e066afb75d5652e7122f80/6681c8d082172d8ebb1790ad_Blog%20-%20END@2x-p-1080.png 1080w, ../cdn.prod.website-files.com/62e066afb75d5652e7122f80/6681c8d082172d8ebb1790ad_Blog%20-%20END@2x-p-1600.png 1600w, ../cdn.prod.website-files.com/62e066afb75d5652e7122f80/6681c8d082172d8ebb1790ad_Blog%20-%20END@2x-p-2000.png 2000w, ../cdn.prod.website-files.com/62e066afb75d5652e7122f80/6681c8d082172d8ebb1790ad_Blog%20-%20END@2x-p-2600.png 2600w, ../cdn.prod.website-files.com/62e066afb75d5652e7122f80/6681c8d082172d8ebb1790ad_Blog%20-%20END@2x-p-3200.png 3200w, ../cdn.prod.website-files.com/62e066afb75d5652e7122f80/6681c8d082172d8ebb1790ad_Blog%20-%20END@2x.png 3840w" class="image-absolute"/></div><div class="show-mobile-portrait"><div class="news-home_date-wrapper"><div class="news-home_date-square"></div><div>June 30, 2024</div></div><h3>This is the end, friends.</h3></div><div class="news-home_item-detail-wrapper"><div class="margin-bottom margin-medium"><p class="text-style-3lines">Interaction Awards is ending in August 2024.</p></div><a href="blog-news.html" class="button-text">read more</a></div></div></div></div><div role="listitem" class="news-home_item-wrapper w-dyn-item"><div class="news-home_item"><div class="hide-mobile-portrait"><div class="news-home_date-wrapper"><div class="news-home_date-square"></div><div>15 Apr</div><div>2024</div></div><h3 class="heading-xlarge">And the 2024 Interaction Awards Finalists are…</h3></div><div class="news-home_bottom-wrapper"><div class="news-home_image-wrapper"><img loading="lazy" alt="" src="../cdn.prod.website-files.com/62e066afb75d5652e7122f80/6617090da4e99ded42ca61d3_Mobile%20-%20Finalist.png" class="image-absolute"/></div><div class="show-mobile-portrait"><div class="news-home_date-wrapper"><div class="news-home_date-square"></div><div>April 15, 2024</div></div><h3>And the 2024 Interaction Awards Finalists are…</h3></div><div class="news-home_item-detail-wrapper"><div class="margin-bottom margin-medium"><p class="text-style-3lines">After hard work by our Peer Reviewers and thorough discussion by our 2024 jury, we’re proud to announce the 26 projects representing 10 countries that make up our 2024 Interaction Awards Finalists.</p></div><a href="blog-news.html" class="button-text">read more</a></div></div></div></div></div></div></div></div></div></div></div></div><div class="background_component"><div class="background_gradient"></div></div></section></main><div class="section-footer"><div class="footer_component"><div class="footer_subscribe"><section class="section-subscribe"><div class="page-padding"><div class="container-large"><div class="padding-vertical padding-medium"><div class="subscribe_component"><div fs-formsubmit-element="form" class="subscribe_form-block w-form"><form id="email-form" name="email-form" data-name="Email Form" action="https://ixda.us2.list-manage.com/subscribe/post?u=e714c585710f24c2743e2cb29&amp;amp;id=40d2b554b3&amp;amp;f_id=0002c2e1f0" method="post" class="subscribe_form" data-wf-page-id="64a30e0bd92004124e4ccfd7" data-wf-element-id="434ad6c2-9e3d-ac4f-5f5e-4fc871ed6acd"><div class="subscribe_form-layout"><div class="subscribe_left-content"><div class="margin-bottom margin-small"><h2 class="heading-medium">Subscribe to our newsletter</h2></div><div class="max-width-medium"><p>Get news from the community, right in your inbox.</p></div></div><div class="subscribe_form-input-wrapper"><input class="subscribe_form-input w-input" maxlength="256" name="email-2" data-name="Email 2" placeholder="Enter your email address" type="email" id="email-2" required=""/><div class="subscribe_button-wrapper"><input type="submit" data-wait="Please wait..." class="button is-form-submit w-button" value="Subscribe"/></div></div></div></form><div class="form-message-success w-form-done"><div>Thank you for subscribing to the Interaction Awards updates!</div><div class="subscribe_close-wrapper"><a fs-formsubmit-element="reset" href="index.html#" class="subscribe_form-close w-inline-block"><div class="subscribe_form-close-icon w-embed"><svg height="100%" viewBox="0 0 20 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M2.6057 0.485276C2.21517 0.0947519 1.58201 0.0947522 1.19148 0.485276C0.800957 0.875801 0.800957 1.50897 1.19148 1.89949L8.26352 8.97153L0.486252 16.7488C0.095728 17.1393 0.0957284 17.7725 0.486252 18.163C0.876777 18.5535 1.50994 18.5535 1.90047 18.163L9.67773 10.3857L17.4549 18.1629C17.8455 18.5535 18.4786 18.5535 18.8692 18.1629C19.2597 17.7724 19.2597 17.1393 18.8692 16.7487L11.0919 8.97153L18.1639 1.89955C18.5544 1.50903 18.5544 0.875865 18.1639 0.485341C17.7734 0.094817 17.1402 0.094817 16.7497 0.485341L9.67773 7.55731L2.6057 0.485276Z" fill="currentcolor"/>
+</svg></div></a></div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></div></div></div></section></div><div class="footer_bottom"><div class="page-padding"><div class="container-large"><div class="padding-vertical padding-large"><div class="footer_main-content"><div class="footer_menu"><a href="about.html" class="footer_link">About</a><a href="mailto:awards@ixda.org" class="footer_link">Contact</a><a href="terms-conditions.html" class="footer_link">Terms &amp; conditions</a><a href="privacy.html" class="footer_link">Privacy Policy</a><a title="Cookie Preferences" fs-cc="open-preferences" aria-label="Cookie Preferences" role="button" href="index.html#" class="footer_link">Privacy Settings</a></div><div class="footer_social-wrapper"><div class="margin-bottom margin-small"><h2 class="heading-small">Connect with us on social media</h2></div><div class="footer_social-list"><a href="https://www.instagram.com/ixdawards/" target="_blank" class="footer_social-link w-inline-block"><div class="footer_social-icon w-embed"><svg  height="100%" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M24 6C19.1112 6 18.4992 6.0204 16.5792 6.108C14.6628 6.1956 13.3536 6.5004 12.2088 6.9456C11.0088 7.3968 9.9204 8.1048 9.0204 9.0216C8.10507 9.92056 7.39663 11.0082 6.9444 12.2088C6.5016 13.3536 6.1956 14.664 6.108 16.5804C6.0216 18.4992 6 19.11 6 24C6 28.89 6.0204 29.5008 6.108 31.4208C6.1956 33.3372 6.5004 34.6464 6.9456 35.7912C7.3968 36.9912 8.1048 38.0796 9.0216 38.9796C9.92058 39.8949 11.0082 40.6033 12.2088 41.0556C13.3536 41.4996 14.6628 41.8044 16.5792 41.892C18.4992 41.9796 19.1112 42 24 42C28.8888 42 29.5008 41.9796 31.4208 41.892C33.3372 41.8044 34.6464 41.4996 35.7912 41.0544C36.9912 40.6032 38.0796 39.8952 38.9796 38.9784C39.8949 38.0794 40.6034 36.9918 41.0556 35.7912C41.4996 34.6464 41.8044 33.3372 41.892 31.4208C41.9796 29.5008 42 28.8888 42 24C42 19.1112 41.9796 18.4992 41.892 16.5792C41.8044 14.6628 41.4996 13.3536 41.0544 12.2088C40.6025 11.0077 39.894 9.91959 38.9784 9.0204C38.0794 8.10507 36.9918 7.39663 35.7912 6.9444C34.6464 6.5016 33.336 6.1956 31.4196 6.108C29.5008 6.0216 28.89 6 24 6ZM24 9.2436C28.806 9.2436 29.376 9.2616 31.2744 9.348C33.0288 9.4284 33.9816 9.72 34.6164 9.9684C35.4564 10.2936 36.0564 10.6848 36.6864 11.3136C37.3164 11.9436 37.7064 12.5436 38.0316 13.3836C38.2788 14.0184 38.5716 14.9712 38.652 16.7256C38.7384 18.624 38.7564 19.194 38.7564 24C38.7564 28.806 38.7384 29.376 38.652 31.2744C38.5716 33.0288 38.28 33.9816 38.0316 34.6164C37.7435 35.3983 37.2839 36.1056 36.6864 36.6864C36.1057 37.284 35.3983 37.7437 34.6164 38.0316C33.9816 38.2788 33.0288 38.5716 31.2744 38.652C29.376 38.7384 28.8072 38.7564 24 38.7564C19.1928 38.7564 18.624 38.7384 16.7256 38.652C14.9712 38.5716 14.0184 38.28 13.3836 38.0316C12.6017 37.7435 11.8944 37.2839 11.3136 36.6864C10.7162 36.1055 10.2566 35.3982 9.9684 34.6164C9.7212 33.9816 9.4284 33.0288 9.348 31.2744C9.2616 29.376 9.2436 28.806 9.2436 24C9.2436 19.194 9.2616 18.624 9.348 16.7256C9.4284 14.9712 9.72 14.0184 9.9684 13.3836C10.2936 12.5436 10.6848 11.9436 11.3136 11.3136C11.8943 10.7161 12.6017 10.2564 13.3836 9.9684C14.0184 9.7212 14.9712 9.4284 16.7256 9.348C18.624 9.2616 19.194 9.2436 24 9.2436Z" fill="currentcolor"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M24 30.0056C23.2113 30.0056 22.4303 29.8502 21.7016 29.5484C20.973 29.2466 20.3109 28.8042 19.7532 28.2465C19.1955 27.6888 18.7531 27.0267 18.4512 26.298C18.1494 25.5693 17.994 24.7883 17.994 23.9996C17.994 23.2109 18.1494 22.4299 18.4512 21.7012C18.7531 20.9725 19.1955 20.3104 19.7532 19.7527C20.3109 19.195 20.973 18.7526 21.7016 18.4508C22.4303 18.1489 23.2113 17.9936 24 17.9936C25.5929 17.9936 27.1206 18.6264 28.2469 19.7527C29.3733 20.879 30.006 22.4067 30.006 23.9996C30.006 25.5925 29.3733 27.1201 28.2469 28.2465C27.1206 29.3728 25.5929 30.0056 24 30.0056ZM24 14.7476C21.5463 14.7476 19.193 15.7223 17.4579 17.4574C15.7228 19.1925 14.748 21.5458 14.748 23.9996C14.748 26.4534 15.7228 28.8066 17.4579 30.5417C19.193 32.2768 21.5463 33.2516 24 33.2516C26.4538 33.2516 28.8071 32.2768 30.5422 30.5417C32.2773 28.8066 33.252 26.4534 33.252 23.9996C33.252 21.5458 32.2773 19.1925 30.5422 17.4574C28.8071 15.7223 26.4538 14.7476 24 14.7476ZM35.9436 14.5796C35.9436 15.1596 35.7132 15.7159 35.3031 16.126C34.8929 16.5362 34.3367 16.7666 33.7566 16.7666C33.1766 16.7666 32.6203 16.5362 32.2102 16.126C31.8001 15.7159 31.5696 15.1596 31.5696 14.5796C31.5696 13.9995 31.8001 13.4433 32.2102 13.0331C32.6203 12.623 33.1766 12.3926 33.7566 12.3926C34.3367 12.3926 34.8929 12.623 35.3031 13.0331C35.7132 13.4433 35.9436 13.9995 35.9436 14.5796Z" fill="currentcolor"/>
+</svg></div></a><a href="https://www.facebook.com/InteractionAwards" target="_blank" class="footer_social-link w-inline-block"><div class="footer_social-icon w-embed"><svg  height="100%" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M40 20.1213C40 9.008 31.0467 0 20 0C8.95333 0 0 9.008 0 20.1213C0 30.1667 7.312 38.4907 16.8747 40V25.9387H11.7973V20.12H16.8747V15.688C16.8747 10.6453 19.86 7.85867 24.4293 7.85867C26.616 7.85867 28.9067 8.252 28.9067 8.252V13.204H26.3827C23.8987 13.204 23.1253 14.756 23.1253 16.348V20.1213H28.672L27.7853 25.9373H23.1253V40C32.688 38.4907 40 30.1667 40 20.1213Z" fill="currentcolor"/>
+</svg></div></a><a href="https://twitter.com/ixdawards" target="_blank" class="footer_social-link w-inline-block"><div class="footer_social-icon w-embed"><svg height="100%" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M20.8298 15.2357L33.8593 0H30.7717L19.4582 13.229L10.4221 0H0L13.6644 20.0045L0 35.9815H3.08776L15.0352 22.0113L24.5779 35.9815H35L20.829 15.2357H20.8298ZM16.6006 20.1808L15.2162 18.1888L4.20032 2.33822H8.94294L17.8328 15.1301L19.2173 17.1221L30.7732 33.7496H26.0306L16.6006 20.1815V20.1808Z"  fill="currentcolor"/>
+</svg></div></a><a href="https://medium.com/@ixdawards" target="_blank" class="footer_social-link w-inline-block"><div class="footer_social-icon w-embed"><svg  height="100%" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path xmlns="http://www.w3.org/2000/svg" d="M11.8129 9.75C16.2659 9.75 19.8755 13.3848 19.8755 17.8682C19.8755 22.3516 16.2656 25.9862 11.8129 25.9862C7.36013 25.9862 3.75 22.3516 3.75 17.8682C3.75 13.3848 7.35986 9.75 11.8129 9.75ZM24.6887 10.2255C26.9152 10.2255 28.7202 13.6469 28.7202 17.8682H28.7204C28.7204 22.0884 26.9155 25.5109 24.689 25.5109C22.4625 25.5109 20.6576 22.0884 20.6576 17.8682C20.6576 13.648 22.4622 10.2255 24.6887 10.2255ZM30.9204 11.0216C31.7033 11.0216 32.3382 14.0869 32.3382 17.8682C32.3382 21.6485 31.7035 24.7148 30.9204 24.7148C30.1372 24.7148 29.5028 21.6493 29.5028 17.8682C29.5028 14.0871 30.1375 11.0216 30.9204 11.0216Z" fill="currentcolor"/>
+</svg></div></a><a href="https://www.linkedin.com/company/ixda" target="_blank" class="footer_social-link w-inline-block"><div class="footer_social-icon w-embed"><svg  height="100%" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M36 2.64706V33.3529C36 34.055 35.7211 34.7283 35.2247 35.2247C34.7283 35.7211 34.055 36 33.3529 36H2.64706C1.94502 36 1.27173 35.7211 0.775306 35.2247C0.278886 34.7283 0 34.055 0 33.3529L0 2.64706C0 1.94502 0.278886 1.27173 0.775306 0.775306C1.27173 0.278886 1.94502 0 2.64706 0L33.3529 0C34.055 0 34.7283 0.278886 35.2247 0.775306C35.7211 1.27173 36 1.94502 36 2.64706ZM10.5882 13.7647H5.29412V30.7059H10.5882V13.7647ZM11.0647 7.94118C11.0675 7.54072 10.9914 7.14363 10.8407 6.77259C10.69 6.40155 10.4677 6.06383 10.1866 5.77869C9.90535 5.49356 9.57074 5.26661 9.20183 5.1108C8.83292 4.95498 8.43693 4.87336 8.03647 4.87059H7.94118C7.12681 4.87059 6.34579 5.1941 5.76994 5.76994C5.1941 6.34579 4.87059 7.12681 4.87059 7.94118C4.87059 8.75555 5.1941 9.53656 5.76994 10.1124C6.34579 10.6883 7.12681 11.0118 7.94118 11.0118C8.34166 11.0216 8.74016 10.9525 9.11391 10.8083C9.48766 10.664 9.82933 10.4476 10.1194 10.1713C10.4095 9.89499 10.6423 9.56424 10.8045 9.19793C10.9667 8.83163 11.0551 8.43696 11.0647 8.03647V7.94118ZM30.7059 20.4141C30.7059 15.3212 27.4659 13.3412 24.2471 13.3412C23.1932 13.2884 22.1438 13.5129 21.2037 13.9922C20.2637 14.4715 19.4657 15.189 18.8894 16.0729H18.7412V13.7647H13.7647V30.7059H19.0588V21.6953C18.9823 20.7725 19.273 19.8567 19.8678 19.1469C20.4625 18.4372 21.3133 17.9908 22.2353 17.9047H22.4365C24.12 17.9047 25.3694 18.9635 25.3694 21.6318V30.7059H30.6635L30.7059 20.4141Z" fill="currentcolor"/>
+</svg></div></a></div></div></div><div class="footer_legal-wrapper"><div>Copyright 2004-23. Interaction Design Association</div></div></div></div></div></div><a href="index.html#main" class="up-button w-inline-block"><div class="up-button_icon w-embed"><svg  height="100%" viewBox="0 0 29 29" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M28.3324 15.2071C27.9418 15.5976 27.3087 15.5976 26.9181 15.2071L15.5 3.78918L15.5 27.625C15.5 28.1773 15.0523 28.625 14.5 28.625C13.9477 28.625 13.5 28.1773 13.5 27.625L13.5 3.78924L2.08236 15.2071C1.69184 15.5976 1.05867 15.5976 0.668144 15.2071C0.277617 14.8166 0.277611 14.1834 0.668131 13.7929L13.7929 0.667899C13.9804 0.480361 14.2348 0.375002 14.5 0.375C14.7652 0.374998 15.0196 0.480352 15.2071 0.667887L28.3323 13.7929C28.7229 14.1834 28.7229 14.8166 28.3324 15.2071Z" fill="currentcolor"/>
+</svg></div><div>Up</div></a></div></div></div><script src="d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js%3Fsite=62e0491ea0e532ba0a03a34f" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script><script src="../cdn.prod.website-files.com/62e0491ea0e532ba0a03a34f/js/webflow.4a35b67fe.js" type="text/javascript"></script><script>
+var navbar = document.getElementById("navbar_navbar-fixed");
+/*
+window.onscroll = function(e) {
+
+  // print "false" if direction is down and "true" if up
+  if (this.oldScroll > this.scrollY){
+  navbar.style.transform = "translateY(0%)"
+  } else {
+  navbar.style.transform = "translateY(-100%)"
+  };
+  this.oldScroll = this.scrollY;
+};
+*/
+</script>
+
+<script>
+function setTopSpace (){
+	let size = document.getElementsByClassName("navbar_fixed-wrapper")[0].offsetHeight;;
+  //console.log(size);
+  let pageWrapper = document.getElementsByClassName("page-wrapper")[0];
+  //console.log(size.toString() + "px");
+  pageWrapper.style.paddingTop = size.toString() + "px";
+};
+setTopSpace ();
+
+window.onresize = function(event) {
+	setTopSpace ();
+};
+
+document.getElementById("navbar-close-top").onclick = function(){
+setTimeout(function() {setTopSpace ()}, 250);
+};
+
+</script>
+
+<script type="text/javascript" src="../cdn.weglot.com/weglot.min.js"></script>
+<script>
+// init Weglot
+Weglot.initialize({
+	api_key: 'wg_5d20250d855aac5746f315047e7033c31'
+});
+
+// on Weglot init
+Weglot.on('initialized', ()=>{
+	// get the current active language
+  const currentLang = Weglot.getCurrentLang();
+  // call updateDropdownLinks function
+  updateSW5DropdownLinks(currentLang); 
+});
+
+// for each of the .wg-element-wrapper language links
+document.querySelectorAll('.wg-element-wrapper.sw5 [lang]').forEach((link)=>{
+		// add a click event listener
+		link.addEventListener('click', function(e){
+    	// prevent default
+			e.preventDefault();
+      // switch to the current active language      
+      Weglot.switchTo(this.getAttribute('lang'));
+      // call updateDropdownLinks function
+      updateSW5DropdownLinks(this.getAttribute('lang'));
+		});
+});
+
+// updateDropdownLinks function
+function updateSW5DropdownLinks(currentLang){ 
+	// get the wrapper element
+	const $wrapper = document.querySelector('.wg-element-wrapper.sw5'); 
+  // if the .w-dropdown-toggle is not the current active language
+ 	if($wrapper.querySelector('.w-dropdown-toggle').getAttribute('lang') !== currentLang){
+  	// get the current active language link
+  	const $activeLangLink = $wrapper.querySelector('[lang='+currentLang+']');
+    // swap the dropdown toggle's text with the current active language link text
+		const $toggle = $activeLangLink.closest('.wg-element-wrapper').querySelector('.w-dropdown-toggle');
+  	const toggleTxt = $toggle.textContent; 
+  	const activeLangLinkTxt = $activeLangLink.textContent;
+  	$toggle.querySelector('div').textContent = activeLangLinkTxt;
+  	$activeLangLink.textContent = toggleTxt;
+  	// swap the dropdown toggle's lang attr with the current active language link lang attr  
+  	const lang = $activeLangLink.getAttribute('lang');
+		const toggleLang = $toggle.getAttribute('lang');
+		$toggle.setAttribute('lang', lang);
+		$activeLangLink.setAttribute('lang', toggleLang);
+  }
+}
+</script>
+
+<script>
+    function timer (wrapperClass){
+        const second = 1000,
+        minute = second * 60,
+        hour = minute * 60,
+        day = hour * 24;
+        let wrappers = document.getElementsByClassName(wrapperClass);
+        //console.log(wrappers);
+        for(let e=0; e<wrappers.length; e++){
+            let dayInfo = wrappers[e].getElementsByClassName("is-day")[0].innerText;
+            let yearInfo = wrappers[e].getElementsByClassName("is-year")[0].innerText;
+            let dayText = wrappers[e].getElementsByClassName("is-days-text")[0];
+            let hoursText = wrappers[e].getElementsByClassName("is-hours-text")[0];
+            let minutesText = wrappers[e].getElementsByClassName("is-minutes-text")[0];
+            let secondsText = wrappers[e].getElementsByClassName("is-seconds-text")[0];
+            let date = dayInfo + ", " + yearInfo + " 00:00:00";
+            //console.log(date);
+
+            let countDown = new Date(date).getTime(),
+            x = setInterval(function() {
+        
+                let now = new Date().getTime(),
+                distance = countDown - now;
+        
+                dayText.innerText = Math.floor(distance / (day)),
+                hoursText.innerText = Math.floor((distance % (day)) / (hour)),
+                minutesText.innerText = Math.floor((distance % (hour)) / (minute)),
+                secondsText.innerText = Math.floor((distance % (minute)) / second);
+
+            }, second)
+        };
+    }
+    
+    timer ("navbar_top-display-text-wrapper");
+    
+    </script>
+
+<script src="cdn.jsdelivr.net/npm/js-cookie@3.0.1/dist/js.cookie.min.js"></script>
+<script>
+//this hides the top message for a day if user already saw it 
+let clickTrigger = $(".navbar_top-close-wrapper");
+clickTrigger.click(function() {
+	// Time in the future
+	let expire = new Date(new Date().getTime() + 30 * 60 * 1000);
+  Cookies.set('already-closed','true',{expires: expire});
+});
+if (Cookies.get("already-closed")){
+	$(".navbar_top-mask").hide();
+  setTopSpace ();
+};
+</script><script src="cdn.jsdelivr.net/npm/@splidejs/splide@3.2.2/dist/js/splide.min.js"></script>
+<script>
+
+function slider1() {
+
+let splides = $('.slider1');
+for ( let i = 0, splideLength = splides.length; i < splideLength; i++ ) {
+	new Splide( splides[ i ], {
+  // Desktop on down
+	perPage: 3,
+	perMove: 1,
+  focus: 0, // 0 = left and 'center' = center
+  type: 'slide', // 'loop' or 'slide'
+  gap: '1rem', // space between slides
+  arrows: 'slider', // 'slider' or false
+  pagination: 'slider', // 'slider' or false
+  speed : 600, // transition speed in miliseconds
+  dragAngleThreshold: 60, // default is 30
+  autoWidth: false, // for cards with differing widths
+  rewind : false, // go back to beginning when reach end
+  rewindSpeed : 400,
+  waitForTransition : false,
+  updateOnMove : true,
+  trimSpace: true, // true removes empty space from end of list
+  breakpoints: {
+		991: {
+    	// Tablet
+			perPage: 2,
+      gap: '1rem',
+		},
+    767: {
+    	// Mobile Landscape
+			perPage: 1,
+      gap: '1rem',
+		},
+    479: {
+    	// Mobile Portrait
+			perPage: 1,
+      gap: '1rem',
+		}
+	}
+} ).mount();
+}
+
+}
+slider1();
+
+</script>
+
+
+
+</body></html>

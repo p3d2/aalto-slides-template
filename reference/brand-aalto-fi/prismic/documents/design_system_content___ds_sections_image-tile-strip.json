@@ -1,0 +1,408 @@
+{
+ "id": "Z8jJTRAAACAAcXiu",
+ "uid": "_ds_sections_image-tile-strip",
+ "url": null,
+ "type": "design_system_content",
+ "href": "https://aalto-master-design-system.cdn.prismic.io/api/v2/documents/search?ref=ap6ZthEAACsAUnNI&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22Z8jJTRAAACAAcXiu%22%29+%5D%5D",
+ "tags": [],
+ "first_publication_date": "2025-03-05T22:00:15+0000",
+ "last_publication_date": "2025-03-05T22:03:07+0000",
+ "slugs": [
+  "image-tile-strip"
+ ],
+ "linked_documents": [],
+ "lang": "en-eu",
+ "alternate_languages": [],
+ "data": {
+  "feedback_form": {
+   "link_type": "Document"
+  },
+  "body1": [
+   {
+    "primary": {
+     "title": [
+      {
+       "type": "heading1",
+       "text": "Image Tile Strip",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "ingress": [],
+     "body_text": [
+      {
+       "type": "paragraph",
+       "text": "",
+       "spans": []
+      }
+     ],
+     "cta_label": [],
+     "cta_link": {
+      "link_type": "Any"
+     },
+     "image": {
+      "img_size_xs": {},
+      "img_size_s": {},
+      "img_size_m": {},
+      "img_size_l": {},
+      "img_size_xl": {},
+      "img_size_xxl": {}
+     },
+     "video_file_link": {
+      "link_type": "Any"
+     },
+     "aside": {
+      "link_type": "Document"
+     },
+     "theme": "black"
+    },
+    "items": [
+     {}
+    ],
+    "id": "hero$a9646793-f334-4f4b-b3b4-ad70c91eb083",
+    "slice_type": "hero",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Image Tile Strip displays multiple Image Tiles in a horizontally scrollable container, allowing users to browse content efficiently.",
+       "spans": [
+        {
+         "start": 35,
+         "end": 46,
+         "type": "hyperlink",
+         "data": {
+          "id": "ZaVUbBUAACYAhHYK",
+          "type": "design_system_content",
+          "tags": [],
+          "lang": "en-eu",
+          "slug": "image-tile",
+          "first_publication_date": "2024-01-15T15:55:53+0000",
+          "last_publication_date": "2025-06-16T17:46:54+0000",
+          "uid": "_ds_modules_image-tile",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$0a778ed0-fa0d-4b86-986d-6b0f25423d5b",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Examples",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$bdaacd6f-e99d-4956-911d-b143f4ed9aff",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "ComponentPreview",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Default",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "",
+       "spans": []
+      }
+     ],
+     "component_id": "sections/image-tile-strip--default",
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": true,
+     "react_code_preview": true,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$5518ff5f-37c1-460b-80da-c05a2275f34b",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "ComponentPreview",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Large",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": "sections/image-tile-strip--large",
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": true,
+     "react_code_preview": true,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$25ed3827-0763-4a30-839a-cb134f52fbab",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Usage",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$b22c5460-3fce-4721-b539-93775f840766",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Use Image Tile Strip when presenting multiple Image Tiles with dynamic content, where users can explore them at their own pace without needing to view every item. If all Image Tiles must be seen, consider using a Image Tile Collection instead. Depending on the content type, alternatives like Card Strip or Content Box Strip might be more suitable.",
+       "spans": [
+        {
+         "start": 46,
+         "end": 57,
+         "type": "hyperlink",
+         "data": {
+          "id": "ZaVUbBUAACYAhHYK",
+          "type": "design_system_content",
+          "tags": [],
+          "lang": "en-eu",
+          "slug": "image-tile",
+          "first_publication_date": "2024-01-15T15:55:53+0000",
+          "last_publication_date": "2025-06-16T17:46:54+0000",
+          "uid": "_ds_modules_image-tile",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        },
+        {
+         "start": 213,
+         "end": 234,
+         "type": "hyperlink",
+         "data": {
+          "id": "ZaVVpRUAACgAhHiV",
+          "type": "design_system_content",
+          "tags": [],
+          "lang": "en-eu",
+          "slug": "image-tile-collection",
+          "first_publication_date": "2024-01-15T15:59:31+0000",
+          "last_publication_date": "2024-08-19T07:14:28+0000",
+          "uid": "_ds_sections_image-tile-collection",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        },
+        {
+         "start": 293,
+         "end": 303,
+         "type": "hyperlink",
+         "data": {
+          "id": "Z8jEURAAACEAcXCq",
+          "type": "design_system_content",
+          "tags": [],
+          "lang": "en-eu",
+          "slug": "card-strip",
+          "first_publication_date": "2025-03-05T21:39:54+0000",
+          "last_publication_date": "2025-03-05T22:06:11+0000",
+          "uid": "_ds_sections_card-strip",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        },
+        {
+         "start": 307,
+         "end": 324,
+         "type": "hyperlink",
+         "data": {
+          "id": "Z8jIIBAAACEAcXba",
+          "type": "design_system_content",
+          "tags": [],
+          "lang": "en-eu",
+          "slug": "content-box-strip",
+          "first_publication_date": "2025-03-05T21:55:16+0000",
+          "last_publication_date": "2025-03-05T22:04:41+0000",
+          "uid": "_ds_sections_content-box-strip",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$205f3eb1-5657-4b38-9348-1170d57545a8",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,620 @@
+{
+ "id": "ZGdbnhAAACAAevFi",
+ "uid": "_ds_for-designers",
+ "url": null,
+ "type": "design_system_content",
+ "href": "https://aalto-master-design-system.cdn.prismic.io/api/v2/documents/search?ref=ap6ZthEAACsAUnNI&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZGdbnhAAACAAevFi%22%29+%5D%5D",
+ "tags": [
+  "ds"
+ ],
+ "first_publication_date": "2023-05-19T11:22:35+0000",
+ "last_publication_date": "2024-06-10T11:01:19+0000",
+ "slugs": [
+  "for-designers"
+ ],
+ "linked_documents": [],
+ "lang": "en-eu",
+ "alternate_languages": [
+  {
+   "id": "aRw7NBcAACcAhzdC",
+   "type": "design_system_content",
+   "lang": "fi",
+   "uid": "_ds_for-designers"
+  }
+ ],
+ "data": {
+  "feedback_form": {
+   "id": "ZNo2LhAAACYAsGnO",
+   "type": "form_configuration",
+   "tags": [],
+   "lang": "en-eu",
+   "slug": "feedback",
+   "first_publication_date": "2023-08-14T14:12:02+0000",
+   "last_publication_date": "2023-09-01T12:22:49+0000",
+   "uid": "feedback",
+   "link_type": "Document",
+   "key": "f7244808-6d4c-4731-9676-69ce86750f92",
+   "isBroken": false
+  },
+  "body1": [
+   {
+    "primary": {
+     "title": [
+      {
+       "type": "heading1",
+       "text": "For designers",
+       "spans": []
+      }
+     ],
+     "ingress": [],
+     "body_text": [
+      {
+       "type": "paragraph",
+       "text": "",
+       "spans": []
+      }
+     ],
+     "cta_label": [],
+     "cta_link": {
+      "link_type": "Any"
+     },
+     "image": {
+      "img_size_xs": {},
+      "img_size_s": {},
+      "img_size_m": {},
+      "img_size_l": {},
+      "img_size_xl": {},
+      "img_size_xxl": {}
+     },
+     "video_file_link": {
+      "link_type": "Any"
+     },
+     "aside": {
+      "link_type": "Document"
+     },
+     "theme": "black"
+    },
+    "items": [
+     {}
+    ],
+    "id": "hero$5f436fd6-0cee-4fba-a8d3-39ad9dc71ad0",
+    "slice_type": "hero",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "body_text": [
+      {
+       "type": "paragraph",
+       "text": "The Aalto Design system introduces design tokens and UI elements used in Aalto's digital platforms. It ensures that your designs align seamlessly with the brand identity and customer experience strategy, creating a cohesive user experience across all digital touchpoints. Additionally, the Brand section offers access to the design principles and identity elements of Aalto. ",
+       "spans": [
+        {
+         "start": 290,
+         "end": 303,
+         "type": "hyperlink",
+         "data": {
+          "id": "ZlbS8REAACUAd72o",
+          "type": "design_system_content",
+          "tags": [
+           "identity"
+          ],
+          "lang": "en-eu",
+          "slug": "brand",
+          "first_publication_date": "2024-05-29T07:03:27+0000",
+          "last_publication_date": "2025-08-20T14:39:52+0000",
+          "uid": "_brand",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "The design system provides pre-designed and pre-approved components that can be easily reused. By leveraging these building blocks, you can swiftly assemble interfaces.",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "cta_label": [],
+     "cta_link": {
+      "link_type": "Any"
+     },
+     "theme": "neutral",
+     "tinted": false,
+     "alignment": "left",
+     "hidden": false,
+     "aspect_ratio": "hd",
+     "image": {
+      "dimensions": {
+       "width": 640,
+       "height": 480
+      },
+      "alt": null,
+      "copyright": null,
+      "url": "https://images.prismic.io/aalto-master-design-system/7fd7972c-0b0c-464e-8d75-6d0d01f5b762_Aalto+DS+photoshoot+07.jpg?auto=compress,format&rect=0,600,1601,1201&w=640&h=480",
+      "id": "ZV9l5hAAACYA-VDF",
+      "edit": {
+       "x": 0,
+       "y": -240,
+       "zoom": 0.3997501561524047,
+       "background": "#fff"
+      },
+      "img_size_xs": {
+       "dimensions": {
+        "width": 750,
+        "height": 563
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/7fd7972c-0b0c-464e-8d75-6d0d01f5b762_Aalto+DS+photoshoot+07.jpg?auto=compress,format&rect=0,600,1601,1202&w=750&h=563",
+       "id": "ZV9l5hAAACYA-VDF",
+       "edit": {
+        "x": 0,
+        "y": -281,
+        "zoom": 0.4684572142410993,
+        "background": "#fff"
+       }
+      },
+      "img_size_s": {
+       "dimensions": {
+        "width": 828,
+        "height": 621
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/7fd7972c-0b0c-464e-8d75-6d0d01f5b762_Aalto+DS+photoshoot+07.jpg?auto=compress,format&rect=0,599,1601,1201&w=828&h=621",
+       "id": "ZV9l5hAAACYA-VDF",
+       "edit": {
+        "x": 0,
+        "y": -310,
+        "zoom": 0.5171767645221736,
+        "background": "#fff"
+       }
+      },
+      "img_size_m": {
+       "dimensions": {
+        "width": 1080,
+        "height": 810
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/7fd7972c-0b0c-464e-8d75-6d0d01f5b762_Aalto+DS+photoshoot+07.jpg?auto=compress,format&rect=0,599,1601,1201&w=1080&h=810",
+       "id": "ZV9l5hAAACYA-VDF",
+       "edit": {
+        "x": 0,
+        "y": -404,
+        "zoom": 0.674578388507183,
+        "background": "#fff"
+       }
+      },
+      "img_size_l": {
+       "dimensions": {
+        "width": 1200,
+        "height": 900
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/7fd7972c-0b0c-464e-8d75-6d0d01f5b762_Aalto+DS+photoshoot+07.jpg?auto=compress,format&rect=0,599,1601,1201&w=1200&h=900",
+       "id": "ZV9l5hAAACYA-VDF",
+       "edit": {
+        "x": 0,
+        "y": -449,
+        "zoom": 0.749531542785759,
+        "background": "#fff"
+       }
+      },
+      "img_size_xl": {
+       "dimensions": {
+        "width": 1600,
+        "height": 1200
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/7fd7972c-0b0c-464e-8d75-6d0d01f5b762_Aalto+DS+photoshoot+07.jpg?auto=compress,format&rect=0,599,1601,1201&w=1600&h=1200",
+       "id": "ZV9l5hAAACYA-VDF",
+       "edit": {
+        "x": 0,
+        "y": -599,
+        "zoom": 0.9993753903810119,
+        "background": "#fff"
+       }
+      },
+      "img_size_xxl": {
+       "dimensions": {
+        "width": 1920,
+        "height": 1440
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/7fd7972c-0b0c-464e-8d75-6d0d01f5b762_Aalto+DS+photoshoot+07.jpg?auto=compress,format&rect=0,600,1601,1201&w=1920&h=1440",
+       "id": "ZV9l5hAAACYA-VDF",
+       "edit": {
+        "x": 0,
+        "y": -719,
+        "zoom": 1.1992504684572143,
+        "background": "#fff"
+       }
+      }
+     }
+    },
+    "items": [
+     {
+      "link_label": [],
+      "link_target": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "text_and_image_section$5723558d-c35c-4f13-8ca3-6a3f1b003db2",
+    "slice_type": "text_and_image_section",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "The Aalto Design system introduces design tokens and UI elements used in Aalto's digital platforms. It ensures that your designs align seamlessly with the brand identity and customer experience strategy, creating a cohesive user experience across all digital touchpoints. Additionally, the Brand section offers access to the design principles and identity elements of Aalto. ",
+       "spans": [
+        {
+         "start": 290,
+         "end": 303,
+         "type": "hyperlink",
+         "data": {
+          "id": "ZBnLxBAAACEAgOk-",
+          "type": "broken_type",
+          "tags": [],
+          "lang": null,
+          "slug": "-",
+          "first_publication_date": null,
+          "last_publication_date": null,
+          "link_type": "Document",
+          "isBroken": true
+         }
+        }
+       ]
+      },
+      {
+       "type": "paragraph",
+       "text": "The design system provides pre-designed and pre-approved components that can be easily reused. By leveraging these building blocks, you can swiftly assemble interfaces.",
+       "spans": []
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": null,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": true,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$f00e1e12-9086-41c0-9825-51c16a849c82",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Overview",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": null,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$0e8fc8f5-5ad4-4997-bb93-ca34438cb546",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "The recommended approach is to create Aalto-branded websites and digital products by utilising the pre-designed high-level Sections provided in the design system. These Sections can be directly integrated into your projects without any modifications while adding channel-specific content. As an example, the very page you are viewing is constructed using Sections, with only minimal additional styling applied.",
+       "spans": [
+        {
+         "start": 123,
+         "end": 131,
+         "type": "hyperlink",
+         "data": {
+          "id": "ZEZpyhQAACcAsd4s",
+          "type": "design_system_content",
+          "tags": [
+           "ds",
+           "sections"
+          ],
+          "lang": "en-eu",
+          "slug": "sections",
+          "first_publication_date": "2023-04-24T11:39:26+0000",
+          "last_publication_date": "2025-06-10T07:17:36+0000",
+          "uid": "_ds_sections",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        }
+       ]
+      },
+      {
+       "type": "paragraph",
+       "text": "In certain scenarios, the existing Sections may not fully meet your requirements, necessitating the construction of custom structures using individual Components and Modules. Furthermore, it is also possible to leverage only the Design tokens, such as colors or dimensions, from the design system and build your own unique UI elements. This flexibility allows for the creation of custom implementations for example in specific environments where the existing UI blocks cannot be utilised.",
+       "spans": [
+        {
+         "start": 151,
+         "end": 161,
+         "type": "hyperlink",
+         "data": {
+          "id": "ZBnPsxAAACIAgPDK",
+          "type": "design_system_content",
+          "tags": [
+           "ds",
+           "components"
+          ],
+          "lang": "en-eu",
+          "slug": "components",
+          "first_publication_date": "2023-03-21T15:39:38+0000",
+          "last_publication_date": "2025-10-13T09:28:45+0000",
+          "uid": "_ds_components",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        },
+        {
+         "start": 166,
+         "end": 173,
+         "type": "hyperlink",
+         "data": {
+          "id": "ZBnQZBAAACAAgPI3",
+          "type": "design_system_content",
+          "tags": [
+           "ds",
+           "modules"
+          ],
+          "lang": "en-eu",
+          "slug": "modules",
+          "first_publication_date": "2023-03-21T15:42:37+0000",
+          "last_publication_date": "2025-08-20T12:50:34+0000",
+          "uid": "_ds_modules",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        },
+        {
+         "start": 229,
+         "end": 242,
+         "type": "hyperlink",
+         "data": {
+          "id": "ZCVo5xAAACMAxN6J",
+          "type": "design_system_content",
+          "tags": [
+           "tokens"
+          ],
+          "lang": "en-eu",
+          "slug": "design-tokens",
+          "first_publication_date": "2023-03-30T10:50:39+0000",
+          "last_publication_date": "2025-03-07T14:33:40+0000",
+          "uid": "_ds_tokens",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        }
+       ]
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": null,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$feace734-8819-46b1-b082-7cb510b5c7f4",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "CardCollection",
+     "tiles_per_row": "2",
+     "default_cta_label": [],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": false,
+     "hidden": false,
+     "skim": "none"
+    },
+    "items": [
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Available resources",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "id": "Zlcz3REAACMAeGdQ",
+       "type": "design_system_content",
+       "tags": [
+        "ds"
+       ],
+       "lang": "en-eu",
+       "slug": "available-resources",
+       "first_publication_date": "2024-05-29T13:56:05+0000",
+       "last_publication_date": "2025-04-29T13:15:45+0000",
+       "uid": "_ds_for-designers_resources",
+       "link_type": "Document",
+       "key": "5d162c34-f9d7-4f8f-84eb-ecef959145c2",
+       "isBroken": false
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Motion design",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "id": "Zl3EoBIAACAAVPXs",
+       "type": "design_system_content",
+       "tags": [
+        "ds"
+       ],
+       "lang": "en-eu",
+       "slug": "motion-design",
+       "first_publication_date": "2024-06-03T13:36:04+0000",
+       "last_publication_date": "2024-06-13T09:02:08+0000",
+       "uid": "_ds_for-designers_motion-design",
+       "link_type": "Document",
+       "key": "9c8fb60c-b5ae-4800-88cb-e64440f9f9ea",
+       "isBroken": false
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$d61a72a3-1f1b-473a-ab44-4f92257336e8",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   }
+  ]
+ }
+}

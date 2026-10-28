@@ -1,0 +1,508 @@
+{
+ "id": "ZGdcBxAAACAAevIP",
+ "uid": "_ds_for-developers",
+ "url": null,
+ "type": "design_system_content",
+ "href": "https://aalto-master-design-system.cdn.prismic.io/api/v2/documents/search?ref=ap6ZthEAACsAUnNI&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZGdcBxAAACAAevIP%22%29+%5D%5D",
+ "tags": [
+  "ds"
+ ],
+ "first_publication_date": "2023-05-19T11:23:12+0000",
+ "last_publication_date": "2024-05-29T14:34:34+0000",
+ "slugs": [
+  "for-developers"
+ ],
+ "linked_documents": [],
+ "lang": "en-eu",
+ "alternate_languages": [
+  {
+   "id": "aRw7NBcAACcAhzdG",
+   "type": "design_system_content",
+   "lang": "fi",
+   "uid": "_ds_for-developers"
+  }
+ ],
+ "data": {
+  "feedback_form": {
+   "id": "ZNo2LhAAACYAsGnO",
+   "type": "form_configuration",
+   "tags": [],
+   "lang": "en-eu",
+   "slug": "feedback",
+   "first_publication_date": "2023-08-14T14:12:02+0000",
+   "last_publication_date": "2023-09-01T12:22:49+0000",
+   "uid": "feedback",
+   "link_type": "Document",
+   "key": "a60e1658-a0f6-411a-933a-dc68ab51a5c7",
+   "isBroken": false
+  },
+  "body1": [
+   {
+    "primary": {
+     "title": [
+      {
+       "type": "heading1",
+       "text": "For developers",
+       "spans": []
+      }
+     ],
+     "ingress": [],
+     "body_text": [
+      {
+       "type": "paragraph",
+       "text": "",
+       "spans": []
+      }
+     ],
+     "cta_label": [],
+     "cta_link": {
+      "link_type": "Any"
+     },
+     "image": {
+      "img_size_xs": {},
+      "img_size_s": {},
+      "img_size_m": {},
+      "img_size_l": {},
+      "img_size_xl": {},
+      "img_size_xxl": {}
+     },
+     "video_file_link": {
+      "link_type": "Any"
+     },
+     "aside": {
+      "link_type": "Document"
+     },
+     "theme": "black"
+    },
+    "items": [
+     {}
+    ],
+    "id": "hero$5f436fd6-0cee-4fba-a8d3-39ad9dc71ad0",
+    "slice_type": "hero",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "body_text": [
+      {
+       "type": "paragraph",
+       "text": "When it comes to developing with the Aalto design system, you have various options to choose from based on your specific needs and technological platform. In essence, the design system offers a set of assets and libraries you can integrate with your channel-specific codebase.",
+       "spans": []
+      }
+     ],
+     "cta_label": [],
+     "cta_link": {
+      "link_type": "Any"
+     },
+     "theme": "neutral",
+     "tinted": false,
+     "alignment": "left",
+     "hidden": false,
+     "aspect_ratio": "hd",
+     "image": {
+      "dimensions": {
+       "width": 640,
+       "height": 480
+      },
+      "alt": null,
+      "copyright": null,
+      "url": "https://images.prismic.io/aalto-master-design-system/27fb3b64-8d1e-477f-85cc-4b007284b475_Aalto+DS+photoshoot+09.jpg?auto=compress,format&rect=133,0,2135,1601&w=640&h=480",
+      "id": "ZV9l5hAAACUA-VDG",
+      "edit": {
+       "x": -40,
+       "y": 0,
+       "zoom": 0.29981261711430357,
+       "background": "#fff"
+      },
+      "img_size_xs": {
+       "dimensions": {
+        "width": 750,
+        "height": 563
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/27fb3b64-8d1e-477f-85cc-4b007284b475_Aalto+DS+photoshoot+09.jpg?auto=compress,format&rect=134,0,2133,1601&w=750&h=563",
+       "id": "ZV9l5hAAACUA-VDG",
+       "edit": {
+        "x": -47,
+        "y": 0,
+        "zoom": 0.35165521549031853,
+        "background": "#fff"
+       }
+      },
+      "img_size_s": {
+       "dimensions": {
+        "width": 828,
+        "height": 621
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/27fb3b64-8d1e-477f-85cc-4b007284b475_Aalto+DS+photoshoot+09.jpg?auto=compress,format&rect=131,0,2135,1601&w=828&h=621",
+       "id": "ZV9l5hAAACUA-VDG",
+       "edit": {
+        "x": -51,
+        "y": 0,
+        "zoom": 0.38788257339163024,
+        "background": "#fff"
+       }
+      },
+      "img_size_m": {
+       "dimensions": {
+        "width": 1080,
+        "height": 810
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/27fb3b64-8d1e-477f-85cc-4b007284b475_Aalto+DS+photoshoot+09.jpg?auto=compress,format&rect=132,0,2135,1601&w=1080&h=810",
+       "id": "ZV9l5hAAACUA-VDG",
+       "edit": {
+        "x": -67,
+        "y": 0,
+        "zoom": 0.5059337913803873,
+        "background": "#fff"
+       }
+      },
+      "img_size_l": {
+       "dimensions": {
+        "width": 1200,
+        "height": 900
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/27fb3b64-8d1e-477f-85cc-4b007284b475_Aalto+DS+photoshoot+09.jpg?auto=compress,format&rect=133,0,2135,1601&w=1200&h=900",
+       "id": "ZV9l5hAAACUA-VDG",
+       "edit": {
+        "x": -75,
+        "y": 0,
+        "zoom": 0.5621486570893192,
+        "background": "#fff"
+       }
+      },
+      "img_size_xl": {
+       "dimensions": {
+        "width": 1600,
+        "height": 1200
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/27fb3b64-8d1e-477f-85cc-4b007284b475_Aalto+DS+photoshoot+09.jpg?auto=compress,format&rect=132,0,2135,1601&w=1600&h=1200",
+       "id": "ZV9l5hAAACUA-VDG",
+       "edit": {
+        "x": -99,
+        "y": 0,
+        "zoom": 0.749531542785759,
+        "background": "#fff"
+       }
+      },
+      "img_size_xxl": {
+       "dimensions": {
+        "width": 1920,
+        "height": 1440
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/27fb3b64-8d1e-477f-85cc-4b007284b475_Aalto+DS+photoshoot+09.jpg?auto=compress,format&rect=132,0,2135,1601&w=1920&h=1440",
+       "id": "ZV9l5hAAACUA-VDG",
+       "edit": {
+        "x": -119,
+        "y": 0,
+        "zoom": 0.8994378513429107,
+        "background": "#fff"
+       }
+      }
+     }
+    },
+    "items": [
+     {
+      "link_label": [],
+      "link_target": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "text_and_image_section$9e50d742-fc05-4431-b804-7e934323ac87",
+    "slice_type": "text_and_image_section",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "When it comes to developing with the Aalto design system, you have various options to choose from based on your specific needs and technological platform. In essence, the design system offers a set of assets and libraries you can integrate with your channel-specific codebase.",
+       "spans": []
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": null,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": true,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$db0a5a69-4c8e-4a80-af57-4ad4e58035d9",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Overview",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": null,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": true
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$bacea1d7-00ae-437c-95a6-405305c35fd1",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "While the high-level UI elements offered by the design system are designed to be versatile, there may be scenarios where they don't fully align with your requirements. In such cases, you have the flexibility to leverage only specific parts of the design system to construct your own unique UI elements, or even explore new technologies that better suit your needs. ",
+       "spans": []
+      },
+      {
+       "type": "paragraph",
+       "text": "It's worth noting that such customisations may be valuable to other teams as well. Don't hesitate to reach out to the design system team to discuss your specific requirements and best approach. It's possible that alternative solutions are already on the roadmap, or your contribution might even be integrated directly into the core library, benefiting the wider user community.",
+       "spans": [
+        {
+         "start": 101,
+         "end": 136,
+         "type": "hyperlink",
+         "data": {
+          "id": "ZAcwrhAAACkAUXQy",
+          "type": "form",
+          "tags": [],
+          "lang": "en-eu",
+          "slug": "ask-for-brand-support",
+          "first_publication_date": "2023-03-07T12:40:23+0000",
+          "last_publication_date": "2025-11-18T21:05:41+0000",
+          "uid": "_support",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        }
+       ]
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": null,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$0b055cf2-174c-4328-881c-3b646932d549",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "CardCollection",
+     "tiles_per_row": "2",
+     "default_cta_label": [],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": false,
+     "hidden": false,
+     "skim": null
+    },
+    "items": [
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Available resources",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "id": "Zlc27BEAACUAeG1a",
+       "type": "design_system_content",
+       "tags": [
+        "ds"
+       ],
+       "lang": "en-eu",
+       "slug": "available-resources",
+       "first_publication_date": "2024-05-29T14:09:18+0000",
+       "last_publication_date": "2025-10-29T13:51:54+0000",
+       "uid": "_ds_for-developers_resources",
+       "link_type": "Document",
+       "key": "60078386-d978-42d9-a53a-0f73166d21fd",
+       "isBroken": false
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Scenarios",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "id": "Zlc4VhEAACIAeHAn",
+       "type": "design_system_content",
+       "tags": [
+        "ds"
+       ],
+       "lang": "en-eu",
+       "slug": "scenarios",
+       "first_publication_date": "2024-05-29T14:15:10+0000",
+       "last_publication_date": "2025-10-29T14:08:43+0000",
+       "uid": "_ds_for-developers_scenarios",
+       "link_type": "Document",
+       "key": "8cf636f9-c176-4e65-b234-cb21154696db",
+       "isBroken": false
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$effce39b-b829-45cd-999b-9ee8e21c3920",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   }
+  ]
+ }
+}

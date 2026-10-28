@@ -1,0 +1,178 @@
+{
+ "id": "ZlbKvBEAACQAd7Ca",
+ "uid": "christopher-wall",
+ "url": null,
+ "type": "person_info",
+ "href": "https://aalto-master-design-system.cdn.prismic.io/api/v2/documents/search?ref=ap6ZthEAACsAUnNI&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZlbKvBEAACQAd7Ca%22%29+%5D%5D",
+ "tags": [],
+ "first_publication_date": "2024-05-29T06:33:22+0000",
+ "last_publication_date": "2024-05-29T06:33:22+0000",
+ "slugs": [
+  "contact-for-questions-or-support"
+ ],
+ "linked_documents": [],
+ "lang": "en-eu",
+ "alternate_languages": [
+  {
+   "id": "aRw6XhcAACkAhzUF",
+   "type": "person_info",
+   "lang": "fi",
+   "uid": "christopher-wall"
+  }
+ ],
+ "data": {
+  "title": [
+   {
+    "type": "heading5",
+    "text": "Contact for questions or support",
+    "spans": []
+   }
+  ],
+  "description": [
+   {
+    "type": "paragraph",
+    "text": "The Design System is maintained by the Digital Experience and Analytics team in Aalto University Communications. We value all questions and comments in developing the Design System better. We're also here for your support, please, don't hesitate to contact us!",
+    "spans": []
+   }
+  ],
+  "cta_button_label": [
+   {
+    "type": "paragraph",
+    "text": "",
+    "spans": []
+   }
+  ],
+  "cta_button_link": {
+   "link_type": "Any"
+  },
+  "name": [
+   {
+    "type": "paragraph",
+    "text": "Christopher Wall",
+    "spans": [],
+    "direction": "ltr"
+   }
+  ],
+  "avatar_image": {
+   "dimensions": {
+    "width": 600,
+    "height": 600
+   },
+   "alt": null,
+   "copyright": null,
+   "url": "https://images.prismic.io/aalto-master-design-system/ZlbLRaWtHYXtT4Ic_profile-pic-6-.png?auto=format,compress",
+   "id": "ZlbLRaWtHYXtT4Ic",
+   "edit": {
+    "x": 0,
+    "y": 0,
+    "zoom": 1,
+    "background": "transparent"
+   }
+  },
+  "avatar_initials": [
+   {
+    "type": "paragraph",
+    "text": "CW",
+    "spans": [],
+    "direction": "ltr"
+   }
+  ],
+  "job_title": [
+   {
+    "type": "paragraph",
+    "text": "Digital Experience Designer ",
+    "spans": [],
+    "direction": "ltr"
+   }
+  ],
+  "unit": [
+   {
+    "type": "paragraph",
+    "text": " Aalto University Communications",
+    "spans": []
+   }
+  ],
+  "badge_label": [
+   {
+    "type": "paragraph",
+    "text": "",
+    "spans": []
+   }
+  ],
+  "badge_body": [
+   {
+    "type": "paragraph",
+    "text": "",
+    "spans": []
+   }
+  ],
+  "email": [
+   {
+    "type": "paragraph",
+    "text": "Christopher.Wall@aalto.fi",
+    "spans": [],
+    "direction": "ltr"
+   }
+  ],
+  "telephone": [
+   {
+    "type": "paragraph",
+    "text": "+35850 3519071",
+    "spans": [],
+    "direction": "ltr"
+   }
+  ],
+  "body": [
+   {
+    "primary": {
+     "channel": "facebook",
+     "link": {
+      "link_type": "Web",
+      "key": "964cdd80-e01a-412d-ac89-e112da1c440b",
+      "url": "https://facebook_link",
+      "target": "_blank"
+     }
+    },
+    "items": [
+     {}
+    ],
+    "id": "social_media_link$6df9e5a5-0ec7-4116-bd25-06812061956e",
+    "slice_type": "social_media_link",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "channel": "linkedin",
+     "link": {
+      "link_type": "Web",
+      "key": "3e72b34c-1cff-4023-9ff2-f06a57d23e4c",
+      "url": "https://linkedin_link",
+      "target": "_blank"
+     }
+    },
+    "items": [
+     {}
+    ],
+    "id": "social_media_link$86c11c52-aaf3-4850-8671-d89813546930",
+    "slice_type": "social_media_link",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "channel": "twitter",
+     "link": {
+      "link_type": "Web",
+      "key": "1a07aafe-18c8-4775-a49f-de64e81f3332",
+      "url": "https://twitterlink"
+     }
+    },
+    "items": [
+     {}
+    ],
+    "id": "social_media_link$5be17870-6af4-4402-9f6c-cf7a07bcba84",
+    "slice_type": "social_media_link",
+    "slice_label": null
+   }
+  ]
+ }
+}

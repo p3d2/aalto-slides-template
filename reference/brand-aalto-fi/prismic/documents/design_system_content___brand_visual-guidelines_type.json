@@ -1,0 +1,3449 @@
+{
+ "id": "Z__U6xAAAP0UzpXj",
+ "uid": "_brand_visual-guidelines_type",
+ "url": null,
+ "type": "design_system_content",
+ "href": "https://aalto-master-design-system.cdn.prismic.io/api/v2/documents/search?ref=ap6ZthEAACsAUnNI&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22Z__U6xAAAP0UzpXj%22%29+%5D%5D",
+ "tags": [
+  "identity"
+ ],
+ "first_publication_date": "2025-04-16T16:20:45+0000",
+ "last_publication_date": "2025-11-03T10:29:08+0000",
+ "slugs": [
+  "type"
+ ],
+ "linked_documents": [],
+ "lang": "en-eu",
+ "alternate_languages": [
+  {
+   "id": "aRw6URcAACcAhzTK",
+   "type": "design_system_content",
+   "lang": "fi",
+   "uid": "_brand_visual-guidelines_type"
+  }
+ ],
+ "data": {
+  "feedback_form": {
+   "link_type": "Document"
+  },
+  "body1": [
+   {
+    "primary": {
+     "title": [
+      {
+       "type": "heading1",
+       "text": "Type",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "ingress": [
+      {
+       "type": "paragraph",
+       "text": "",
+       "spans": []
+      }
+     ],
+     "body_text": [
+      {
+       "type": "paragraph",
+       "text": "",
+       "spans": []
+      }
+     ],
+     "cta_label": [],
+     "cta_link": {
+      "link_type": "Any"
+     },
+     "image": {
+      "img_size_xs": {},
+      "img_size_s": {},
+      "img_size_m": {},
+      "img_size_l": {},
+      "img_size_xl": {},
+      "img_size_xxl": {}
+     },
+     "video_file_link": {
+      "link_type": "Any"
+     },
+     "aside": {
+      "link_type": "Document"
+     },
+     "theme": "black"
+    },
+    "items": [
+     {}
+    ],
+    "id": "hero$be5dcc4e-3b8d-495d-8635-d61f59589ecc",
+    "slice_type": "hero",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Typeface and the way is it used plays a key role in Aalto University’s visual identity system. Inter is open-source typefaces and is freely available for use.",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$f58f241e-6961-41c5-befd-a8be728f9ffa",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Typefaces",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$012554d1-6871-4f9a-92de-2b962b54f9d2",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Inter",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Inter is Aalto University’s typeface intended for all communication needs regardless of media. Inter is an open-source sans serif typeface family that is highly legible as well as versatile in its selection of weights. Inter also features over 2000 glyphs and covers 147 languages.\nTo keep things simple Bold and Regular are selected as the primary typefaces whereas other weights should be used only as an exception where purposeful.",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$c30ad20d-cd06-4cbd-b710-53c9e39e2601",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "ImageTileCollection",
+     "tiles_per_row": "2",
+     "default_cta_label": [],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": false,
+     "hidden": false,
+     "skim": "top"
+    },
+    "items": [
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/8e480101-b7f5-4055-a36b-6594f9b75b7d_Visual+Identity+-+Type+-+Families+-+Inter+1.png?auto=compress,format&rect=0,0,1920,1080&w=640&h=360",
+       "id": "ZaqC5BAAACEAvqsv",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 0.3333333333333333,
+        "background": "transparent"
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/8e480101-b7f5-4055-a36b-6594f9b75b7d_Visual+Identity+-+Type+-+Families+-+Inter+1.png?auto=compress,format&rect=0,0,1920,1080&w=1600&h=900",
+        "id": "ZaqC5BAAACEAvqsv",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.8333333333333334,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/8e480101-b7f5-4055-a36b-6594f9b75b7d_Visual+Identity+-+Type+-+Families+-+Inter+1.png?auto=compress,format&rect=0,0,1920,1080&w=1920&h=1080",
+        "id": "ZaqC5BAAACEAvqsv",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/8e480101-b7f5-4055-a36b-6594f9b75b7d_Visual+Identity+-+Type+-+Families+-+Inter+1.png?auto=compress,format&rect=0,0,1920,1080&w=1200&h=675",
+        "id": "ZaqC5BAAACEAvqsv",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.625,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/8e480101-b7f5-4055-a36b-6594f9b75b7d_Visual+Identity+-+Type+-+Families+-+Inter+1.png?auto=compress,format&rect=0,0,1919,1080&w=828&h=466",
+        "id": "ZaqC5BAAACEAvqsv",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.43148148148148147,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/8e480101-b7f5-4055-a36b-6594f9b75b7d_Visual+Identity+-+Type+-+Families+-+Inter+1.png?auto=compress,format&rect=0,0,1918,1080&w=1080&h=608",
+        "id": "ZaqC5BAAACEAvqsv",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.562962962962963,
+         "background": "transparent"
+        }
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/8e480101-b7f5-4055-a36b-6594f9b75b7d_Visual+Identity+-+Type+-+Families+-+Inter+1.png?auto=compress,format&rect=0,0,1919,1080&w=750&h=422",
+        "id": "ZaqC5BAAACEAvqsv",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.3907407407407407,
+         "background": "transparent"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/eb0d81fd-8617-4842-9571-378b2e9b57d0_Visual+Identity+-+Type+-+Families+-+Inter+2.png?auto=compress,format&rect=0,0,1920,1080&w=640&h=360",
+       "id": "ZaqC5hAAACEAvqs7",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 0.3333333333333333,
+        "background": "transparent"
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/eb0d81fd-8617-4842-9571-378b2e9b57d0_Visual+Identity+-+Type+-+Families+-+Inter+2.png?auto=compress,format&rect=0,0,1920,1080&w=1600&h=900",
+        "id": "ZaqC5hAAACEAvqs7",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.8333333333333334,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/eb0d81fd-8617-4842-9571-378b2e9b57d0_Visual+Identity+-+Type+-+Families+-+Inter+2.png?auto=compress,format&rect=0,0,1920,1080&w=1920&h=1080",
+        "id": "ZaqC5hAAACEAvqs7",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/eb0d81fd-8617-4842-9571-378b2e9b57d0_Visual+Identity+-+Type+-+Families+-+Inter+2.png?auto=compress,format&rect=0,0,1920,1080&w=1200&h=675",
+        "id": "ZaqC5hAAACEAvqs7",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.625,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/eb0d81fd-8617-4842-9571-378b2e9b57d0_Visual+Identity+-+Type+-+Families+-+Inter+2.png?auto=compress,format&rect=0,0,1919,1080&w=828&h=466",
+        "id": "ZaqC5hAAACEAvqs7",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.43148148148148147,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/eb0d81fd-8617-4842-9571-378b2e9b57d0_Visual+Identity+-+Type+-+Families+-+Inter+2.png?auto=compress,format&rect=0,0,1918,1080&w=1080&h=608",
+        "id": "ZaqC5hAAACEAvqs7",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.562962962962963,
+         "background": "transparent"
+        }
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/eb0d81fd-8617-4842-9571-378b2e9b57d0_Visual+Identity+-+Type+-+Families+-+Inter+2.png?auto=compress,format&rect=0,0,1919,1080&w=750&h=422",
+        "id": "ZaqC5hAAACEAvqs7",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.3907407407407407,
+         "background": "transparent"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$7bbea5df-edb7-491d-8c37-c01e1ff08deb",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "CardCollection",
+     "tiles_per_row": "2",
+     "default_cta_label": [],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": false,
+     "hidden": false,
+     "skim": "none"
+    },
+    "items": [
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Download Inter",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Web",
+       "key": "2083f70d-c65a-4d3b-aa63-2741dbda36b6",
+       "url": "https://rsms.me/inter/download/"
+      },
+      "cta_link_custom_icon": "Media",
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$35da9bcf-805e-47b0-a31d-40b347634edf",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Substitute for Inter / Arial",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Arial is intended as a backup typeface family replacing Inter in situations where the use of primary typefaces is impossible or limited, such as Office programs, document letterheads, e-mails, etc. Arial is a system typeface and can be found as default on all contemporary operating systems.",
+       "spans": []
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$2d52582e-fb9d-4348-810b-79fe6f81b4c0",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "LiftupCollection",
+     "tiles_per_row": "2",
+     "default_cta_label": [],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": false,
+     "hidden": false,
+     "skim": "top"
+    },
+    "items": [
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/bffee415-bf21-4825-abdb-2cbc6bd9a471_Visual+Identity+-+Type+-+Families+-+Arial+1.png?auto=compress,format&rect=0,0,1920,1080&w=640&h=360",
+       "id": "ZaqC5hAAACEAvqs5",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 0.3333333333333333,
+        "background": "transparent"
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/bffee415-bf21-4825-abdb-2cbc6bd9a471_Visual+Identity+-+Type+-+Families+-+Arial+1.png?auto=compress,format&rect=0,0,1920,1080&w=1600&h=900",
+        "id": "ZaqC5hAAACEAvqs5",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.8333333333333334,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/bffee415-bf21-4825-abdb-2cbc6bd9a471_Visual+Identity+-+Type+-+Families+-+Arial+1.png?auto=compress,format&rect=0,0,1920,1080&w=1920&h=1080",
+        "id": "ZaqC5hAAACEAvqs5",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/bffee415-bf21-4825-abdb-2cbc6bd9a471_Visual+Identity+-+Type+-+Families+-+Arial+1.png?auto=compress,format&rect=0,0,1920,1080&w=1200&h=675",
+        "id": "ZaqC5hAAACEAvqs5",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.625,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/bffee415-bf21-4825-abdb-2cbc6bd9a471_Visual+Identity+-+Type+-+Families+-+Arial+1.png?auto=compress,format&rect=0,0,1919,1080&w=828&h=466",
+        "id": "ZaqC5hAAACEAvqs5",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.43148148148148147,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/bffee415-bf21-4825-abdb-2cbc6bd9a471_Visual+Identity+-+Type+-+Families+-+Arial+1.png?auto=compress,format&rect=0,0,1918,1080&w=1080&h=608",
+        "id": "ZaqC5hAAACEAvqs5",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.562962962962963,
+         "background": "transparent"
+        }
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/bffee415-bf21-4825-abdb-2cbc6bd9a471_Visual+Identity+-+Type+-+Families+-+Arial+1.png?auto=compress,format&rect=0,0,1919,1080&w=750&h=422",
+        "id": "ZaqC5hAAACEAvqs5",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.3907407407407407,
+         "background": "transparent"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/4d0dd499-fe7c-42ec-ad56-51f71a1c1f36_Visual+Identity+-+Type+-+Families+-+Arial+2.png?auto=compress,format&rect=0,0,1920,1080&w=640&h=360",
+       "id": "ZaqC5hAAACIAvqs4",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 0.3333333333333333,
+        "background": "transparent"
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/4d0dd499-fe7c-42ec-ad56-51f71a1c1f36_Visual+Identity+-+Type+-+Families+-+Arial+2.png?auto=compress,format&rect=0,0,1920,1080&w=1600&h=900",
+        "id": "ZaqC5hAAACIAvqs4",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.8333333333333334,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/4d0dd499-fe7c-42ec-ad56-51f71a1c1f36_Visual+Identity+-+Type+-+Families+-+Arial+2.png?auto=compress,format&rect=0,0,1920,1080&w=1920&h=1080",
+        "id": "ZaqC5hAAACIAvqs4",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/4d0dd499-fe7c-42ec-ad56-51f71a1c1f36_Visual+Identity+-+Type+-+Families+-+Arial+2.png?auto=compress,format&rect=0,0,1920,1080&w=1200&h=675",
+        "id": "ZaqC5hAAACIAvqs4",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.625,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/4d0dd499-fe7c-42ec-ad56-51f71a1c1f36_Visual+Identity+-+Type+-+Families+-+Arial+2.png?auto=compress,format&rect=0,0,1919,1080&w=828&h=466",
+        "id": "ZaqC5hAAACIAvqs4",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.43148148148148147,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/4d0dd499-fe7c-42ec-ad56-51f71a1c1f36_Visual+Identity+-+Type+-+Families+-+Arial+2.png?auto=compress,format&rect=0,0,1918,1080&w=1080&h=608",
+        "id": "ZaqC5hAAACIAvqs4",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.562962962962963,
+         "background": "transparent"
+        }
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/4d0dd499-fe7c-42ec-ad56-51f71a1c1f36_Visual+Identity+-+Type+-+Families+-+Arial+2.png?auto=compress,format&rect=0,0,1919,1080&w=750&h=422",
+        "id": "ZaqC5hAAACIAvqs4",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.3907407407407407,
+         "background": "transparent"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$ed6345cb-addc-4289-ad3b-f05458623abb",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Typography guidelines",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$1a4d1556-ca7b-42eb-98c0-00db2c3ef0fa",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Typography is at its best when its form serves the message you wish to deliver. A reader should be able to quickly distinguish between headings and body text, which requires a sufficient size hierarchy.\nAlways make titles larger than the copy. However, try to keep the number of different type sizes at a minimum to avoid an overly complicated look. A recommended starting point is to limit the use of different type sizes to a maximum of three on any visual surface.",
+       "spans": [],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "\n- Make titles larger than the body text. \n- Keep paragraphs aligned left, ragged right. \n- Do not use overly many font sizes on a single document.\n- Don’t use UPPER CASE letters\n- Don’t capitalize every word of a title\n- When a person's name is mentioned for the first time in the copy text, the name should be bolded.",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$4c2663b4-8502-4d05-902f-0d346a2568cc",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "body_text": [
+      {
+       "type": "paragraph",
+       "text": "1) Headlines and titles / Inter Bold, tracking -25\n2) Short intro texts and quotes / Inter Regular\n3) Subheadlines / Inter Bold, tracking -25\n4) Bodycopy / Inter regular",
+       "spans": [
+        {
+         "start": 0,
+         "end": 23,
+         "type": "strong"
+        },
+        {
+         "start": 51,
+         "end": 82,
+         "type": "strong"
+        },
+        {
+         "start": 99,
+         "end": 114,
+         "type": "strong"
+        },
+        {
+         "start": 142,
+         "end": 153,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "Paragraph: Align left, ragged right",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "cta_label": [],
+     "cta_link": {
+      "link_type": "Any"
+     },
+     "theme": "neutral",
+     "tinted": false,
+     "alignment": "right",
+     "hidden": false,
+     "aspect_ratio": "sd",
+     "image": {
+      "dimensions": {
+       "width": 640,
+       "height": 480
+      },
+      "alt": "Example typography with number 1-4 attached to different sections",
+      "copyright": null,
+      "url": "https://images.prismic.io/aalto-master-design-system/aEAlgLh8WN-LVk-0_Typography_basic_948x674b.png?auto=format,compress&rect=73,0,2697,2023&w=640&h=480",
+      "id": "aEAlgLh8WN-LVk-0",
+      "edit": {
+       "x": 73,
+       "y": 0,
+       "zoom": 1,
+       "background": "transparent"
+      },
+      "img_size_xs": {
+       "dimensions": {
+        "width": 750,
+        "height": 563
+       },
+       "alt": "Example typography with number 1-4 attached to different sections",
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/aEAlgLh8WN-LVk-0_Typography_basic_948x674b.png?auto=format,compress&rect=75,0,2695,2023&w=750&h=563",
+       "id": "aEAlgLh8WN-LVk-0",
+       "edit": {
+        "x": 75,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       }
+      },
+      "img_size_s": {
+       "dimensions": {
+        "width": 828,
+        "height": 621
+       },
+       "alt": "Example typography with number 1-4 attached to different sections",
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/aEAlgLh8WN-LVk-0_Typography_basic_948x674b.png?auto=format,compress&rect=73,0,2697,2023&w=828&h=621",
+       "id": "aEAlgLh8WN-LVk-0",
+       "edit": {
+        "x": 73,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       }
+      },
+      "img_size_m": {
+       "dimensions": {
+        "width": 1080,
+        "height": 810
+       },
+       "alt": "Example typography with number 1-4 attached to different sections",
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/aEAlgLh8WN-LVk-0_Typography_basic_948x674b.png?auto=format,compress&rect=73,0,2697,2023&w=1080&h=810",
+       "id": "aEAlgLh8WN-LVk-0",
+       "edit": {
+        "x": 73,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       }
+      },
+      "img_size_l": {
+       "dimensions": {
+        "width": 1200,
+        "height": 900
+       },
+       "alt": "Example typography with number 1-4 attached to different sections",
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/aEAlgLh8WN-LVk-0_Typography_basic_948x674b.png?auto=format,compress&rect=73,0,2697,2023&w=1200&h=900",
+       "id": "aEAlgLh8WN-LVk-0",
+       "edit": {
+        "x": 73,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       }
+      },
+      "img_size_xl": {
+       "dimensions": {
+        "width": 1600,
+        "height": 1200
+       },
+       "alt": "Example typography with number 1-4 attached to different sections",
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/aEAlgLh8WN-LVk-0_Typography_basic_948x674b.png?auto=format,compress&rect=73,0,2697,2023&w=1600&h=1200",
+       "id": "aEAlgLh8WN-LVk-0",
+       "edit": {
+        "x": 73,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       }
+      },
+      "img_size_xxl": {
+       "dimensions": {
+        "width": 1920,
+        "height": 1440
+       },
+       "alt": "Example typography with number 1-4 attached to different sections",
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/aEAlgLh8WN-LVk-0_Typography_basic_948x674b.png?auto=format,compress&rect=73,0,2697,2023&w=1920&h=1440",
+       "id": "aEAlgLh8WN-LVk-0",
+       "edit": {
+        "x": 73,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       }
+      }
+     }
+    },
+    "items": [
+     {
+      "link_label": [],
+      "link_target": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "text_and_image_section$6b10560e-097c-4f66-aae3-228c24f8cd92",
+    "slice_type": "text_and_image_section",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Text that needs special emphasis",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Expressive typography should be reserved exclusively for compact visual tidbits. It should never be used for long titles, headlines, or lengthy paragraphs.",
+       "spans": [],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "Key facts and figures should be emphasized with bold and large type.",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$1379967b-d7ed-4be5-89d7-2b75150715aa",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "body_text": [
+      {
+       "type": "paragraph",
+       "text": "1) Expressive headlines, 1st row / Inter Bold, tracking -50\n2) Expressive headlines, 2nd row / Inter Regular, tracking -50",
+       "spans": [
+        {
+         "start": 0,
+         "end": 32,
+         "type": "strong"
+        },
+        {
+         "start": 60,
+         "end": 92,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "Leading = Font size",
+       "spans": [],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "Paragraph: Align left, ragged right",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "cta_label": [],
+     "cta_link": {
+      "link_type": "Any"
+     },
+     "theme": "neutral",
+     "tinted": false,
+     "alignment": "right",
+     "hidden": false,
+     "aspect_ratio": "sd",
+     "image": {
+      "dimensions": {
+       "width": 640,
+       "height": 480
+      },
+      "alt": "Example typography, \"Designed\" on the first row and \"for impact\" on the second row",
+      "copyright": null,
+      "url": "https://images.prismic.io/aalto-master-design-system/aEAlVbh8WN-LVk-o_Typography_expressive_948x674b.png?auto=format,compress&rect=74,0,2697,2023&w=640&h=480",
+      "id": "aEAlVbh8WN-LVk-o",
+      "edit": {
+       "x": 74,
+       "y": 0,
+       "zoom": 1,
+       "background": "transparent"
+      },
+      "img_size_xs": {
+       "dimensions": {
+        "width": 750,
+        "height": 563
+       },
+       "alt": "Example typography, \"Designed\" on the first row and \"for impact\" on the second row",
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/aEAlVbh8WN-LVk-o_Typography_expressive_948x674b.png?auto=format,compress&rect=75,0,2695,2023&w=750&h=563",
+       "id": "aEAlVbh8WN-LVk-o",
+       "edit": {
+        "x": 75,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       }
+      },
+      "img_size_s": {
+       "dimensions": {
+        "width": 828,
+        "height": 621
+       },
+       "alt": "Example typography, \"Designed\" on the first row and \"for impact\" on the second row",
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/aEAlVbh8WN-LVk-o_Typography_expressive_948x674b.png?auto=format,compress&rect=74,0,2697,2023&w=828&h=621",
+       "id": "aEAlVbh8WN-LVk-o",
+       "edit": {
+        "x": 74,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       }
+      },
+      "img_size_m": {
+       "dimensions": {
+        "width": 1080,
+        "height": 810
+       },
+       "alt": "Example typography, \"Designed\" on the first row and \"for impact\" on the second row",
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/aEAlVbh8WN-LVk-o_Typography_expressive_948x674b.png?auto=format,compress&rect=74,0,2697,2023&w=1080&h=810",
+       "id": "aEAlVbh8WN-LVk-o",
+       "edit": {
+        "x": 74,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       }
+      },
+      "img_size_l": {
+       "dimensions": {
+        "width": 1200,
+        "height": 900
+       },
+       "alt": "Example typography, \"Designed\" on the first row and \"for impact\" on the second row",
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/aEAlVbh8WN-LVk-o_Typography_expressive_948x674b.png?auto=format,compress&rect=74,0,2697,2023&w=1200&h=900",
+       "id": "aEAlVbh8WN-LVk-o",
+       "edit": {
+        "x": 74,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       }
+      },
+      "img_size_xl": {
+       "dimensions": {
+        "width": 1600,
+        "height": 1200
+       },
+       "alt": "Example typography, \"Designed\" on the first row and \"for impact\" on the second row",
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/aEAlVbh8WN-LVk-o_Typography_expressive_948x674b.png?auto=format,compress&rect=74,0,2697,2023&w=1600&h=1200",
+       "id": "aEAlVbh8WN-LVk-o",
+       "edit": {
+        "x": 74,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       }
+      },
+      "img_size_xxl": {
+       "dimensions": {
+        "width": 1920,
+        "height": 1440
+       },
+       "alt": "Example typography, \"Designed\" on the first row and \"for impact\" on the second row",
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/aEAlVbh8WN-LVk-o_Typography_expressive_948x674b.png?auto=format,compress&rect=74,0,2697,2023&w=1920&h=1440",
+       "id": "aEAlVbh8WN-LVk-o",
+       "edit": {
+        "x": 74,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       }
+      }
+     }
+    },
+    "items": [
+     {
+      "link_label": [],
+      "link_target": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "text_and_image_section$3a629bfc-b444-4b2e-a9e4-68c847e0b472",
+    "slice_type": "text_and_image_section",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Use of typefaces in general",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Aalto University’s typography should be clear, consistent, and hassle-free, supporting any specific content in an approachable, intentional, and systematic manner. The overall style is purposely unadorned to let the content speak for itself.",
+       "spans": []
+      },
+      {
+       "type": "paragraph",
+       "text": "On a general note, it is highly recommended to refrain from using too many type sizes or styles as well as word- or letter-spacings.",
+       "spans": []
+      },
+      {
+       "type": "paragraph",
+       "text": "Keep it simple, align left, and stick to as few styles and sizes as needed.",
+       "spans": []
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": true,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$6bed43f9-7324-48e8-9f55-6e9b133f9f2a",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "ImageTileCollection",
+     "tiles_per_row": "2",
+     "default_cta_label": [],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": false,
+     "hidden": true,
+     "skim": "top"
+    },
+    "items": [
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "dimensions": {
+        "width": 2808,
+        "height": 2808
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/e203e637-4974-4f56-99e7-cc193fe03bb1_Visual+Identity+-+Type+-+Typography+3a.png?auto=compress,format",
+       "id": "ZbF-JhEAACAA-KKS",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 1600
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/e203e637-4974-4f56-99e7-cc193fe03bb1_Visual+Identity+-+Type+-+Typography+3a.png?auto=compress,format&rect=0,0,2808,2808&w=1600&h=1600",
+        "id": "ZbF-JhEAACAA-KKS",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.5698005698005698,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1920
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/e203e637-4974-4f56-99e7-cc193fe03bb1_Visual+Identity+-+Type+-+Typography+3a.png?auto=compress,format&rect=0,0,2808,2808&w=1920&h=1920",
+        "id": "ZbF-JhEAACAA-KKS",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.6837606837606838,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 1200
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/e203e637-4974-4f56-99e7-cc193fe03bb1_Visual+Identity+-+Type+-+Typography+3a.png?auto=compress,format&rect=0,0,2808,2808&w=1200&h=1200",
+        "id": "ZbF-JhEAACAA-KKS",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.42735042735042733,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 828
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/e203e637-4974-4f56-99e7-cc193fe03bb1_Visual+Identity+-+Type+-+Typography+3a.png?auto=compress,format&rect=0,0,2808,2808&w=828&h=828",
+        "id": "ZbF-JhEAACAA-KKS",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.2948717948717949,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 1080
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/e203e637-4974-4f56-99e7-cc193fe03bb1_Visual+Identity+-+Type+-+Typography+3a.png?auto=compress,format&rect=0,0,2808,2808&w=1080&h=1080",
+        "id": "ZbF-JhEAACAA-KKS",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.38461538461538464,
+         "background": "transparent"
+        }
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 750
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/e203e637-4974-4f56-99e7-cc193fe03bb1_Visual+Identity+-+Type+-+Typography+3a.png?auto=compress,format&rect=0,0,2808,2808&w=750&h=750",
+        "id": "ZbF-JhEAACAA-KKS",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.2670940170940171,
+         "background": "transparent"
+        }
+       }
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "square",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "dimensions": {
+        "width": 2808,
+        "height": 2808
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/00aa82cf-e65f-4373-9dd5-e0ce28697b13_Visual+Identity+-+Type+-+Typography+3b.png?auto=compress,format",
+       "id": "ZbF-JhEAACEA-KKR",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 1600
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/00aa82cf-e65f-4373-9dd5-e0ce28697b13_Visual+Identity+-+Type+-+Typography+3b.png?auto=compress,format&rect=0,0,2808,2808&w=1600&h=1600",
+        "id": "ZbF-JhEAACEA-KKR",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.5698005698005698,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1920
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/00aa82cf-e65f-4373-9dd5-e0ce28697b13_Visual+Identity+-+Type+-+Typography+3b.png?auto=compress,format&rect=0,0,2808,2808&w=1920&h=1920",
+        "id": "ZbF-JhEAACEA-KKR",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.6837606837606838,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 1200
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/00aa82cf-e65f-4373-9dd5-e0ce28697b13_Visual+Identity+-+Type+-+Typography+3b.png?auto=compress,format&rect=0,0,2808,2808&w=1200&h=1200",
+        "id": "ZbF-JhEAACEA-KKR",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.42735042735042733,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 828
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/00aa82cf-e65f-4373-9dd5-e0ce28697b13_Visual+Identity+-+Type+-+Typography+3b.png?auto=compress,format&rect=0,0,2808,2808&w=828&h=828",
+        "id": "ZbF-JhEAACEA-KKR",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.2948717948717949,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 1080
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/00aa82cf-e65f-4373-9dd5-e0ce28697b13_Visual+Identity+-+Type+-+Typography+3b.png?auto=compress,format&rect=0,0,2808,2808&w=1080&h=1080",
+        "id": "ZbF-JhEAACEA-KKR",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.38461538461538464,
+         "background": "transparent"
+        }
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 750
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/00aa82cf-e65f-4373-9dd5-e0ce28697b13_Visual+Identity+-+Type+-+Typography+3b.png?auto=compress,format&rect=0,0,2808,2808&w=750&h=750",
+        "id": "ZbF-JhEAACEA-KKR",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.2670940170940171,
+         "background": "transparent"
+        }
+       }
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "square",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$f994bab1-5a9f-431b-8d34-3c40a2a5725f",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Complementary typeface / Besley",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Besley is an alternative typeface that is intended to be used in publications when there is a need for serif fonts. Besley is also an open-source slab-serif typeface family.",
+       "spans": [],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "To keep things simple Bold and Regular are selected as the primary typefaces whereas other weights should be used only as an exception where purposeful.",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$61d41228-e28b-481f-9a05-c55b9663166a",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "ImageTileCollection",
+     "tiles_per_row": "2",
+     "default_cta_label": [],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": false,
+     "hidden": false,
+     "skim": "top"
+    },
+    "items": [
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/635cb99e-ab38-4338-aac2-3cc5be7ff8a7_Visual+Identity+-+Type+-+Families+-+Besley+1.png?auto=compress,format&rect=0,0,1920,1080&w=640&h=360",
+       "id": "ZaqC5BAAACIAvqsu",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 0.3333333333333333,
+        "background": "transparent"
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/635cb99e-ab38-4338-aac2-3cc5be7ff8a7_Visual+Identity+-+Type+-+Families+-+Besley+1.png?auto=compress,format&rect=0,0,1920,1080&w=1600&h=900",
+        "id": "ZaqC5BAAACIAvqsu",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.8333333333333334,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/635cb99e-ab38-4338-aac2-3cc5be7ff8a7_Visual+Identity+-+Type+-+Families+-+Besley+1.png?auto=compress,format&rect=0,0,1920,1080&w=1920&h=1080",
+        "id": "ZaqC5BAAACIAvqsu",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/635cb99e-ab38-4338-aac2-3cc5be7ff8a7_Visual+Identity+-+Type+-+Families+-+Besley+1.png?auto=compress,format&rect=0,0,1920,1080&w=1200&h=675",
+        "id": "ZaqC5BAAACIAvqsu",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.625,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/635cb99e-ab38-4338-aac2-3cc5be7ff8a7_Visual+Identity+-+Type+-+Families+-+Besley+1.png?auto=compress,format&rect=0,0,1919,1080&w=828&h=466",
+        "id": "ZaqC5BAAACIAvqsu",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.43148148148148147,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/635cb99e-ab38-4338-aac2-3cc5be7ff8a7_Visual+Identity+-+Type+-+Families+-+Besley+1.png?auto=compress,format&rect=0,0,1918,1080&w=1080&h=608",
+        "id": "ZaqC5BAAACIAvqsu",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.562962962962963,
+         "background": "transparent"
+        }
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/635cb99e-ab38-4338-aac2-3cc5be7ff8a7_Visual+Identity+-+Type+-+Families+-+Besley+1.png?auto=compress,format&rect=0,0,1919,1080&w=750&h=422",
+        "id": "ZaqC5BAAACIAvqsu",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.3907407407407407,
+         "background": "transparent"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/15b614bc-cd37-4b2e-9d43-1c69d6707a2b_Visual+Identity+-+Type+-+Families+-+Besley+2.png?auto=compress,format&rect=0,0,1920,1080&w=640&h=360",
+       "id": "ZaqC5RAAACIAvqsz",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 0.3333333333333333,
+        "background": "transparent"
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/15b614bc-cd37-4b2e-9d43-1c69d6707a2b_Visual+Identity+-+Type+-+Families+-+Besley+2.png?auto=compress,format&rect=0,0,1920,1080&w=1600&h=900",
+        "id": "ZaqC5RAAACIAvqsz",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.8333333333333334,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/15b614bc-cd37-4b2e-9d43-1c69d6707a2b_Visual+Identity+-+Type+-+Families+-+Besley+2.png?auto=compress,format&rect=0,0,1920,1080&w=1920&h=1080",
+        "id": "ZaqC5RAAACIAvqsz",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/15b614bc-cd37-4b2e-9d43-1c69d6707a2b_Visual+Identity+-+Type+-+Families+-+Besley+2.png?auto=compress,format&rect=0,0,1920,1080&w=1200&h=675",
+        "id": "ZaqC5RAAACIAvqsz",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.625,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/15b614bc-cd37-4b2e-9d43-1c69d6707a2b_Visual+Identity+-+Type+-+Families+-+Besley+2.png?auto=compress,format&rect=0,0,1919,1080&w=828&h=466",
+        "id": "ZaqC5RAAACIAvqsz",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.43148148148148147,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/15b614bc-cd37-4b2e-9d43-1c69d6707a2b_Visual+Identity+-+Type+-+Families+-+Besley+2.png?auto=compress,format&rect=0,0,1918,1080&w=1080&h=608",
+        "id": "ZaqC5RAAACIAvqsz",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.562962962962963,
+         "background": "transparent"
+        }
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/15b614bc-cd37-4b2e-9d43-1c69d6707a2b_Visual+Identity+-+Type+-+Families+-+Besley+2.png?auto=compress,format&rect=0,0,1919,1080&w=750&h=422",
+        "id": "ZaqC5RAAACIAvqsz",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.3907407407407407,
+         "background": "transparent"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$8353fbd9-3c94-4fe9-bdb3-1f4361320a0d",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "CardCollection",
+     "tiles_per_row": "2",
+     "default_cta_label": [],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": false,
+     "hidden": false,
+     "skim": "none"
+    },
+    "items": [
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Download Besley",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Web",
+       "key": "c985b768-cc45-4e3e-a9a6-cc3281b5d011",
+       "url": "https://fonts.google.com/specimen/Besley"
+      },
+      "cta_link_custom_icon": "Web",
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$3f162a87-e4f0-48cc-a893-86a07a20e349",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Substitute for Besley / Georgia",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Georgia is intended as a backup typeface family replacing Besley in situations where the use of primary typefaces is impossible or limited, such as Office programs, document letterheads, e-mails, etc. Georgia is a system typeface and can be found as default on all contemporary operating systems.",
+       "spans": []
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$8d127184-6fdb-4f67-9f0c-82a98975ea42",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "LiftupCollection",
+     "tiles_per_row": "2",
+     "default_cta_label": [],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": false,
+     "hidden": false,
+     "skim": "top"
+    },
+    "items": [
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/2932348c-9cb6-434e-a8c3-bb9ff86906a3_Visual+Identity+-+Type+-+Families+-+Georgia+1.png?auto=compress,format&rect=0,0,1920,1080&w=640&h=360",
+       "id": "ZaqC5RAAACQAvqsy",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 0.3333333333333333,
+        "background": "transparent"
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/2932348c-9cb6-434e-a8c3-bb9ff86906a3_Visual+Identity+-+Type+-+Families+-+Georgia+1.png?auto=compress,format&rect=0,0,1920,1080&w=1600&h=900",
+        "id": "ZaqC5RAAACQAvqsy",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.8333333333333334,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/2932348c-9cb6-434e-a8c3-bb9ff86906a3_Visual+Identity+-+Type+-+Families+-+Georgia+1.png?auto=compress,format&rect=0,0,1920,1080&w=1920&h=1080",
+        "id": "ZaqC5RAAACQAvqsy",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/2932348c-9cb6-434e-a8c3-bb9ff86906a3_Visual+Identity+-+Type+-+Families+-+Georgia+1.png?auto=compress,format&rect=0,0,1920,1080&w=1200&h=675",
+        "id": "ZaqC5RAAACQAvqsy",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.625,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/2932348c-9cb6-434e-a8c3-bb9ff86906a3_Visual+Identity+-+Type+-+Families+-+Georgia+1.png?auto=compress,format&rect=0,0,1919,1080&w=828&h=466",
+        "id": "ZaqC5RAAACQAvqsy",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.43148148148148147,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/2932348c-9cb6-434e-a8c3-bb9ff86906a3_Visual+Identity+-+Type+-+Families+-+Georgia+1.png?auto=compress,format&rect=0,0,1918,1080&w=1080&h=608",
+        "id": "ZaqC5RAAACQAvqsy",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.562962962962963,
+         "background": "transparent"
+        }
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/2932348c-9cb6-434e-a8c3-bb9ff86906a3_Visual+Identity+-+Type+-+Families+-+Georgia+1.png?auto=compress,format&rect=0,0,1919,1080&w=750&h=422",
+        "id": "ZaqC5RAAACQAvqsy",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.3907407407407407,
+         "background": "transparent"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/ae037dc8-d2db-4971-ab21-4956c4cf2326_Visual+Identity+-+Type+-+Families+-+Georgia+2.png?auto=compress,format&rect=0,0,1920,1080&w=640&h=360",
+       "id": "ZaqC5RAAACAAvqsx",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 0.3333333333333333,
+        "background": "transparent"
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/ae037dc8-d2db-4971-ab21-4956c4cf2326_Visual+Identity+-+Type+-+Families+-+Georgia+2.png?auto=compress,format&rect=0,0,1920,1080&w=1600&h=900",
+        "id": "ZaqC5RAAACAAvqsx",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.8333333333333334,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/ae037dc8-d2db-4971-ab21-4956c4cf2326_Visual+Identity+-+Type+-+Families+-+Georgia+2.png?auto=compress,format&rect=0,0,1920,1080&w=1920&h=1080",
+        "id": "ZaqC5RAAACAAvqsx",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/ae037dc8-d2db-4971-ab21-4956c4cf2326_Visual+Identity+-+Type+-+Families+-+Georgia+2.png?auto=compress,format&rect=0,0,1920,1080&w=1200&h=675",
+        "id": "ZaqC5RAAACAAvqsx",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.625,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/ae037dc8-d2db-4971-ab21-4956c4cf2326_Visual+Identity+-+Type+-+Families+-+Georgia+2.png?auto=compress,format&rect=0,0,1919,1080&w=828&h=466",
+        "id": "ZaqC5RAAACAAvqsx",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.43148148148148147,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/ae037dc8-d2db-4971-ab21-4956c4cf2326_Visual+Identity+-+Type+-+Families+-+Georgia+2.png?auto=compress,format&rect=0,0,1918,1080&w=1080&h=608",
+        "id": "ZaqC5RAAACAAvqsx",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.562962962962963,
+         "background": "transparent"
+        }
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/ae037dc8-d2db-4971-ab21-4956c4cf2326_Visual+Identity+-+Type+-+Families+-+Georgia+2.png?auto=compress,format&rect=0,0,1919,1080&w=750&h=422",
+        "id": "ZaqC5RAAACAAvqsx",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.3907407407407407,
+         "background": "transparent"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$93be4dc6-c974-45c6-be0c-1c70a85c169e",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Use of colour",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$77bb7685-974f-4d66-8db4-a15e948a13c7",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Black typography should always be used on either white or backgrounds using the brand colours, and white typography on black backgrounds.\nThis ensures that there is enough contrast between the colour and background and makes the use of colours accessible both for digital and print.",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$71ae9cf9-9047-46f7-a6c4-f4675f7fcf31",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "ImageTileCollection",
+     "tiles_per_row": "2",
+     "default_cta_label": [],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": false,
+     "hidden": false,
+     "skim": "top"
+    },
+    "items": [
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "dimensions": {
+        "width": 2808,
+        "height": 2808
+       },
+       "alt": "Example text on different coloured backgrounds: black text on yellow is ok, but coloured text on red or white background is not.",
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/aEAkKrh8WN-LVk-G_VisualIdentity-Type-Colour1.png?auto=format,compress",
+       "id": "aEAkKrh8WN-LVk-G",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 750
+        },
+        "alt": "Example text on different coloured backgrounds: black text on yellow is ok, but coloured text on red or white background is not.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aEAkKrh8WN-LVk-G_VisualIdentity-Type-Colour1.png?auto=format,compress&rect=0,0,2808,2808&w=750&h=750",
+        "id": "aEAkKrh8WN-LVk-G",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 828
+        },
+        "alt": "Example text on different coloured backgrounds: black text on yellow is ok, but coloured text on red or white background is not.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aEAkKrh8WN-LVk-G_VisualIdentity-Type-Colour1.png?auto=format,compress&rect=0,0,2808,2808&w=828&h=828",
+        "id": "aEAkKrh8WN-LVk-G",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 1080
+        },
+        "alt": "Example text on different coloured backgrounds: black text on yellow is ok, but coloured text on red or white background is not.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aEAkKrh8WN-LVk-G_VisualIdentity-Type-Colour1.png?auto=format,compress&rect=0,0,2808,2808&w=1080&h=1080",
+        "id": "aEAkKrh8WN-LVk-G",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 1200
+        },
+        "alt": "Example text on different coloured backgrounds: black text on yellow is ok, but coloured text on red or white background is not.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aEAkKrh8WN-LVk-G_VisualIdentity-Type-Colour1.png?auto=format,compress&rect=0,0,2808,2808&w=1200&h=1200",
+        "id": "aEAkKrh8WN-LVk-G",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 1600
+        },
+        "alt": "Example text on different coloured backgrounds: black text on yellow is ok, but coloured text on red or white background is not.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aEAkKrh8WN-LVk-G_VisualIdentity-Type-Colour1.png?auto=format,compress&rect=0,0,2808,2808&w=1600&h=1600",
+        "id": "aEAkKrh8WN-LVk-G",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1920
+        },
+        "alt": "Example text on different coloured backgrounds: black text on yellow is ok, but coloured text on red or white background is not.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aEAkKrh8WN-LVk-G_VisualIdentity-Type-Colour1.png?auto=format,compress&rect=0,0,2808,2808&w=1920&h=1920",
+        "id": "aEAkKrh8WN-LVk-G",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       }
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "square",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "dimensions": {
+        "width": 2808,
+        "height": 2808
+       },
+       "alt": "Example text on black backgrounds: white text on black has a green checkmark but dark or yellow text have a red cross next to them.",
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/aEAkybh8WN-LVk-W_VisualIdentity-Type-Colour2.png?auto=format,compress",
+       "id": "aEAkybh8WN-LVk-W",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 750
+        },
+        "alt": "Example text on black backgrounds: white text on black has a green checkmark but dark or yellow text have a red cross next to them.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aEAkybh8WN-LVk-W_VisualIdentity-Type-Colour2.png?auto=format,compress&rect=0,0,2808,2808&w=750&h=750",
+        "id": "aEAkybh8WN-LVk-W",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 828
+        },
+        "alt": "Example text on black backgrounds: white text on black has a green checkmark but dark or yellow text have a red cross next to them.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aEAkybh8WN-LVk-W_VisualIdentity-Type-Colour2.png?auto=format,compress&rect=0,0,2808,2808&w=828&h=828",
+        "id": "aEAkybh8WN-LVk-W",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 1080
+        },
+        "alt": "Example text on black backgrounds: white text on black has a green checkmark but dark or yellow text have a red cross next to them.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aEAkybh8WN-LVk-W_VisualIdentity-Type-Colour2.png?auto=format,compress&rect=0,0,2808,2808&w=1080&h=1080",
+        "id": "aEAkybh8WN-LVk-W",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 1200
+        },
+        "alt": "Example text on black backgrounds: white text on black has a green checkmark but dark or yellow text have a red cross next to them.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aEAkybh8WN-LVk-W_VisualIdentity-Type-Colour2.png?auto=format,compress&rect=0,0,2808,2808&w=1200&h=1200",
+        "id": "aEAkybh8WN-LVk-W",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 1600
+        },
+        "alt": "Example text on black backgrounds: white text on black has a green checkmark but dark or yellow text have a red cross next to them.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aEAkybh8WN-LVk-W_VisualIdentity-Type-Colour2.png?auto=format,compress&rect=0,0,2808,2808&w=1600&h=1600",
+        "id": "aEAkybh8WN-LVk-W",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1920
+        },
+        "alt": "Example text on black backgrounds: white text on black has a green checkmark but dark or yellow text have a red cross next to them.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aEAkybh8WN-LVk-W_VisualIdentity-Type-Colour2.png?auto=format,compress&rect=0,0,2808,2808&w=1920&h=1920",
+        "id": "aEAkybh8WN-LVk-W",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       }
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "square",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$f6644249-16ae-436c-a72d-e0d7e893adf0",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "ImageTileCollection",
+     "tiles_per_row": "1",
+     "default_cta_label": [],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": false,
+     "hidden": false,
+     "skim": "none"
+    },
+    "items": [
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": "Three examples of color and text usage: yellow background with black text, numbers in very large font size and text with smaller font. Second page with black background and large bold font in white reading \"Good ideas turn into great business in Aalto's multiple incubators & accelerators\". Last page with white background, small headline \"Our community in numbers\" with larger back text with numbers highlighted in blue reading \"13100 full-time equivalent degree students. Over 100000 alumni. A staff of more than 4700, of which over 400 are professors.\"",
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/aQiDlLpReVYa38VI_brand_visualguidelines_type.png?auto=format,compress&rect=0,0,3841,2161&w=640&h=360",
+       "id": "aQiDlLpReVYa38VI",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": "Three examples of color and text usage: yellow background with black text, numbers in very large font size and text with smaller font. Second page with black background and large bold font in white reading \"Good ideas turn into great business in Aalto's multiple incubators & accelerators\". Last page with white background, small headline \"Our community in numbers\" with larger back text with numbers highlighted in blue reading \"13100 full-time equivalent degree students. Over 100000 alumni. A staff of more than 4700, of which over 400 are professors.\"",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aQiDlLpReVYa38VI_brand_visualguidelines_type.png?auto=format,compress&rect=0,0,3841,2161&w=750&h=422",
+        "id": "aQiDlLpReVYa38VI",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": "Three examples of color and text usage: yellow background with black text, numbers in very large font size and text with smaller font. Second page with black background and large bold font in white reading \"Good ideas turn into great business in Aalto's multiple incubators & accelerators\". Last page with white background, small headline \"Our community in numbers\" with larger back text with numbers highlighted in blue reading \"13100 full-time equivalent degree students. Over 100000 alumni. A staff of more than 4700, of which over 400 are professors.\"",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aQiDlLpReVYa38VI_brand_visualguidelines_type.png?auto=format,compress&rect=1,0,3840,2161&w=828&h=466",
+        "id": "aQiDlLpReVYa38VI",
+        "edit": {
+         "x": 1,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": "Three examples of color and text usage: yellow background with black text, numbers in very large font size and text with smaller font. Second page with black background and large bold font in white reading \"Good ideas turn into great business in Aalto's multiple incubators & accelerators\". Last page with white background, small headline \"Our community in numbers\" with larger back text with numbers highlighted in blue reading \"13100 full-time equivalent degree students. Over 100000 alumni. A staff of more than 4700, of which over 400 are professors.\"",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aQiDlLpReVYa38VI_brand_visualguidelines_type.png?auto=format,compress&rect=1,0,3839,2161&w=1080&h=608",
+        "id": "aQiDlLpReVYa38VI",
+        "edit": {
+         "x": 1,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": "Three examples of color and text usage: yellow background with black text, numbers in very large font size and text with smaller font. Second page with black background and large bold font in white reading \"Good ideas turn into great business in Aalto's multiple incubators & accelerators\". Last page with white background, small headline \"Our community in numbers\" with larger back text with numbers highlighted in blue reading \"13100 full-time equivalent degree students. Over 100000 alumni. A staff of more than 4700, of which over 400 are professors.\"",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aQiDlLpReVYa38VI_brand_visualguidelines_type.png?auto=format,compress&rect=0,0,3841,2161&w=1200&h=675",
+        "id": "aQiDlLpReVYa38VI",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": "Three examples of color and text usage: yellow background with black text, numbers in very large font size and text with smaller font. Second page with black background and large bold font in white reading \"Good ideas turn into great business in Aalto's multiple incubators & accelerators\". Last page with white background, small headline \"Our community in numbers\" with larger back text with numbers highlighted in blue reading \"13100 full-time equivalent degree students. Over 100000 alumni. A staff of more than 4700, of which over 400 are professors.\"",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aQiDlLpReVYa38VI_brand_visualguidelines_type.png?auto=format,compress&rect=0,0,3841,2161&w=1600&h=900",
+        "id": "aQiDlLpReVYa38VI",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": "Three examples of color and text usage: yellow background with black text, numbers in very large font size and text with smaller font. Second page with black background and large bold font in white reading \"Good ideas turn into great business in Aalto's multiple incubators & accelerators\". Last page with white background, small headline \"Our community in numbers\" with larger back text with numbers highlighted in blue reading \"13100 full-time equivalent degree students. Over 100000 alumni. A staff of more than 4700, of which over 400 are professors.\"",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aQiDlLpReVYa38VI_brand_visualguidelines_type.png?auto=format,compress&rect=0,0,3841,2161&w=1920&h=1080",
+        "id": "aQiDlLpReVYa38VI",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "",
+        "spans": []
+       }
+      ],
+      "body_text": [
+       {
+        "type": "paragraph",
+        "text": "Example use of typography",
+        "spans": []
+       }
+      ],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": "4 by 3 grid of images and coloured background showing numbers and rankings of Aalto university: 6 schools, approx. 100 startups, €K faculty and staff, 12K students, Art & design ranked 6th globally, 300 Professors tenure track recruitments since 2010, 100+ nationalities, Business administration ranked 24th globally (ShanghaiRankings 2022), Ranked 9th best young university globally (QS2021)",
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/aEAhwLh8WN-LVk9G_rankingsexamples-addtotypeanddata.png?auto=format,compress&rect=0,0,3841,2161&w=640&h=360",
+       "id": "aEAhwLh8WN-LVk9G",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": "4 by 3 grid of images and coloured background showing numbers and rankings of Aalto university: 6 schools, approx. 100 startups, €K faculty and staff, 12K students, Art & design ranked 6th globally, 300 Professors tenure track recruitments since 2010, 100+ nationalities, Business administration ranked 24th globally (ShanghaiRankings 2022), Ranked 9th best young university globally (QS2021)",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aEAhwLh8WN-LVk9G_rankingsexamples-addtotypeanddata.png?auto=format,compress&rect=0,0,3841,2161&w=750&h=422",
+        "id": "aEAhwLh8WN-LVk9G",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": "4 by 3 grid of images and coloured background showing numbers and rankings of Aalto university: 6 schools, approx. 100 startups, €K faculty and staff, 12K students, Art & design ranked 6th globally, 300 Professors tenure track recruitments since 2010, 100+ nationalities, Business administration ranked 24th globally (ShanghaiRankings 2022), Ranked 9th best young university globally (QS2021)",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aEAhwLh8WN-LVk9G_rankingsexamples-addtotypeanddata.png?auto=format,compress&rect=1,0,3840,2161&w=828&h=466",
+        "id": "aEAhwLh8WN-LVk9G",
+        "edit": {
+         "x": 1,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": "4 by 3 grid of images and coloured background showing numbers and rankings of Aalto university: 6 schools, approx. 100 startups, €K faculty and staff, 12K students, Art & design ranked 6th globally, 300 Professors tenure track recruitments since 2010, 100+ nationalities, Business administration ranked 24th globally (ShanghaiRankings 2022), Ranked 9th best young university globally (QS2021)",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aEAhwLh8WN-LVk9G_rankingsexamples-addtotypeanddata.png?auto=format,compress&rect=1,0,3839,2161&w=1080&h=608",
+        "id": "aEAhwLh8WN-LVk9G",
+        "edit": {
+         "x": 1,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": "4 by 3 grid of images and coloured background showing numbers and rankings of Aalto university: 6 schools, approx. 100 startups, €K faculty and staff, 12K students, Art & design ranked 6th globally, 300 Professors tenure track recruitments since 2010, 100+ nationalities, Business administration ranked 24th globally (ShanghaiRankings 2022), Ranked 9th best young university globally (QS2021)",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aEAhwLh8WN-LVk9G_rankingsexamples-addtotypeanddata.png?auto=format,compress&rect=0,0,3841,2161&w=1200&h=675",
+        "id": "aEAhwLh8WN-LVk9G",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": "4 by 3 grid of images and coloured background showing numbers and rankings of Aalto university: 6 schools, approx. 100 startups, €K faculty and staff, 12K students, Art & design ranked 6th globally, 300 Professors tenure track recruitments since 2010, 100+ nationalities, Business administration ranked 24th globally (ShanghaiRankings 2022), Ranked 9th best young university globally (QS2021)",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aEAhwLh8WN-LVk9G_rankingsexamples-addtotypeanddata.png?auto=format,compress&rect=0,0,3841,2161&w=1600&h=900",
+        "id": "aEAhwLh8WN-LVk9G",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": "4 by 3 grid of images and coloured background showing numbers and rankings of Aalto university: 6 schools, approx. 100 startups, €K faculty and staff, 12K students, Art & design ranked 6th globally, 300 Professors tenure track recruitments since 2010, 100+ nationalities, Business administration ranked 24th globally (ShanghaiRankings 2022), Ranked 9th best young university globally (QS2021)",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aEAhwLh8WN-LVk9G_rankingsexamples-addtotypeanddata.png?auto=format,compress&rect=0,0,3841,2161&w=1920&h=1080",
+        "id": "aEAhwLh8WN-LVk9G",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "",
+        "spans": []
+       }
+      ],
+      "body_text": [
+       {
+        "type": "paragraph",
+        "text": "Example use of typography and numbers",
+        "spans": []
+       }
+      ],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$bfa2a700-5704-411f-9332-4c3e43d0c26f",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Read next",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$f52c683a-e94e-47d2-ac4d-1e9e59919885",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "CardCollection",
+     "tiles_per_row": "2",
+     "default_cta_label": [],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": false,
+     "hidden": false,
+     "skim": "none"
+    },
+    "items": [
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Colours",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [
+       {
+        "type": "paragraph",
+        "text": "Read about colours",
+        "spans": []
+       }
+      ],
+      "cta_link": {
+       "id": "Z__VNhAAAB8AzpZa",
+       "type": "design_system_content",
+       "tags": [
+        "identity"
+       ],
+       "lang": "en-eu",
+       "slug": "colours",
+       "first_publication_date": "2025-04-16T16:15:16+0000",
+       "last_publication_date": "2025-11-03T10:31:54+0000",
+       "uid": "_brand_visual-guidelines_colours",
+       "link_type": "Document",
+       "key": "1d0e9302-d9a7-428f-95ec-13bd9c4197fd",
+       "isBroken": false
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Images",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [
+       {
+        "type": "paragraph",
+        "text": "See image instructions",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "cta_link": {
+       "id": "Z__ViRAAAP0UzpbX",
+       "type": "design_system_content",
+       "tags": [
+        "identity"
+       ],
+       "lang": "en-eu",
+       "slug": "images",
+       "first_publication_date": "2025-04-16T16:15:16+0000",
+       "last_publication_date": "2025-06-17T14:54:29+0000",
+       "uid": "_brand_visual-guidelines_images",
+       "link_type": "Document",
+       "key": "df86ef7c-1e91-40ce-87e2-e001b7ace02f",
+       "isBroken": false
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$1be855d2-ca21-435c-898a-2b5fff9a0340",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   }
+  ]
+ }
+}

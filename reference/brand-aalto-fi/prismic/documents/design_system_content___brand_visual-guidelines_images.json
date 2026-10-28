@@ -1,0 +1,2471 @@
+{
+ "id": "Z__ViRAAAP0UzpbX",
+ "uid": "_brand_visual-guidelines_images",
+ "url": null,
+ "type": "design_system_content",
+ "href": "https://aalto-master-design-system.cdn.prismic.io/api/v2/documents/search?ref=ap6ZthEAACsAUnNI&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22Z__ViRAAAP0UzpbX%22%29+%5D%5D",
+ "tags": [
+  "identity"
+ ],
+ "first_publication_date": "2025-04-16T16:15:16+0000",
+ "last_publication_date": "2025-06-17T14:54:29+0000",
+ "slugs": [
+  "images"
+ ],
+ "linked_documents": [],
+ "lang": "en-eu",
+ "alternate_languages": [
+  {
+   "id": "aRw6VhcAACkAhzTj",
+   "type": "design_system_content",
+   "lang": "fi",
+   "uid": "_brand_visual-guidelines_images"
+  }
+ ],
+ "data": {
+  "feedback_form": {
+   "link_type": "Document"
+  },
+  "body1": [
+   {
+    "primary": {
+     "title": [
+      {
+       "type": "heading1",
+       "text": "Images",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "ingress": [],
+     "body_text": [
+      {
+       "type": "paragraph",
+       "text": "",
+       "spans": []
+      }
+     ],
+     "cta_label": [],
+     "cta_link": {
+      "link_type": "Any"
+     },
+     "image": {
+      "img_size_xs": {},
+      "img_size_s": {},
+      "img_size_m": {},
+      "img_size_l": {},
+      "img_size_xl": {},
+      "img_size_xxl": {}
+     },
+     "video_file_link": {
+      "link_type": "Any"
+     },
+     "aside": {
+      "link_type": "Document"
+     },
+     "theme": "black"
+    },
+    "items": [
+     {}
+    ],
+    "id": "hero$f325b78b-aa4f-4ea4-a567-e4c5ebf50675",
+    "slice_type": "hero",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "With our photography, we want to celebrate the diversity of people, activities and creativity that thrive on our campus. We want to depict collaboration and teamwork.",
+       "spans": []
+      },
+      {
+       "type": "paragraph",
+       "text": "Our aim is to create high-quality images that feel authentic and invoke curiosity. We want to create stunning compositions that convey energy and beauty. We want to avoid images that feel overly posed or heavily retouched.",
+       "spans": []
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$4955387f-9c66-4dba-a205-8fe1daa31299",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Examples",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "We strive to portray real Aalto people, places, situations, and emotions.",
+       "spans": []
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$af61a292-ee88-4f63-84a0-442f9d7627ef",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "ImageTileCollection",
+     "tiles_per_row": "2",
+     "default_cta_label": [],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": false,
+     "hidden": false,
+     "skim": "top"
+    },
+    "items": [
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": "Man wearing a black sweater and woman wearing a dark t-shirt and dotted apron in ceramics workshop creating small clay bowls.",
+       "copyright": null,
+       "url": "https://prismic-io.s3.amazonaws.com/aalto-master-design-system/64ce3919-33af-40ab-a2ab-c958dcbbb2e9_Aalto+University_+ceramics+workshop%2C+13052022%2C+by+Aleksi+Poutanen%2C+1295.jpg?rect=0%2C261%2C2499%2C1406&w=640&h=360",
+       "id": "ZNt1GxAAACkAthrw",
+       "edit": {
+        "x": 0,
+        "y": 261,
+        "zoom": 1,
+        "background": "#fff"
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": "Man wearing a black sweater and woman wearing a dark t-shirt and dotted apron in ceramics workshop creating small clay bowls.",
+        "copyright": null,
+        "url": "https://prismic-io.s3.amazonaws.com/aalto-master-design-system/64ce3919-33af-40ab-a2ab-c958dcbbb2e9_Aalto+University_+ceramics+workshop%2C+13052022%2C+by+Aleksi+Poutanen%2C+1295.jpg?rect=0%2C-84%2C3903%2C2196&w=1600&h=900",
+        "id": "ZNt1GxAAACkAthrw",
+        "edit": {
+         "x": 0,
+         "y": -84,
+         "zoom": 0.6402561024409764,
+         "background": "#fff"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": "Man wearing a black sweater and woman wearing a dark t-shirt and dotted apron in ceramics workshop creating small clay bowls.",
+        "copyright": null,
+        "url": "https://prismic-io.s3.amazonaws.com/aalto-master-design-system/64ce3919-33af-40ab-a2ab-c958dcbbb2e9_Aalto+University_+ceramics+workshop%2C+13052022%2C+by+Aleksi+Poutanen%2C+1295.jpg?rect=0%2C-100%2C3253%2C1830&w=1920&h=1080",
+        "id": "ZNt1GxAAACkAthrw",
+        "edit": {
+         "x": 0,
+         "y": -100,
+         "zoom": 0.7683073229291717,
+         "background": "#fff"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": "Man wearing a black sweater and woman wearing a dark t-shirt and dotted apron in ceramics workshop creating small clay bowls.",
+        "copyright": null,
+        "url": "https://prismic-io.s3.amazonaws.com/aalto-master-design-system/64ce3919-33af-40ab-a2ab-c958dcbbb2e9_Aalto+University_+ceramics+workshop%2C+13052022%2C+by+Aleksi+Poutanen%2C+1295.jpg?rect=0%2C-63%2C5204%2C2927&w=1200&h=675",
+        "id": "ZNt1GxAAACkAthrw",
+        "edit": {
+         "x": 0,
+         "y": -63,
+         "zoom": 0.4801920768307323,
+         "background": "#fff"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": "Man wearing a black sweater and woman wearing a dark t-shirt and dotted apron in ceramics workshop creating small clay bowls.",
+        "copyright": null,
+        "url": "https://prismic-io.s3.amazonaws.com/aalto-master-design-system/64ce3919-33af-40ab-a2ab-c958dcbbb2e9_Aalto+University_+ceramics+workshop%2C+13052022%2C+by+Aleksi+Poutanen%2C+1295.jpg?rect=0%2C-43%2C7542%2C4245&w=828&h=466",
+        "id": "ZNt1GxAAACkAthrw",
+        "edit": {
+         "x": 0,
+         "y": -43,
+         "zoom": 0.33133253301320525,
+         "background": "#fff"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": "Man wearing a black sweater and woman wearing a dark t-shirt and dotted apron in ceramics workshop creating small clay bowls.",
+        "copyright": null,
+        "url": "https://prismic-io.s3.amazonaws.com/aalto-master-design-system/64ce3919-33af-40ab-a2ab-c958dcbbb2e9_Aalto+University_+ceramics+workshop%2C+13052022%2C+by+Aleksi+Poutanen%2C+1295.jpg?rect=0%2C-56%2C5782%2C3255&w=1080&h=608",
+        "id": "ZNt1GxAAACkAthrw",
+        "edit": {
+         "x": 0,
+         "y": -56,
+         "zoom": 0.43217286914765907,
+         "background": "#fff"
+        }
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": "Man wearing a black sweater and woman wearing a dark t-shirt and dotted apron in ceramics workshop creating small clay bowls.",
+        "copyright": null,
+        "url": "https://prismic-io.s3.amazonaws.com/aalto-master-design-system/64ce3919-33af-40ab-a2ab-c958dcbbb2e9_Aalto+University_+ceramics+workshop%2C+13052022%2C+by+Aleksi+Poutanen%2C+1295.jpg?rect=0%2C-39%2C8327%2C4685&w=750&h=422",
+        "id": "ZNt1GxAAACkAthrw",
+        "edit": {
+         "x": 0,
+         "y": -39,
+         "zoom": 0.30012004801920766,
+         "background": "#fff"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [],
+      "body_text": [
+       {
+        "type": "paragraph",
+        "text": "Aalto University / Aleksi Poutanen",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": "Bearded man in safety goggles closely looking at raw material glowing orange light.",
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/28bea31c-09eb-4dde-a626-fc615a9e9c05_Aalto_University_Raw-Materials-Hub_7-2-2020_photo_Mikko_Raskinen_019.jpg?auto=compress,format&rect=0,129,2500,1406&w=640&h=360",
+       "id": "ZNt1GxAAACgAthrx",
+       "edit": {
+        "x": 0,
+        "y": -33,
+        "zoom": 0.256,
+        "background": "#fff"
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": "Bearded man in safety goggles closely looking at raw material glowing orange light.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/28bea31c-09eb-4dde-a626-fc615a9e9c05_Aalto_University_Raw-Materials-Hub_7-2-2020_photo_Mikko_Raskinen_019.jpg?auto=compress,format&rect=0,130,2500,1406&w=1600&h=900",
+        "id": "ZNt1GxAAACgAthrx",
+        "edit": {
+         "x": 0,
+         "y": -83,
+         "zoom": 0.64,
+         "background": "#fff"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": "Bearded man in safety goggles closely looking at raw material glowing orange light.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/28bea31c-09eb-4dde-a626-fc615a9e9c05_Aalto_University_Raw-Materials-Hub_7-2-2020_photo_Mikko_Raskinen_019.jpg?auto=compress,format&rect=0,130,2500,1406&w=1920&h=1080",
+        "id": "ZNt1GxAAACgAthrx",
+        "edit": {
+         "x": 0,
+         "y": -100,
+         "zoom": 0.768,
+         "background": "#fff"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": "Bearded man in safety goggles closely looking at raw material glowing orange light.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/28bea31c-09eb-4dde-a626-fc615a9e9c05_Aalto_University_Raw-Materials-Hub_7-2-2020_photo_Mikko_Raskinen_019.jpg?auto=compress,format&rect=0,131,2500,1406&w=1200&h=675",
+        "id": "ZNt1GxAAACgAthrx",
+        "edit": {
+         "x": 0,
+         "y": -63,
+         "zoom": 0.48,
+         "background": "#fff"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": "Bearded man in safety goggles closely looking at raw material glowing orange light.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/28bea31c-09eb-4dde-a626-fc615a9e9c05_Aalto_University_Raw-Materials-Hub_7-2-2020_photo_Mikko_Raskinen_019.jpg?auto=compress,format&rect=0,130,2500,1407&w=828&h=466",
+        "id": "ZNt1GxAAACgAthrx",
+        "edit": {
+         "x": 0,
+         "y": -43,
+         "zoom": 0.3312,
+         "background": "#fff"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": "Bearded man in safety goggles closely looking at raw material glowing orange light.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/28bea31c-09eb-4dde-a626-fc615a9e9c05_Aalto_University_Raw-Materials-Hub_7-2-2020_photo_Mikko_Raskinen_019.jpg?auto=compress,format&rect=0,130,2500,1407&w=1080&h=608",
+        "id": "ZNt1GxAAACgAthrx",
+        "edit": {
+         "x": 0,
+         "y": -56,
+         "zoom": 0.432,
+         "background": "#fff"
+        }
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": "Bearded man in safety goggles closely looking at raw material glowing orange light.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/28bea31c-09eb-4dde-a626-fc615a9e9c05_Aalto_University_Raw-Materials-Hub_7-2-2020_photo_Mikko_Raskinen_019.jpg?auto=compress,format&rect=0,130,2500,1407&w=750&h=422",
+        "id": "ZNt1GxAAACgAthrx",
+        "edit": {
+         "x": 0,
+         "y": -39,
+         "zoom": 0.3,
+         "background": "#fff"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [],
+      "body_text": [
+       {
+        "type": "paragraph",
+        "text": "Aalto University / Mikko Raskinen",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": "Two smiling young adults in colourful clothing laying in a flower field",
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/1ae4ecc9-a896-462e-9fee-ecacfbabb1dd_Aalto_University_Squad_students_May-2023_by_Aleksi_Poutanen_9346.jpg?auto=compress,format&rect=0,133,2500,1406&w=640&h=360",
+       "id": "ZNt1GxAAACcAthr2",
+       "edit": {
+        "x": 0,
+        "y": -34,
+        "zoom": 0.256,
+        "background": "#fff"
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": "Two smiling young adults in colourful clothing laying in a flower field",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/1ae4ecc9-a896-462e-9fee-ecacfbabb1dd_Aalto_University_Squad_students_May-2023_by_Aleksi_Poutanen_9346.jpg?auto=compress,format&rect=0,131,2500,1406&w=1600&h=900",
+        "id": "ZNt1GxAAACcAthr2",
+        "edit": {
+         "x": 0,
+         "y": -84,
+         "zoom": 0.64,
+         "background": "#fff"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": "Two smiling young adults in colourful clothing laying in a flower field",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/1ae4ecc9-a896-462e-9fee-ecacfbabb1dd_Aalto_University_Squad_students_May-2023_by_Aleksi_Poutanen_9346.jpg?auto=compress,format&rect=0,132,2500,1406&w=1920&h=1080",
+        "id": "ZNt1GxAAACcAthr2",
+        "edit": {
+         "x": 0,
+         "y": -101,
+         "zoom": 0.768,
+         "background": "#fff"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": "Two smiling young adults in colourful clothing laying in a flower field",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/1ae4ecc9-a896-462e-9fee-ecacfbabb1dd_Aalto_University_Squad_students_May-2023_by_Aleksi_Poutanen_9346.jpg?auto=compress,format&rect=0,131,2500,1406&w=1200&h=675",
+        "id": "ZNt1GxAAACcAthr2",
+        "edit": {
+         "x": 0,
+         "y": -63,
+         "zoom": 0.48,
+         "background": "#fff"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": "Two smiling young adults in colourful clothing laying in a flower field",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/1ae4ecc9-a896-462e-9fee-ecacfbabb1dd_Aalto_University_Squad_students_May-2023_by_Aleksi_Poutanen_9346.jpg?auto=compress,format&rect=0,130,2500,1407&w=828&h=466",
+        "id": "ZNt1GxAAACcAthr2",
+        "edit": {
+         "x": 0,
+         "y": -43,
+         "zoom": 0.3312,
+         "background": "#fff"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": "Two smiling young adults in colourful clothing laying in a flower field",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/1ae4ecc9-a896-462e-9fee-ecacfbabb1dd_Aalto_University_Squad_students_May-2023_by_Aleksi_Poutanen_9346.jpg?auto=compress,format&rect=0,130,2500,1407&w=1080&h=608",
+        "id": "ZNt1GxAAACcAthr2",
+        "edit": {
+         "x": 0,
+         "y": -56,
+         "zoom": 0.432,
+         "background": "#fff"
+        }
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": "Two smiling young adults in colourful clothing laying in a flower field",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/1ae4ecc9-a896-462e-9fee-ecacfbabb1dd_Aalto_University_Squad_students_May-2023_by_Aleksi_Poutanen_9346.jpg?auto=compress,format&rect=0,130,2500,1407&w=750&h=422",
+        "id": "ZNt1GxAAACcAthr2",
+        "edit": {
+         "x": 0,
+         "y": -39,
+         "zoom": 0.3,
+         "background": "#fff"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [],
+      "body_text": [
+       {
+        "type": "paragraph",
+        "text": "Aalto University / Aleksi Poutanen",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": "Graduated dancing outside under a blue sky wearing festive clothes and tech student version of the student cap (white hat with a hanging tassle)",
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/5345cb51-5980-4f3d-8416-f092d4d8aa97_Aalto_University_GraduationParty_15062022_photo_by_Jaakko_Kahilaniemi-0774.jpg?auto=compress,format&rect=0,129,2500,1406&w=640&h=360",
+       "id": "ZNt1HhAAACcAthsC",
+       "edit": {
+        "x": 0,
+        "y": -33,
+        "zoom": 0.256,
+        "background": "#fff"
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": "Graduated dancing outside under a blue sky wearing festive clothes and tech student version of the student cap (white hat with a hanging tassle)",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/5345cb51-5980-4f3d-8416-f092d4d8aa97_Aalto_University_GraduationParty_15062022_photo_by_Jaakko_Kahilaniemi-0774.jpg?auto=compress,format&rect=0,130,2500,1406&w=1600&h=900",
+        "id": "ZNt1HhAAACcAthsC",
+        "edit": {
+         "x": 0,
+         "y": -83,
+         "zoom": 0.64,
+         "background": "#fff"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": "Graduated dancing outside under a blue sky wearing festive clothes and tech student version of the student cap (white hat with a hanging tassle)",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/5345cb51-5980-4f3d-8416-f092d4d8aa97_Aalto_University_GraduationParty_15062022_photo_by_Jaakko_Kahilaniemi-0774.jpg?auto=compress,format&rect=0,130,2500,1406&w=1920&h=1080",
+        "id": "ZNt1HhAAACcAthsC",
+        "edit": {
+         "x": 0,
+         "y": -100,
+         "zoom": 0.768,
+         "background": "#fff"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": "Graduated dancing outside under a blue sky wearing festive clothes and tech student version of the student cap (white hat with a hanging tassle)",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/5345cb51-5980-4f3d-8416-f092d4d8aa97_Aalto_University_GraduationParty_15062022_photo_by_Jaakko_Kahilaniemi-0774.jpg?auto=compress,format&rect=0,131,2500,1406&w=1200&h=675",
+        "id": "ZNt1HhAAACcAthsC",
+        "edit": {
+         "x": 0,
+         "y": -63,
+         "zoom": 0.48,
+         "background": "#fff"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": "Graduated dancing outside under a blue sky wearing festive clothes and tech student version of the student cap (white hat with a hanging tassle)",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/5345cb51-5980-4f3d-8416-f092d4d8aa97_Aalto_University_GraduationParty_15062022_photo_by_Jaakko_Kahilaniemi-0774.jpg?auto=compress,format&rect=0,130,2500,1407&w=828&h=466",
+        "id": "ZNt1HhAAACcAthsC",
+        "edit": {
+         "x": 0,
+         "y": -43,
+         "zoom": 0.3312,
+         "background": "#fff"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": "Graduated dancing outside under a blue sky wearing festive clothes and tech student version of the student cap (white hat with a hanging tassle)",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/5345cb51-5980-4f3d-8416-f092d4d8aa97_Aalto_University_GraduationParty_15062022_photo_by_Jaakko_Kahilaniemi-0774.jpg?auto=compress,format&rect=0,130,2500,1407&w=1080&h=608",
+        "id": "ZNt1HhAAACcAthsC",
+        "edit": {
+         "x": 0,
+         "y": -56,
+         "zoom": 0.432,
+         "background": "#fff"
+        }
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": "Graduated dancing outside under a blue sky wearing festive clothes and tech student version of the student cap (white hat with a hanging tassle)",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/5345cb51-5980-4f3d-8416-f092d4d8aa97_Aalto_University_GraduationParty_15062022_photo_by_Jaakko_Kahilaniemi-0774.jpg?auto=compress,format&rect=0,130,2500,1407&w=750&h=422",
+        "id": "ZNt1HhAAACcAthsC",
+        "edit": {
+         "x": 0,
+         "y": -39,
+         "zoom": 0.3,
+         "background": "#fff"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [],
+      "body_text": [
+       {
+        "type": "paragraph",
+        "text": "Aalto University / Jaakko Kahilaniemi",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$a17b225c-ca56-4bc2-b463-bdcf7a89a602",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "The photo should always portray something authentic and real – but it doesn’t have to be boring: it can be taken from a surprising angle or have beautiful lighting.",
+       "spans": []
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$f3c12d51-5096-410b-b387-e878eda7f946",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "ImageTileCollection",
+     "tiles_per_row": "4",
+     "default_cta_label": [],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": false,
+     "hidden": false,
+     "skim": "none"
+    },
+    "items": [
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "dimensions": {
+        "width": 360,
+        "height": 483
+       },
+       "alt": "Picture taken from above of three people around a table with fashion design sketches and pieces of cloth on it.",
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/aFFZP7NJEFaPYBhi_Aalto_University_Brand_Imagery_24-10-2024_by_Mikael_Niemi_image_09_Original.jpeg?auto=format%2Ccompress&rect=18%2C0%2C5679%2C7619&w=360&h=483",
+       "id": "aFFZP7NJEFaPYBhi",
+       "edit": {
+        "x": 18,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 422,
+         "height": 566
+        },
+        "alt": "Picture taken from above of three people around a table with fashion design sketches and pieces of cloth on it.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aFFZP7NJEFaPYBhi_Aalto_University_Brand_Imagery_24-10-2024_by_Mikael_Niemi_image_09_Original.jpeg?auto=format%2Ccompress&rect=17%2C0%2C5681%2C7619&w=422&h=566",
+        "id": "aFFZP7NJEFaPYBhi",
+        "edit": {
+         "x": 17,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 466,
+         "height": 625
+        },
+        "alt": "Picture taken from above of three people around a table with fashion design sketches and pieces of cloth on it.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aFFZP7NJEFaPYBhi_Aalto_University_Brand_Imagery_24-10-2024_by_Mikael_Niemi_image_09_Original.jpeg?auto=format%2Ccompress&rect=17%2C0%2C5681%2C7619&w=466&h=625",
+        "id": "aFFZP7NJEFaPYBhi",
+        "edit": {
+         "x": 17,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 608,
+         "height": 815
+        },
+        "alt": "Picture taken from above of three people around a table with fashion design sketches and pieces of cloth on it.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aFFZP7NJEFaPYBhi_Aalto_University_Brand_Imagery_24-10-2024_by_Mikael_Niemi_image_09_Original.jpeg?auto=format%2Ccompress&rect=15%2C0%2C5684%2C7619&w=608&h=815",
+        "id": "aFFZP7NJEFaPYBhi",
+        "edit": {
+         "x": 15,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 675,
+         "height": 905
+        },
+        "alt": "Picture taken from above of three people around a table with fashion design sketches and pieces of cloth on it.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aFFZP7NJEFaPYBhi_Aalto_University_Brand_Imagery_24-10-2024_by_Mikael_Niemi_image_09_Original.jpeg?auto=format%2Ccompress&rect=16%2C0%2C5683%2C7619&w=675&h=905",
+        "id": "aFFZP7NJEFaPYBhi",
+        "edit": {
+         "x": 16,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 900,
+         "height": 1207
+        },
+        "alt": "Picture taken from above of three people around a table with fashion design sketches and pieces of cloth on it.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aFFZP7NJEFaPYBhi_Aalto_University_Brand_Imagery_24-10-2024_by_Mikael_Niemi_image_09_Original.jpeg?auto=format%2Ccompress&rect=16%2C0%2C5681%2C7619&w=900&h=1207",
+        "id": "aFFZP7NJEFaPYBhi",
+        "edit": {
+         "x": 16,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1080,
+         "height": 1448
+        },
+        "alt": "Picture taken from above of three people around a table with fashion design sketches and pieces of cloth on it.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aFFZP7NJEFaPYBhi_Aalto_University_Brand_Imagery_24-10-2024_by_Mikael_Niemi_image_09_Original.jpeg?auto=format%2Ccompress&rect=16%2C0%2C5683%2C7619&w=1080&h=1448",
+        "id": "aFFZP7NJEFaPYBhi",
+        "edit": {
+         "x": 16,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       }
+      },
+      "title": [],
+      "body_text": [
+       {
+        "type": "paragraph",
+        "text": "Aalto University / Mikael Niemi",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "sd-portrait",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "dimensions": {
+        "width": 360,
+        "height": 483
+       },
+       "alt": "Person in a black hooded coat sitting outside with other people as well.",
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/aFFbGrNJEFaPYBii_Aalto_University_Brand_Imagery_24-10-2024_by_Mikael_Niemi_image_16_Original.jpg?auto=format%2Ccompress&rect=13%2C0%2C3975%2C5333&w=360&h=483",
+       "id": "aFFbGrNJEFaPYBii",
+       "edit": {
+        "x": 13,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 422,
+         "height": 566
+        },
+        "alt": "Person in a black hooded coat sitting outside with other people as well.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aFFbGrNJEFaPYBii_Aalto_University_Brand_Imagery_24-10-2024_by_Mikael_Niemi_image_16_Original.jpg?auto=format%2Ccompress&rect=12%2C0%2C3976%2C5333&w=422&h=566",
+        "id": "aFFbGrNJEFaPYBii",
+        "edit": {
+         "x": 12,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 466,
+         "height": 625
+        },
+        "alt": "Person in a black hooded coat sitting outside with other people as well.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aFFbGrNJEFaPYBii_Aalto_University_Brand_Imagery_24-10-2024_by_Mikael_Niemi_image_16_Original.jpg?auto=format%2Ccompress&rect=12%2C0%2C3976%2C5333&w=466&h=625",
+        "id": "aFFbGrNJEFaPYBii",
+        "edit": {
+         "x": 12,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 608,
+         "height": 815
+        },
+        "alt": "Person in a black hooded coat sitting outside with other people as well.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aFFbGrNJEFaPYBii_Aalto_University_Brand_Imagery_24-10-2024_by_Mikael_Niemi_image_16_Original.jpg?auto=format%2Ccompress&rect=11%2C0%2C3978%2C5333&w=608&h=815",
+        "id": "aFFbGrNJEFaPYBii",
+        "edit": {
+         "x": 11,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 675,
+         "height": 905
+        },
+        "alt": "Person in a black hooded coat sitting outside with other people as well.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aFFbGrNJEFaPYBii_Aalto_University_Brand_Imagery_24-10-2024_by_Mikael_Niemi_image_16_Original.jpg?auto=format%2Ccompress&rect=11%2C0%2C3978%2C5333&w=675&h=905",
+        "id": "aFFbGrNJEFaPYBii",
+        "edit": {
+         "x": 11,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 900,
+         "height": 1207
+        },
+        "alt": "Person in a black hooded coat sitting outside with other people as well.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aFFbGrNJEFaPYBii_Aalto_University_Brand_Imagery_24-10-2024_by_Mikael_Niemi_image_16_Original.jpg?auto=format%2Ccompress&rect=12%2C0%2C3977%2C5333&w=900&h=1207",
+        "id": "aFFbGrNJEFaPYBii",
+        "edit": {
+         "x": 12,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1080,
+         "height": 1448
+        },
+        "alt": "Person in a black hooded coat sitting outside with other people as well.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aFFbGrNJEFaPYBii_Aalto_University_Brand_Imagery_24-10-2024_by_Mikael_Niemi_image_16_Original.jpg?auto=format%2Ccompress&rect=11%2C0%2C3978%2C5333&w=1080&h=1448",
+        "id": "aFFbGrNJEFaPYBii",
+        "edit": {
+         "x": 11,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       }
+      },
+      "title": [],
+      "body_text": [
+       {
+        "type": "paragraph",
+        "text": "Aalto University / Mikael Niemi",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "sd-portrait",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "dimensions": {
+        "width": 360,
+        "height": 483
+       },
+       "alt": "Aalto University main building photographed from ground level towards the blue sky featuring the famous amphitheatre part of the red brick building.",
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/aFFbgrNJEFaPYBjG_Aalto_University_Brand_Imagery_24-10-2024_by_Mikael_Niemi_image_18_Original.jpeg?auto=format,compress&rect=19,0,5963,8000&w=360&h=483",
+       "id": "aFFbgrNJEFaPYBjG",
+       "edit": {
+        "x": 19,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 422,
+         "height": 566
+        },
+        "alt": "Aalto University main building photographed from ground level towards the blue sky featuring the famous amphitheatre part of the red brick building.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aFFbgrNJEFaPYBjG_Aalto_University_Brand_Imagery_24-10-2024_by_Mikael_Niemi_image_18_Original.jpeg?auto=format,compress&rect=18,0,5965,8000&w=422&h=566",
+        "id": "aFFbgrNJEFaPYBjG",
+        "edit": {
+         "x": 18,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 466,
+         "height": 625
+        },
+        "alt": "Aalto University main building photographed from ground level towards the blue sky featuring the famous amphitheatre part of the red brick building.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aFFbgrNJEFaPYBjG_Aalto_University_Brand_Imagery_24-10-2024_by_Mikael_Niemi_image_18_Original.jpeg?auto=format,compress&rect=18,0,5965,8000&w=466&h=625",
+        "id": "aFFbgrNJEFaPYBjG",
+        "edit": {
+         "x": 18,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 608,
+         "height": 815
+        },
+        "alt": "Aalto University main building photographed from ground level towards the blue sky featuring the famous amphitheatre part of the red brick building.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aFFbgrNJEFaPYBjG_Aalto_University_Brand_Imagery_24-10-2024_by_Mikael_Niemi_image_18_Original.jpeg?auto=format,compress&rect=16,0,5968,8000&w=608&h=815",
+        "id": "aFFbgrNJEFaPYBjG",
+        "edit": {
+         "x": 16,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 675,
+         "height": 905
+        },
+        "alt": "Aalto University main building photographed from ground level towards the blue sky featuring the famous amphitheatre part of the red brick building.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aFFbgrNJEFaPYBjG_Aalto_University_Brand_Imagery_24-10-2024_by_Mikael_Niemi_image_18_Original.jpeg?auto=format,compress&rect=17,0,5967,8000&w=675&h=905",
+        "id": "aFFbgrNJEFaPYBjG",
+        "edit": {
+         "x": 17,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 900,
+         "height": 1207
+        },
+        "alt": "Aalto University main building photographed from ground level towards the blue sky featuring the famous amphitheatre part of the red brick building.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aFFbgrNJEFaPYBjG_Aalto_University_Brand_Imagery_24-10-2024_by_Mikael_Niemi_image_18_Original.jpeg?auto=format,compress&rect=17,0,5965,8000&w=900&h=1207",
+        "id": "aFFbgrNJEFaPYBjG",
+        "edit": {
+         "x": 17,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1080,
+         "height": 1448
+        },
+        "alt": "Aalto University main building photographed from ground level towards the blue sky featuring the famous amphitheatre part of the red brick building.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aFFbgrNJEFaPYBjG_Aalto_University_Brand_Imagery_24-10-2024_by_Mikael_Niemi_image_18_Original.jpeg?auto=format,compress&rect=17,0,5967,8000&w=1080&h=1448",
+        "id": "aFFbgrNJEFaPYBjG",
+        "edit": {
+         "x": 17,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       }
+      },
+      "title": [],
+      "body_text": [
+       {
+        "type": "paragraph",
+        "text": "Aalto University / Mikael Niemi",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "sd-portrait",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "dimensions": {
+        "width": 360,
+        "height": 483
+       },
+       "alt": "Black, yellow, white and pink shapes with cell structure",
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/aFFb77NJEFaPYBje_Aalto_University_Cooler_Planet_exhibition_20-05-2024_by_Bryan_Saragosa_139751_Original.jpeg?auto=format,compress&rect=239,0,6511,8736&w=360&h=483",
+       "id": "aFFb77NJEFaPYBje",
+       "edit": {
+        "x": 239,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 422,
+         "height": 566
+        },
+        "alt": "Black, yellow, white and pink shapes with cell structure",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aFFb77NJEFaPYBje_Aalto_University_Cooler_Planet_exhibition_20-05-2024_by_Bryan_Saragosa_139751_Original.jpeg?auto=format,compress&rect=238,0,6513,8736&w=422&h=566",
+        "id": "aFFb77NJEFaPYBje",
+        "edit": {
+         "x": 238,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 466,
+         "height": 625
+        },
+        "alt": "Black, yellow, white and pink shapes with cell structure",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aFFb77NJEFaPYBje_Aalto_University_Cooler_Planet_exhibition_20-05-2024_by_Bryan_Saragosa_139751_Original.jpeg?auto=format,compress&rect=238,0,6514,8736&w=466&h=625",
+        "id": "aFFb77NJEFaPYBje",
+        "edit": {
+         "x": 238,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 608,
+         "height": 815
+        },
+        "alt": "Black, yellow, white and pink shapes with cell structure",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aFFb77NJEFaPYBje_Aalto_University_Cooler_Planet_exhibition_20-05-2024_by_Bryan_Saragosa_139751_Original.jpeg?auto=format,compress&rect=236,0,6517,8736&w=608&h=815",
+        "id": "aFFb77NJEFaPYBje",
+        "edit": {
+         "x": 236,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 675,
+         "height": 905
+        },
+        "alt": "Black, yellow, white and pink shapes with cell structure",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aFFb77NJEFaPYBje_Aalto_University_Cooler_Planet_exhibition_20-05-2024_by_Bryan_Saragosa_139751_Original.jpeg?auto=format,compress&rect=237,0,6516,8736&w=675&h=905",
+        "id": "aFFb77NJEFaPYBje",
+        "edit": {
+         "x": 237,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 900,
+         "height": 1207
+        },
+        "alt": "Black, yellow, white and pink shapes with cell structure",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aFFb77NJEFaPYBje_Aalto_University_Cooler_Planet_exhibition_20-05-2024_by_Bryan_Saragosa_139751_Original.jpeg?auto=format,compress&rect=237,0,6514,8736&w=900&h=1207",
+        "id": "aFFb77NJEFaPYBje",
+        "edit": {
+         "x": 237,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1080,
+         "height": 1448
+        },
+        "alt": "Black, yellow, white and pink shapes with cell structure",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aFFb77NJEFaPYBje_Aalto_University_Cooler_Planet_exhibition_20-05-2024_by_Bryan_Saragosa_139751_Original.jpeg?auto=format,compress&rect=237,0,6516,8736&w=1080&h=1448",
+        "id": "aFFb77NJEFaPYBje",
+        "edit": {
+         "x": 237,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       }
+      },
+      "title": [],
+      "body_text": [
+       {
+        "type": "paragraph",
+        "text": "Aalto University / Bryan Saragosa",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "sd-portrait",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$ecd718ba-d5fb-4071-9c50-854fdc28a439",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "ImageTileCollection",
+     "tiles_per_row": "1",
+     "default_cta_label": [],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": false,
+     "hidden": false,
+     "skim": "none"
+    },
+    "items": [
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": "Measurement setting with dark pyramid shapes and orange square pieces that form almost a flower shape.",
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/2ee58a78-aaec-444e-ad4b-3a2a110334f3_16_Jari-Matti+Hannula_In+the+middle+of+measurements.jpg?auto=compress,format&rect=0,137,2499,1406&w=640&h=360",
+       "id": "ZNt4AxAAACkAtii1",
+       "edit": {
+        "x": 0,
+        "y": -35,
+        "zoom": 0.25610244097639057,
+        "background": "#fff"
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": "Measurement setting with dark pyramid shapes and orange square pieces that form almost a flower shape.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/2ee58a78-aaec-444e-ad4b-3a2a110334f3_16_Jari-Matti+Hannula_In+the+middle+of+measurements.jpg?auto=compress,format&rect=0,136,2499,1406&w=1600&h=900",
+        "id": "ZNt4AxAAACkAtii1",
+        "edit": {
+         "x": 0,
+         "y": -87,
+         "zoom": 0.6402561024409764,
+         "background": "#fff"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": "Measurement setting with dark pyramid shapes and orange square pieces that form almost a flower shape.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/2ee58a78-aaec-444e-ad4b-3a2a110334f3_16_Jari-Matti+Hannula_In+the+middle+of+measurements.jpg?auto=compress,format&rect=0,137,2499,1406&w=1920&h=1080",
+        "id": "ZNt4AxAAACkAtii1",
+        "edit": {
+         "x": 0,
+         "y": -105,
+         "zoom": 0.7683073229291717,
+         "background": "#fff"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": "Measurement setting with dark pyramid shapes and orange square pieces that form almost a flower shape.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/2ee58a78-aaec-444e-ad4b-3a2a110334f3_16_Jari-Matti+Hannula_In+the+middle+of+measurements.jpg?auto=compress,format&rect=0,137,2499,1406&w=1200&h=675",
+        "id": "ZNt4AxAAACkAtii1",
+        "edit": {
+         "x": 0,
+         "y": -66,
+         "zoom": 0.4801920768307323,
+         "background": "#fff"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": "Measurement setting with dark pyramid shapes and orange square pieces that form almost a flower shape.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/2ee58a78-aaec-444e-ad4b-3a2a110334f3_16_Jari-Matti+Hannula_In+the+middle+of+measurements.jpg?auto=compress,format&rect=0,136,2499,1406&w=828&h=466",
+        "id": "ZNt4AxAAACkAtii1",
+        "edit": {
+         "x": 0,
+         "y": -45,
+         "zoom": 0.33133253301320525,
+         "background": "#fff"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": "Measurement setting with dark pyramid shapes and orange square pieces that form almost a flower shape.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/2ee58a78-aaec-444e-ad4b-3a2a110334f3_16_Jari-Matti+Hannula_In+the+middle+of+measurements.jpg?auto=compress,format&rect=0,137,2499,1407&w=1080&h=608",
+        "id": "ZNt4AxAAACkAtii1",
+        "edit": {
+         "x": 0,
+         "y": -59,
+         "zoom": 0.43217286914765907,
+         "background": "#fff"
+        }
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": "Measurement setting with dark pyramid shapes and orange square pieces that form almost a flower shape.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/2ee58a78-aaec-444e-ad4b-3a2a110334f3_16_Jari-Matti+Hannula_In+the+middle+of+measurements.jpg?auto=compress,format&rect=0,137,2499,1406&w=750&h=422",
+        "id": "ZNt4AxAAACkAtii1",
+        "edit": {
+         "x": 0,
+         "y": -41,
+         "zoom": 0.30012004801920766,
+         "background": "#fff"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [],
+      "body_text": [
+       {
+        "type": "paragraph",
+        "text": "Aalto University / Jari-Matti Hannula",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$1d09040f-24df-46e6-91e2-4a412599f609",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "ImageTileCollection",
+     "tiles_per_row": "3",
+     "default_cta_label": [],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": false,
+     "hidden": false,
+     "skim": "none"
+    },
+    "items": [
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": "3 dimensional image of an MRI",
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/1e0925d2-219c-4fef-bf77-5e30f2cb731b_AMI_MRI_02_raskinen.jpg?auto=compress,format&rect=0,129,2500,1406&w=640&h=360",
+       "id": "ZNt4AxAAACgAtii2",
+       "edit": {
+        "x": 0,
+        "y": -33,
+        "zoom": 0.256,
+        "background": "#fff"
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": "3 dimensional image of an MRI",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/1e0925d2-219c-4fef-bf77-5e30f2cb731b_AMI_MRI_02_raskinen.jpg?auto=compress,format&rect=0,130,2500,1406&w=1600&h=900",
+        "id": "ZNt4AxAAACgAtii2",
+        "edit": {
+         "x": 0,
+         "y": -83,
+         "zoom": 0.64,
+         "background": "#fff"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": "3 dimensional image of an MRI",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/1e0925d2-219c-4fef-bf77-5e30f2cb731b_AMI_MRI_02_raskinen.jpg?auto=compress,format&rect=0,130,2500,1406&w=1920&h=1080",
+        "id": "ZNt4AxAAACgAtii2",
+        "edit": {
+         "x": 0,
+         "y": -100,
+         "zoom": 0.768,
+         "background": "#fff"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": "3 dimensional image of an MRI",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/1e0925d2-219c-4fef-bf77-5e30f2cb731b_AMI_MRI_02_raskinen.jpg?auto=compress,format&rect=0,131,2500,1406&w=1200&h=675",
+        "id": "ZNt4AxAAACgAtii2",
+        "edit": {
+         "x": 0,
+         "y": -63,
+         "zoom": 0.48,
+         "background": "#fff"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": "3 dimensional image of an MRI",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/1e0925d2-219c-4fef-bf77-5e30f2cb731b_AMI_MRI_02_raskinen.jpg?auto=compress,format&rect=0,130,2500,1407&w=828&h=466",
+        "id": "ZNt4AxAAACgAtii2",
+        "edit": {
+         "x": 0,
+         "y": -43,
+         "zoom": 0.3312,
+         "background": "#fff"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": "3 dimensional image of an MRI",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/1e0925d2-219c-4fef-bf77-5e30f2cb731b_AMI_MRI_02_raskinen.jpg?auto=compress,format&rect=0,130,2500,1407&w=1080&h=608",
+        "id": "ZNt4AxAAACgAtii2",
+        "edit": {
+         "x": 0,
+         "y": -56,
+         "zoom": 0.432,
+         "background": "#fff"
+        }
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": "3 dimensional image of an MRI",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/1e0925d2-219c-4fef-bf77-5e30f2cb731b_AMI_MRI_02_raskinen.jpg?auto=compress,format&rect=0,130,2500,1407&w=750&h=422",
+        "id": "ZNt4AxAAACgAtii2",
+        "edit": {
+         "x": 0,
+         "y": -39,
+         "zoom": 0.3,
+         "background": "#fff"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [],
+      "body_text": [
+       {
+        "type": "paragraph",
+        "text": "Aalto University / Mikko Raskinen",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": "Hands touching very bright neon coloured lights",
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/121ace16-cdeb-4427-baa1-0871ef554de4_Aalto_University_Quantum_Exhibition_Dipoli_16-10-2019_photo_Mikko_Raskinen_001+%281%29.jpg?auto=compress,format&rect=0,129,2500,1406&w=640&h=360",
+       "id": "ZNt4AxAAACkAtii3",
+       "edit": {
+        "x": 0,
+        "y": -33,
+        "zoom": 0.256,
+        "background": "#fff"
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": "Hands touching very bright neon coloured lights",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/121ace16-cdeb-4427-baa1-0871ef554de4_Aalto_University_Quantum_Exhibition_Dipoli_16-10-2019_photo_Mikko_Raskinen_001+%281%29.jpg?auto=compress,format&rect=0,130,2500,1406&w=1600&h=900",
+        "id": "ZNt4AxAAACkAtii3",
+        "edit": {
+         "x": 0,
+         "y": -83,
+         "zoom": 0.64,
+         "background": "#fff"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": "Hands touching very bright neon coloured lights",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/121ace16-cdeb-4427-baa1-0871ef554de4_Aalto_University_Quantum_Exhibition_Dipoli_16-10-2019_photo_Mikko_Raskinen_001+%281%29.jpg?auto=compress,format&rect=0,130,2500,1406&w=1920&h=1080",
+        "id": "ZNt4AxAAACkAtii3",
+        "edit": {
+         "x": 0,
+         "y": -100,
+         "zoom": 0.768,
+         "background": "#fff"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": "Hands touching very bright neon coloured lights",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/121ace16-cdeb-4427-baa1-0871ef554de4_Aalto_University_Quantum_Exhibition_Dipoli_16-10-2019_photo_Mikko_Raskinen_001+%281%29.jpg?auto=compress,format&rect=0,131,2500,1406&w=1200&h=675",
+        "id": "ZNt4AxAAACkAtii3",
+        "edit": {
+         "x": 0,
+         "y": -63,
+         "zoom": 0.48,
+         "background": "#fff"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": "Hands touching very bright neon coloured lights",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/121ace16-cdeb-4427-baa1-0871ef554de4_Aalto_University_Quantum_Exhibition_Dipoli_16-10-2019_photo_Mikko_Raskinen_001+%281%29.jpg?auto=compress,format&rect=0,130,2500,1407&w=828&h=466",
+        "id": "ZNt4AxAAACkAtii3",
+        "edit": {
+         "x": 0,
+         "y": -43,
+         "zoom": 0.3312,
+         "background": "#fff"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": "Hands touching very bright neon coloured lights",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/121ace16-cdeb-4427-baa1-0871ef554de4_Aalto_University_Quantum_Exhibition_Dipoli_16-10-2019_photo_Mikko_Raskinen_001+%281%29.jpg?auto=compress,format&rect=0,130,2500,1407&w=1080&h=608",
+        "id": "ZNt4AxAAACkAtii3",
+        "edit": {
+         "x": 0,
+         "y": -56,
+         "zoom": 0.432,
+         "background": "#fff"
+        }
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": "Hands touching very bright neon coloured lights",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/121ace16-cdeb-4427-baa1-0871ef554de4_Aalto_University_Quantum_Exhibition_Dipoli_16-10-2019_photo_Mikko_Raskinen_001+%281%29.jpg?auto=compress,format&rect=0,130,2500,1407&w=750&h=422",
+        "id": "ZNt4AxAAACkAtii3",
+        "edit": {
+         "x": 0,
+         "y": -39,
+         "zoom": 0.3,
+         "background": "#fff"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [],
+      "body_text": [
+       {
+        "type": "paragraph",
+        "text": "Aalto University / Mikko Raskinen",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": "Structural colors",
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/105592c7-dbe9-4dc3-804c-67dbef16e971_Structural+colors_DSC_6226_photo+Valeria+Azovskaya_Original.jpg?auto=compress,format&rect=0,129,2500,1406&w=640&h=360",
+       "id": "ZNt4_BAAACYAti1B",
+       "edit": {
+        "x": 0,
+        "y": -33,
+        "zoom": 0.256,
+        "background": "#fff"
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": "Structural colors",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/105592c7-dbe9-4dc3-804c-67dbef16e971_Structural+colors_DSC_6226_photo+Valeria+Azovskaya_Original.jpg?auto=compress,format&rect=0,130,2500,1406&w=1600&h=900",
+        "id": "ZNt4_BAAACYAti1B",
+        "edit": {
+         "x": 0,
+         "y": -83,
+         "zoom": 0.64,
+         "background": "#fff"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": "Structural colors",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/105592c7-dbe9-4dc3-804c-67dbef16e971_Structural+colors_DSC_6226_photo+Valeria+Azovskaya_Original.jpg?auto=compress,format&rect=0,130,2500,1406&w=1920&h=1080",
+        "id": "ZNt4_BAAACYAti1B",
+        "edit": {
+         "x": 0,
+         "y": -100,
+         "zoom": 0.768,
+         "background": "#fff"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": "Structural colors",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/105592c7-dbe9-4dc3-804c-67dbef16e971_Structural+colors_DSC_6226_photo+Valeria+Azovskaya_Original.jpg?auto=compress,format&rect=0,131,2500,1406&w=1200&h=675",
+        "id": "ZNt4_BAAACYAti1B",
+        "edit": {
+         "x": 0,
+         "y": -63,
+         "zoom": 0.48,
+         "background": "#fff"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": "Structural colors",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/105592c7-dbe9-4dc3-804c-67dbef16e971_Structural+colors_DSC_6226_photo+Valeria+Azovskaya_Original.jpg?auto=compress,format&rect=0,130,2500,1407&w=828&h=466",
+        "id": "ZNt4_BAAACYAti1B",
+        "edit": {
+         "x": 0,
+         "y": -43,
+         "zoom": 0.3312,
+         "background": "#fff"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": "Structural colors",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/105592c7-dbe9-4dc3-804c-67dbef16e971_Structural+colors_DSC_6226_photo+Valeria+Azovskaya_Original.jpg?auto=compress,format&rect=0,130,2500,1407&w=1080&h=608",
+        "id": "ZNt4_BAAACYAti1B",
+        "edit": {
+         "x": 0,
+         "y": -56,
+         "zoom": 0.432,
+         "background": "#fff"
+        }
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": "Structural colors",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/105592c7-dbe9-4dc3-804c-67dbef16e971_Structural+colors_DSC_6226_photo+Valeria+Azovskaya_Original.jpg?auto=compress,format&rect=0,130,2500,1407&w=750&h=422",
+        "id": "ZNt4_BAAACYAti1B",
+        "edit": {
+         "x": 0,
+         "y": -39,
+         "zoom": 0.3,
+         "background": "#fff"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [],
+      "body_text": [
+       {
+        "type": "paragraph",
+        "text": "Aalto University / Valeria Azovskaya",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$666c520a-273c-4082-bc5b-fb8bdc3a9844",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "The use of stock imagery should be avoided.",
+       "spans": [
+        {
+         "start": 11,
+         "end": 24,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "In rare cases, stock images can be used to illustrate the larger context to which the work at Aalto is related. For example, if we need a photograph of a desert to illustrate research related to climate change, we could use stock footage. However, unique pictures of the solutions developed at Aalto can often be more effective than generic stock pictures.",
+       "spans": [],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "In some cases, like in quantum physics where things cannot be seen, metaphorical images or illustrations might be needed instead of photographs.",
+       "spans": [],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "AI-generated images should be avoided when the photograph is intended to be viewed as a representation of real life. As a general rule, we want to be authentic in Aalto University communications when we portray our people, our campus, and infrastructure. However, there are other contexts, such as research, education, and arts projects where AI generated images are and can be used.",
+       "spans": [
+        {
+         "start": 0,
+         "end": 19,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "In most cases, we do not recommend publishing AI-generated images on aalto.fi due to copyright and brand alignment issues.",
+       "spans": [
+        {
+         "start": 69,
+         "end": 77,
+         "type": "hyperlink",
+         "data": {
+          "link_type": "Web",
+          "url": "http://aalto.fi/",
+          "target": "_blank"
+         }
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$a2e2ce34-7081-4f0d-9a2f-21276bfb876b",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Note",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Prior permission is required from individuals who will be featured prominently in the photographs. Read more about the right of use and copyright of photographs, videos and audio files on aalto.fi",
+       "spans": [
+        {
+         "start": 119,
+         "end": 196,
+         "type": "hyperlink",
+         "data": {
+          "link_type": "Web",
+          "url": "https://www.aalto.fi/en/services/right-of-use-and-copyright-photograph-video-and-audio"
+         }
+        }
+       ]
+      },
+      {
+       "type": "paragraph",
+       "text": "Photographed individuals should rather not wear large logos or slogans on their clothing,  except for official Aalto University branding.",
+       "spans": []
+      },
+      {
+       "type": "paragraph",
+       "text": "Aalto University has a constantly evolving material bank. These images can be used for internal and external communications. When using photos, make sure you credit the images to the university and the photographer like so: Aalto University / FirstName LastName",
+       "spans": []
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$5d4db96b-4b18-4e5e-b7c1-4186c8482508",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "CTA",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Image bank",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Aalto personnel, please use Haka login",
+       "spans": []
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [
+      {
+       "type": "paragraph",
+       "text": "Go to image bank",
+       "spans": []
+      }
+     ],
+     "button_link": {
+      "link_type": "Web",
+      "key": "313cc090-6713-4afb-a7b3-616ffde0f92b",
+      "url": "https://materialbank.aalto.fi",
+      "target": "_blank"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "black",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$28ad53dc-fa38-44e8-8b71-d0fcc389f0d9",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Read next",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$057b6697-ef12-4b6e-a37e-48d236068a3b",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "CardCollection",
+     "tiles_per_row": "2",
+     "default_cta_label": [
+      {
+       "type": "paragraph",
+       "text": "Read more",
+       "spans": []
+      }
+     ],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": false,
+     "hidden": false,
+     "skim": "none"
+    },
+    "items": [
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Type",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "id": "Z__U6xAAAP0UzpXj",
+       "type": "design_system_content",
+       "tags": [
+        "identity"
+       ],
+       "lang": "en-eu",
+       "slug": "type",
+       "first_publication_date": "2025-04-16T16:20:45+0000",
+       "last_publication_date": "2025-11-03T10:29:08+0000",
+       "uid": "_brand_visual-guidelines_type",
+       "link_type": "Document",
+       "key": "5de43a6b-33d3-4a40-bc73-5ba460548281",
+       "isBroken": false
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Videos",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "id": "Z__VsRAAAKHuzpcT",
+       "type": "design_system_content",
+       "tags": [
+        "identity"
+       ],
+       "lang": "en-eu",
+       "slug": "videos",
+       "first_publication_date": "2025-04-16T16:15:06+0000",
+       "last_publication_date": "2025-10-21T07:57:47+0000",
+       "uid": "_brand_visual-guidelines_videos",
+       "link_type": "Document",
+       "key": "3bffb298-7f25-4f8d-978b-f3b5a2868a41",
+       "isBroken": false
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$ba56fcf0-22bf-4a49-9003-23f775f5acff",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   }
+  ]
+ }
+}

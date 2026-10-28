@@ -1,0 +1,327 @@
+{
+ "id": "ZEZrXxQAACQAseXC",
+ "uid": "_ds_modules_navigation-accordion",
+ "url": null,
+ "type": "design_system_content",
+ "href": "https://aalto-master-design-system.cdn.prismic.io/api/v2/documents/search?ref=ap6ZthEAACsAUnNI&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZEZrXxQAACQAseXC%22%29+%5D%5D",
+ "tags": [],
+ "first_publication_date": "2023-04-24T11:44:45+0000",
+ "last_publication_date": "2024-08-20T09:16:44+0000",
+ "slugs": [
+  "navigation-accordion"
+ ],
+ "linked_documents": [],
+ "lang": "en-eu",
+ "alternate_languages": [],
+ "data": {
+  "feedback_form": {
+   "link_type": "Document"
+  },
+  "body1": [
+   {
+    "primary": {
+     "title": [
+      {
+       "type": "heading1",
+       "text": "Navigation Accordion",
+       "spans": []
+      }
+     ],
+     "ingress": [
+      {
+       "type": "paragraph",
+       "text": "Navigation Accordion organises navigation hierarchy.",
+       "spans": []
+      }
+     ],
+     "body_text": [
+      {
+       "type": "paragraph",
+       "text": "",
+       "spans": []
+      }
+     ],
+     "cta_label": [],
+     "cta_link": {
+      "link_type": "Any"
+     },
+     "image": {
+      "img_size_xs": {},
+      "img_size_s": {},
+      "img_size_m": {},
+      "img_size_l": {},
+      "img_size_xl": {},
+      "img_size_xxl": {}
+     },
+     "video_file_link": {
+      "link_type": "Any"
+     },
+     "aside": {
+      "link_type": "Document"
+     },
+     "theme": "black"
+    },
+    "items": [
+     {}
+    ],
+    "id": "hero$c1f41b3f-ff32-4733-9517-20ecd9776fce",
+    "slice_type": "hero",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Navigation Accordion has layers of navigation information. Besides the main sections, users can navigate through subsections for more specific information. Navigation Accordion saves space on layout and enables more information in smaller spaces.",
+       "spans": []
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$ff3a5e9f-2b59-41cd-ae9e-6cac1fac69a7",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Examples",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$5961e11f-7113-4f15-952e-2ac2b27a40b1",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "ComponentPreview",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "With a link highlighted",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Note for non-React devs: positioning the highlight indicator at the left doesn't work with CSS only but requires scripting ",
+       "spans": [
+        {
+         "start": 0,
+         "end": 123,
+         "type": "em"
+        }
+       ]
+      }
+     ],
+     "component_id": "modules/navigationaccordion--link-highlighted",
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": true,
+     "react_code_preview": true,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$41702913-7e72-4d9f-844e-660966408cd5",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Usage",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$732a70ca-d8db-418c-824a-16766b530b6f",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Navigation accordions are suitable for situations where the main navigation consists of two levels and there are two or more subsections. As you can see on the current website, navigation accordions can be employed as part of Side Navigation (on desktop) or Top Navigation (on mobile).",
+       "spans": [
+        {
+         "start": 226,
+         "end": 241,
+         "type": "hyperlink",
+         "data": {
+          "id": "ZEZx8BQAACYAsgYU",
+          "type": "design_system_content",
+          "tags": [
+           "modules"
+          ],
+          "lang": "en-eu",
+          "slug": "side-navigation",
+          "first_publication_date": "2023-04-24T12:11:55+0000",
+          "last_publication_date": "2025-10-13T10:25:55+0000",
+          "uid": "_ds_modules_side-navigation",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        },
+        {
+         "start": 258,
+         "end": 272,
+         "type": "hyperlink",
+         "data": {
+          "id": "ZEZyehQAACYAsgjA",
+          "type": "design_system_content",
+          "tags": [],
+          "lang": "en-eu",
+          "slug": "top-navigation",
+          "first_publication_date": "2023-04-24T12:14:18+0000",
+          "last_publication_date": "2024-08-19T11:12:49+0000",
+          "uid": "_ds_sections_top-navigation",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        }
+       ]
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$11967749-a621-4677-bf81-f8b58e473cc6",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   }
+  ]
+ }
+}

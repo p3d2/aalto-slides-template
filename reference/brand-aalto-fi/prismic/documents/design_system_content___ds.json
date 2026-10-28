@@ -1,0 +1,1380 @@
+{
+ "id": "ZBnOmRAAACIAgO7B",
+ "uid": "_ds",
+ "url": null,
+ "type": "design_system_content",
+ "href": "https://aalto-master-design-system.cdn.prismic.io/api/v2/documents/search?ref=ap6ZthEAACsAUnNI&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZBnOmRAAACIAgO7B%22%29+%5D%5D",
+ "tags": [
+  "ds"
+ ],
+ "first_publication_date": "2023-03-21T15:34:56+0000",
+ "last_publication_date": "2026-05-12T10:12:31+0000",
+ "slugs": [
+  "design-system"
+ ],
+ "linked_documents": [],
+ "lang": "en-eu",
+ "alternate_languages": [
+  {
+   "id": "aRw_GBcAACYAhz_A",
+   "type": "design_system_content",
+   "lang": "fi",
+   "uid": "_ds"
+  }
+ ],
+ "data": {
+  "feedback_form": {
+   "link_type": "Document"
+  },
+  "body1": [
+   {
+    "primary": {
+     "title": [
+      {
+       "type": "heading1",
+       "text": "Design system",
+       "spans": []
+      }
+     ],
+     "ingress": [
+      {
+       "type": "paragraph",
+       "text": "Toolbox for anyone at Aalto University creating or maintaining digital services. ",
+       "spans": []
+      }
+     ],
+     "body_text": [
+      {
+       "type": "paragraph",
+       "text": "Toolbox for anyone at Aalto University creating or maintaining digital services. ",
+       "spans": []
+      }
+     ],
+     "cta_label": [],
+     "cta_link": {
+      "link_type": "Any"
+     },
+     "image": {
+      "img_size_xs": {},
+      "img_size_s": {},
+      "img_size_m": {},
+      "img_size_l": {},
+      "img_size_xl": {},
+      "img_size_xxl": {}
+     },
+     "video_file_link": {
+      "link_type": "Any"
+     },
+     "aside": {
+      "id": "Y2z5gBEAAF5wVsCl",
+      "type": "person_info",
+      "tags": [],
+      "lang": "en-eu",
+      "slug": "contact-for-questions-or-support",
+      "first_publication_date": "2022-11-10T13:15:51+0000",
+      "last_publication_date": "2025-02-14T08:10:01+0000",
+      "uid": "anna-savisaari",
+      "link_type": "Document",
+      "key": "3f7f28ac-aa70-4a54-bdbf-9c8bd67543f0",
+      "isBroken": false
+     },
+     "theme": "yellow"
+    },
+    "items": [
+     {}
+    ],
+    "id": "hero$e44a6d6a-81ae-4302-bd88-7d776f57cdf3",
+    "slice_type": "hero",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "The design system is the documentation of all the digital resources, elements, and instructions, that make up Aalto University’s digital sites and services. It serves as a framework that helps maintain a consistent user experience throughout all digital services and touchpoints, ultimately contributing both to the university's brand identity and user satisfaction.",
+       "spans": []
+      },
+      {
+       "type": "paragraph",
+       "text": "The design system consists of reusable design assets, component libraries, and guidelines. A shared set of design guidelines and elements enables the teams to work more efficiently, facilitating collaboration among different teams and departments within the university. This leads to faster and more consistent design iterations and content development and helps avoid user experience fragmentation.",
+       "spans": []
+      },
+      {
+       "type": "paragraph",
+       "text": "The pre-designed set of components provided by the design system adheres to various accessibility guidelines related to colour contrast, typography, and navigation. This approach guarantees that all of Aalto University's digital touchpoints are usable by everyone, irrespective of their abilities or assistive technologies.",
+       "spans": []
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "id": "ZlbKvBEAACQAd7Ca",
+      "type": "person_info",
+      "tags": [],
+      "lang": "en-eu",
+      "slug": "contact-for-questions-or-support",
+      "first_publication_date": "2024-05-29T06:33:22+0000",
+      "last_publication_date": "2024-05-29T06:33:22+0000",
+      "uid": "christopher-wall",
+      "link_type": "Document",
+      "key": "a309a802-16c4-4f9f-9490-04e32d51bfe6",
+      "isBroken": false
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$0094a148-2136-4d43-905d-113d4ee78caf",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "CTA",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Join the Design system Teams community",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Ask questions, give comments, propose new components or share learnings of using the design system. The community is open for all design system users: Aalto students, staff or partners. If you don't have an Aalto ID, and you need access, please write an email to communications@aalto.fi.",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [
+      {
+       "type": "paragraph",
+       "text": "Join Teams",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "button_link": {
+      "link_type": "Web",
+      "key": "4af46aed-8389-44d4-b338-04c9bc1b2aeb",
+      "url": "https://teams.microsoft.com/l/team/19%3AMWdMZBQk8B4Zg97u9Cgd8rCbBjPbK-EuFHx17tF9lVg1%40thread.tacv2/conversations?groupId=dc9f1770-b7ee-4c62-8209-8060645a9178&tenantId=ae1a7724-4041-4462-a6dc-538cb199707e",
+      "target": "_blank"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "yellow",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$5b55b6fa-2a43-45a6-a7a9-e1d3fc2d4a59",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Benefits of the design system",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": true,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$d7a77742-7afa-46c2-acaf-70dbf261c4d6",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "LiftupCollection",
+     "tiles_per_row": "3",
+     "default_cta_label": [
+      {
+       "type": "paragraph",
+       "text": "",
+       "spans": []
+      }
+     ],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": true,
+     "hidden": false,
+     "skim": "none"
+    },
+    "items": [
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/6c79fa27-afb3-46a9-8afe-b308da854cf5_Aalto+DS+photoshoot+04.jpg?auto=compress,format&rect=21,0,3300,1856&w=640&h=360",
+       "id": "ZVzGJxAAACcA7PmR",
+       "edit": {
+        "x": -4,
+        "y": 0,
+        "zoom": 0.1939655172413793,
+        "background": "#fff"
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/6c79fa27-afb3-46a9-8afe-b308da854cf5_Aalto+DS+photoshoot+04.jpg?auto=compress,format&rect=21,0,3300,1856&w=1600&h=900",
+        "id": "ZVzGJxAAACcA7PmR",
+        "edit": {
+         "x": -10,
+         "y": 0,
+         "zoom": 0.4849137931034483,
+         "background": "#fff"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/6c79fa27-afb3-46a9-8afe-b308da854cf5_Aalto+DS+photoshoot+04.jpg?auto=compress,format&rect=21,0,3300,1856&w=1920&h=1080",
+        "id": "ZVzGJxAAACcA7PmR",
+        "edit": {
+         "x": -12,
+         "y": 0,
+         "zoom": 0.5818965517241379,
+         "background": "#fff"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/6c79fa27-afb3-46a9-8afe-b308da854cf5_Aalto+DS+photoshoot+04.jpg?auto=compress,format&rect=19,0,3300,1856&w=1200&h=675",
+        "id": "ZVzGJxAAACcA7PmR",
+        "edit": {
+         "x": -7,
+         "y": 0,
+         "zoom": 0.3636853448275862,
+         "background": "#fff"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/6c79fa27-afb3-46a9-8afe-b308da854cf5_Aalto+DS+photoshoot+04.jpg?auto=compress,format&rect=20,0,3298,1856&w=828&h=466",
+        "id": "ZVzGJxAAACcA7PmR",
+        "edit": {
+         "x": -5,
+         "y": 0,
+         "zoom": 0.2510775862068966,
+         "background": "#fff"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/6c79fa27-afb3-46a9-8afe-b308da854cf5_Aalto+DS+photoshoot+04.jpg?auto=compress,format&rect=21,0,3297,1856&w=1080&h=608",
+        "id": "ZVzGJxAAACcA7PmR",
+        "edit": {
+         "x": -7,
+         "y": 0,
+         "zoom": 0.3275862068965517,
+         "background": "#fff"
+        }
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/6c79fa27-afb3-46a9-8afe-b308da854cf5_Aalto+DS+photoshoot+04.jpg?auto=compress,format&rect=22,0,3299,1856&w=750&h=422",
+        "id": "ZVzGJxAAACcA7PmR",
+        "edit": {
+         "x": -5,
+         "y": 0,
+         "zoom": 0.2273706896551724,
+         "background": "#fff"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "For designers",
+        "spans": []
+       }
+      ],
+      "body_text": [
+       {
+        "type": "paragraph",
+        "text": "Effortlessly create stunning designs that align perfectly with the Aalto brand, freeing up your time to focus on what you do best – innovation and creativity.",
+        "spans": []
+       }
+      ],
+      "caption": [],
+      "cta_label": [
+       {
+        "type": "paragraph",
+        "text": "Learn more",
+        "spans": []
+       }
+      ],
+      "cta_link": {
+       "id": "ZGdbnhAAACAAevFi",
+       "type": "design_system_content",
+       "tags": [
+        "ds"
+       ],
+       "lang": "en-eu",
+       "slug": "for-designers",
+       "first_publication_date": "2023-05-19T11:22:35+0000",
+       "last_publication_date": "2024-06-10T11:01:19+0000",
+       "uid": "_ds_for-designers",
+       "link_type": "Document",
+       "key": "01d9860d-e6c9-416b-b580-f9fdb6144465",
+       "isBroken": false
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/81a1adbe-1252-4e4a-9285-4d2a81f5adaa_Aalto+DS+photoshoot+06.jpg?auto=compress,format&rect=0,0,3300,1856&w=640&h=360",
+       "id": "ZVzGJxAAACgA7PmS",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 0.1939655172413793,
+        "background": "#fff"
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/81a1adbe-1252-4e4a-9285-4d2a81f5adaa_Aalto+DS+photoshoot+06.jpg?auto=compress,format&rect=0,0,3300,1856&w=1600&h=900",
+        "id": "ZVzGJxAAACgA7PmS",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.4849137931034483,
+         "background": "#fff"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/81a1adbe-1252-4e4a-9285-4d2a81f5adaa_Aalto+DS+photoshoot+06.jpg?auto=compress,format&rect=0,0,3300,1856&w=1920&h=1080",
+        "id": "ZVzGJxAAACgA7PmS",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.5818965517241379,
+         "background": "#fff"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/81a1adbe-1252-4e4a-9285-4d2a81f5adaa_Aalto+DS+photoshoot+06.jpg?auto=compress,format&rect=0,0,3300,1856&w=1200&h=675",
+        "id": "ZVzGJxAAACgA7PmS",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.3636853448275862,
+         "background": "#fff"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/81a1adbe-1252-4e4a-9285-4d2a81f5adaa_Aalto+DS+photoshoot+06.jpg?auto=compress,format&rect=0,0,3298,1856&w=828&h=466",
+        "id": "ZVzGJxAAACgA7PmS",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.2510775862068966,
+         "background": "#fff"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/81a1adbe-1252-4e4a-9285-4d2a81f5adaa_Aalto+DS+photoshoot+06.jpg?auto=compress,format&rect=3,0,3297,1856&w=1080&h=608",
+        "id": "ZVzGJxAAACgA7PmS",
+        "edit": {
+         "x": -1,
+         "y": 0,
+         "zoom": 0.3275862068965517,
+         "background": "#fff"
+        }
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/81a1adbe-1252-4e4a-9285-4d2a81f5adaa_Aalto+DS+photoshoot+06.jpg?auto=compress,format&rect=0,0,3299,1856&w=750&h=422",
+        "id": "ZVzGJxAAACgA7PmS",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.2273706896551724,
+         "background": "#fff"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "For developers",
+        "spans": []
+       }
+      ],
+      "body_text": [
+       {
+        "type": "paragraph",
+        "text": "Boost your development speed and quality with component libraries and rest easy knowing the user interface is always implemented precisely according to the latest designs.",
+        "spans": []
+       }
+      ],
+      "caption": [],
+      "cta_label": [
+       {
+        "type": "paragraph",
+        "text": "Learn more",
+        "spans": []
+       }
+      ],
+      "cta_link": {
+       "id": "ZGdcBxAAACAAevIP",
+       "type": "design_system_content",
+       "tags": [
+        "ds"
+       ],
+       "lang": "en-eu",
+       "slug": "for-developers",
+       "first_publication_date": "2023-05-19T11:23:12+0000",
+       "last_publication_date": "2024-05-29T14:34:34+0000",
+       "uid": "_ds_for-developers",
+       "link_type": "Document",
+       "key": "09d85709-c9de-4acf-9e8d-d6b221879dbc",
+       "isBroken": false
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/82eec7c1-34cf-4391-ae40-67abf08abda4_Aalto+DS+photoshoot+05.jpg?auto=compress,format&rect=21,0,3300,1856&w=640&h=360",
+       "id": "ZVzGJxAAACYA7PmQ",
+       "edit": {
+        "x": -4,
+        "y": 0,
+        "zoom": 0.1939655172413793,
+        "background": "#fff"
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/82eec7c1-34cf-4391-ae40-67abf08abda4_Aalto+DS+photoshoot+05.jpg?auto=compress,format&rect=21,0,3300,1856&w=1600&h=900",
+        "id": "ZVzGJxAAACYA7PmQ",
+        "edit": {
+         "x": -10,
+         "y": 0,
+         "zoom": 0.4849137931034483,
+         "background": "#fff"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/82eec7c1-34cf-4391-ae40-67abf08abda4_Aalto+DS+photoshoot+05.jpg?auto=compress,format&rect=21,0,3300,1856&w=1920&h=1080",
+        "id": "ZVzGJxAAACYA7PmQ",
+        "edit": {
+         "x": -12,
+         "y": 0,
+         "zoom": 0.5818965517241379,
+         "background": "#fff"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/82eec7c1-34cf-4391-ae40-67abf08abda4_Aalto+DS+photoshoot+05.jpg?auto=compress,format&rect=19,0,3300,1856&w=1200&h=675",
+        "id": "ZVzGJxAAACYA7PmQ",
+        "edit": {
+         "x": -7,
+         "y": 0,
+         "zoom": 0.3636853448275862,
+         "background": "#fff"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/82eec7c1-34cf-4391-ae40-67abf08abda4_Aalto+DS+photoshoot+05.jpg?auto=compress,format&rect=20,0,3298,1856&w=828&h=466",
+        "id": "ZVzGJxAAACYA7PmQ",
+        "edit": {
+         "x": -5,
+         "y": 0,
+         "zoom": 0.2510775862068966,
+         "background": "#fff"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/82eec7c1-34cf-4391-ae40-67abf08abda4_Aalto+DS+photoshoot+05.jpg?auto=compress,format&rect=21,0,3297,1856&w=1080&h=608",
+        "id": "ZVzGJxAAACYA7PmQ",
+        "edit": {
+         "x": -7,
+         "y": 0,
+         "zoom": 0.3275862068965517,
+         "background": "#fff"
+        }
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/82eec7c1-34cf-4391-ae40-67abf08abda4_Aalto+DS+photoshoot+05.jpg?auto=compress,format&rect=22,0,3299,1856&w=750&h=422",
+        "id": "ZVzGJxAAACYA7PmQ",
+        "edit": {
+         "x": -5,
+         "y": 0,
+         "zoom": 0.2273706896551724,
+         "background": "#fff"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "For content creators",
+        "spans": []
+       }
+      ],
+      "body_text": [
+       {
+        "type": "paragraph",
+        "text": "Focus on crafting captivating content that resonates with your audience, without the hassle of worrying about visual aesthetics or professional presentation.",
+        "spans": []
+       }
+      ],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$417a50cc-d10f-4623-b593-98c888d038b1",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Elements of design system",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$7a7b8805-1d5c-46dd-9d79-a87abad476d4",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Following the principles of atomic design, small design decisions form reusable building blocks which can be combined into more complex structures and patterns.",
+       "spans": []
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$cb406c0f-c70f-41aa-8252-1849d7568a93",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "LiftupCollection",
+     "tiles_per_row": "1",
+     "default_cta_label": [],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": false,
+     "hidden": false,
+     "skim": "top"
+    },
+    "items": [
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/8d6671db-baa4-4a02-b8b9-51a2c699e807_Element+of+Design+System2.png?auto=compress,format&rect=0,0,6464,3636&w=640&h=360",
+       "id": "ZVzJMhAAACcA7Qo_",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 0.09900990099009901,
+        "background": "transparent"
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/8d6671db-baa4-4a02-b8b9-51a2c699e807_Element+of+Design+System2.png?auto=compress,format&rect=0,0,6464,3636&w=1600&h=900",
+        "id": "ZVzJMhAAACcA7Qo_",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.24752475247524752,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/8d6671db-baa4-4a02-b8b9-51a2c699e807_Element+of+Design+System2.png?auto=compress,format&rect=0,0,6464,3636&w=1920&h=1080",
+        "id": "ZVzJMhAAACcA7Qo_",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.297029702970297,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/8d6671db-baa4-4a02-b8b9-51a2c699e807_Element+of+Design+System2.png?auto=compress,format&rect=0,0,6464,3636&w=1200&h=675",
+        "id": "ZVzJMhAAACcA7Qo_",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.18564356435643564,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/8d6671db-baa4-4a02-b8b9-51a2c699e807_Element+of+Design+System2.png?auto=compress,format&rect=0,0,6461,3636&w=828&h=466",
+        "id": "ZVzJMhAAACcA7Qo_",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.12816281628162815,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/8d6671db-baa4-4a02-b8b9-51a2c699e807_Element+of+Design+System2.png?auto=compress,format&rect=0,0,6459,3636&w=1080&h=608",
+        "id": "ZVzJMhAAACcA7Qo_",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.16721672167216722,
+         "background": "transparent"
+        }
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/8d6671db-baa4-4a02-b8b9-51a2c699e807_Element+of+Design+System2.png?auto=compress,format&rect=0,0,6462,3636&w=750&h=422",
+        "id": "ZVzJMhAAACcA7Qo_",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.11606160616061606,
+         "background": "transparent"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "cinemascope",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$1be9c061-1c79-4d71-aa56-fd2a46e9e251",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "CardCollection",
+     "tiles_per_row": "2",
+     "default_cta_label": [],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": false,
+     "hidden": false,
+     "skim": "none"
+    },
+    "items": [
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Design tokens",
+        "spans": []
+       }
+      ],
+      "body_text": [
+       {
+        "type": "paragraph",
+        "text": "Design tokens are a set of universal design-specific variables used to define the most elementary aspects of Aalto University's visual design, such as colour palette, typography, grids, or spacing.",
+        "spans": []
+       }
+      ],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "id": "ZCVo5xAAACMAxN6J",
+       "type": "design_system_content",
+       "tags": [
+        "tokens"
+       ],
+       "lang": "en-eu",
+       "slug": "design-tokens",
+       "first_publication_date": "2023-03-30T10:50:39+0000",
+       "last_publication_date": "2025-03-07T14:33:40+0000",
+       "uid": "_ds_tokens",
+       "link_type": "Document",
+       "key": "2c64e6c2-45f2-4aaf-98b7-bf67c066b919",
+       "isBroken": false
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Components",
+        "spans": []
+       }
+      ],
+      "body_text": [
+       {
+        "type": "paragraph",
+        "text": "Components are tangible UI elements, such as buttons or dropdown menus. Their generic and flexible design based on design tokens allows them to be used in any context or scenario within a digital product.",
+        "spans": []
+       }
+      ],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "id": "ZBnPsxAAACIAgPDK",
+       "type": "design_system_content",
+       "tags": [
+        "ds",
+        "components"
+       ],
+       "lang": "en-eu",
+       "slug": "components",
+       "first_publication_date": "2023-03-21T15:39:38+0000",
+       "last_publication_date": "2025-10-13T09:28:45+0000",
+       "uid": "_ds_components",
+       "link_type": "Document",
+       "key": "5d592e26-7f1f-4121-b1cc-e218ff9fa4d4",
+       "isBroken": false
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Modules",
+        "spans": []
+       }
+      ],
+      "body_text": [
+       {
+        "type": "paragraph",
+        "text": "A module refers to a self-contained unit of functionality or content, typically consisting of several related components that work together to achieve a specific purpose, such as a profile card or a search module.",
+        "spans": []
+       }
+      ],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "id": "ZBnQZBAAACAAgPI3",
+       "type": "design_system_content",
+       "tags": [
+        "ds",
+        "modules"
+       ],
+       "lang": "en-eu",
+       "slug": "modules",
+       "first_publication_date": "2023-03-21T15:42:37+0000",
+       "last_publication_date": "2025-08-20T12:50:34+0000",
+       "uid": "_ds_modules",
+       "link_type": "Document",
+       "key": "a48dd149-410c-4723-a5b5-55c29ff24187",
+       "isBroken": false
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Sections",
+        "spans": []
+       }
+      ],
+      "body_text": [
+       {
+        "type": "paragraph",
+        "text": "Sections are larger, full-width page elements composed of modules and components. Building upon a shared responsive layout grid, sections adapt to the current viewport size.",
+        "spans": []
+       }
+      ],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "id": "ZEZpyhQAACcAsd4s",
+       "type": "design_system_content",
+       "tags": [
+        "ds",
+        "sections"
+       ],
+       "lang": "en-eu",
+       "slug": "sections",
+       "first_publication_date": "2023-04-24T11:39:26+0000",
+       "last_publication_date": "2025-06-10T07:17:36+0000",
+       "uid": "_ds_sections",
+       "link_type": "Document",
+       "key": "149704c5-f2bd-48dd-be65-f3bfb4b6dd4b",
+       "isBroken": false
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$e1affd30-a57b-4e01-8893-58387035800f",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "title": [
+      {
+       "type": "heading2",
+       "text": "Read more about the design system",
+       "spans": []
+      }
+     ],
+     "theme": "red",
+     "hidden": false
+    },
+    "items": [
+     {
+      "label": [
+       {
+        "type": "heading6",
+        "text": "Releases & roadmap",
+        "spans": []
+       }
+      ],
+      "icon": "document",
+      "link": {
+       "id": "ZBnRLxAAACEAgPPg",
+       "type": "design_system_content",
+       "tags": [
+        "ds"
+       ],
+       "lang": "en-eu",
+       "slug": "releases--roadmap",
+       "first_publication_date": "2023-03-21T15:46:09+0000",
+       "last_publication_date": "2026-02-17T10:35:19+0000",
+       "uid": "_ds_about_releases",
+       "link_type": "Document",
+       "key": "575dcc22-700b-426b-8287-cee1d1762f6a",
+       "isBroken": false
+      }
+     },
+     {
+      "label": [
+       {
+        "type": "heading6",
+        "text": "Contributing",
+        "spans": []
+       }
+      ],
+      "icon": "plus",
+      "link": {
+       "id": "ZBnTbxAAACEAgPg6",
+       "type": "design_system_content",
+       "tags": [],
+       "lang": "en-eu",
+       "slug": "-",
+       "first_publication_date": "2023-03-21T15:55:31+0000",
+       "last_publication_date": "2024-04-02T09:01:36+0000",
+       "uid": "_ds_about_contributing",
+       "link_type": "Document",
+       "key": "27d43ffa-3147-4f6c-a695-d745e7ab58c6",
+       "isBroken": false
+      }
+     },
+     {
+      "label": [
+       {
+        "type": "heading6",
+        "text": "FAQ",
+        "spans": []
+       }
+      ],
+      "icon": "circle-info",
+      "link": {
+       "id": "ZG2zmxAAACUAaV2A",
+       "type": "design_system_content",
+       "tags": [
+        "ds"
+       ],
+       "lang": "en-eu",
+       "slug": "frequently-asked-questions",
+       "first_publication_date": "2023-05-24T06:50:47+0000",
+       "last_publication_date": "2026-06-05T13:34:53+0000",
+       "uid": "_ds_faq",
+       "link_type": "Document",
+       "key": "a2fc0cd3-4016-4ac1-8b52-d1167776ac26",
+       "isBroken": false
+      }
+     }
+    ],
+    "id": "quick_links$6dd18731-c921-4669-8581-535eb80712f8",
+    "slice_type": "quick_links",
+    "slice_label": null
+   }
+  ]
+ }
+}

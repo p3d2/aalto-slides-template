@@ -1,0 +1,392 @@
+{
+ "id": "ZvL3dxAAACAAmYFY",
+ "uid": "_ds_sections_date-picker-modal",
+ "url": null,
+ "type": "design_system_content",
+ "href": "https://aalto-master-design-system.cdn.prismic.io/api/v2/documents/search?ref=ap6ZthEAACsAUnNI&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZvL3dxAAACAAmYFY%22%29+%5D%5D",
+ "tags": [],
+ "first_publication_date": "2024-09-24T17:34:02+0000",
+ "last_publication_date": "2024-09-24T17:49:47+0000",
+ "slugs": [
+  "date-picker-modal"
+ ],
+ "linked_documents": [],
+ "lang": "en-eu",
+ "alternate_languages": [],
+ "data": {
+  "feedback_form": {
+   "link_type": "Document"
+  },
+  "body1": [
+   {
+    "primary": {
+     "title": [
+      {
+       "type": "heading1",
+       "text": "Date Picker Modal",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "ingress": [],
+     "body_text": [
+      {
+       "type": "paragraph",
+       "text": "",
+       "spans": []
+      }
+     ],
+     "cta_label": [],
+     "cta_link": {
+      "link_type": "Any"
+     },
+     "image": {
+      "img_size_xs": {},
+      "img_size_s": {},
+      "img_size_m": {},
+      "img_size_l": {},
+      "img_size_xl": {},
+      "img_size_xxl": {}
+     },
+     "video_file_link": {
+      "link_type": "Any"
+     },
+     "aside": {
+      "link_type": "Document"
+     },
+     "theme": "black"
+    },
+    "items": [
+     {}
+    ],
+    "id": "hero$c1f41b3f-ff32-4733-9517-20ecd9776fce",
+    "slice_type": "hero",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Date Picker Modal encapsulates a Date Picker inside a full-screen Modal, providing users with a focused, immersive interface for selecting dates.",
+       "spans": [
+        {
+         "start": 33,
+         "end": 44,
+         "type": "hyperlink",
+         "data": {
+          "id": "ZvLjTRAAACAAQIwV",
+          "type": "design_system_content",
+          "tags": [],
+          "lang": "en-eu",
+          "slug": "date-picker",
+          "first_publication_date": "2024-09-24T16:28:47+0000",
+          "last_publication_date": "2024-09-24T17:58:27+0000",
+          "uid": "_ds_modules_date-picker",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        },
+        {
+         "start": 66,
+         "end": 71,
+         "type": "hyperlink",
+         "data": {
+          "id": "ZhaG_RIAAHYn_Q8J",
+          "type": "design_system_content",
+          "tags": [],
+          "lang": "en-eu",
+          "slug": "modal",
+          "first_publication_date": "2024-04-10T12:48:37+0000",
+          "last_publication_date": "2024-08-20T09:00:39+0000",
+          "uid": "_ds_sections_modal",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$041343db-241c-4657-8192-ef3b4c208d9e",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Examples",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$5961e11f-7113-4f15-952e-2ac2b27a40b1",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "ComponentPreview",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Default",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "",
+       "spans": []
+      }
+     ],
+     "component_id": "sections/datepickermodal--default",
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": true,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$41702913-7e72-4d9f-844e-660966408cd5",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "ComponentPreview",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Range",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": "sections/datepickermodal--date-range",
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": true,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$2ddb753a-7561-4669-963c-5ac186c6babc",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Usage",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$732a70ca-d8db-418c-824a-16766b530b6f",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "The Date Picker Modal is useful in scenarios where date selection is a critical part of the process and the user needs a distraction-free environment to make a choice. It is commonly used in mobile designs where a full-screen modal provides more space for date selection, or when selecting dates is a primary task within a workflow, such as booking premises or setting up events. See Date Picker and Date Input for alternative solutions.",
+       "spans": [
+        {
+         "start": 384,
+         "end": 395,
+         "type": "hyperlink",
+         "data": {
+          "id": "ZvLjTRAAACAAQIwV",
+          "type": "design_system_content",
+          "tags": [],
+          "lang": "en-eu",
+          "slug": "date-picker",
+          "first_publication_date": "2024-09-24T16:28:47+0000",
+          "last_publication_date": "2024-09-24T17:58:27+0000",
+          "uid": "_ds_modules_date-picker",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        },
+        {
+         "start": 400,
+         "end": 410,
+         "type": "hyperlink",
+         "data": {
+          "id": "ZvLwDhAAACAAmXZN",
+          "type": "design_system_content",
+          "tags": [],
+          "lang": "en-eu",
+          "slug": "date-input",
+          "first_publication_date": "2024-09-24T17:17:03+0000",
+          "last_publication_date": "2024-09-24T17:52:14+0000",
+          "uid": "_ds_modules_date-input",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$11967749-a621-4677-bf81-f8b58e473cc6",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   }
+  ]
+ }
+}

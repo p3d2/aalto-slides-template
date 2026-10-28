@@ -1,0 +1,3780 @@
+{
+ "id": "ZBnRLxAAACEAgPPg",
+ "uid": "_ds_about_releases",
+ "url": null,
+ "type": "design_system_content",
+ "href": "https://aalto-master-design-system.cdn.prismic.io/api/v2/documents/search?ref=ap6ZthEAACsAUnNI&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZBnRLxAAACEAgPPg%22%29+%5D%5D",
+ "tags": [
+  "ds"
+ ],
+ "first_publication_date": "2023-03-21T15:46:09+0000",
+ "last_publication_date": "2026-02-17T10:35:19+0000",
+ "slugs": [
+  "releases--roadmap"
+ ],
+ "linked_documents": [],
+ "lang": "en-eu",
+ "alternate_languages": [],
+ "data": {
+  "feedback_form": {
+   "link_type": "Document"
+  },
+  "body1": [
+   {
+    "primary": {
+     "title": [
+      {
+       "type": "heading1",
+       "text": "Releases & roadmap",
+       "spans": []
+      }
+     ],
+     "ingress": [],
+     "body_text": [
+      {
+       "type": "paragraph",
+       "text": "",
+       "spans": []
+      }
+     ],
+     "cta_label": [],
+     "cta_link": {
+      "link_type": "Any"
+     },
+     "image": {
+      "img_size_xs": {},
+      "img_size_s": {},
+      "img_size_m": {},
+      "img_size_l": {},
+      "img_size_xl": {},
+      "img_size_xxl": {}
+     },
+     "video_file_link": {
+      "link_type": "Any"
+     },
+     "aside": {
+      "link_type": "Document"
+     },
+     "theme": "black"
+    },
+    "items": [
+     {}
+    ],
+    "id": "hero$5f436fd6-0cee-4fba-a8d3-39ad9dc71ad0",
+    "slice_type": "hero",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "body_text": [
+      {
+       "type": "paragraph",
+       "text": "The Aalto design system is not a static set of instructions but instead keeps changing on a constant basis. In order to maintain its value and relevance for users, the design system must adapt to feedback from users, advancements in technology, evolving design trends, and new business requirements.",
+       "spans": []
+      }
+     ],
+     "cta_label": [],
+     "cta_link": {
+      "link_type": "Any"
+     },
+     "theme": "neutral",
+     "tinted": false,
+     "alignment": "left",
+     "hidden": false,
+     "aspect_ratio": "hd",
+     "image": {
+      "dimensions": {
+       "width": 640,
+       "height": 480
+      },
+      "alt": null,
+      "copyright": null,
+      "url": "https://images.prismic.io/aalto-master-design-system/eeb7a848-0507-41a9-a64b-6e9fbf0fc489_Aalto+DS+photoshoot+08.jpg?auto=compress,format&rect=133,0,2135,1601&w=640&h=480",
+      "id": "ZV9l5xAAACcA-VDI",
+      "edit": {
+       "x": -40,
+       "y": 0,
+       "zoom": 0.29981261711430357,
+       "background": "#fff"
+      },
+      "img_size_xs": {
+       "dimensions": {
+        "width": 750,
+        "height": 563
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/eeb7a848-0507-41a9-a64b-6e9fbf0fc489_Aalto+DS+photoshoot+08.jpg?auto=compress,format&rect=134,0,2133,1601&w=750&h=563",
+       "id": "ZV9l5xAAACcA-VDI",
+       "edit": {
+        "x": -47,
+        "y": 0,
+        "zoom": 0.35165521549031853,
+        "background": "#fff"
+       }
+      },
+      "img_size_m": {
+       "dimensions": {
+        "width": 1080,
+        "height": 810
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/eeb7a848-0507-41a9-a64b-6e9fbf0fc489_Aalto+DS+photoshoot+08.jpg?auto=compress,format&rect=132,0,2135,1601&w=1080&h=810",
+       "id": "ZV9l5xAAACcA-VDI",
+       "edit": {
+        "x": -67,
+        "y": 0,
+        "zoom": 0.5059337913803873,
+        "background": "#fff"
+       }
+      },
+      "img_size_s": {
+       "dimensions": {
+        "width": 828,
+        "height": 621
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/eeb7a848-0507-41a9-a64b-6e9fbf0fc489_Aalto+DS+photoshoot+08.jpg?auto=compress,format&rect=131,0,2135,1601&w=828&h=621",
+       "id": "ZV9l5xAAACcA-VDI",
+       "edit": {
+        "x": -51,
+        "y": 0,
+        "zoom": 0.38788257339163024,
+        "background": "#fff"
+       }
+      },
+      "img_size_l": {
+       "dimensions": {
+        "width": 1200,
+        "height": 900
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/eeb7a848-0507-41a9-a64b-6e9fbf0fc489_Aalto+DS+photoshoot+08.jpg?auto=compress,format&rect=133,0,2135,1601&w=1200&h=900",
+       "id": "ZV9l5xAAACcA-VDI",
+       "edit": {
+        "x": -75,
+        "y": 0,
+        "zoom": 0.5621486570893192,
+        "background": "#fff"
+       }
+      },
+      "img_size_xxl": {
+       "dimensions": {
+        "width": 1920,
+        "height": 1440
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/eeb7a848-0507-41a9-a64b-6e9fbf0fc489_Aalto+DS+photoshoot+08.jpg?auto=compress,format&rect=132,0,2135,1601&w=1920&h=1440",
+       "id": "ZV9l5xAAACcA-VDI",
+       "edit": {
+        "x": -119,
+        "y": 0,
+        "zoom": 0.8994378513429107,
+        "background": "#fff"
+       }
+      },
+      "img_size_xl": {
+       "dimensions": {
+        "width": 1600,
+        "height": 1200
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/eeb7a848-0507-41a9-a64b-6e9fbf0fc489_Aalto+DS+photoshoot+08.jpg?auto=compress,format&rect=132,0,2135,1601&w=1600&h=1200",
+       "id": "ZV9l5xAAACcA-VDI",
+       "edit": {
+        "x": -99,
+        "y": 0,
+        "zoom": 0.749531542785759,
+        "background": "#fff"
+       }
+      }
+     }
+    },
+    "items": [
+     {
+      "link_label": [],
+      "link_target": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "text_and_image_section$b007603f-aaee-444f-b35d-115cc0693c95",
+    "slice_type": "text_and_image_section",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "The Aalto design system is not a static set of instructions but instead keeps changing on a constant basis. In order to maintain its value and relevance for users, the design system must adapt to feedback from users, advancements in technology, evolving design trends, and new business requirements.",
+       "spans": []
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": true,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$0a9b1145-dc82-4c76-8a8d-72dc66121d4b",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Roadmap",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$3efafff9-3cbf-4e61-9986-44f0bee38553",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Roadmap for 2026 includes:",
+       "spans": [],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "- Support for projects using the design system",
+       "spans": [],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "- Sharing the design system more openly to students and staff",
+       "spans": [],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "- New icons\n- Updates to components, modules and sections, for example the top navigation\n- Visual templates or examples for infographics, newsletter etc. ",
+       "spans": [],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "If you want to see certain components, modules or sections in the design system, please contact the team through the support form.",
+       "spans": [
+        {
+         "start": 117,
+         "end": 129,
+         "type": "hyperlink",
+         "data": {
+          "id": "ZAcwrhAAACkAUXQy",
+          "type": "form",
+          "tags": [],
+          "lang": "en-eu",
+          "slug": "ask-for-brand-support",
+          "first_publication_date": "2023-03-07T12:40:23+0000",
+          "last_publication_date": "2025-11-18T21:05:41+0000",
+          "uid": "_support",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$013c2982-7315-481c-be4e-948cc65346df",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Past releases",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$3e51ea04-cfb6-4a51-8c76-e2de15a22678",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "17/11/2025",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "- Platform version update: Now using Storybook 10 and Node 22.",
+       "spans": [
+        {
+         "start": 2,
+         "end": 27,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "- Minor bug fixes",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$2764ef98-a5ad-4df0-9944-39e5cf831f7e",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "30/10/2025",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "- Major package restructuring: The @aalto-dx/react-modules package has been deprecated. All Components, Modules, and Sections are now consolidated under @aalto-dx/react-components. This change simplifies library maintenance, supports future development, and makes it easier for users to integrate the design system into their projects. Documentation for all Elements is now unified in a single Storybook, offering a more seamless developer experience. Although this is a structural change, the update is straightforward: simply replace dependency to @aalto-dx/react-modules with the latest version of @aalto-dx/react-components in your project. All Modules and Sections retain their existing names and props.",
+       "spans": [
+        {
+         "start": 2,
+         "end": 31,
+         "type": "strong"
+        },
+        {
+         "start": 35,
+         "end": 58,
+         "type": "em"
+        },
+        {
+         "start": 153,
+         "end": 179,
+         "type": "em"
+        },
+        {
+         "start": 387,
+         "end": 403,
+         "type": "hyperlink",
+         "data": {
+          "link_type": "Web",
+          "url": "https://dx-react-components.aalto.fi/?path=/docs/about--docs",
+          "target": "_self"
+         }
+        },
+        {
+         "start": 550,
+         "end": 573,
+         "type": "em"
+        },
+        {
+         "start": 601,
+         "end": 627,
+         "type": "em"
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "- New colour tokens: The Base tier now includes a set of solid colours designed for use in contexts where transparent shades are not suitable.",
+       "spans": [
+        {
+         "start": 2,
+         "end": 21,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "- Minor bug fixes",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$73b9c923-24c7-479c-bbda-d5484004b4f9",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "13/10/2025",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "- New components Button group and Chip group",
+       "spans": [
+        {
+         "start": 2,
+         "end": 16,
+         "type": "strong"
+        },
+        {
+         "start": 17,
+         "end": 29,
+         "type": "hyperlink",
+         "data": {
+          "id": "aOjdVRIAACIAW-qF",
+          "type": "design_system_content",
+          "tags": [
+           "components"
+          ],
+          "lang": "en-eu",
+          "slug": "button-group",
+          "first_publication_date": "2025-10-13T09:04:45+0000",
+          "last_publication_date": "2025-10-13T09:04:45+0000",
+          "uid": "_ds_components_button-group",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        },
+        {
+         "start": 34,
+         "end": 44,
+         "type": "hyperlink",
+         "data": {
+          "id": "aOjXbxIAACAAW96J",
+          "type": "design_system_content",
+          "tags": [
+           "components"
+          ],
+          "lang": "en-eu",
+          "slug": "chip-group",
+          "first_publication_date": "2025-10-13T09:04:54+0000",
+          "last_publication_date": "2025-10-13T09:17:10+0000",
+          "uid": "_ds_components_chip-group",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "- More flexibility for some old components: Side navigation with additional elements, static List without links",
+       "spans": [
+        {
+         "start": 2,
+         "end": 42,
+         "type": "strong"
+        },
+        {
+         "start": 44,
+         "end": 59,
+         "type": "hyperlink",
+         "data": {
+          "id": "ZEZx8BQAACYAsgYU",
+          "type": "design_system_content",
+          "tags": [
+           "modules"
+          ],
+          "lang": "en-eu",
+          "slug": "side-navigation",
+          "first_publication_date": "2023-04-24T12:11:55+0000",
+          "last_publication_date": "2025-10-13T10:25:55+0000",
+          "uid": "_ds_modules_side-navigation",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        },
+        {
+         "start": 93,
+         "end": 97,
+         "type": "hyperlink",
+         "data": {
+          "id": "Y5N_6BEAACMAQMjA",
+          "type": "design_system_content",
+          "tags": [],
+          "lang": "en-eu",
+          "slug": "list",
+          "first_publication_date": "2022-12-09T18:35:33+0000",
+          "last_publication_date": "2025-10-13T10:55:41+0000",
+          "uid": "_ds_components_list",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "- Misc styling changes",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$3d9ba26a-2162-408e-8b5c-a8455bad6602",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "08/09/2025",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "- Minor bug fixes",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$e5d8f62b-18a9-4a50-8aed-56264e695908",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "25/08/2025",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "- Minor bug fixes",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$be4077d3-1848-41bb-a3ee-bb558fc25f10",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "20/08/2025",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "- Better structure and re-usability for Info, which is now a module instead of a component. New module Info Item. This changes slightly the props and behaviour of related Directory Block, Directory and Hero, so if you’re using those elements please revisit your implementation. ",
+       "spans": [
+        {
+         "start": 40,
+         "end": 44,
+         "type": "hyperlink",
+         "data": {
+          "id": "Y5OUmhEAACMAQSfG",
+          "type": "design_system_content",
+          "tags": [
+           "components"
+          ],
+          "lang": "en-eu",
+          "slug": "info",
+          "first_publication_date": "2022-12-09T20:03:42+0000",
+          "last_publication_date": "2025-08-20T09:22:37+0000",
+          "uid": "_ds_modules_info",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        },
+        {
+         "start": 103,
+         "end": 112,
+         "type": "hyperlink",
+         "data": {
+          "id": "aKWMrBAAACgAJvK1",
+          "type": "design_system_content",
+          "tags": [
+           "components"
+          ],
+          "lang": "en-eu",
+          "slug": "info-item",
+          "first_publication_date": "2025-08-20T08:52:27+0000",
+          "last_publication_date": "2025-08-20T09:10:50+0000",
+          "uid": "_ds_modules_info-item",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        },
+        {
+         "start": 171,
+         "end": 186,
+         "type": "hyperlink",
+         "data": {
+          "id": "aEaZWRUAAC8Asxkv",
+          "type": "design_system_content",
+          "tags": [],
+          "lang": "en-eu",
+          "slug": "directory-block",
+          "first_publication_date": "2025-06-09T08:24:09+0000",
+          "last_publication_date": "2025-08-20T09:34:14+0000",
+          "uid": "_ds_modules_directory-block",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        },
+        {
+         "start": 188,
+         "end": 197,
+         "type": "hyperlink",
+         "data": {
+          "id": "aEafYBUAACkAsyIx",
+          "type": "design_system_content",
+          "tags": [],
+          "lang": "en-eu",
+          "slug": "directory",
+          "first_publication_date": "2025-06-09T08:51:10+0000",
+          "last_publication_date": "2025-08-20T09:40:40+0000",
+          "uid": "_ds_sections_directory",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        },
+        {
+         "start": 202,
+         "end": 206,
+         "type": "hyperlink",
+         "data": {
+          "id": "ZEZxshQAACUAsgTl",
+          "type": "design_system_content",
+          "tags": [],
+          "lang": "en-eu",
+          "slug": "hero",
+          "first_publication_date": "2023-04-24T12:10:49+0000",
+          "last_publication_date": "2024-08-19T07:13:11+0000",
+          "uid": "_ds_sections_hero",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "- Bug fixes",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$2ad1e9d5-d1ce-40e5-b705-a7944a1c2f89",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "10/06/2025",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "- New section Directory and related module Directory Block",
+       "spans": [
+        {
+         "start": 14,
+         "end": 23,
+         "type": "hyperlink",
+         "data": {
+          "id": "aEafYBUAACkAsyIx",
+          "type": "design_system_content",
+          "tags": [],
+          "lang": "en-eu",
+          "slug": "directory",
+          "first_publication_date": "2025-06-09T08:51:10+0000",
+          "last_publication_date": "2025-08-20T09:40:40+0000",
+          "uid": "_ds_sections_directory",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        },
+        {
+         "start": 43,
+         "end": 58,
+         "type": "hyperlink",
+         "data": {
+          "id": "aEaZWRUAAC8Asxkv",
+          "type": "design_system_content",
+          "tags": [],
+          "lang": "en-eu",
+          "slug": "directory-block",
+          "first_publication_date": "2025-06-09T08:24:09+0000",
+          "last_publication_date": "2025-08-20T09:34:14+0000",
+          "uid": "_ds_modules_directory-block",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "- Further HTML structure and keyboard navigation improvements",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$71d512da-9e9e-4b3e-9f7a-e0f87ca771cb",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "19/05/2025",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "- Misc accessibility enhancements. Improved keyboard navigation and screen reader support for various elements. Tooltips are now more mobile-friendly, and limited to relevant components only.",
+       "spans": [
+        {
+         "start": 7,
+         "end": 33,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "- Some HTML structures were changed and simplified, so check your code especially if you've made custom CSS modifications.",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$001e1cbe-ee04-456a-b70b-66afe357e3ca",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "13/05/2025",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "- Templates added. This is a new category of design system elements, allowing for quickly creating complete pages for common use cases. You can find the template descriptions on this website, and the templates themselves in the Figma Starter Kit file.",
+       "spans": [
+        {
+         "start": 0,
+         "end": 11,
+         "type": "strong"
+        },
+        {
+         "start": 162,
+         "end": 174,
+         "type": "hyperlink",
+         "data": {
+          "id": "aCIISBAAACEAZh4Q",
+          "type": "design_system_content",
+          "tags": [
+           "ds",
+           "sections"
+          ],
+          "lang": "en-eu",
+          "slug": "templates",
+          "first_publication_date": "2025-05-12T14:45:23+0000",
+          "last_publication_date": "2025-05-13T08:14:27+0000",
+          "uid": "_ds_templates",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "- Minor documentation improvements",
+       "spans": [
+        {
+         "start": 8,
+         "end": 34,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$76bbc10b-a416-46b2-9f57-e3aec55e03b9",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "29/04/2025",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "- New icons added e.g. for AI and social media channels",
+       "spans": [
+        {
+         "start": 0,
+         "end": 11,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "- Documentation improvement: all React components now have their properties documented in the code and Storybook",
+       "spans": [
+        {
+         "start": 0,
+         "end": 27,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "- Misc tweaks and fixes, better typing in the React library",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$370abdbc-8e30-41f7-81d8-46a30a7cd54d",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "07/03/2025",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "- New sections for horizontal content browsing: Card Strip, Content Box Strip, and Image Tile Strip, providing more flexible ways to showcase dynamic content",
+       "spans": [
+        {
+         "start": 2,
+         "end": 14,
+         "type": "strong"
+        },
+        {
+         "start": 48,
+         "end": 58,
+         "type": "hyperlink",
+         "data": {
+          "id": "Z8jEURAAACEAcXCq",
+          "type": "design_system_content",
+          "tags": [],
+          "lang": "en-eu",
+          "slug": "card-strip",
+          "first_publication_date": "2025-03-05T21:39:54+0000",
+          "last_publication_date": "2025-03-05T22:06:11+0000",
+          "uid": "_ds_sections_card-strip",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        },
+        {
+         "start": 60,
+         "end": 77,
+         "type": "hyperlink",
+         "data": {
+          "id": "Z8jIIBAAACEAcXba",
+          "type": "design_system_content",
+          "tags": [],
+          "lang": "en-eu",
+          "slug": "content-box-strip",
+          "first_publication_date": "2025-03-05T21:55:16+0000",
+          "last_publication_date": "2025-03-05T22:04:41+0000",
+          "uid": "_ds_sections_content-box-strip",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        },
+        {
+         "start": 83,
+         "end": 99,
+         "type": "hyperlink",
+         "data": {
+          "id": "Z8jJTRAAACAAcXiu",
+          "type": "design_system_content",
+          "tags": [],
+          "lang": "en-eu",
+          "slug": "image-tile-strip",
+          "first_publication_date": "2025-03-05T22:00:15+0000",
+          "last_publication_date": "2025-03-05T22:03:07+0000",
+          "uid": "_ds_sections_image-tile-strip",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "- New component Mega Link, a more prominent alternative to a standard Link that allows displaying additional information",
+       "spans": [
+        {
+         "start": 2,
+         "end": 15,
+         "type": "strong"
+        },
+        {
+         "start": 16,
+         "end": 25,
+         "type": "hyperlink",
+         "data": {
+          "id": "Z8i8jRAAACMAcWRQ",
+          "type": "design_system_content",
+          "tags": [
+           "components"
+          ],
+          "lang": "en-eu",
+          "slug": "mega-link",
+          "first_publication_date": "2025-03-05T21:05:57+0000",
+          "last_publication_date": "2025-03-05T21:16:01+0000",
+          "uid": "_ds_components_mega-link",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "- Enhanced Card and Content Box modules with new variants, making them more versatile for different content types",
+       "spans": [
+        {
+         "start": 11,
+         "end": 15,
+         "type": "hyperlink",
+         "data": {
+          "id": "ZEZrDBQAACUAseQw",
+          "type": "design_system_content",
+          "tags": [],
+          "lang": "en-eu",
+          "slug": "card",
+          "first_publication_date": "2023-04-24T11:43:08+0000",
+          "last_publication_date": "2025-08-20T08:49:31+0000",
+          "uid": "_ds_modules_card",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        },
+        {
+         "start": 20,
+         "end": 31,
+         "type": "hyperlink",
+         "data": {
+          "id": "Y8GXKhEAACMAeLAT",
+          "type": "design_system_content",
+          "tags": [],
+          "lang": "en-eu",
+          "slug": "content-box",
+          "first_publication_date": "2023-01-13T17:40:43+0000",
+          "last_publication_date": "2025-06-16T18:07:49+0000",
+          "uid": "_ds_modules_content-box",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        },
+        {
+         "start": 45,
+         "end": 57,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "- Improved layout consistency across existing sections. Some element properties were also slightly restructured, but these changes should not impact most design system users",
+       "spans": [
+        {
+         "start": 2,
+         "end": 29,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$45326fe2-2aa0-4c02-b37e-213703c9beb8",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "19/11/2024",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "- Bug fixes",
+       "spans": [
+        {
+         "start": 2,
+         "end": 11,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$4b1317bb-fe36-408f-8f6f-0e42190be554",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "24/09/2024",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "- New elements for entering dates: Date Picker, Date Input and Date Picker Modal",
+       "spans": [
+        {
+         "start": 2,
+         "end": 33,
+         "type": "strong"
+        },
+        {
+         "start": 35,
+         "end": 46,
+         "type": "hyperlink",
+         "data": {
+          "id": "ZvLjTRAAACAAQIwV",
+          "type": "design_system_content",
+          "tags": [],
+          "lang": "en-eu",
+          "slug": "date-picker",
+          "first_publication_date": "2024-09-24T16:28:47+0000",
+          "last_publication_date": "2024-09-24T17:58:27+0000",
+          "uid": "_ds_modules_date-picker",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        },
+        {
+         "start": 48,
+         "end": 58,
+         "type": "hyperlink",
+         "data": {
+          "id": "ZvLwDhAAACAAmXZN",
+          "type": "design_system_content",
+          "tags": [],
+          "lang": "en-eu",
+          "slug": "date-input",
+          "first_publication_date": "2024-09-24T17:17:03+0000",
+          "last_publication_date": "2024-09-24T17:52:14+0000",
+          "uid": "_ds_modules_date-input",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        },
+        {
+         "start": 63,
+         "end": 80,
+         "type": "hyperlink",
+         "data": {
+          "id": "ZvL3dxAAACAAmYFY",
+          "type": "design_system_content",
+          "tags": [],
+          "lang": "en-eu",
+          "slug": "date-picker-modal",
+          "first_publication_date": "2024-09-24T17:34:02+0000",
+          "last_publication_date": "2024-09-24T17:49:47+0000",
+          "uid": "_ds_sections_date-picker-modal",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "- SSR / Next.js support for React libraries: The React components can now be used in a Next.js project utilising server side rendering. Interested developers should take a look at the examples in the Next.js starter kit available in the react-starter repository. There was also a generic version upgrade bringing all development tools and third party packages up to date.",
+       "spans": [
+        {
+         "start": 0,
+         "end": 23,
+         "type": "strong"
+        },
+        {
+         "start": 200,
+         "end": 220,
+         "type": "strong"
+        },
+        {
+         "start": 237,
+         "end": 250,
+         "type": "em"
+        },
+        {
+         "start": 288,
+         "end": 303,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "- Bug fixes. Includes a design token naming fix which might require changes to users’ code.",
+       "spans": [
+        {
+         "start": 2,
+         "end": 13,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$6eb9846f-ed50-41f0-b1b3-5c577fe92ac4",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "22/08/2024",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "- React Code Examples: Big news for those utilising the React implementation of the design system: every component, module, and section now includes a code snippet to demonstrate how to integrate it into your codebase. This enhancement should significantly simplify the process of getting started with the design system in React-based projects.",
+       "spans": [
+        {
+         "start": 0,
+         "end": 22,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "- Static Starter Kit: For users unable to install design system resources via npm, we've introduced a static starter kit. This kit provides an alternative way to incorporate essential design system assets into your project. For more details, refer to the developer instructions.",
+       "spans": [
+        {
+         "start": 0,
+         "end": 21,
+         "type": "strong"
+        },
+        {
+         "start": 255,
+         "end": 277,
+         "type": "hyperlink",
+         "data": {
+          "id": "Zlc4VhEAACIAeHAn",
+          "type": "design_system_content",
+          "tags": [
+           "ds"
+          ],
+          "lang": "en-eu",
+          "slug": "scenarios",
+          "first_publication_date": "2024-05-29T14:15:10+0000",
+          "last_publication_date": "2025-10-29T14:08:43+0000",
+          "uid": "_ds_for-developers_scenarios",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "- Bug fixes",
+       "spans": [
+        {
+         "start": 0,
+         "end": 11,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$c9b6dfb5-166b-4b87-bcda-5a7359403b20",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "26/06/2024",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "- Icons update. We've added a significant number of new icons to our collection. For a complete list, please refer to the icon tokens page. Additionally, we have revised the naming convention to make the icons use-case agnostic. If you've been using icons previously in your code, you may need to update some of the icon names to align with the new naming logic.",
+       "spans": [
+        {
+         "start": 2,
+         "end": 14,
+         "type": "strong"
+        },
+        {
+         "start": 122,
+         "end": 138,
+         "type": "hyperlink",
+         "data": {
+          "id": "ZEGJdRQAACcAnGuy",
+          "type": "design_system_content",
+          "tags": [
+           "tokens"
+          ],
+          "lang": "en-eu",
+          "slug": "icons",
+          "first_publication_date": "2023-04-20T18:52:20+0000",
+          "last_publication_date": "2024-06-26T09:50:17+0000",
+          "uid": "_ds_tokens_icons",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "- Easing functions were added as design tokens and can be found on the motion tokens page.",
+       "spans": [
+        {
+         "start": 2,
+         "end": 18,
+         "type": "strong"
+        },
+        {
+         "start": 71,
+         "end": 89,
+         "type": "hyperlink",
+         "data": {
+          "id": "ZEGH5hQAACcAnGRJ",
+          "type": "design_system_content",
+          "tags": [
+           "tokens"
+          ],
+          "lang": "en-eu",
+          "slug": "motion",
+          "first_publication_date": "2023-04-20T18:48:07+0000",
+          "last_publication_date": "2024-06-26T10:03:12+0000",
+          "uid": "_ds_tokens_motion",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "- Bug fixes",
+       "spans": [
+        {
+         "start": 0,
+         "end": 11,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$8a718b5a-5645-4b01-b47a-0f5c15e03a45",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "18/06/2024",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "* Typography updates: New tokens for letter spacing and paragraph spacing, applied to generic typography styles.",
+       "spans": [
+        {
+         "start": 0,
+         "end": 22,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "* Related to previous, multi-paragraph content support added for TextChapterBlock/TextChapter, CTA and TextAndImage.",
+       "spans": [
+        {
+         "start": 23,
+         "end": 46,
+         "type": "strong"
+        },
+        {
+         "start": 65,
+         "end": 81,
+         "type": "hyperlink",
+         "data": {
+          "id": "Y8GiRBEAACMAeOLk",
+          "type": "design_system_content",
+          "tags": [],
+          "lang": "en-eu",
+          "slug": "text-chapter-block",
+          "first_publication_date": "2023-01-13T18:26:37+0000",
+          "last_publication_date": "2024-08-16T12:32:53+0000",
+          "uid": "_ds_modules_text-chapter-block",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        },
+        {
+         "start": 82,
+         "end": 93,
+         "type": "hyperlink",
+         "data": {
+          "id": "ZEZyQxQAACQAsger",
+          "type": "design_system_content",
+          "tags": [
+           "sections"
+          ],
+          "lang": "en-eu",
+          "slug": "text-chapter",
+          "first_publication_date": "2023-04-24T12:13:11+0000",
+          "last_publication_date": "2025-03-05T20:21:57+0000",
+          "uid": "_ds_sections_text-chapter",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        },
+        {
+         "start": 95,
+         "end": 98,
+         "type": "hyperlink",
+         "data": {
+          "id": "ZEZw6hQAACUAsgD4",
+          "type": "design_system_content",
+          "tags": [],
+          "lang": "en-eu",
+          "slug": "cta",
+          "first_publication_date": "2023-04-24T12:07:29+0000",
+          "last_publication_date": "2024-08-19T07:04:53+0000",
+          "uid": "_ds_sections_cta",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        },
+        {
+         "start": 103,
+         "end": 115,
+         "type": "hyperlink",
+         "data": {
+          "id": "ZRSPIBQAACwAsPmr",
+          "type": "design_system_content",
+          "tags": [],
+          "lang": "en-eu",
+          "slug": "text-and-image",
+          "first_publication_date": "2023-09-27T20:24:15+0000",
+          "last_publication_date": "2024-08-19T11:10:43+0000",
+          "uid": "_ds_sections_text-and-image",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "* Bug fixes",
+       "spans": [
+        {
+         "start": 0,
+         "end": 11,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$a2edca6d-2a05-42dd-a77d-5bfd79bf2c23",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "12/06/2024",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "* New elements: Stepper module visualises a lengthy process. Stepper section wraps a Stepper in a responsive container.",
+       "spans": [
+        {
+         "start": 0,
+         "end": 16,
+         "type": "strong"
+        },
+        {
+         "start": 16,
+         "end": 23,
+         "type": "hyperlink",
+         "data": {
+          "id": "Zmly9BAAACAAkLkO",
+          "type": "design_system_content",
+          "tags": [
+           "modules"
+          ],
+          "lang": "en-eu",
+          "slug": "stepper",
+          "first_publication_date": "2024-06-12T10:06:49+0000",
+          "last_publication_date": "2024-08-16T12:31:52+0000",
+          "uid": "_ds_modules_stepper",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        },
+        {
+         "start": 61,
+         "end": 76,
+         "type": "hyperlink",
+         "data": {
+          "id": "Zml-IxAAACAAkM2i",
+          "type": "design_system_content",
+          "tags": [],
+          "lang": "en-eu",
+          "slug": "stepper-section",
+          "first_publication_date": "2024-06-12T10:56:20+0000",
+          "last_publication_date": "2024-08-19T11:04:42+0000",
+          "uid": "_ds_sections_stepper-section",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "* Form improvement: It is now possible to add a Title block as an aside to a Form, useful mostly in the context of short forms such as subscribing to a newsletter etc.",
+       "spans": [
+        {
+         "start": 0,
+         "end": 20,
+         "type": "strong"
+        },
+        {
+         "start": 48,
+         "end": 59,
+         "type": "hyperlink",
+         "data": {
+          "id": "ZmmKLRAAACMAkOD2",
+          "type": "design_system_content",
+          "tags": [
+           "modules"
+          ],
+          "lang": "en-eu",
+          "slug": "title-block",
+          "first_publication_date": "2024-06-12T11:51:16+0000",
+          "last_publication_date": "2024-08-16T12:33:17+0000",
+          "uid": "_ds_modules_title-block",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        },
+        {
+         "start": 77,
+         "end": 81,
+         "type": "hyperlink",
+         "data": {
+          "id": "ZEZxlxQAACUAsgRm",
+          "type": "design_system_content",
+          "tags": [],
+          "lang": "en-eu",
+          "slug": "form",
+          "first_publication_date": "2023-04-24T12:10:19+0000",
+          "last_publication_date": "2025-03-05T20:13:08+0000",
+          "uid": "_ds_sections_form",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "* Bug fixes and minor site improvements",
+       "spans": [
+        {
+         "start": 0,
+         "end": 11,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$68322b30-ae34-44c0-8f1c-a6a1567cb603",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "10/06/2024",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "* Motion design principles added to Design System documentation.",
+       "spans": [
+        {
+         "start": 0,
+         "end": 27,
+         "type": "strong"
+        },
+        {
+         "start": 50,
+         "end": 63,
+         "type": "hyperlink",
+         "data": {
+          "id": "Zl3EoBIAACAAVPXs",
+          "type": "design_system_content",
+          "tags": [
+           "ds"
+          ],
+          "lang": "en-eu",
+          "slug": "motion-design",
+          "first_publication_date": "2024-06-03T13:36:04+0000",
+          "last_publication_date": "2024-06-13T09:02:08+0000",
+          "uid": "_ds_for-designers_motion-design",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$d2162f17-4fbf-4941-aa9c-766cb164e1dc",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "18/04/2024",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "* New components: Progress Indicator displays an infinity spinner, for example when loading is in progress. Switch is a simple gadget for toggling something on and off.",
+       "spans": [
+        {
+         "start": 0,
+         "end": 18,
+         "type": "strong"
+        },
+        {
+         "start": 18,
+         "end": 36,
+         "type": "hyperlink",
+         "data": {
+          "id": "ZiEKsxAAAOYs3gpy",
+          "type": "design_system_content",
+          "tags": [
+           "ds"
+          ],
+          "lang": "en-eu",
+          "slug": "progress-indicator",
+          "first_publication_date": "2024-04-18T13:58:15+0000",
+          "last_publication_date": "2024-08-16T10:28:11+0000",
+          "uid": "_ds_components_progress-indicator",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        },
+        {
+         "start": 107,
+         "end": 108,
+         "type": "strong"
+        },
+        {
+         "start": 108,
+         "end": 114,
+         "type": "hyperlink",
+         "data": {
+          "id": "ZiEH1RAAAOcs3gB8",
+          "type": "design_system_content",
+          "tags": [
+           "ds"
+          ],
+          "lang": "en-eu",
+          "slug": "switch",
+          "first_publication_date": "2024-04-18T11:56:42+0000",
+          "last_publication_date": "2024-08-16T10:33:24+0000",
+          "uid": "_ds_components_switch",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "* API update: All components now have a className property, which makes it easier to customise the components or use them for example in Tailwind-based projects.",
+       "spans": [
+        {
+         "start": 0,
+         "end": 14,
+         "type": "strong"
+        },
+        {
+         "start": 40,
+         "end": 49,
+         "type": "em"
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$9fc20b0a-9f5c-44a9-a196-24090d52b5ad",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "10/04/2024",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "* New section added: Modal opens a dialog window on top of the rest of the UI",
+       "spans": [
+        {
+         "start": 0,
+         "end": 19,
+         "type": "strong"
+        },
+        {
+         "start": 21,
+         "end": 26,
+         "type": "hyperlink",
+         "data": {
+          "id": "ZhaG_RIAAHYn_Q8J",
+          "type": "design_system_content",
+          "tags": [],
+          "lang": "en-eu",
+          "slug": "modal",
+          "first_publication_date": "2024-04-10T12:48:37+0000",
+          "last_publication_date": "2024-08-20T09:00:39+0000",
+          "uid": "_ds_sections_modal",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$e66e5cbe-8aed-4701-bfe7-a53a07c15f62",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "03/04/2024",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "* New Hero variant. Allows configuring a Hero with a full-width image and no additional text.",
+       "spans": [
+        {
+         "start": 0,
+         "end": 20,
+         "type": "strong"
+        },
+        {
+         "start": 41,
+         "end": 45,
+         "type": "hyperlink",
+         "data": {
+          "id": "ZEZxshQAACUAsgTl",
+          "type": "design_system_content",
+          "tags": [],
+          "lang": "en-eu",
+          "slug": "hero",
+          "first_publication_date": "2023-04-24T12:10:49+0000",
+          "last_publication_date": "2024-08-19T07:13:11+0000",
+          "uid": "_ds_sections_hero",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "* Misc site improvements. ",
+       "spans": [
+        {
+         "start": 0,
+         "end": 26,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$08b1bcb9-63dd-445b-8596-68abfb642657",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "02/04/2024",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "* New sections added. Logo wall and Mega links.",
+       "spans": [
+        {
+         "start": 0,
+         "end": 22,
+         "type": "strong"
+        },
+        {
+         "start": 22,
+         "end": 31,
+         "type": "hyperlink",
+         "data": {
+          "id": "ZgvUgxEAACiSK6xM",
+          "type": "design_system_content",
+          "tags": [],
+          "lang": "en-eu",
+          "slug": "logo-wall",
+          "first_publication_date": "2024-04-02T09:52:16+0000",
+          "last_publication_date": "2025-08-21T14:03:45+0000",
+          "uid": "_ds_sections_logo-wall",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        },
+        {
+         "start": 36,
+         "end": 46,
+         "type": "hyperlink",
+         "data": {
+          "id": "ZgvTpREAAK6RK6c6",
+          "type": "design_system_content",
+          "tags": [
+           "sections"
+          ],
+          "lang": "en-eu",
+          "slug": "mega-links",
+          "first_publication_date": "2024-04-02T09:47:32+0000",
+          "last_publication_date": "2024-08-19T07:33:14+0000",
+          "uid": "_ds_sections_mega-links",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "* Custom icons. The Icon component now allows displaying a custom icon e.g. from a SVG file.",
+       "spans": [
+        {
+         "start": 0,
+         "end": 15,
+         "type": "strong"
+        },
+        {
+         "start": 20,
+         "end": 34,
+         "type": "hyperlink",
+         "data": {
+          "id": "ZgQBDxEAAF0DDLwd",
+          "type": "design_system_content",
+          "tags": [
+           "ds"
+          ],
+          "lang": "en-eu",
+          "slug": "icon",
+          "first_publication_date": "2024-03-27T11:27:40+0000",
+          "last_publication_date": "2024-08-16T10:09:11+0000",
+          "uid": "_ds_components_icon",
+          "link_type": "Document",
+          "isBroken": false
+         }
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "* Bug fixes",
+       "spans": [
+        {
+         "start": 0,
+         "end": 11,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$44aa6229-a8b8-426c-b811-698fedb82f71",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "26/03/2024",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "* Typography updates. Bolder font sizes on large viewports.",
+       "spans": [
+        {
+         "start": 0,
+         "end": 22,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "* Hero section changes. New layout and structure for Hero section and Info component. This is a breaking change with changed React component props.",
+       "spans": [
+        {
+         "start": 0,
+         "end": 24,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "* Video in Liftup and Image Tile. These modules may now contain video instead of an image.",
+       "spans": [
+        {
+         "start": 0,
+         "end": 34,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "* Misc improvements. Bug fixes, layout tweaks, accessibility improvements.",
+       "spans": [
+        {
+         "start": 0,
+         "end": 21,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$929c1488-0130-4596-baba-37b0a1b8dd7a",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "16/01/2024",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "* Tech stack stability improvements. Fixed cross-platform issues. ",
+       "spans": [
+        {
+         "start": 0,
+         "end": 37,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "* New components added. Image Tile and Image Tile Collection for displaying plain images on a page.",
+       "spans": [
+        {
+         "start": 0,
+         "end": 24,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "* Developer tooling improvement. Package react-modules now exposes more utility classes for building custom modules.",
+       "spans": [
+        {
+         "start": 0,
+         "end": 33,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "* Mobile site improvements. Content optimisation.",
+       "spans": [
+        {
+         "start": 0,
+         "end": 28,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$c81f82b3-2681-4075-bc91-0c0e52cbe730",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "20/11/2023",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "* Bug fixes",
+       "spans": [
+        {
+         "start": 0,
+         "end": 11,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$f298e791-9769-4907-8608-34eff6134d33",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "17/11/2023",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "* Visual tweaks",
+       "spans": [
+        {
+         "start": 0,
+         "end": 15,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$73a59b80-94d0-449e-a72e-5c3fe205a00d",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "16/11/2023",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "* Improved token presentation",
+       "spans": [
+        {
+         "start": 0,
+         "end": 29,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "* Bug fixes",
+       "spans": [
+        {
+         "start": 0,
+         "end": 11,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$d6b7d395-3c7d-4070-8d87-213f46e2d0a7",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "07/11/2023",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "* Visual polishing",
+       "spans": [
+        {
+         "start": 0,
+         "end": 18,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "* Bug fixes",
+       "spans": [
+        {
+         "start": 0,
+         "end": 11,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$857a849b-177b-4361-9df2-147ef49f9400",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "03/11/2023",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "* Visual polishing. Smoother transitions, fine tuning the layouts.",
+       "spans": [
+        {
+         "start": 0,
+         "end": 20,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "* Minor bug fixes",
+       "spans": [
+        {
+         "start": 0,
+         "end": 17,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$da01b1cc-49e9-4f7c-965e-394d8c857e34",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "30/10/2023",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "* Design token presentation pages renewal. Up-to-date descriptions and instructions for the various parts of the token system.",
+       "spans": [
+        {
+         "start": 0,
+         "end": 43,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$eb8579a0-6e1f-49f6-954e-dc9c032d3aeb",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "17/10/2023",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "* Accessibility improvements. Easier navigation with keyboard only.",
+       "spans": [
+        {
+         "start": 0,
+         "end": 28,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "* Bug fixes, visual tweaks",
+       "spans": [
+        {
+         "start": 0,
+         "end": 26,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$16cbf5d4-828b-428f-88f3-1865eac5d93f",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "10/10/2023",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "* Storybook content update. More realistic example data.",
+       "spans": [
+        {
+         "start": 0,
+         "end": 27,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "* Storybook version upgrade. Resolves issues for Safari users.",
+       "spans": [
+        {
+         "start": 0,
+         "end": 28,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "* Performance and accessibility improvements",
+       "spans": [
+        {
+         "start": 0,
+         "end": 44,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "* Bug fixes, visual tweaks",
+       "spans": [
+        {
+         "start": 0,
+         "end": 26,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$fbb3e9b5-5909-4713-994a-221483199d97",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "05/10/2023",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "* Visuals revamp. Colour adjustments. Layout, paddings and weirdly stretching elements fixed here and there.",
+       "spans": [
+        {
+         "start": 0,
+         "end": 17,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "* Performance improvements. Hefty boost for page loading, improving the UX especially for users with slow internet connection.",
+       "spans": [
+        {
+         "start": 0,
+         "end": 28,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "* Misc technical improvements. Bug fixes, codebase clean-up, better developer documentation.",
+       "spans": [
+        {
+         "start": 0,
+         "end": 31,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$e582bbe8-f06b-4cc2-a60c-e742be068519",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "29/09/2023",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "* Font rendering and icon facelift affecting especially the UX on iPhone and desktop Safari",
+       "spans": [
+        {
+         "start": 0,
+         "end": 34,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "* Misc minor improvements. Visual tweaks, bug fixes, faster page loading",
+       "spans": [
+        {
+         "start": 0,
+         "end": 25,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$fe494370-e3fd-44d8-95dd-b6235b7cbcc0",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "28/09/2023",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "* New components and modules. Highlight, Text and image, Video player section",
+       "spans": [
+        {
+         "start": 0,
+         "end": 28,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "* Misc minor improvements. Module reorganising, bug fixes",
+       "spans": [
+        {
+         "start": 0,
+         "end": 25,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$591ea6ae-1276-4695-9a8f-a6c55d2f2d2e",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "26/09/2023",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "* Design updates. Typography and usage of brand colours have been revised. Most components and modules got at least a minor facelift, while some were completely re-designed.",
+       "spans": [
+        {
+         "start": 0,
+         "end": 17,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "* Dark mode. All components and modules now support dark mode. The Brand site will display itself in dark mode based on the operating system setting.",
+       "spans": [
+        {
+         "start": 0,
+         "end": 12,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "* Misc Brand site improvements. Breadcrumbs, 404 page, more coherent structure, usage of the new modules etc.",
+       "spans": [
+        {
+         "start": 0,
+         "end": 30,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "* Feedback form was added to relevant pages, allowing the community to contribute to Design system development more effortlessly.",
+       "spans": [
+        {
+         "start": 0,
+         "end": 15,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "* Major tech stack upgrade. The React component library as well as the site itself are now built using a more modern tech stack based on Vite. Server upgrades. These changes don’t have any impact on how the components are used in channels, but under the hood this update contributes to a more robust and well performing foundation in the long run.",
+       "spans": [
+        {
+         "start": 0,
+         "end": 27,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "* Static HTML is now shown for most component and modules, enabling development of non-React versions of the component libraries",
+       "spans": [
+        {
+         "start": 0,
+         "end": 13,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "* Updates to old components and modules. Improved programming interfaces, more configuration options and variants, accessibility improvements.",
+       "spans": [
+        {
+         "start": 0,
+         "end": 39,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "* Dependency to React Router was removed from the React component libraries. An implementing channel may now inject its own router solution, or choose to do nothing and fall back to using basic HTML anchor tags. This means the channels may utilise the library no matter which router they rely on.",
+       "spans": [
+        {
+         "start": 0,
+         "end": 40,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "* New components and modules. Quick Links",
+       "spans": [
+        {
+         "start": 0,
+         "end": 28,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "* New icons added to the Aalto icon set",
+       "spans": [
+        {
+         "start": 0,
+         "end": 11,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "* Storybook improvements. Better stories, better organised.",
+       "spans": [
+        {
+         "start": 0,
+         "end": 24,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      },
+      {
+       "type": "paragraph",
+       "text": "* Bug fixes and codebase refactoring. A plentitude of small glitches was ironed out and developer friendliness is now highly improved.",
+       "spans": [
+        {
+         "start": 0,
+         "end": 36,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$8e8af210-9488-4a79-ab31-a223369c1fc9",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "20/06/2023",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "* Beta launch. The initial release was available for a limited audience.",
+       "spans": [
+        {
+         "start": 0,
+         "end": 13,
+         "type": "strong"
+        }
+       ],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$ca395b4e-bc1c-4f61-8120-b2108760fdd3",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,538 @@
+{
+ "id": "Z__TeRAAAB8AzpPh",
+ "uid": "_brand_about_brand-attributes",
+ "url": null,
+ "type": "design_system_content",
+ "href": "https://aalto-master-design-system.cdn.prismic.io/api/v2/documents/search?ref=ap6ZthEAACsAUnNI&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22Z__TeRAAAB8AzpPh%22%29+%5D%5D",
+ "tags": [
+  "identity"
+ ],
+ "first_publication_date": "2025-04-16T16:16:45+0000",
+ "last_publication_date": "2025-06-17T13:33:41+0000",
+ "slugs": [
+  "brand-attributes"
+ ],
+ "linked_documents": [],
+ "lang": "en-eu",
+ "alternate_languages": [
+  {
+   "id": "aRw6VhcAACcAhzTm",
+   "type": "design_system_content",
+   "lang": "fi",
+   "uid": "_brand_about_brand-attributes"
+  }
+ ],
+ "data": {
+  "feedback_form": {
+   "link_type": "Document"
+  },
+  "body1": [
+   {
+    "primary": {
+     "title": [
+      {
+       "type": "heading1",
+       "text": "Brand attributes",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "ingress": [],
+     "body_text": [],
+     "cta_label": [],
+     "cta_link": {
+      "link_type": "Any"
+     },
+     "image": {
+      "img_size_xs": {},
+      "img_size_s": {},
+      "img_size_m": {},
+      "img_size_l": {},
+      "img_size_xl": {},
+      "img_size_xxl": {}
+     },
+     "video_file_link": {
+      "link_type": "Any"
+     },
+     "aside": {
+      "link_type": "Document"
+     },
+     "theme": "red"
+    },
+    "items": [
+     {}
+    ],
+    "id": "hero$e07ed57f-5fb3-44bd-a5d6-9f4e0d7b9d2a",
+    "slice_type": "hero",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Our design principles guide the brand experiences we create, whether it be visual, spacial, events, digital, print materials, and so on.",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$cb30cacb-ff0d-4cfd-8c0c-87e86bd383df",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "ContentBoxCollection",
+     "tiles_per_row": "2",
+     "default_cta_label": [],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": false,
+     "hidden": false,
+     "skim": "top"
+    },
+    "items": [
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Natural",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "body_text": [
+       {
+        "type": "paragraph",
+        "text": "We design experiences in an intuitive and natural way, and we communicate clearly, in an easy-to-approach, human-to-human way, even when dealing with complex and intangible phenomena and ideas. Our imagery is honest and authentic, without falling into a generic trap. It is high quality with a point of view, rather than a generic documentary style.",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Inclusive",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "body_text": [
+       {
+        "type": "paragraph",
+        "text": "Our work, research, and concepts are open for multidisciplinary dialogue. We embrace diversity and differing points of view. Our communication is accessible and functional. The craft behind our designs brings clarity to complex matters.",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Bold",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "body_text": [
+       {
+        "type": "paragraph",
+        "text": "Our design language is intentional, bold, and confident. Form follows function, we use real and natural materials, sustainable ones whenever possible. Aesthetics and geometric elegance merge with functionality. Our branding and designs give space for content to blossom.",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Progressive",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "body_text": [
+       {
+        "type": "paragraph",
+        "text": "Extraordinary discoveries and innovations happen at the intersections of science, art, technology, and business. The same dynamics apply to our brand communications and experiences: we explore and adapt new technologies and solutions in creating contemporary, inspiring, and enriching brand encounters.",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$cdb6f468-6b78-425b-af2e-1465311c5c92",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "CardCollection",
+     "tiles_per_row": "2",
+     "default_cta_label": [],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": false,
+     "hidden": false,
+     "skim": "none"
+    },
+    "items": [
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Application examples",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "id": "ZlcPGBEAACIAeCCv",
+       "type": "design_system_content",
+       "tags": [
+        "identity"
+       ],
+       "lang": "en-eu",
+       "slug": "application-examples",
+       "first_publication_date": "2024-05-29T11:19:11+0000",
+       "last_publication_date": "2025-06-17T13:33:29+0000",
+       "uid": "_brand_application-examples",
+       "link_type": "Document",
+       "key": "12be3c58-0e3c-4bbc-b439-36097dd849f4",
+       "isBroken": false
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Templates",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "id": "ZlcPdxEAACUAeCFw",
+       "type": "design_system_content",
+       "tags": [
+        "downloads",
+        "identity"
+       ],
+       "lang": "en-eu",
+       "slug": "templates",
+       "first_publication_date": "2024-05-29T11:20:46+0000",
+       "last_publication_date": "2025-06-26T10:41:09+0000",
+       "uid": "_brand_templates",
+       "link_type": "Document",
+       "key": "48af3859-417e-4c91-8d6e-1dbd2b6dd084",
+       "isBroken": false
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$3decc457-fe63-4e3e-804b-da656386ef06",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "CTA",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Ask for brand support",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "You can ask for help with brand-related, design, and audiovisual projects from the Aalto University Communications team.",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [
+      {
+       "type": "paragraph",
+       "text": "Contact us",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "button_link": {
+      "id": "ZAcwrhAAACkAUXQy",
+      "type": "form",
+      "tags": [],
+      "lang": "en-eu",
+      "slug": "ask-for-brand-support",
+      "first_publication_date": "2023-03-07T12:40:23+0000",
+      "last_publication_date": "2025-11-18T21:05:41+0000",
+      "uid": "_support",
+      "link_type": "Document",
+      "key": "e57268af-42c5-4ba0-bb06-d974fe4da534",
+      "isBroken": false
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "red",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$e0f582dc-8bd0-4b1f-8d79-0de7699e8a5a",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   }
+  ]
+ }
+}

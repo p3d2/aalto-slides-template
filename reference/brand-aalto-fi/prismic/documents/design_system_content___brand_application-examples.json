@@ -1,0 +1,1355 @@
+{
+ "id": "ZlcPGBEAACIAeCCv",
+ "uid": "_brand_application-examples",
+ "url": null,
+ "type": "design_system_content",
+ "href": "https://aalto-master-design-system.cdn.prismic.io/api/v2/documents/search?ref=ap6ZthEAACsAUnNI&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZlcPGBEAACIAeCCv%22%29+%5D%5D",
+ "tags": [
+  "identity"
+ ],
+ "first_publication_date": "2024-05-29T11:19:11+0000",
+ "last_publication_date": "2025-06-17T13:33:29+0000",
+ "slugs": [
+  "application-examples"
+ ],
+ "linked_documents": [],
+ "lang": "en-eu",
+ "alternate_languages": [
+  {
+   "id": "aRw6VxcAACkAhzTr",
+   "type": "design_system_content",
+   "lang": "fi",
+   "uid": "_brand_application-examples"
+  }
+ ],
+ "data": {
+  "feedback_form": {
+   "link_type": "Document"
+  },
+  "body1": [
+   {
+    "primary": {
+     "title": [
+      {
+       "type": "heading1",
+       "text": "Application examples",
+       "spans": []
+      }
+     ],
+     "ingress": [],
+     "body_text": [],
+     "cta_label": [],
+     "cta_link": {
+      "link_type": "Any"
+     },
+     "image": {
+      "img_size_xs": {},
+      "img_size_s": {},
+      "img_size_m": {},
+      "img_size_l": {},
+      "img_size_xl": {},
+      "img_size_xxl": {}
+     },
+     "video_file_link": {
+      "link_type": "Any"
+     },
+     "aside": {
+      "link_type": "Document"
+     },
+     "theme": "black"
+    },
+    "items": [
+     {}
+    ],
+    "id": "hero$c3e9eb69-1f86-4bcb-87ef-5dae852b60d4",
+    "slice_type": "hero",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Below you can find layouts that illustrate how our brand comes to life in different kinds of executions. They provide inspiration and practical examples of how to use Aalto University's visual identity and design system.",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [],
+    "id": "page_section_element$4a7a83eb-a50b-4904-9940-a50f559917cf",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Roll-up layout examples",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$357b2a04-a679-48de-b245-2475db62b245",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "LiftupCollection",
+     "tiles_per_row": "1",
+     "default_cta_label": [],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": false,
+     "hidden": false,
+     "skim": "none"
+    },
+    "items": [
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": "Roll-up layout examples with varying use of white, red and black.",
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/f0df149c-9c4c-4862-af82-397b88d9412a_Applications_rollup_uni.png?auto=compress,format&rect=0,0,3840,2160&w=640&h=360",
+       "id": "ZbDN2BEAACAA901_",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 0.16666666666666666,
+        "background": "transparent"
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": "Roll-up layout examples with varying use of white, red and black.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/f0df149c-9c4c-4862-af82-397b88d9412a_Applications_rollup_uni.png?auto=compress,format&rect=0,0,3840,2160&w=1600&h=900",
+        "id": "ZbDN2BEAACAA901_",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.4166666666666667,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": "Roll-up layout examples with varying use of white, red and black.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/f0df149c-9c4c-4862-af82-397b88d9412a_Applications_rollup_uni.png?auto=compress,format&rect=0,0,3840,2160&w=1920&h=1080",
+        "id": "ZbDN2BEAACAA901_",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.5,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": "Roll-up layout examples with varying use of white, red and black.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/f0df149c-9c4c-4862-af82-397b88d9412a_Applications_rollup_uni.png?auto=compress,format&rect=0,0,3840,2160&w=1200&h=675",
+        "id": "ZbDN2BEAACAA901_",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.3125,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": "Roll-up layout examples with varying use of white, red and black.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/f0df149c-9c4c-4862-af82-397b88d9412a_Applications_rollup_uni.png?auto=compress,format&rect=0,0,3838,2160&w=828&h=466",
+        "id": "ZbDN2BEAACAA901_",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.21574074074074073,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": "Roll-up layout examples with varying use of white, red and black.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/f0df149c-9c4c-4862-af82-397b88d9412a_Applications_rollup_uni.png?auto=compress,format&rect=0,0,3837,2160&w=1080&h=608",
+        "id": "ZbDN2BEAACAA901_",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.2814814814814815,
+         "background": "transparent"
+        }
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": "Roll-up layout examples with varying use of white, red and black.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/f0df149c-9c4c-4862-af82-397b88d9412a_Applications_rollup_uni.png?auto=compress,format&rect=0,0,3839,2160&w=750&h=422",
+        "id": "ZbDN2BEAACAA901_",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.19537037037037036,
+         "background": "transparent"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "",
+        "spans": []
+       }
+      ],
+      "body_text": [],
+      "caption": [
+       {
+        "type": "paragraph",
+        "text": "Roll-up layout examples",
+        "spans": []
+       }
+      ],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": "Five layout examples of rollups for School of Business 110 anniversary with variating use of white, green and black and an image from the business school building main stairway and the business school emblem",
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/26216726-dc18-4f18-a68f-1a94b70f9562_Applications_rollups_school.png?auto=compress,format&rect=0,0,3840,2160&w=640&h=360",
+       "id": "ZOc9bREAACQAsgOl",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 0.16666666666666666,
+        "background": "transparent"
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": "Five layout examples of rollups for School of Business 110 anniversary with variating use of white, green and black and an image from the business school building main stairway and the business school emblem",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/26216726-dc18-4f18-a68f-1a94b70f9562_Applications_rollups_school.png?auto=compress,format&rect=0,0,3840,2160&w=1600&h=900",
+        "id": "ZOc9bREAACQAsgOl",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.4166666666666667,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": "Five layout examples of rollups for School of Business 110 anniversary with variating use of white, green and black and an image from the business school building main stairway and the business school emblem",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/26216726-dc18-4f18-a68f-1a94b70f9562_Applications_rollups_school.png?auto=compress,format&rect=0,0,3840,2160&w=1920&h=1080",
+        "id": "ZOc9bREAACQAsgOl",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.5,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": "Five layout examples of rollups for School of Business 110 anniversary with variating use of white, green and black and an image from the business school building main stairway and the business school emblem",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/26216726-dc18-4f18-a68f-1a94b70f9562_Applications_rollups_school.png?auto=compress,format&rect=0,0,3840,2160&w=1200&h=675",
+        "id": "ZOc9bREAACQAsgOl",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.3125,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": "Five layout examples of rollups for School of Business 110 anniversary with variating use of white, green and black and an image from the business school building main stairway and the business school emblem",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/26216726-dc18-4f18-a68f-1a94b70f9562_Applications_rollups_school.png?auto=compress,format&rect=0,0,3838,2160&w=828&h=466",
+        "id": "ZOc9bREAACQAsgOl",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.21574074074074073,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": "Five layout examples of rollups for School of Business 110 anniversary with variating use of white, green and black and an image from the business school building main stairway and the business school emblem",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/26216726-dc18-4f18-a68f-1a94b70f9562_Applications_rollups_school.png?auto=compress,format&rect=0,0,3837,2160&w=1080&h=608",
+        "id": "ZOc9bREAACQAsgOl",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.2814814814814815,
+         "background": "transparent"
+        }
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": "Five layout examples of rollups for School of Business 110 anniversary with variating use of white, green and black and an image from the business school building main stairway and the business school emblem",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/26216726-dc18-4f18-a68f-1a94b70f9562_Applications_rollups_school.png?auto=compress,format&rect=0,0,3839,2160&w=750&h=422",
+        "id": "ZOc9bREAACQAsgOl",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.19537037037037036,
+         "background": "transparent"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [],
+      "body_text": [],
+      "caption": [
+       {
+        "type": "paragraph",
+        "text": "Roll-up layout examples",
+        "spans": []
+       }
+      ],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": "Five layout examples of rollups for an event called \"Creating New Textile Futures\" with variating use of white, purple and black, checkered pattern and an image",
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/20b4b06c-d63a-4b54-9365-263e85906517_Applications_rollups_event.jpg?auto=compress,format&rect=0,0,2392,1346&w=640&h=360",
+       "id": "ZEf8wBQAACcAuQ8b",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 0.26755852842809363,
+        "background": "#fff"
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": "Five layout examples of rollups for an event called \"Creating New Textile Futures\" with variating use of white, purple and black, checkered pattern and an image",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/20b4b06c-d63a-4b54-9365-263e85906517_Applications_rollups_event.jpg?auto=compress,format&rect=0,1,2392,1346&w=1600&h=900",
+        "id": "ZEf8wBQAACcAuQ8b",
+        "edit": {
+         "x": 0,
+         "y": -1,
+         "zoom": 0.6688963210702341,
+         "background": "#fff"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": "Five layout examples of rollups for an event called \"Creating New Textile Futures\" with variating use of white, purple and black, checkered pattern and an image",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/20b4b06c-d63a-4b54-9365-263e85906517_Applications_rollups_event.jpg?auto=compress,format&rect=0,1,2392,1346&w=1920&h=1080",
+        "id": "ZEf8wBQAACcAuQ8b",
+        "edit": {
+         "x": 0,
+         "y": -1,
+         "zoom": 0.802675585284281,
+         "background": "#fff"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": "Five layout examples of rollups for an event called \"Creating New Textile Futures\" with variating use of white, purple and black, checkered pattern and an image",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/20b4b06c-d63a-4b54-9365-263e85906517_Applications_rollups_event.jpg?auto=compress,format&rect=0,2,2392,1346&w=1200&h=675",
+        "id": "ZEf8wBQAACcAuQ8b",
+        "edit": {
+         "x": 0,
+         "y": -1,
+         "zoom": 0.5016722408026756,
+         "background": "#fff"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": "Five layout examples of rollups for an event called \"Creating New Textile Futures\" with variating use of white, purple and black, checkered pattern and an image",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/20b4b06c-d63a-4b54-9365-263e85906517_Applications_rollups_event.jpg?auto=compress,format&rect=0,0,2392,1346&w=828&h=466",
+        "id": "ZEf8wBQAACcAuQ8b",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.34615384615384615,
+         "background": "#fff"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": "Five layout examples of rollups for an event called \"Creating New Textile Futures\" with variating use of white, purple and black, checkered pattern and an image",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/20b4b06c-d63a-4b54-9365-263e85906517_Applications_rollups_event.jpg?auto=compress,format&rect=0,0,2392,1347&w=1080&h=608",
+        "id": "ZEf8wBQAACcAuQ8b",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.451505016722408,
+         "background": "#fff"
+        }
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": "Five layout examples of rollups for an event called \"Creating New Textile Futures\" with variating use of white, purple and black, checkered pattern and an image",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/20b4b06c-d63a-4b54-9365-263e85906517_Applications_rollups_event.jpg?auto=compress,format&rect=0,0,2392,1346&w=750&h=422",
+        "id": "ZEf8wBQAACcAuQ8b",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.31354515050167225,
+         "background": "#fff"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [],
+      "body_text": [],
+      "caption": [
+       {
+        "type": "paragraph",
+        "text": "Roll-up layout examples / Event version",
+        "spans": []
+       }
+      ],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$27f08bbd-9723-44d9-9292-39fb5b373538",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Examples of brochure or ranking visualisations",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$53ba5686-e78e-4769-96ad-56fde935b126",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "LiftupCollection",
+     "tiles_per_row": "1",
+     "default_cta_label": [],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": false,
+     "hidden": false,
+     "skim": "none"
+    },
+    "items": [
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": "Example layouts of a brochure, pages with white, yellow, blue, red or black backgrounds, and text with different weights. One page with a large round image with two people sitting on a stage, another large full page picture of Harald Herlin learning center interior.",
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/08f9792d-df07-4f10-bbc7-debdad399a42_Applications+-+brochure+mockup.png?auto=compress,format&rect=0,0,3841,2161&w=640&h=360",
+       "id": "ZbDNShEAAB8A90yD",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 0.16662327518875292,
+        "background": "transparent"
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": "Example layouts of a brochure, pages with white, yellow, blue, red or black backgrounds, and text with different weights. One page with a large round image with two people sitting on a stage, another large full page picture of Harald Herlin learning center interior.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/08f9792d-df07-4f10-bbc7-debdad399a42_Applications+-+brochure+mockup.png?auto=compress,format&rect=0,0,3841,2161&w=1600&h=900",
+        "id": "ZbDNShEAAB8A90yD",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.4165581879718823,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": "Example layouts of a brochure, pages with white, yellow, blue, red or black backgrounds, and text with different weights. One page with a large round image with two people sitting on a stage, another large full page picture of Harald Herlin learning center interior.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/08f9792d-df07-4f10-bbc7-debdad399a42_Applications+-+brochure+mockup.png?auto=compress,format&rect=0,0,3841,2161&w=1920&h=1080",
+        "id": "ZbDNShEAAB8A90yD",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.4998698255662588,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": "Example layouts of a brochure, pages with white, yellow, blue, red or black backgrounds, and text with different weights. One page with a large round image with two people sitting on a stage, another large full page picture of Harald Herlin learning center interior.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/08f9792d-df07-4f10-bbc7-debdad399a42_Applications+-+brochure+mockup.png?auto=compress,format&rect=0,0,3841,2161&w=1200&h=675",
+        "id": "ZbDNShEAAB8A90yD",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.31241864097891175,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": "Example layouts of a brochure, pages with white, yellow, blue, red or black backgrounds, and text with different weights. One page with a large round image with two people sitting on a stage, another large full page picture of Harald Herlin learning center interior.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/08f9792d-df07-4f10-bbc7-debdad399a42_Applications+-+brochure+mockup.png?auto=compress,format&rect=0,0,3840,2161&w=828&h=466",
+        "id": "ZbDNShEAAB8A90yD",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.2156409069875058,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": "Example layouts of a brochure, pages with white, yellow, blue, red or black backgrounds, and text with different weights. One page with a large round image with two people sitting on a stage, another large full page picture of Harald Herlin learning center interior.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/08f9792d-df07-4f10-bbc7-debdad399a42_Applications+-+brochure+mockup.png?auto=compress,format&rect=0,0,3839,2161&w=1080&h=608",
+        "id": "ZbDNShEAAB8A90yD",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.28135122628412773,
+         "background": "transparent"
+        }
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": "Example layouts of a brochure, pages with white, yellow, blue, red or black backgrounds, and text with different weights. One page with a large round image with two people sitting on a stage, another large full page picture of Harald Herlin learning center interior.",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/08f9792d-df07-4f10-bbc7-debdad399a42_Applications+-+brochure+mockup.png?auto=compress,format&rect=0,0,3841,2161&w=750&h=422",
+        "id": "ZbDNShEAAB8A90yD",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.1952799629801018,
+         "background": "transparent"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [],
+      "body_text": [
+       {
+        "type": "paragraph",
+        "text": "Brochures / Examples on typography, use of images, fonts and brand colours.",
+        "spans": []
+       }
+      ],
+      "caption": [
+       {
+        "type": "paragraph",
+        "text": "Brochures / Examples on typography, use of images, fonts and brand colours.",
+        "spans": []
+       }
+      ],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$d9870030-b745-42ef-bfe8-30595508949e",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "LiftupCollection",
+     "tiles_per_row": "1",
+     "default_cta_label": [],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": false,
+     "hidden": false,
+     "skim": "none"
+    },
+    "items": [
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": "4 by 3 grid of images and coloured background showing numbers and rankings of Aalto university: 6 schools, approx. 100 startups, €K faculty and staff, 12K students, Art & design ranked 6th globally, 300 Professors tenure track recruitments since 2010, 100+ nationalities, Business administration ranked 24th globally (ShanghaiRankings 2022), Ranked 9th best young university globally (QS2021)",
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/21089157-025f-4ca2-9632-c4e591856b95_Rankings+examples.png?auto=compress,format&rect=0,0,3841,2161&w=640&h=360",
+       "id": "ZOdBIhEAACQAshU1",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 0.16662327518875292,
+        "background": "transparent"
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": "4 by 3 grid of images and coloured background showing numbers and rankings of Aalto university: 6 schools, approx. 100 startups, €K faculty and staff, 12K students, Art & design ranked 6th globally, 300 Professors tenure track recruitments since 2010, 100+ nationalities, Business administration ranked 24th globally (ShanghaiRankings 2022), Ranked 9th best young university globally (QS2021)",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/21089157-025f-4ca2-9632-c4e591856b95_Rankings+examples.png?auto=compress,format&rect=0,0,3841,2161&w=1600&h=900",
+        "id": "ZOdBIhEAACQAshU1",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.4165581879718823,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": "4 by 3 grid of images and coloured background showing numbers and rankings of Aalto university: 6 schools, approx. 100 startups, €K faculty and staff, 12K students, Art & design ranked 6th globally, 300 Professors tenure track recruitments since 2010, 100+ nationalities, Business administration ranked 24th globally (ShanghaiRankings 2022), Ranked 9th best young university globally (QS2021)",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/21089157-025f-4ca2-9632-c4e591856b95_Rankings+examples.png?auto=compress,format&rect=0,0,3841,2161&w=1920&h=1080",
+        "id": "ZOdBIhEAACQAshU1",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.4998698255662588,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": "4 by 3 grid of images and coloured background showing numbers and rankings of Aalto university: 6 schools, approx. 100 startups, €K faculty and staff, 12K students, Art & design ranked 6th globally, 300 Professors tenure track recruitments since 2010, 100+ nationalities, Business administration ranked 24th globally (ShanghaiRankings 2022), Ranked 9th best young university globally (QS2021)",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/21089157-025f-4ca2-9632-c4e591856b95_Rankings+examples.png?auto=compress,format&rect=0,0,3841,2161&w=1200&h=675",
+        "id": "ZOdBIhEAACQAshU1",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.31241864097891175,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": "4 by 3 grid of images and coloured background showing numbers and rankings of Aalto university: 6 schools, approx. 100 startups, €K faculty and staff, 12K students, Art & design ranked 6th globally, 300 Professors tenure track recruitments since 2010, 100+ nationalities, Business administration ranked 24th globally (ShanghaiRankings 2022), Ranked 9th best young university globally (QS2021)",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/21089157-025f-4ca2-9632-c4e591856b95_Rankings+examples.png?auto=compress,format&rect=0,0,3840,2161&w=828&h=466",
+        "id": "ZOdBIhEAACQAshU1",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.2156409069875058,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": "4 by 3 grid of images and coloured background showing numbers and rankings of Aalto university: 6 schools, approx. 100 startups, €K faculty and staff, 12K students, Art & design ranked 6th globally, 300 Professors tenure track recruitments since 2010, 100+ nationalities, Business administration ranked 24th globally (ShanghaiRankings 2022), Ranked 9th best young university globally (QS2021)",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/21089157-025f-4ca2-9632-c4e591856b95_Rankings+examples.png?auto=compress,format&rect=0,0,3839,2161&w=1080&h=608",
+        "id": "ZOdBIhEAACQAshU1",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.28135122628412773,
+         "background": "transparent"
+        }
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": "4 by 3 grid of images and coloured background showing numbers and rankings of Aalto university: 6 schools, approx. 100 startups, €K faculty and staff, 12K students, Art & design ranked 6th globally, 300 Professors tenure track recruitments since 2010, 100+ nationalities, Business administration ranked 24th globally (ShanghaiRankings 2022), Ranked 9th best young university globally (QS2021)",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/21089157-025f-4ca2-9632-c4e591856b95_Rankings+examples.png?auto=compress,format&rect=0,0,3841,2161&w=750&h=422",
+        "id": "ZOdBIhEAACQAshU1",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.1952799629801018,
+         "background": "transparent"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [],
+      "body_text": [
+       {
+        "type": "paragraph",
+        "text": "Example presentation of Aalto university's key figures",
+        "spans": []
+       }
+      ],
+      "caption": [
+       {
+        "type": "paragraph",
+        "text": "Example presentation of Aalto university's key figures",
+        "spans": []
+       }
+      ],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$20b3e944-7b47-4ab5-9229-4d7d24619a47",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "LiftupCollection",
+     "tiles_per_row": "1",
+     "default_cta_label": [],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": false,
+     "hidden": false,
+     "skim": "none"
+    },
+    "items": [
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": "Five mockup mobile phones with layout examples of social media posts",
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/76282ce1-f5b0-47d3-8b2e-959e6f9812b6_Applications_socialmedia.jpg?auto=compress,format&rect=0,0,2392,1346&w=640&h=360",
+       "id": "ZEf8wBQAACUAuQ8f",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 0.26755852842809363,
+        "background": "#fff"
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": "Five mockup mobile phones with layout examples of social media posts",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/76282ce1-f5b0-47d3-8b2e-959e6f9812b6_Applications_socialmedia.jpg?auto=compress,format&rect=0,1,2392,1346&w=1600&h=900",
+        "id": "ZEf8wBQAACUAuQ8f",
+        "edit": {
+         "x": 0,
+         "y": -1,
+         "zoom": 0.6688963210702341,
+         "background": "#fff"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": "Five mockup mobile phones with layout examples of social media posts",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/76282ce1-f5b0-47d3-8b2e-959e6f9812b6_Applications_socialmedia.jpg?auto=compress,format&rect=0,1,2392,1346&w=1920&h=1080",
+        "id": "ZEf8wBQAACUAuQ8f",
+        "edit": {
+         "x": 0,
+         "y": -1,
+         "zoom": 0.802675585284281,
+         "background": "#fff"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": "Five mockup mobile phones with layout examples of social media posts",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/76282ce1-f5b0-47d3-8b2e-959e6f9812b6_Applications_socialmedia.jpg?auto=compress,format&rect=0,2,2392,1346&w=1200&h=675",
+        "id": "ZEf8wBQAACUAuQ8f",
+        "edit": {
+         "x": 0,
+         "y": -1,
+         "zoom": 0.5016722408026756,
+         "background": "#fff"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": "Five mockup mobile phones with layout examples of social media posts",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/76282ce1-f5b0-47d3-8b2e-959e6f9812b6_Applications_socialmedia.jpg?auto=compress,format&rect=0,0,2392,1346&w=828&h=466",
+        "id": "ZEf8wBQAACUAuQ8f",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.34615384615384615,
+         "background": "#fff"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": "Five mockup mobile phones with layout examples of social media posts",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/76282ce1-f5b0-47d3-8b2e-959e6f9812b6_Applications_socialmedia.jpg?auto=compress,format&rect=0,0,2392,1347&w=1080&h=608",
+        "id": "ZEf8wBQAACUAuQ8f",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.451505016722408,
+         "background": "#fff"
+        }
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": "Five mockup mobile phones with layout examples of social media posts",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/76282ce1-f5b0-47d3-8b2e-959e6f9812b6_Applications_socialmedia.jpg?auto=compress,format&rect=0,0,2392,1346&w=750&h=422",
+        "id": "ZEf8wBQAACUAuQ8f",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 0.31354515050167225,
+         "background": "#fff"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [],
+      "body_text": [
+       {
+        "type": "paragraph",
+        "text": "Social media posts / Layout options with various kinds of content.",
+        "spans": []
+       }
+      ],
+      "caption": [
+       {
+        "type": "paragraph",
+        "text": "Social media posts / Layout options with various kinds of content.",
+        "spans": []
+       }
+      ],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$fc9e3f60-ec51-448a-9216-ff6955ed2973",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Read next",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$14d05abc-bd44-4d2e-b158-ab568702a475",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "CardCollection",
+     "tiles_per_row": "2",
+     "default_cta_label": [
+      {
+       "type": "paragraph",
+       "text": "Read more",
+       "spans": []
+      }
+     ],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": false,
+     "hidden": false,
+     "skim": "none"
+    },
+    "items": [
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Visual identity",
+        "spans": []
+       }
+      ],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "id": "ZlbnpREAACUAd9yC",
+       "type": "broken_type",
+       "tags": [],
+       "lang": null,
+       "slug": "-",
+       "first_publication_date": null,
+       "last_publication_date": null,
+       "link_type": "Document",
+       "key": "3f27e391-e7b0-4587-baf9-1b1f1055af89",
+       "isBroken": true
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Templates",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "id": "ZlcPdxEAACUAeCFw",
+       "type": "design_system_content",
+       "tags": [
+        "downloads",
+        "identity"
+       ],
+       "lang": "en-eu",
+       "slug": "templates",
+       "first_publication_date": "2024-05-29T11:20:46+0000",
+       "last_publication_date": "2025-06-26T10:41:09+0000",
+       "uid": "_brand_templates",
+       "link_type": "Document",
+       "key": "64baaf5e-1ba6-4e2a-b6a6-6536163ea1d1",
+       "isBroken": false
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$efdd264b-aaa9-435f-b21b-27d55ab7d146",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   }
+  ]
+ }
+}

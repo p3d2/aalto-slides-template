@@ -1,0 +1,187 @@
+<!doctype html>
+<html lang="fi">
+    <head>
+        <meta charset="UTF-8">
+
+        <!-- Share / Meta info -->
+        <title>Logo Aalto brand</title>
+        <meta name="description" content="Aalto University logo download">
+        <link rel="canonical" href="" /> <!-- page url -->
+
+         <link rel=apple-touch-icon sizes=192x192 href=apple-touch-icon.png> <link
+    rel=icon type=image/png sizes=32x32 href="favicon-32x32.png"> <link rel=icon
+    type=image/png sizes=16x16 href=favicon-16x16.png>
+
+        <meta name="twitter:card" content="summary_large_image" /> <!-- summary|summary_large_image -->
+        <meta name="twitter:site" content="" /> <!-- twitter account: @sitetwitter -->
+        <meta name="twitter:creator" content="" /> <!-- for example a photographer: @photographer -->
+
+        <meta property="og:type" content="website" /> <!-- http://ogp.me/#types -->
+        <meta property="og:url" content=""/>
+        <meta property="og:title" content="Logo Aalto brand"/>
+        <meta property="og:description" content="Aalto University logo download"/>
+        <meta property="og:image" content="https://aaltologo.fi/apple-touch-icon.png" />
+        <meta property="og:image:type" content="image/jpeg" />
+        <meta property="og:image:width" content="180" />
+        <meta property="og:image:height" content="180" />
+        <meta property="og:site_name" content="Aalto University"/>
+        <meta property="og:locale" content="fi_FI"/>
+
+        <!-- END share/meta -->
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <!-- main styles -->
+        <link rel="stylesheet" href="assets/main.css?v=2.1">
+
+    </head>
+    <body>
+
+
+
+        <div id="materialbank" class="en-lang">
+        
+<header class="header  header--pinned header--scrolled">
+  <div class="header__flex-wrapper flex-wrapper">
+          <div class="header__logo router-link-active">
+          <a href="https://brand.aalto.fi">
+            <img class="logo" src="assets/images/aalto_logo_white.svg" alt="Aalto logo">
+          </a>
+        </div> 
+        <ul class="navigation flex-wrapper">
+            <li class="link link--visual-elements">
+        <a href="https://brand.aalto.fi/brand/visual-identity" class="router-link-exact-active router-link-active" data-fi="https://brand.aalto.fi/brand/visual-identity" data-en="https://brand.aalto.fi/brand/visual-identity">
+          <span class="english-paragraph">Visual identity</span>
+          <span class="finnish-paragraph">Visual identity</span>
+        </a>
+      </li>
+      <li class="link link--templates">
+        <a href="https://brand.aalto.fi/ds" class="" data-fi="https://brand.aalto.fi/ds" data-en="https://brand.aalto.fi/ds">
+          <span class="english-paragraph">Design system</span>
+          <span class="finnish-paragraph">Design system</span>
+        </a>
+
+      </li>
+      <li class="link link--ask-for-design">
+        <a href="https://brand.aalto.fi/support" class="" data-fi="https://brand.aalto.fi/support" data-en="https://brand.aalto.fi/support">
+          <span class="english-paragraph">Brand support</span>
+          <span class="finnish-paragraph">Brand support</span>
+        </a>
+      </li>
+    </ul>
+    <ul class="navigation navigation--language flex-wrapper">
+      <li class="link link--fi"><a href="#" class=""><span>FI</span></a></li>
+      <li class="link link--divider"><span> / </span></li>
+      <li class="link link--en"><a href="#" class="selected"><span>EN</span></a></li>
+    </ul>
+
+
+
+    <div class="navigation-mobile"><button class="navigation-mobile__trigger button">
+        <div class="icon"></div>
+      </button>
+      <div class="navigation-mobile__mask"></div>
+      <ul class="navigation-mobile__links">
+        <li class="link link--general">
+          <a href="https://brand.aalto.fi/visual-identity" class="router-link-active" tabindex="-1" data-fi="https://brand.aalto.fi/visual-identity" data-en="https://brand.aalto.fi/visual-identity">
+            <span class="english-paragraph">Visual identity</span>
+            <span class="finnish-paragraph">Etusivu</span>
+          </a>
+        </li>
+        <li class="link link--visual-elements">
+          <a href="https://brand.aalto.fi/ds" class="router-link-exact-active router-link-active" tabindex="-1" data-fi="https://brand.aalto.fi/ds" data-en="https://brand.aalto.fi/ds">
+            <span class="english-paragraph">Design system</span>
+            <span class="finnish-paragraph">Visuaaliset elementit</span>
+          </a>
+        </li>
+        <li class="link link--templates"><a href="https://brand.aalto.fi/support" class="" tabindex="-1" data-fi="https://brand.aalto.fi/support" data-en="https://brand.aalto.fi/support">
+            <span class="english-paragraph">Brand support</span>
+            <span class="finnish-paragraph">Mallitiedostot</span>
+          </a>
+        </li>
+               <li class="language-selector__container">
+          <ul class="navigation navigation--language flex-wrapper navigation--language-mobile">
+            <li class="link link--fi"><a href="#" class="">
+                <span>Finnish</span>
+              </a>
+            </li>
+            <li class="link link--divider"><span> / </span></li>
+            <li class="link link--en"><a href="#" class="selected">
+                <span>English</span></a>
+            </li>
+          </ul>
+        </li>
+
+      </ul>
+    </div>
+  </div>
+</header>            <div class="container">
+              <section class="search-header">
+                  <h1 class="english-paragraph">Download the Aalto University logo</h1>
+                  <h1 class="finnish-paragraph">Lataa Aalto-yliopiston logo (tunnus)</h1>
+                  <p class="english-paragraph">Use the filters below to show the version you need. You can download the file by clicking on the specific logo. Remember to always use only these official files. Please, visit the <a href="https://brand.aalto.fi/brand/visual-guidelines/logo" target="_blank">logo guidelines</a>.</p>
+                    <p class="english-paragraph">The Aalto University logos are registered trademarks, and altering them is not allowed.</p>
+                  <p class="finnish-paragraph">Luo haluamasi logo alla olevien valikkojen avulla. Voit ladata valmiin logon klikkaamalla sitä. Käytäthän ainoastaan näitä virallisia tiedostoja. Tutustu <a href="https://brand.aalto.fi/brand/visual-guidelines/logo" target="_blank">logo-ohjeisiin</a>.</p>
+                  <p class="finnish-paragraph">Aalto-yliopiston kuviomerkit (logot) ovat rekisteröityjä tavaramerkkejä, eikä niitä saa muuttaa.</p>
+     
+                  </section>
+   
+              
+              <div class="search-inputs">
+      
+                  <div class="search-option unit">
+                    <select name="unit" id="select-unit" class="filter-selector">
+                        <option value="" selected id="choose-unit"></option>                
+                     
+                      <option value="WtL2" data-en="Aalto University" data-fi="Aalto-yliopisto">Aalto University</option><option value="qBQb" data-en="School of Arts, Design and Architecture" data-fi="Taiteiden ja suunnittelun korkeakoulu">School of Arts, Design and Architecture</option><option value="RKfg" data-en="School of Electrical Engineering" data-fi="Sähkötekniikan korkeakoulu">School of Electrical Engineering</option><option value="6fcM" data-en="School of Science" data-fi="Perustieteiden korkeakoulu">School of Science</option><option value="9s9B" data-en="School of Engineering" data-fi="Insinööritieteiden korkeakoulu">School of Engineering</option><option value="VR7S" data-en="School of Chemical Engineering" data-fi="Kemian tekniikan korkeakoulu">School of Chemical Engineering</option><option value="bD_j" data-en="School of Business" data-fi="Kauppakorkeakoulu">School of Business</option>                    </select>
+                  </div>
+                  <div class="search-option language disabled">
+                    <select name="language" id="select-language" class="filter-selector" >
+                      <option value="" selected id="choose-lang"></option>
+                    </select>
+                  </div>
+        
+                  
+                <div class="search-option format disabled">
+                    <select name="format" id="select-format" class="filter-selector" >
+                      <option value="" selected id="choose-format"></option>
+                      <option value="png" data-en="Digital use, PNG" data-fi="Digikäyttö, PNG">Digital use, PNG</option>
+                      <option value="pdf" data-en="Print use, PDF" data-fi="Tulostuskäyttö, PDF">Print use, PDF</option>
+                    </select>
+                  </div>
+
+                  
+                  <div class="search-option size disabled">
+                    <select name="size" id="select-size" class="filter-selector" >
+                      <option value="" selected id="choose-size"></option>
+                      <option value="21" data-en="Large" data-fi="Suuri">Large</option>
+                      <option value="13" data-en="Small" data-fi="Pieni, horisontaalinen logo">Small</option>
+                    </select>
+
+                  </div>
+
+
+              </div>
+              <section class="search-results">
+                <strong class="english-paragraph">Logo options for downloading</strong>
+                <strong class="finnish-paragraph">Ladattavat logovaihtoehdot</strong>
+                <div id="results-wrap" class="results">
+                    <div class="dummy-result"><p class="english-paragraph">Logo will be displayed here</p><p class="finnish-paragraph">Logo tulee näkyviin tähän    </p></div>
+                  </div>
+              </section>
+           </div>
+           <footer>
+    <div class="container">
+        <img src="assets/images/aalto_logo_footer_v2.png" alt="Aalto Yliopisto" class="english-paragraph">
+        <img src="assets/images/aalto_logo_footer_fi_v2.png" alt="Aalto Yliopisto" class="finnish-paragraph">
+        <a href="mailto:communications@aalto.fi" style="color: #fff">communications@aalto.fi</a>
+    </div>
+</footer>
+        </div>
+
+    <script>    var defLang = 'en';
+    </script>
+        <script type="text/javascript" src="js/app-main.js?v=2.1"></script>
+
+    </body>
+</html>

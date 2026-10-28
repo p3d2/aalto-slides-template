@@ -1,0 +1,488 @@
+{
+ "id": "ZCVsNRAAACEAxOT0",
+ "uid": "_ds_tokens_typography",
+ "url": null,
+ "type": "design_system_content",
+ "href": "https://aalto-master-design-system.cdn.prismic.io/api/v2/documents/search?ref=ap6ZthEAACsAUnNI&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZCVsNRAAACEAxOT0%22%29+%5D%5D",
+ "tags": [
+  "tokens"
+ ],
+ "first_publication_date": "2023-03-30T11:06:35+0000",
+ "last_publication_date": "2024-06-18T13:40:51+0000",
+ "slugs": [
+  "typography"
+ ],
+ "linked_documents": [],
+ "lang": "en-eu",
+ "alternate_languages": [],
+ "data": {
+  "feedback_form": {
+   "link_type": "Document"
+  },
+  "body1": [
+   {
+    "primary": {
+     "title": [
+      {
+       "type": "heading1",
+       "text": "Typography",
+       "spans": []
+      }
+     ],
+     "ingress": [],
+     "body_text": [
+      {
+       "type": "paragraph",
+       "text": "",
+       "spans": []
+      }
+     ],
+     "cta_label": [],
+     "cta_link": {
+      "link_type": "Any"
+     },
+     "image": {
+      "img_size_xs": {},
+      "img_size_s": {},
+      "img_size_m": {},
+      "img_size_l": {},
+      "img_size_xl": {},
+      "img_size_xxl": {}
+     },
+     "video_file_link": {
+      "link_type": "Any"
+     },
+     "aside": {
+      "link_type": "Document"
+     },
+     "theme": "black"
+    },
+    "items": [
+     {}
+    ],
+    "id": "hero$a844d7a2-b8c3-4cd5-b6c5-72f97bab5ae0",
+    "slice_type": "hero",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "The typography tokens provide a complete set of definitions for all typographic elements, including fonts, font styles, line heights, and more. These tokens should be comprehensive enough for designing and implementing all textual content on any digital Aalto channel.",
+       "spans": []
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": null,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$cdb3b88d-1da8-4897-bbd9-5cff0215686f",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "title": [
+      {
+       "type": "heading2",
+       "text": "Fonts and sizing",
+       "spans": []
+      }
+     ],
+     "ingress_title": [],
+     "body": [
+      {
+       "type": "paragraph",
+       "text": "The following atomic typographical tokens form the foundation for all the styles. Designers typically don't need to reference these tokens directly, but instead can leverage the composite styles provided below.",
+       "spans": []
+      }
+     ],
+     "tier": "base",
+     "group": "fontFamilies",
+     "variable_map": null,
+     "typography_placeholder": [
+      {
+       "type": "paragraph",
+       "text": "Aalto University",
+       "spans": []
+      }
+     ],
+     "item_prefix": [],
+     "extension": [],
+     "subtitle": [],
+     "attribute_labels": [
+      {
+       "type": "paragraph",
+       "text": "Family,Weight",
+       "spans": []
+      }
+     ],
+     "tinted": false,
+     "hidden": false
+    },
+    "items": [],
+    "id": "tokens_section$a1f678eb-e28f-42af-b380-4217cb2fb434",
+    "slice_type": "tokens_section",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "title": [],
+     "ingress_title": [],
+     "body": [],
+     "tier": "base",
+     "group": "fontFamily",
+     "variable_map": null,
+     "typography_placeholder": [],
+     "item_prefix": [
+      {
+       "type": "paragraph",
+       "text": "",
+       "spans": []
+      }
+     ],
+     "extension": [],
+     "subtitle": [],
+     "attribute_labels": [],
+     "tinted": false,
+     "hidden": false
+    },
+    "items": [
+     {
+      "token_image": {},
+      "token_image_id": null
+     }
+    ],
+    "id": "tokens_section$af8f98df-e699-4594-8641-bbb4fd1a7d60",
+    "slice_type": "tokens_section",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "title": [],
+     "ingress_title": [],
+     "body": [],
+     "tier": "base",
+     "group": "fontSize",
+     "variable_map": null,
+     "typography_placeholder": [
+      {
+       "type": "paragraph",
+       "text": "Aalto University",
+       "spans": []
+      }
+     ],
+     "item_prefix": [
+      {
+       "type": "paragraph",
+       "text": "Font size",
+       "spans": []
+      }
+     ],
+     "extension": [],
+     "subtitle": [],
+     "attribute_labels": [
+      {
+       "type": "paragraph",
+       "text": "Name,Size",
+       "spans": []
+      }
+     ],
+     "tinted": false,
+     "hidden": false
+    },
+    "items": [],
+    "id": "tokens_section$3f51d6c7-698a-4134-9daf-06b6f97647ae",
+    "slice_type": "tokens_section",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "title": [],
+     "ingress_title": [],
+     "body": [],
+     "tier": "base",
+     "group": "lineHeight",
+     "variable_map": null,
+     "typography_placeholder": [
+      {
+       "type": "paragraph",
+       "text": "Aalto University",
+       "spans": []
+      }
+     ],
+     "item_prefix": [
+      {
+       "type": "paragraph",
+       "text": "Line height",
+       "spans": []
+      }
+     ],
+     "extension": [],
+     "subtitle": [],
+     "attribute_labels": [
+      {
+       "type": "paragraph",
+       "text": "Name,Size",
+       "spans": []
+      }
+     ],
+     "tinted": false,
+     "hidden": false
+    },
+    "items": [
+     {
+      "token_image": {},
+      "token_image_id": null
+     }
+    ],
+    "id": "tokens_section$0fc425cd-5ea5-408a-9451-66305d6a2566",
+    "slice_type": "tokens_section",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "title": [],
+     "ingress_title": [],
+     "body": [],
+     "tier": "base",
+     "group": "letterSpacing",
+     "variable_map": null,
+     "typography_placeholder": [
+      {
+       "type": "paragraph",
+       "text": "Aalto University",
+       "spans": []
+      }
+     ],
+     "item_prefix": [
+      {
+       "type": "paragraph",
+       "text": "Letter spacing",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "extension": [],
+     "subtitle": [],
+     "attribute_labels": [
+      {
+       "type": "paragraph",
+       "text": "Name,Size",
+       "spans": []
+      }
+     ],
+     "tinted": false,
+     "hidden": false
+    },
+    "items": [
+     {
+      "token_image": {},
+      "token_image_id": null
+     }
+    ],
+    "id": "tokens_section$b21c7065-9606-439c-8649-886be655f353",
+    "slice_type": "tokens_section",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "title": [],
+     "ingress_title": [],
+     "body": [],
+     "tier": "base",
+     "group": "paragraphSpacing",
+     "variable_map": null,
+     "typography_placeholder": [
+      {
+       "type": "paragraph",
+       "text": "Aalto University",
+       "spans": []
+      }
+     ],
+     "item_prefix": [
+      {
+       "type": "paragraph",
+       "text": "Paragraph spacing",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "extension": [],
+     "subtitle": [],
+     "attribute_labels": [
+      {
+       "type": "paragraph",
+       "text": "Name,Size",
+       "spans": []
+      }
+     ],
+     "tinted": false,
+     "hidden": false
+    },
+    "items": [
+     {
+      "token_image": {},
+      "token_image_id": null
+     }
+    ],
+    "id": "tokens_section$3f4cbd4a-2573-491b-afd6-6dd749796934",
+    "slice_type": "tokens_section",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "title": [
+      {
+       "type": "heading2",
+       "text": "Body styles",
+       "spans": []
+      }
+     ],
+     "ingress_title": [],
+     "body": [
+      {
+       "type": "paragraph",
+       "text": "The body styles encompass a collection of smaller fonts to be used for body text, labels, buttons, and similar elements. These styles remain consistent across all viewport sizes.",
+       "spans": []
+      }
+     ],
+     "tier": "alias",
+     "group": "typography.body",
+     "variable_map": null,
+     "typography_placeholder": [
+      {
+       "type": "paragraph",
+       "text": "Aalto University",
+       "spans": []
+      }
+     ],
+     "item_prefix": [],
+     "extension": [],
+     "subtitle": [],
+     "attribute_labels": [],
+     "tinted": false,
+     "hidden": false
+    },
+    "items": [],
+    "id": "tokens_section$dc5647f5-8316-4914-96fe-df59c7f73b2f",
+    "slice_type": "tokens_section",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "title": [
+      {
+       "type": "heading2",
+       "text": "Title styles",
+       "spans": []
+      }
+     ],
+     "ingress_title": [],
+     "body": [
+      {
+       "type": "paragraph",
+       "text": "Title styles are used to display headings in various sizes. For optimal legibility, these styles adapt to different screen sizes.",
+       "spans": []
+      }
+     ],
+     "tier": "alias",
+     "group": "typography.title",
+     "variable_map": null,
+     "typography_placeholder": [
+      {
+       "type": "paragraph",
+       "text": "Aalto University",
+       "spans": []
+      }
+     ],
+     "item_prefix": [],
+     "extension": [],
+     "subtitle": [
+      {
+       "type": "paragraph",
+       "text": "Mobile",
+       "spans": []
+      }
+     ],
+     "attribute_labels": [],
+     "tinted": false,
+     "hidden": false
+    },
+    "items": [],
+    "id": "tokens_section$1495df7a-f42f-4da9-aa5f-8fac64e2f2c3",
+    "slice_type": "tokens_section",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "title": [],
+     "ingress_title": [],
+     "body": [],
+     "tier": "alias",
+     "group": "typography.title",
+     "variable_map": null,
+     "typography_placeholder": [
+      {
+       "type": "paragraph",
+       "text": "Aalto University",
+       "spans": []
+      }
+     ],
+     "item_prefix": [],
+     "extension": [
+      {
+       "type": "paragraph",
+       "text": "media:desktop",
+       "spans": []
+      }
+     ],
+     "subtitle": [
+      {
+       "type": "paragraph",
+       "text": "Desktop",
+       "spans": []
+      }
+     ],
+     "attribute_labels": [],
+     "tinted": false,
+     "hidden": false
+    },
+    "items": [
+     {
+      "token_image": {},
+      "token_image_id": null
+     }
+    ],
+    "id": "tokens_section$e5528242-fc3f-4390-858d-3987d81f6b87",
+    "slice_type": "tokens_section",
+    "slice_label": null
+   }
+  ]
+ }
+}

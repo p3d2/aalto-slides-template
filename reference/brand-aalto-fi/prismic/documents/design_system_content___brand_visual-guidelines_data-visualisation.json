@@ -1,0 +1,905 @@
+{
+ "id": "Z__WERAAAP0Uzpeq",
+ "uid": "_brand_visual-guidelines_data-visualisation",
+ "url": null,
+ "type": "design_system_content",
+ "href": "https://aalto-master-design-system.cdn.prismic.io/api/v2/documents/search?ref=ap6ZthEAACsAUnNI&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22Z__WERAAAP0Uzpeq%22%29+%5D%5D",
+ "tags": [
+  "identity"
+ ],
+ "first_publication_date": "2025-04-16T16:13:45+0000",
+ "last_publication_date": "2025-06-10T07:40:16+0000",
+ "slugs": [
+  "data-visualisation"
+ ],
+ "linked_documents": [],
+ "lang": "en-eu",
+ "alternate_languages": [
+  {
+   "id": "aRw6WRcAACYAhzTx",
+   "type": "design_system_content",
+   "lang": "fi",
+   "uid": "_brand_visual-guidelines_data-visualisation"
+  }
+ ],
+ "data": {
+  "feedback_form": {
+   "link_type": "Document"
+  },
+  "body1": [
+   {
+    "primary": {
+     "title": [
+      {
+       "type": "heading1",
+       "text": "Data visualisation",
+       "spans": [],
+       "direction": "ltr"
+      }
+     ],
+     "ingress": [
+      {
+       "type": "paragraph",
+       "text": "",
+       "spans": []
+      }
+     ],
+     "body_text": [
+      {
+       "type": "paragraph",
+       "text": "",
+       "spans": []
+      }
+     ],
+     "cta_label": [],
+     "cta_link": {
+      "link_type": "Any"
+     },
+     "image": {
+      "img_size_xs": {},
+      "img_size_s": {},
+      "img_size_m": {},
+      "img_size_l": {},
+      "img_size_xl": {},
+      "img_size_xxl": {}
+     },
+     "video_file_link": {
+      "link_type": "Any"
+     },
+     "aside": {
+      "link_type": "Document"
+     },
+     "theme": "black"
+    },
+    "items": [
+     {}
+    ],
+    "id": "hero$df5fe767-1ee2-4700-a098-640ea91d9a85",
+    "slice_type": "hero",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Data visualisation",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "Another meaningful area is data visualisation (information graphics), where a higher level of sophistication can be reached when cooperating with a visual designer. Data visualisation ranges from the design of traditional statistical graphs to interactive and creative solutions for browsing highly complex data sets.",
+       "spans": []
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$a277e28b-ff17-4bda-8fa5-428eebaa7e06",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "ContentBoxCollection",
+     "tiles_per_row": "2",
+     "default_cta_label": [],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": false,
+     "hidden": false,
+     "skim": "top"
+    },
+    "items": [
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Use colour and typography to show data, not to decorate.",
+        "spans": []
+       }
+      ],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Strive for clarity and contrast.",
+        "spans": []
+       }
+      ],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$40659749-9584-411d-b07e-28d18e4662e2",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "While both of these broad areas of visual representation are very much informed by the visual identity of the university it is not feasible to limit their exact form. However, it is recommended that only colours and typefaces belonging to the visual identity of Aalto University are used and that the work is marked or deputized by an appropriate logo to give context.",
+       "spans": []
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$4f069c2c-471c-4bc4-9842-3c446e13f67a",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "LiftupCollection",
+     "tiles_per_row": "1",
+     "default_cta_label": [],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": false,
+     "hidden": false,
+     "skim": "none"
+    },
+    "items": [
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": "4 by 3 grid of images and coloured background showing numbers and rankings of Aalto university: 6 schools, approx. 100 startups, €K faculty and staff, 12K students, Art & design ranked 6th globally, 300 Professors tenure track recruitments since 2010, 100+ nationalities, Business administration ranked 24th globally (ShanghaiRankings 2022), Ranked 9th best young university globally (QS2021)",
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/aEAhwLh8WN-LVk9G_rankingsexamples-addtotypeanddata.png?auto=format,compress&rect=0,0,3841,2161&w=640&h=360",
+       "id": "aEAhwLh8WN-LVk9G",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": "4 by 3 grid of images and coloured background showing numbers and rankings of Aalto university: 6 schools, approx. 100 startups, €K faculty and staff, 12K students, Art & design ranked 6th globally, 300 Professors tenure track recruitments since 2010, 100+ nationalities, Business administration ranked 24th globally (ShanghaiRankings 2022), Ranked 9th best young university globally (QS2021)",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aEAhwLh8WN-LVk9G_rankingsexamples-addtotypeanddata.png?auto=format,compress&rect=0,0,3841,2161&w=750&h=422",
+        "id": "aEAhwLh8WN-LVk9G",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": "4 by 3 grid of images and coloured background showing numbers and rankings of Aalto university: 6 schools, approx. 100 startups, €K faculty and staff, 12K students, Art & design ranked 6th globally, 300 Professors tenure track recruitments since 2010, 100+ nationalities, Business administration ranked 24th globally (ShanghaiRankings 2022), Ranked 9th best young university globally (QS2021)",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aEAhwLh8WN-LVk9G_rankingsexamples-addtotypeanddata.png?auto=format,compress&rect=1,0,3840,2161&w=828&h=466",
+        "id": "aEAhwLh8WN-LVk9G",
+        "edit": {
+         "x": 1,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": "4 by 3 grid of images and coloured background showing numbers and rankings of Aalto university: 6 schools, approx. 100 startups, €K faculty and staff, 12K students, Art & design ranked 6th globally, 300 Professors tenure track recruitments since 2010, 100+ nationalities, Business administration ranked 24th globally (ShanghaiRankings 2022), Ranked 9th best young university globally (QS2021)",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aEAhwLh8WN-LVk9G_rankingsexamples-addtotypeanddata.png?auto=format,compress&rect=1,0,3839,2161&w=1080&h=608",
+        "id": "aEAhwLh8WN-LVk9G",
+        "edit": {
+         "x": 1,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": "4 by 3 grid of images and coloured background showing numbers and rankings of Aalto university: 6 schools, approx. 100 startups, €K faculty and staff, 12K students, Art & design ranked 6th globally, 300 Professors tenure track recruitments since 2010, 100+ nationalities, Business administration ranked 24th globally (ShanghaiRankings 2022), Ranked 9th best young university globally (QS2021)",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aEAhwLh8WN-LVk9G_rankingsexamples-addtotypeanddata.png?auto=format,compress&rect=0,0,3841,2161&w=1200&h=675",
+        "id": "aEAhwLh8WN-LVk9G",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": "4 by 3 grid of images and coloured background showing numbers and rankings of Aalto university: 6 schools, approx. 100 startups, €K faculty and staff, 12K students, Art & design ranked 6th globally, 300 Professors tenure track recruitments since 2010, 100+ nationalities, Business administration ranked 24th globally (ShanghaiRankings 2022), Ranked 9th best young university globally (QS2021)",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aEAhwLh8WN-LVk9G_rankingsexamples-addtotypeanddata.png?auto=format,compress&rect=0,0,3841,2161&w=1600&h=900",
+        "id": "aEAhwLh8WN-LVk9G",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": "4 by 3 grid of images and coloured background showing numbers and rankings of Aalto university: 6 schools, approx. 100 startups, €K faculty and staff, 12K students, Art & design ranked 6th globally, 300 Professors tenure track recruitments since 2010, 100+ nationalities, Business administration ranked 24th globally (ShanghaiRankings 2022), Ranked 9th best young university globally (QS2021)",
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/aEAhwLh8WN-LVk9G_rankingsexamples-addtotypeanddata.png?auto=format,compress&rect=0,0,3841,2161&w=1920&h=1080",
+        "id": "aEAhwLh8WN-LVk9G",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "",
+        "spans": []
+       }
+      ],
+      "body_text": [],
+      "caption": [
+       {
+        "type": "paragraph",
+        "text": "Example on use of numbers, text, images and fonts.",
+        "spans": []
+       }
+      ],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$140c3a35-983c-40c2-96ca-f69674869a73",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Illustrations",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "A picture conveys more than a thousand words. Illustrations bring warmth and fresh narrative aspects to your message. The style and feel of illustrations should always defer to subject matter. However, generally it is best to strive for a manufactured feeling as opposed to a crafted, hand-drawn look.",
+       "spans": []
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$5a93ce74-49ab-45d8-906d-2aff7ae854e2",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "ContentBoxCollection",
+     "tiles_per_row": "3",
+     "default_cta_label": [],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": false,
+     "hidden": false,
+     "skim": "top"
+    },
+    "items": [
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Illustration style should support the context.",
+        "spans": []
+       }
+      ],
+      "body_text": [
+       {
+        "type": "paragraph",
+        "text": "",
+        "spans": []
+       }
+      ],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "The outcome should be elegant and stylish.",
+        "spans": []
+       }
+      ],
+      "body_text": [
+       {
+        "type": "paragraph",
+        "text": "",
+        "spans": []
+       }
+      ],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Avoid cartoonish or childish illustrations.",
+        "spans": []
+       }
+      ],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "link_type": "Any"
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$b58a57fd-5414-48ed-9d40-4b74115641d1",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "CTA",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Do you need illustrations or data visualisation?",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [
+      {
+       "type": "paragraph",
+       "text": "Ask for design support",
+       "spans": []
+      }
+     ],
+     "button_link": {
+      "id": "ZAcwrhAAACkAUXQy",
+      "type": "form",
+      "tags": [],
+      "lang": "en-eu",
+      "slug": "ask-for-brand-support",
+      "first_publication_date": "2023-03-07T12:40:23+0000",
+      "last_publication_date": "2025-11-18T21:05:41+0000",
+      "uid": "_support",
+      "link_type": "Document",
+      "key": "e2158dca-3587-4673-a526-e9160e9bf508",
+      "isBroken": false
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "black",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$dbf93107-862b-440f-9674-2869cd9f038b",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Read next",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$e220eb09-f8fb-49cb-b8ed-14384a0b82c3",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "CardCollection",
+     "tiles_per_row": "2",
+     "default_cta_label": [],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": false,
+     "hidden": false,
+     "skim": "none"
+    },
+    "items": [
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Type",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [
+       {
+        "type": "paragraph",
+        "text": "Read type guidelines",
+        "spans": []
+       }
+      ],
+      "cta_link": {
+       "id": "Z__U6xAAAP0UzpXj",
+       "type": "design_system_content",
+       "tags": [
+        "identity"
+       ],
+       "lang": "en-eu",
+       "slug": "type",
+       "first_publication_date": "2025-04-16T16:20:45+0000",
+       "last_publication_date": "2025-11-03T10:29:08+0000",
+       "uid": "_brand_visual-guidelines_type",
+       "link_type": "Document",
+       "key": "47697b1e-107e-4728-acec-eb0e00ec99fd",
+       "isBroken": false
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Images",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [
+       {
+        "type": "paragraph",
+        "text": "Read image guidelines",
+        "spans": [],
+        "direction": "ltr"
+       }
+      ],
+      "cta_link": {
+       "id": "Z__ViRAAAP0UzpbX",
+       "type": "design_system_content",
+       "tags": [
+        "identity"
+       ],
+       "lang": "en-eu",
+       "slug": "images",
+       "first_publication_date": "2025-04-16T16:15:16+0000",
+       "last_publication_date": "2025-06-17T14:54:29+0000",
+       "uid": "_brand_visual-guidelines_images",
+       "link_type": "Document",
+       "key": "fc3517b0-ae60-4aaf-85cd-33d655ff48d0",
+       "isBroken": false
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$3964acb8-db33-4d0f-9cc9-5ea7bade09c9",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   }
+  ]
+ }
+}

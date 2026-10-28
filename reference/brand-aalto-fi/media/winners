@@ -1,0 +1,802 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Winners - European Design Awards">
+    <meta name="keywords" content="">
+
+    <meta property="og:type" content="website" />
+	<meta property="og:title" content="Winners - European Design Awards" />
+	<meta property="og:description" content="Winners - European Design Awards" />
+	<meta property="og:url" content="https://awards.europeandesign.org/winners" />
+	<meta property="og:site_name" content="European Design Awards" />
+
+            <meta property="og:image" content="https://awards.europeandesign.org/img/fb-share-eda.jpg" />
+    
+	<meta property="og:image:width" content="1024" />
+	<meta property="og:image:height" content="599" />
+
+    <title>Winners - European Design Awards</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+    <link href="https://awards.europeandesign.org/css/main.css?v=1.0" rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;700&family=Roboto&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://awards.europeandesign.org/css/toastr.min.css" />
+    <link href="https://cdn.jsdelivr.net/npm/sweetalert2@11.7.23/dist/sweetalert2.min.css" rel="stylesheet">
+    <link href="https://cdn.datatables.net/1.13.7/css/dataTables.bootstrap5.min.css" rel="stylesheet">    
+    <link href="https://cdn.datatables.net/responsive/2.3.0/css/responsive.bootstrap5.min.css" rel="stylesheet">        
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Trumbowyg/2.27.3/ui/trumbowyg.min.css" integrity="sha512-Fm8kRNVGCBZn0sPmwJbVXlqfJmPC13zRsMElZenX6v721g/H7OukJd8XzDEBRQ2FSATK8xNF9UYvzsCtUpfeJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-755901-3"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-755901-3');
+    </script>
+    <!-- Meta Pixel Code -->
+    <script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1331856907836388');
+    fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=1331856907836388&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- End Meta Pixel Code -->
+    </head>
+<body>
+<!-- Top Header Menu -->
+<nav class="navbar navbar-expand-md d-none d-lg-block">
+    <div class="container-fluid">   
+        <div class="col-3 p-3">
+            <a href="https://europeandesign.org"><img src="https://awards.europeandesign.org/img/logo.svg"></a>            
+        </div>
+        <div class="col-6">
+            <ul class="navbar-nav">            
+                <li class="nav-item dropdown ps-3 pe-3">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        ED-Awards
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="https://awards.europeandesign.org">Winners</a>
+                        <a class="dropdown-item" href="https://awards.europeandesign.org/finalists">Finalists</a>
+                        <a class="dropdown-item" href="https://europeandesign.org/categories/">Categories</a>
+                        <a class="dropdown-item" href="https://europeandesign.org/category/jury/branding-jury/">Branding & Packaging Jury</a>
+                        <a class="dropdown-item" href="https://europeandesign.org/category/jury/print-jury/">Print Jury</a>
+                        <a class="dropdown-item" href="https://europeandesign.org/category/jury/digital-jury/">Digital Jury</a>
+                        <a class="dropdown-item" href="https://europeandesign.org/rules/">Rules</a>
+                        <a class="dropdown-item" href="https://europeandesign.org/submission-instructions/">Submission Instructions</a>
+                        <a class="dropdown-item" href="https://europeandesign.org/submission-fees/">Submission Fees</a>                        
+                    </div>
+                </li>
+                <li class="nav-item dropdown ps-3 pe-3">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Rankings
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="https://awards.europeandesign.org/rankings/agency-league">Overall</a>
+                        <a class="dropdown-item" href="https://awards.europeandesign.org/rankings/agency-league?sort_by=official_ranking&discipline=branding&country=all">Branding</a>
+                        <a class="dropdown-item" href="https://awards.europeandesign.org/rankings/agency-league?sort_by=official_ranking&discipline=packaging&country=all">Packaging</a>
+                        <a class="dropdown-item" href="https://awards.europeandesign.org/rankings/agency-league?sort_by=official_ranking&discipline=promotional&country=all">Promotional</a>
+                        <a class="dropdown-item" href="https://awards.europeandesign.org/rankings/agency-league?sort_by=official_ranking&discipline=editorial&country=all">Editorial & publication</a>
+                        <a class="dropdown-item" href="https://awards.europeandesign.org/rankings/agency-league?sort_by=official_ranking&discipline=typographic&country=all">Typographic</a>
+                        <a class="dropdown-item" href="https://awards.europeandesign.org/rankings/agency-league?sort_by=official_ranking&discipline=illustration&country=all">Illustration</a>
+                        <a class="dropdown-item" href="https://awards.europeandesign.org/rankings/agency-league?sort_by=official_ranking&discipline=digital&country=all">Digital</a>
+                        <a class="dropdown-item" href="https://awards.europeandesign.org/rankings/agency-league?sort_by=official_ranking&discipline=spatial&country=all">Spatial</a>
+                    </div>
+                </li>
+                <li class="nav-item dropdown ps-3 pe-3">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        ED-Festival
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="https://europeandesign.org/festivals/sofia-2026/">Sofia 2026</a>
+                        <a class="dropdown-item" href="https://europeandesign.org/festivals/ljubljana-2025/">Ljubljana 2025</a>
+                        <a class="dropdown-item" href="https://europeandesign.org/festivals/naples-2024/">Naples 2024</a>
+                        <a class="dropdown-item" href="https://europeandesign.org/festivals/luxembourg-2023/">Luxembourg 2023</a>
+                        <a class="dropdown-item" href="https://europeandesign.org/festivals/tallin-2022/">Tallinn 2022</a>                        
+                        <a class="dropdown-item" href="https://europeandesign.org/festivals/warsaw-2019/">Warsaw 2019</a>                        
+                        <a class="dropdown-item" href="https://europeandesign.org/festivals/oslo-2018/">Oslo 2018</a>                        
+                        <a class="dropdown-item" href="https://europeandesign.org/festivals/porto-2017/">Porto 2017</a>                        
+                        <a class="dropdown-item" href="https://europeandesign.org/festivals/">All Festivals</a>                        
+                    </div>
+                </li>
+                <li class="nav-item dropdown ps-3 pe-3">
+                    <a class="nav-link" href="https://blog.europeandesign.org" role="button" aria-expanded="false">
+                        Blog
+                    </a>                    
+                </li>
+                <li class="nav-item dropdown ps-3 pe-3">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        About
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="https://europeandesign.org/objectives/">Objectives</a>
+                        <a class="dropdown-item" href="https://europeandesign.org/our-team/">Our Team</a>
+                        <a class="dropdown-item" href="https://europeandesign.org/partners/">Partners</a>
+                        <!-- <a class="dropdown-item" href="https://blog.europeandesign.org">Blog</a> -->
+                        <a class="dropdown-item" href="https://europeandesign.org/contact/">Contact</a>
+                    </div>
+                </li>                
+                 
+                <li class="nav-item dropdown ps-3 pe-3">
+                    <a href="https://awards.europeandesign.org/login"><button class="button-cta">Login</button></a>
+                </li>
+                            </ul>        
+        </div>
+        <div class="col-3 social-icons pe-3">
+            <a href="https://www.facebook.com/europeandesign.org" target="_blank"><i class="fab fa-lg fa-facebook"></i></a>
+            <a href="https://twitter.com/europeandesign" target="_blank"><i class="fab fa-lg fa-twitter"></i></a>
+            <a href="https://www.instagram.com/europeandesignawards" target="_blank"><i class="fab fa-lg fa-instagram"></i></a>
+            <a href="https://www.linkedin.com/company/635129" target="_blank"><i class="fab fa-lg fa-linkedin"></i></a>
+        </div>    
+    </div>
+</nav>
+
+<nav class="navbar navbar-expand-lg d-sm-block d-md-block d-lg-none d-xl-none">
+    <div class="container-fluid">
+        <a href="https://europeandesign.org"><img src="https://awards.europeandesign.org/img/logo.svg"></a>                    
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>        
+        <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav">            
+                <li class="nav-item dropdown ps-3 pe-3 pt-4">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        ED-Awards
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="https://awards.europeandesign.org">Winners</a>
+                        <a class="dropdown-item" href="https://awards.europeandesign.org/finalists">Finalists</a>
+                        <a class="dropdown-item" href="https://europeandesign.org/categories/">Categories</a>
+                        <a class="dropdown-item" href="https://europeandesign.org/category/jury/branding-jury/">Branding & Packaging Jury</a>
+                        <a class="dropdown-item" href="https://europeandesign.org/category/jury/print-jury/">Print Jury</a>
+                        <a class="dropdown-item" href="https://europeandesign.org/category/jury/digital-jury/">Digital Jury</a>
+                        <a class="dropdown-item" href="https://europeandesign.org/rules/">Rules</a>
+                        <a class="dropdown-item" href="https://europeandesign.org/submission-instructions/">Submission Instructions</a>
+                        <a class="dropdown-item" href="https://europeandesign.org/submission-fees/">Submission Fees</a>                        
+                    </div>
+                </li>
+                <li class="nav-item dropdown ps-3 pe-3">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Rankings
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="https://awards.europeandesign.org/rankings/agency-league">Overall</a>
+                        <a class="dropdown-item" href="https://awards.europeandesign.org/rankings/agency-league?sort_by=official_ranking&discipline=branding&country=all">Branding</a>
+                        <a class="dropdown-item" href="https://awards.europeandesign.org/rankings/agency-league?sort_by=official_ranking&discipline=packaging&country=all">Packaging</a>
+                        <a class="dropdown-item" href="https://awards.europeandesign.org/rankings/agency-league?sort_by=official_ranking&discipline=promotional&country=all">Promotional</a>
+                        <a class="dropdown-item" href="https://awards.europeandesign.org/rankings/agency-league?sort_by=official_ranking&discipline=editorial&country=all">Editorial & publication</a>
+                        <a class="dropdown-item" href="https://awards.europeandesign.org/rankings/agency-league?sort_by=official_ranking&discipline=typographic&country=all">Typographic</a>
+                        <a class="dropdown-item" href="https://awards.europeandesign.org/rankings/agency-league?sort_by=official_ranking&discipline=illustration&country=all">Illustration</a>
+                        <a class="dropdown-item" href="https://awards.europeandesign.org/rankings/agency-league?sort_by=official_ranking&discipline=digital&country=all">Digital</a>
+                        <a class="dropdown-item" href="https://awards.europeandesign.org/rankings/agency-league?sort_by=official_ranking&discipline=spatial&country=all">Spatial</a>
+                    </div>
+                </li>
+                <li class="nav-item dropdown ps-3 pe-3">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        ED-Festival
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="https://europeandesign.org/festivals/sofia-2026/">Sofia 2026</a>
+                        <a class="dropdown-item" href="https://europeandesign.org/festivals/ljubljana-2025/">Ljubljana 2025</a>
+                        <a class="dropdown-item" href="https://europeandesign.org/festivals/naples-2024/">Naples 2024</a>
+                        <a class="dropdown-item" href="https://europeandesign.org/festivals/luxembourg-2023/">Luxembourg 2023</a>
+                        <a class="dropdown-item" href="https://europeandesign.org/festivals/tallin-2022/">Tallinn 2022</a>                        
+                        <a class="dropdown-item" href="https://europeandesign.org/festivals/warsaw-2019/">Warsaw 2019</a>                        
+                        <a class="dropdown-item" href="https://europeandesign.org/festivals/oslo-2018/">Oslo 2018</a>                        
+                        <a class="dropdown-item" href="https://europeandesign.org/festivals/porto-2017/">Porto 2017</a>                        
+                        <a class="dropdown-item" href="https://europeandesign.org/festivals/">All Festivals</a>                        
+                    </div>
+                </li>
+                <li class="nav-item dropdown ps-3 pe-3">
+                    <a class="nav-link" href="https://blog.europeandesign.org" role="button" aria-expanded="false">
+                        Blog
+                    </a>                    
+                </li>
+                <li class="nav-item dropdown ps-3 pe-3">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        About
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="https://europeandesign.org/objectives/">Objectives</a>
+                        <a class="dropdown-item" href="https://europeandesign.org/our-team/">Our Team</a>
+                        <a class="dropdown-item" href="https://europeandesign.org/partners/">Partners</a>
+                        <!-- <a class="dropdown-item" href="https://europeandesign.org/news/">News</a> -->
+                        <a class="dropdown-item" href="https://europeandesign.org/contact/">Contact</a>
+                    </div>
+                </li>
+                
+                 
+                <li class="nav-item dropdown ps-3 pe-3 text-center">
+                    <a href="https://awards.europeandesign.org/login"><button class="button-cta">Login</button></a>
+                </li>
+                                <li>
+                    <div class="text-center pt-4 social-icons-mobile">
+                        <a href="https://www.facebook.com/europeandesign.org" target="_blank"><i class="fab fa-lg fa-facebook"></i></a>
+                        <a href="https://twitter.com/europeandesign" target="_blank"><i class="fab fa-lg fa-twitter"></i></a>
+                        <a href="https://www.instagram.com/europeandesignawards" target="_blank"><i class="fab fa-lg fa-instagram"></i></a>
+                        <a href="https://www.linkedin.com/company/635129" target="_blank"><i class="fab fa-lg fa-linkedin"></i></a>
+                    </div>    
+                </li>
+            </ul>
+        </div>
+        
+    </div>
+    
+</nav>
+
+
+<div class="container-fluid main-content page-lists">
+    <div class="row p-3">
+        <div class="col-12 navi-location">
+            <a href="https://europeandesign.org">HOME</a> - <span class="current">WINNERS</span>
+        </div>
+        <div class="col-12 page-title pt-4">
+            <h1>All Winners</h1>
+        </div>
+    </div>
+    <form method="POST" id="form-search">
+        <div class="row mx-auto">        
+                <div class="col-md-2">
+                    <select class="list-input form-control" id="year" name="year">
+                        <option value="0">Years</option>
+                                                
+                        <option value="6983">2026</option>                        
+                                                
+                        <option value="6982">2025</option>                        
+                                                
+                        <option value="6981">2024</option>                        
+                                                
+                        <option value="6980">2023</option>                        
+                                                
+                        <option value="6979">2022</option>                        
+                                                
+                        <option value="6978">2021</option>                        
+                                                
+                        <option value="6564">2020</option>                        
+                                                
+                        <option value="6078">2019</option>                        
+                                                
+                        <option value="5686">2018</option>                        
+                                                
+                        <option value="5295">2017</option>                        
+                                                
+                        <option value="4877">2016</option>                        
+                                                
+                        <option value="4317">2015</option>                        
+                                                
+                        <option value="3817">2014</option>                        
+                                                
+                        <option value="3165">2013</option>                        
+                                                
+                        <option value="1284">2012</option>                        
+                                                
+                        <option value="1283">2011</option>                        
+                                                
+                        <option value="1282">2010</option>                        
+                                                
+                        <option value="1281">2009</option>                        
+                                                
+                        <option value="1280">2008</option>                        
+                                                
+                        <option value="1279">2007</option>                        
+                                            </select>
+                </div>
+                <div class="col-md-2">
+                    <select class="list-input form-control" id="category" name="category">
+                        <option value="0">Categories</option>
+                                                <option value="99">101 Company Logo</option>
+                                                <option value="98">102 Brand Logo</option>
+                                                <option value="6221">103 Motion Logo</option>
+                                                <option value="100">104 Brand Identity – Physical Applications</option>
+                                                <option value="4885">105 Brand Identity – Digital Applications</option>
+                                                <option value="4886">106 Brand Identity – Complete Systems</option>
+                                                <option value="6230">107 Rebranding Projects</option>
+                                                <option value="6231">108 Verbal & Naming Identity</option>
+                                                <option value="114">201 Food & Beverage Packaging</option>
+                                                <option value="113">202 Alcoholic Drink Packaging</option>
+                                                <option value="6224">203 Wine Packaging</option>
+                                                <option value="4889">204 Health, Beauty & Wellness Packaging</option>
+                                                <option value="116">205 Packaging: Consumer & Other Products</option>
+                                                <option value="115">206 Packaging: Luxury, Limited Edition & Special Series</option>
+                                                <option value="6229">207 Packaging Miscellaneous</option>
+                                                <option value="125">301 Poster: Single</option>
+                                                <option value="126">302 Poster: Series</option>
+                                                <option value="105">303 Brochure</option>
+                                                <option value="106">304 Product Catalogue</option>
+                                                <option value="123">305 Cards, Flyers & Invitations</option>
+                                                <option value="6228">306 Promotional Sets & Kits</option>
+                                                <option value="104">401 Book Layout</option>
+                                                <option value="107">402 Artistic Catalogue Layout</option>
+                                                <option value="103">403 Book Cover - Single</option>
+                                                <option value="5681">404 Book Cover - Series</option>
+                                                <option value="108">405 Magazine & Periodical Design</option>
+                                                <option value="102">406 Annual Reports & Corporate Publishing</option>
+                                                <option value="124">407 Calendar, Diary & Journal Design</option>
+                                                <option value="6227">408 Music & Film Cover (Print & Digital)</option>
+                                                <option value="122">501 Original Typeface – Text</option>
+                                                <option value="6194">502 Original Typeface - Display</option>
+                                                <option value="6223">503 Applied Typography</option>
+                                                <option value="117">601 Editorial & Book Illustration</option>
+                                                <option value="118">602 Commercial & Advertising Illustration</option>
+                                                <option value="3819">603 Infographics & Data Illustration</option>
+                                                <option value="4891">604 Self-Initiated or Artistic Illustration</option>
+                                                <option value="109">701 Brand & Campaign Websites</option>
+                                                <option value="110">702 Information Websites</option>
+                                                <option value="4890">703 E‑Commerce Platforms</option>
+                                                <option value="2155">704 Digital Product & App Design</option>
+                                                <option value="111">705 Motion Graphics</option>
+                                                <option value="6225">706 Animated Storytelling</option>
+                                                <option value="4892">707 Digital Installations & Interactive Environments</option>
+                                                <option value="112">708 UX/UI Design</option>
+                                                <option value="6226">709 Emerging Tech & AI‑Driven Experiences</option>
+                                                <option value="119">801 Self-Promotion – Print</option>
+                                                <option value="120">802 Self-Promotion – Digital</option>
+                                                <option value="121">803 Self-Initiated Projects</option>
+                                                <option value="5763">804 Unrealised / Concept Work</option>
+                                                <option value="127">901 Signage & Wayfinding</option>
+                                                <option value="2156">902 Exhibition & Spatial Design</option>
+                                                <option value="128">903 Student Projects</option>
+                                                <option value="129">904 Miscellaneous Printed Works</option>
+                                            </select>
+                </div>
+                <div class="col-md-2">
+                    <select class="list-input form-control" id="award" name="award">
+                        <option value="0">Awards</option>
+                                                <option value="1276">Gold</option>
+                                                <option value="1277">Silver</option>
+                                                <option value="1278">Bronze</option>
+                                                <option value="1890">Agency of the Year</option>
+                                                <option value="1891">Best of Show</option>
+                                                <option value="1892">Jury Prize</option>
+                                            </select>
+                </div>
+                <div class="col-md-2">
+                    <select class="list-input form-control" id="country" name="country">
+                        <option value="0">Countries</option>
+                                                <option value="2397">Albania</option>
+                                                <option value="2092">Andorra</option>
+                                                <option value="4915">Armenia</option>
+                                                <option value="2356">Austria</option>
+                                                <option value="3168">Azerbaijan</option>
+                                                <option value="1936">Belarus</option>
+                                                <option value="2377">Belgium</option>
+                                                <option value="3995">Bosnia & Herzegovina</option>
+                                                <option value="1873">Bulgaria</option>
+                                                <option value="1306">Croatia</option>
+                                                <option value="2145">Cyprus</option>
+                                                <option value="2369">Czechia</option>
+                                                <option value="1329">Denmark</option>
+                                                <option value="1631">Estonia</option>
+                                                <option value="1677">Finland</option>
+                                                <option value="5126">France</option>
+                                                <option value="6536">Georgia</option>
+                                                <option value="2349">Germany</option>
+                                                <option value="2342">Greece</option>
+                                                <option value="1446">Hungary</option>
+                                                <option value="1708">Iceland</option>
+                                                <option value="1408">Ireland</option>
+                                                <option value="2352">Italy</option>
+                                                <option value="3403">Kosovo</option>
+                                                <option value="5356">Latvia</option>
+                                                <option value="6105">Liechtenstein</option>
+                                                <option value="1726">Lithuania</option>
+                                                <option value="5125">Luxembourg</option>
+                                                <option value="1965">Malta</option>
+                                                <option value="3523">Moldova</option>
+                                                <option value="6537">Montenegro</option>
+                                                <option value="2345">Netherlands</option>
+                                                <option value="3639">North Macedonia</option>
+                                                <option value="1395">Norway</option>
+                                                <option value="3188">Other</option>
+                                                <option value="1371">Poland</option>
+                                                <option value="2376">Portugal</option>
+                                                <option value="1713">Romania</option>
+                                                <option value="6535">San Marino</option>
+                                                <option value="3210">Serbia</option>
+                                                <option value="1591">Slovakia</option>
+                                                <option value="1559">Slovenia</option>
+                                                <option value="1320">Spain</option>
+                                                <option value="2364">Sweden</option>
+                                                <option value="2375">Switzerland</option>
+                                                <option value="1949">Türkiye</option>
+                                                <option value="2373">Ukraine</option>
+                                                <option value="1349">United Kingdom</option>
+                                            </select>
+                </div>
+                <div class="col-md-4">
+                    <input type="text" class="list-input form-control" id="agency" name="agency" placeholder="Enter Agency Name">
+                </div>            
+        </div>
+    </form>
+    <div class="row p-3 winners-results">
+        
+    </div>
+    <div class="row text-center">
+        <div class="col-md-4 mx-auto">
+            <button type="button" id="btn-loadMore" class="btn btn-primary btn-orange mb-4">Load More</button>
+        </div>
+    </div>
+</div>
+
+<div id="list-item-copy" style="display: none;">    
+    <div class="col-sm-6 col-md-6 col-xl-3 list-item pb-5">
+        <a href="/winner/|ID|">
+        <div class="award-title pb-2">
+            |AWARD_TITLE|
+        </div>
+        <div class="photo-container" style="background-image: url('|SUBMISSION_PHOTO|');">            
+        </div>
+        <div class="info pt-3">
+            <div class="row">
+                <div class="col-10">
+                    <span class="submission-name">|SUBMISSION_NAME|</span> 
+                    <span class="agency-name">|AGENCY_NAME|</span> 
+                </div>
+                <div class="col-2">
+                    <p class="text-end year">|YEAR|</p>
+                </div>
+                <div class="col-12 category-country pt-3">
+                    |CATEGORY| / |COUNTRY|
+                </div>
+            </div>
+        </div>
+        </a>
+    </div>   
+
+</div>
+
+
+
+<div id="agency-list-item-copy" style="display: none;">    
+    <div class="col-sm-6 col-md-6 col-xl-3 list-item pb-5">
+        <a href="/agency-of-the-year/|ID|">
+        <div class="award-title pb-2">
+            Agency of the Year
+        </div>
+        <div class="photo-container" style="background-image: url('|AGENCY_PHOTO|');">            
+        </div>
+        <div class="info pt-3">
+            <div class="row">
+                <div class="col-10">
+                    <span class="agency-name">|AGENCY_NAME|</span> 
+                </div>
+                <div class="col-2">
+                    <p class="text-end year">|YEAR|</p>
+                </div>                
+            </div>
+        </div>
+        </a>
+    </div>  
+</div>
+
+
+
+<footer class="container-fluid pb-3 pt-5">
+    <div class="row mx-auto">
+        <div class="col-lg-6 ps-2 footer-pnl-info">
+            <span class="footer-get-in-touch pb-3">Get in touch</span>
+            <span class="footer-company-name">Design Federation OÜ</span>
+            <span class="footer-copy pt-3 pb-3">EUROPEAN DESIGN AWARDS © 2026. ALL RIGHTS RESERVED.</span>
+            <span class="footer-legal-links">
+                <a href="https://europeandesign.org/legal-notice/">LEGAL NOTICE</a> — <a href="https://www.europeandesign.org/privacy-policy/">PRIVACY POLICY</a>
+            </span>
+        </div>
+        <div class="col-lg-6 footer-pnl-contact">
+            <span class="footer-info-line"><a href="mailto:info@europeandesign.org">info@europeandesign.org</a></span>
+            <span class="footer-info-line"><a href="tel:+37254509900">+37 254 509 900</a></span>
+        </div>
+    </div>
+</footer>
+<div id="loading-overlay">
+    <div id="loading-spinner"></div>
+</div>
+<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.9.2/umd/popper.min.js" integrity="sha512-2rNj2KJ+D8s1ceNasTIex6z4HWyOnEYLVC3FigGOmyQCZc2eBXKgOxQmo3oKLHyfcj53uz4QMsRCWNbLd32Q1g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js" integrity="sha384-cuYeSxntonz0PPNlHhBs68uyIAVpIIOZZ5JqeqvYYIcEL727kskC66kF92t6Xl2V" crossorigin="anonymous"></script>
+<script src="https://awards.europeandesign.org/js/toastr.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.7.23/dist/sweetalert2.all.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.7/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.7/js/dataTables.bootstrap5.min.js"></script>
+<script src="https://cdn.datatables.net/responsive/2.3.0/js/dataTables.responsive.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Trumbowyg/2.27.3/trumbowyg.min.js" integrity="sha512-YJgZG+6o3xSc0k5wv774GS+W1gx0vuSI/kr0E0UylL/Qg/noNspPtYwHPN9q6n59CTR/uhgXfjDXLTRI+uIryg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script>
+toastr.options = {
+  positionClass: 'toast-bottom-center',  
+};
+
+$(document).ready(function() {
+    $('.dropdown-toggle').click(function(e) {
+        e.preventDefault();
+    });
+
+    // Show the loading overlay and spinner when an AJAX request starts
+    $(document).ajaxStart(function() {
+        $('#loading-overlay').show();
+    });
+
+    // Hide the loading overlay and spinner when an AJAX request finishes
+    $(document).ajaxStop(function() {
+        $('#loading-overlay').hide();
+    });
+    
+});
+</script>
+<script>
+    var currentPage = 1;
+    var selYear = "";
+    var selCategory = "";
+    var selAward = "";
+    var selCountry = "";
+    var selAgency = "";
+    var subItems = [];
+
+    // Function to get URL parameters
+    function getUrlParams() {
+        const params = new URLSearchParams(window.location.search);
+        return {
+            year: params.get('year') || '0',
+            category: params.get('category') || '0',
+            award: params.get('award') || '0',
+            country: params.get('country') || '0',
+            agency: params.get('agency') || ''
+        };
+    }
+
+    // Function to update URL with current filter values
+    function updateUrl() {
+        const params = new URLSearchParams();
+        
+        const year = $('#year').val();
+        const category = $('#category').val();
+        const award = $('#award').val();
+        const country = $('#country').val();
+        const agency = $('#agency').val();
+
+        if (year && year !== '0') params.set('year', year);
+        if (category && category !== '0') params.set('category', category);
+        if (award && award !== '0') params.set('award', award);
+        if (country && country !== '0') params.set('country', country);
+        if (agency && agency.trim() !== '') params.set('agency', agency.trim());
+
+        const newUrl = params.toString() ? 
+            window.location.pathname + '?' + params.toString() : 
+            window.location.pathname;
+        
+        window.history.pushState({}, '', newUrl);
+    }
+
+    // Function to set form values from URL parameters
+    function setFormValuesFromUrl() {
+        const params = getUrlParams();
+        
+        $('#year').val(params.year);
+        $('#category').val(params.category);
+        $('#award').val(params.award);
+        $('#country').val(params.country);
+        $('#agency').val(params.agency);
+    }
+    
+    $('.list-input').change( function() {
+        currentPage = 1;
+        $(".winners-results").html('');
+        subItems = [];
+        updateUrl();
+        loadResults();
+    });
+
+    $('#btn-loadMore').click( function() {
+        currentPage++;
+        loadResults();                 
+    });
+
+    $( document ).ready(function() {
+        // Set form values from URL parameters on page load
+        setFormValuesFromUrl();
+        
+        loadResults();
+
+        function checkScrollPosition() {
+            var scrollPosition = $(window).scrollTop();
+            var documentHeight = $(document).height();
+            var windowHeight = $(window).height();
+            var bottomDistance = documentHeight - windowHeight - scrollPosition;
+            var threshold = 0;
+
+            if (bottomDistance <= threshold) {
+                currentPage++;
+                loadResults();                 
+            }
+        }
+        
+        $(window).on('scroll touchmove', function() {
+            checkScrollPosition();
+        });
+
+        // Handle browser back/forward buttons
+        $(window).on('popstate', function() {
+            setFormValuesFromUrl();
+            currentPage = 1;
+            $(".winners-results").html('');
+            subItems = [];
+            loadResults();
+        });
+        
+    });
+    
+    function loadResults() {
+
+        var formData = new FormData($("#form-search")[0]);
+        formData.append('currentPage', currentPage);
+        formData.append('_token', 'dx3U8fkPVEDNLmCKgZYp9CDnnRvHwQcnLNhy9YaK');
+
+        var prev_id = "";
+
+        console.log( $('#award').val() );
+
+
+        if ( $('#award').val() !== "1890") {
+            $.ajax({
+                url: "https://awards.europeandesign.org/srv/loadWinners",
+                type: "POST",
+                data: formData,
+                processData: false,
+                contentType: false,
+                success: function(data) {
+
+                    jsonResult = JSON.parse(data);
+
+                    console.log(jsonResult);
+
+                    
+
+                    for (var i = 0; i < jsonResult.rows.length; i++) {
+
+                        // if (jsonResult.rows[i].agency) {
+                        var itemHTML = $('#list-item-copy').html();                    
+                        var submission_id = jsonResult.rows[i].submission_id;
+                        var title = jsonResult.rows[i].title;
+                        var year = jsonResult.rows[i].submission_year;
+                        var category = jsonResult.rows[i].submission_category;
+                        var award = jsonResult.rows[i].submission_award;
+                        var agency_name = jsonResult.rows[i].agency_name;
+                        var agency_country = jsonResult.rows[i].agency_country;
+                        var submission_photo = (jsonResult.rows[i].photo === null) ? "" : jsonResult.rows[i].photo.submission_photo;
+
+                        itemHTML = itemHTML.replace("|ID|", submission_id);
+                        itemHTML = itemHTML.replace("|SUBMISSION_NAME|", title);
+                        itemHTML = itemHTML.replace("|YEAR|", year);
+                        itemHTML = itemHTML.replace("|CATEGORY|", category);
+                        itemHTML = itemHTML.replace("|AWARD_TITLE|", award);
+                        itemHTML = itemHTML.replace("|AGENCY_NAME|", agency_name);
+                        itemHTML = itemHTML.replace("|COUNTRY|", agency_country);
+                        itemHTML = itemHTML.replace("|SUBMISSION_PHOTO|", submission_photo);
+
+                        
+                        // if (prev_id != submission_id) {
+                        if (subItems.indexOf(submission_id) === -1) {
+                            $(".winners-results").append(itemHTML);
+                        }
+
+                        subItems.push(submission_id);
+
+                        // prev_id = submission_id;
+                        // }
+                        
+                    }
+                    
+                },
+                error: function(jqXHR, textStatus, errorThrown) {
+                    toastr.error("There was an unknown error. Please try again later");
+                }
+            });
+        } else {
+            $.ajax({
+                url: "https://awards.europeandesign.org/srv/loadAgencies",
+                type: "POST",
+                data: formData,
+                processData: false,
+                contentType: false,
+                success: function(data) {
+
+                    // jsonResult = JSON.parse(data);
+                    console.log(data);
+
+                    try {
+                        var jsonResult = JSON.parse(data);
+
+                        for (var i = 0; i < jsonResult.length; i++) {
+
+
+                            var itemHTML = $('#agency-list-item-copy').html();
+                            var agency_id = jsonResult[i].agency_id;
+                            var agency_name = jsonResult[i].title;
+                            var year = jsonResult[i].year;
+
+                            itemHTML = itemHTML.replace("|ID|", agency_id);
+                            itemHTML = itemHTML.replace("|AGENCY_NAME|", agency_name);
+                            itemHTML = itemHTML.replace("|AGENCY_PHOTO|", '/img/aoty/' + year + '.jpg');
+                            var yearMapping = {
+                                6982: 2025,
+                                6981: 2024,
+                                6980: 2023,
+                                6979: 2022,
+                                6978: 2021,
+                                6564: 2020,
+                                6078: 2019,
+                                5686: 2018,
+                                5295: 2017,
+                                4877: 2016,
+                                4317: 2015,
+                                3817: 2014,
+                                3165: 2013,
+                                1284: 2012,
+                                1283: 2011,
+                                1282: 2010,
+                                1281: 2009,
+                                1280: 2008,
+                                1279: 2007
+                            };
+
+                            var mappedYear = yearMapping[year] || year; // Default to original year if not found in mapping
+                            itemHTML = itemHTML.replace("|YEAR|", mappedYear);
+                            
+                            $(".winners-results").append(itemHTML);
+                            
+                            // console.log("ID: " + jsonResult[i].id);
+                            // console.log("Year: " + jsonResult[i].year);
+                            // console.log("Agency ID: " + jsonResult[i].agency_id);
+                            // console.log("Title: " + jsonResult[i].title);
+                            // console.log("Description: " + jsonResult[i].description);
+                            // console.log("URL: " + jsonResult[i].url);
+                            // console.log("Active: " + jsonResult[i].active);
+                        }
+                    } catch (error) {
+                        console.error("Failed to parse JSON response:", error);
+                        console.error("Response data:", data);
+                    }
+
+                    
+                    // console.log(jsonResult);
+                }
+            });
+        }
+        
+    }
+
+    document.getElementById('form-search').addEventListener('keypress', function (e) {
+        if (e.key === 'Enter') {
+            e.preventDefault();
+            $('#agency').trigger('change');
+            loadResults();
+        }
+    });
+
+</script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+

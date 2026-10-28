@@ -1,0 +1,1148 @@
+{
+ "id": "ZCVo5xAAACMAxN6J",
+ "uid": "_ds_tokens",
+ "url": null,
+ "type": "design_system_content",
+ "href": "https://aalto-master-design-system.cdn.prismic.io/api/v2/documents/search?ref=ap6ZthEAACsAUnNI&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZCVo5xAAACMAxN6J%22%29+%5D%5D",
+ "tags": [
+  "tokens"
+ ],
+ "first_publication_date": "2023-03-30T10:50:39+0000",
+ "last_publication_date": "2025-03-07T14:33:40+0000",
+ "slugs": [
+  "design-tokens"
+ ],
+ "linked_documents": [],
+ "lang": "en-eu",
+ "alternate_languages": [
+  {
+   "id": "aRw7MBcAACcAhzcv",
+   "type": "design_system_content",
+   "lang": "fi",
+   "uid": "_ds_tokens"
+  }
+ ],
+ "data": {
+  "feedback_form": {
+   "link_type": "Document"
+  },
+  "body1": [
+   {
+    "primary": {
+     "title": [
+      {
+       "type": "heading1",
+       "text": "Design tokens",
+       "spans": []
+      }
+     ],
+     "ingress": [
+      {
+       "type": "paragraph",
+       "text": "",
+       "spans": []
+      }
+     ],
+     "body_text": [
+      {
+       "type": "paragraph",
+       "text": "Design tokens define visual property values for consistent use across channels and platforms. They underpin the Aalto design system, providing a universal source of truth for design, ensuring cohesion, and promoting effective collaboration between designers and developers. This streamlines the design and development process, reducing errors, simplifying design management, and enhancing the overall product quality.",
+       "spans": []
+      }
+     ],
+     "cta_label": [],
+     "cta_link": {
+      "link_type": "Any"
+     },
+     "image": {
+      "img_size_xs": {},
+      "img_size_s": {},
+      "img_size_m": {},
+      "img_size_l": {},
+      "img_size_xl": {},
+      "img_size_xxl": {}
+     },
+     "video_file_link": {
+      "link_type": "Any"
+     },
+     "aside": {
+      "link_type": "Document"
+     },
+     "theme": "black"
+    },
+    "items": [
+     {}
+    ],
+    "id": "hero$105b4ee3-a675-4e5e-a0a3-e8466cda1331",
+    "slice_type": "hero",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "CardCollection",
+     "tiles_per_row": "3",
+     "default_cta_label": [
+      {
+       "type": "paragraph",
+       "text": "View tokens",
+       "spans": []
+      }
+     ],
+     "default_cta_link_custom_icon": null,
+     "theme": "neutral",
+     "tinted": false,
+     "hidden": false,
+     "skim": "none"
+    },
+    "items": [
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/Z8sDcxsAHJWomO6H_c01Tokens-TokenGroups-Colors.png?auto=format,compress&rect=0,0,2240,1260&w=640&h=360",
+       "id": "Z8sDcxsAHJWomO6H",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDcxsAHJWomO6H_c01Tokens-TokenGroups-Colors.png?auto=format,compress&rect=0,0,2239,1260&w=750&h=422",
+        "id": "Z8sDcxsAHJWomO6H",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDcxsAHJWomO6H_c01Tokens-TokenGroups-Colors.png?auto=format,compress&rect=1,0,2239,1260&w=828&h=466",
+        "id": "Z8sDcxsAHJWomO6H",
+        "edit": {
+         "x": 1,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDcxsAHJWomO6H_c01Tokens-TokenGroups-Colors.png?auto=format,compress&rect=1,0,2238,1260&w=1080&h=608",
+        "id": "Z8sDcxsAHJWomO6H",
+        "edit": {
+         "x": 1,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDcxsAHJWomO6H_c01Tokens-TokenGroups-Colors.png?auto=format,compress&rect=0,0,2240,1260&w=1200&h=675",
+        "id": "Z8sDcxsAHJWomO6H",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDcxsAHJWomO6H_c01Tokens-TokenGroups-Colors.png?auto=format,compress&rect=0,0,2240,1260&w=1600&h=900",
+        "id": "Z8sDcxsAHJWomO6H",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDcxsAHJWomO6H_c01Tokens-TokenGroups-Colors.png?auto=format,compress&rect=0,0,2240,1260&w=1920&h=1080",
+        "id": "Z8sDcxsAHJWomO6H",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Colours",
+        "spans": []
+       }
+      ],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "id": "ZCVpCBAAAB8AxN6-",
+       "type": "design_system_content",
+       "tags": [
+        "tokens"
+       ],
+       "lang": "en-eu",
+       "slug": "colours",
+       "first_publication_date": "2023-03-30T10:48:43+0000",
+       "last_publication_date": "2025-10-30T11:23:32+0000",
+       "uid": "_ds_tokens_colours",
+       "link_type": "Document",
+       "key": "a5d07bc9-0f29-485c-b317-a1520f8b8d51",
+       "isBroken": false
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/Z8sDeBsAHJWomO6M_c01Tokens-TokenGroups-Typography.png?auto=format,compress&rect=0,0,2240,1260&w=640&h=360",
+       "id": "Z8sDeBsAHJWomO6M",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDeBsAHJWomO6M_c01Tokens-TokenGroups-Typography.png?auto=format,compress&rect=0,0,2239,1260&w=750&h=422",
+        "id": "Z8sDeBsAHJWomO6M",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDeBsAHJWomO6M_c01Tokens-TokenGroups-Typography.png?auto=format,compress&rect=1,0,2239,1260&w=828&h=466",
+        "id": "Z8sDeBsAHJWomO6M",
+        "edit": {
+         "x": 1,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDeBsAHJWomO6M_c01Tokens-TokenGroups-Typography.png?auto=format,compress&rect=1,0,2238,1260&w=1080&h=608",
+        "id": "Z8sDeBsAHJWomO6M",
+        "edit": {
+         "x": 1,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDeBsAHJWomO6M_c01Tokens-TokenGroups-Typography.png?auto=format,compress&rect=0,0,2240,1260&w=1200&h=675",
+        "id": "Z8sDeBsAHJWomO6M",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDeBsAHJWomO6M_c01Tokens-TokenGroups-Typography.png?auto=format,compress&rect=0,0,2240,1260&w=1600&h=900",
+        "id": "Z8sDeBsAHJWomO6M",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDeBsAHJWomO6M_c01Tokens-TokenGroups-Typography.png?auto=format,compress&rect=0,0,2240,1260&w=1920&h=1080",
+        "id": "Z8sDeBsAHJWomO6M",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Typography",
+        "spans": []
+       }
+      ],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "id": "ZCVsNRAAACEAxOT0",
+       "type": "design_system_content",
+       "tags": [
+        "tokens"
+       ],
+       "lang": "en-eu",
+       "slug": "typography",
+       "first_publication_date": "2023-03-30T11:06:35+0000",
+       "last_publication_date": "2024-06-18T13:40:51+0000",
+       "uid": "_ds_tokens_typography",
+       "link_type": "Document",
+       "key": "79bd514c-733f-4401-889f-3ea8a7bc8cca",
+       "isBroken": false
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/Z8sDdBsAHJWomO6I_c01Tokens-TokenGroups-Grids%26Spacing.png?auto=format,compress&rect=0,0,2240,1260&w=640&h=360",
+       "id": "Z8sDdBsAHJWomO6I",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDdBsAHJWomO6I_c01Tokens-TokenGroups-Grids%26Spacing.png?auto=format,compress&rect=0,0,2239,1260&w=750&h=422",
+        "id": "Z8sDdBsAHJWomO6I",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDdBsAHJWomO6I_c01Tokens-TokenGroups-Grids%26Spacing.png?auto=format,compress&rect=1,0,2239,1260&w=828&h=466",
+        "id": "Z8sDdBsAHJWomO6I",
+        "edit": {
+         "x": 1,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDdBsAHJWomO6I_c01Tokens-TokenGroups-Grids%26Spacing.png?auto=format,compress&rect=1,0,2238,1260&w=1080&h=608",
+        "id": "Z8sDdBsAHJWomO6I",
+        "edit": {
+         "x": 1,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDdBsAHJWomO6I_c01Tokens-TokenGroups-Grids%26Spacing.png?auto=format,compress&rect=0,0,2240,1260&w=1200&h=675",
+        "id": "Z8sDdBsAHJWomO6I",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDdBsAHJWomO6I_c01Tokens-TokenGroups-Grids%26Spacing.png?auto=format,compress&rect=0,0,2240,1260&w=1600&h=900",
+        "id": "Z8sDdBsAHJWomO6I",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDdBsAHJWomO6I_c01Tokens-TokenGroups-Grids%26Spacing.png?auto=format,compress&rect=0,0,2240,1260&w=1920&h=1080",
+        "id": "Z8sDdBsAHJWomO6I",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Grids & spacing",
+        "spans": []
+       }
+      ],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "id": "ZCVuaBAAACEAxOj6",
+       "type": "design_system_content",
+       "tags": [
+        "tokens"
+       ],
+       "lang": "en-eu",
+       "slug": "grids--spacing",
+       "first_publication_date": "2023-03-30T11:17:25+0000",
+       "last_publication_date": "2025-03-10T15:24:40+0000",
+       "uid": "_ds_tokens_grid",
+       "link_type": "Document",
+       "key": "37675805-f9e2-4b22-8507-fe57c0b55eca",
+       "isBroken": false
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/Z8sDdRsAHJWomO6J_c01Tokens-TokenGroups-Icons.png?auto=format,compress&rect=0,0,2240,1260&w=640&h=360",
+       "id": "Z8sDdRsAHJWomO6J",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDdRsAHJWomO6J_c01Tokens-TokenGroups-Icons.png?auto=format,compress&rect=0,0,2239,1260&w=750&h=422",
+        "id": "Z8sDdRsAHJWomO6J",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDdRsAHJWomO6J_c01Tokens-TokenGroups-Icons.png?auto=format,compress&rect=1,0,2239,1260&w=828&h=466",
+        "id": "Z8sDdRsAHJWomO6J",
+        "edit": {
+         "x": 1,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDdRsAHJWomO6J_c01Tokens-TokenGroups-Icons.png?auto=format,compress&rect=1,0,2238,1260&w=1080&h=608",
+        "id": "Z8sDdRsAHJWomO6J",
+        "edit": {
+         "x": 1,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDdRsAHJWomO6J_c01Tokens-TokenGroups-Icons.png?auto=format,compress&rect=0,0,2240,1260&w=1200&h=675",
+        "id": "Z8sDdRsAHJWomO6J",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDdRsAHJWomO6J_c01Tokens-TokenGroups-Icons.png?auto=format,compress&rect=0,0,2240,1260&w=1600&h=900",
+        "id": "Z8sDdRsAHJWomO6J",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDdRsAHJWomO6J_c01Tokens-TokenGroups-Icons.png?auto=format,compress&rect=0,0,2240,1260&w=1920&h=1080",
+        "id": "Z8sDdRsAHJWomO6J",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Icons",
+        "spans": []
+       }
+      ],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "id": "ZEGJdRQAACcAnGuy",
+       "type": "design_system_content",
+       "tags": [
+        "tokens"
+       ],
+       "lang": "en-eu",
+       "slug": "icons",
+       "first_publication_date": "2023-04-20T18:52:20+0000",
+       "last_publication_date": "2024-06-26T09:50:17+0000",
+       "uid": "_ds_tokens_icons",
+       "link_type": "Document",
+       "key": "6f218c78-9d73-48d0-a8d3-e87341361e66",
+       "isBroken": false
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     },
+     {
+      "image": {
+       "dimensions": {
+        "width": 640,
+        "height": 360
+       },
+       "alt": null,
+       "copyright": null,
+       "url": "https://images.prismic.io/aalto-master-design-system/Z8sDdhsAHJWomO6K_c01Tokens-TokenGroups-Motion.png?auto=format,compress&rect=0,0,2240,1260&w=640&h=360",
+       "id": "Z8sDdhsAHJWomO6K",
+       "edit": {
+        "x": 0,
+        "y": 0,
+        "zoom": 1,
+        "background": "transparent"
+       },
+       "img_size_xs": {
+        "dimensions": {
+         "width": 750,
+         "height": 422
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDdhsAHJWomO6K_c01Tokens-TokenGroups-Motion.png?auto=format,compress&rect=0,0,2239,1260&w=750&h=422",
+        "id": "Z8sDdhsAHJWomO6K",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_s": {
+        "dimensions": {
+         "width": 828,
+         "height": 466
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDdhsAHJWomO6K_c01Tokens-TokenGroups-Motion.png?auto=format,compress&rect=1,0,2239,1260&w=828&h=466",
+        "id": "Z8sDdhsAHJWomO6K",
+        "edit": {
+         "x": 1,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_m": {
+        "dimensions": {
+         "width": 1080,
+         "height": 608
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDdhsAHJWomO6K_c01Tokens-TokenGroups-Motion.png?auto=format,compress&rect=1,0,2238,1260&w=1080&h=608",
+        "id": "Z8sDdhsAHJWomO6K",
+        "edit": {
+         "x": 1,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_l": {
+        "dimensions": {
+         "width": 1200,
+         "height": 675
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDdhsAHJWomO6K_c01Tokens-TokenGroups-Motion.png?auto=format,compress&rect=0,0,2240,1260&w=1200&h=675",
+        "id": "Z8sDdhsAHJWomO6K",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xl": {
+        "dimensions": {
+         "width": 1600,
+         "height": 900
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDdhsAHJWomO6K_c01Tokens-TokenGroups-Motion.png?auto=format,compress&rect=0,0,2240,1260&w=1600&h=900",
+        "id": "Z8sDdhsAHJWomO6K",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       },
+       "img_size_xxl": {
+        "dimensions": {
+         "width": 1920,
+         "height": 1080
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/aalto-master-design-system/Z8sDdhsAHJWomO6K_c01Tokens-TokenGroups-Motion.png?auto=format,compress&rect=0,0,2240,1260&w=1920&h=1080",
+        "id": "Z8sDdhsAHJWomO6K",
+        "edit": {
+         "x": 0,
+         "y": 0,
+         "zoom": 1,
+         "background": "transparent"
+        }
+       }
+      },
+      "image_square": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "image_sd_portrait": {
+       "img_size_xs": {},
+       "img_size_s": {},
+       "img_size_m": {},
+       "img_size_l": {},
+       "img_size_xl": {},
+       "img_size_xxl": {}
+      },
+      "title": [
+       {
+        "type": "heading6",
+        "text": "Motion",
+        "spans": []
+       }
+      ],
+      "body_text": [],
+      "caption": [],
+      "cta_label": [],
+      "cta_link": {
+       "id": "ZEGH5hQAACcAnGRJ",
+       "type": "design_system_content",
+       "tags": [
+        "tokens"
+       ],
+       "lang": "en-eu",
+       "slug": "motion",
+       "first_publication_date": "2023-04-20T18:48:07+0000",
+       "last_publication_date": "2024-06-26T10:03:12+0000",
+       "uid": "_ds_tokens_motion",
+       "link_type": "Document",
+       "key": "a28ff17a-0b6d-4a12-b5a9-71ab6e4273d5",
+       "isBroken": false
+      },
+      "cta_link_custom_icon": null,
+      "image_aspect_ratio": "hd",
+      "content_box_special_icon": null,
+      "video": {
+       "link_type": "Any"
+      }
+     }
+    ],
+    "id": "content_tile_collection$45998f55-8510-4aff-aef7-46ffc7431383",
+    "slice_type": "content_tile_collection",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "PageSectionTitle",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Token naming",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$202ab379-915d-4e52-a0bc-0803e915ced4",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "In the Aalto design system, design tokens follow a semantic naming structure. This means that the names of the tokens indicate their purpose and where they belong in the hierarchy. Rather than specifying the specific value of a variant, the token names emphasize their intended usage. Semantic naming simplifies future updates to the token system, making it easier to modify or expand the system as needed. Furthermore, it enables the tokens to serve as a foundation for sub-brands, student explorations, or other derivative applications.",
+       "spans": []
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$8af1589a-81d4-4694-88a6-85888e634a85",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   },
+   {
+    "primary": {
+     "type": "TextChapter",
+     "page_section_element_title": [
+      {
+       "type": "heading6",
+       "text": "Elements of a token name",
+       "spans": []
+      }
+     ],
+     "page_section_element_body": [
+      {
+       "type": "paragraph",
+       "text": "The full name and hierarchy of a token can be expressed as \nNamespace - Tier - Type - Families - Instance",
+       "spans": [
+        {
+         "start": 60,
+         "end": 105,
+         "type": "em"
+        }
+       ]
+      },
+      {
+       "type": "paragraph",
+       "text": "Namespace: A prefix for avoiding naming conflicts between Aalto tokens and other libraries; always aalto\nTier: Foundational value (base), reference value (alias) or a contextful value (semantic)\nType: Token category, for example, color, dimension, or transition\nFamilies: One or more semantic subcategories, for example, action / on light for a colour indicates it belongs to the category of action colours and is intended to be used on a light background\nInstance: The unique name of the token, differentiating it from all other tokens with the same semantic grouping",
+       "spans": [
+        {
+         "start": 0,
+         "end": 9,
+         "type": "strong"
+        },
+        {
+         "start": 99,
+         "end": 104,
+         "type": "em"
+        },
+        {
+         "start": 104,
+         "end": 109,
+         "type": "strong"
+        },
+        {
+         "start": 131,
+         "end": 135,
+         "type": "em"
+        },
+        {
+         "start": 155,
+         "end": 160,
+         "type": "em"
+        },
+        {
+         "start": 185,
+         "end": 193,
+         "type": "em"
+        },
+        {
+         "start": 195,
+         "end": 199,
+         "type": "strong"
+        },
+        {
+         "start": 230,
+         "end": 235,
+         "type": "em"
+        },
+        {
+         "start": 237,
+         "end": 247,
+         "type": "em"
+        },
+        {
+         "start": 251,
+         "end": 261,
+         "type": "em"
+        },
+        {
+         "start": 261,
+         "end": 270,
+         "type": "strong"
+        },
+        {
+         "start": 321,
+         "end": 339,
+         "type": "em"
+        },
+        {
+         "start": 456,
+         "end": 464,
+         "type": "strong"
+        }
+       ]
+      },
+      {
+       "type": "paragraph",
+       "text": "For example, a colour token might be described as \nAalto - Alias - Color - Action - On Light - Hover",
+       "spans": [
+        {
+         "start": 51,
+         "end": 100,
+         "type": "em"
+        }
+       ]
+      },
+      {
+       "type": "paragraph",
+       "text": "As tokens exist in multiple file formats, naming details may vary slightly to reflect the different conventions of the language. Our example colour token would thus be called\n--aalto-alias-color__action-on-light--hover\nin CSS, but \n.aalto.alias.color.action.onLight.hover\nin JSON.",
+       "spans": [
+        {
+         "start": 175,
+         "end": 219,
+         "type": "em"
+        },
+        {
+         "start": 232,
+         "end": 272,
+         "type": "em"
+        }
+       ]
+      },
+      {
+       "type": "paragraph",
+       "text": "For convenience, the token listing pages allow copy-pasting of the token's CSS name to the clipboard.",
+       "spans": []
+      }
+     ],
+     "component_id": null,
+     "component_figma_link": {
+      "link_type": "Any"
+     },
+     "plain_component_preview": false,
+     "react_code_preview": false,
+     "code_language": null,
+     "button_label": [],
+     "button_link": {
+      "link_type": "Any"
+     },
+     "alignment": "left",
+     "aside": {
+      "link_type": "Document"
+     },
+     "hidden": false,
+     "theme": "neutral",
+     "tinted": false,
+     "video_source": {
+      "link_type": "Any"
+     },
+     "anchor": false
+    },
+    "items": [
+     {}
+    ],
+    "id": "page_section_element$13cb42dd-eb6b-4629-8801-ec85318b11bb",
+    "slice_type": "page_section_element",
+    "slice_label": null
+   }
+  ]
+ }
+}
