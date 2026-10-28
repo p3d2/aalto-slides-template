@@ -1,8 +1,0 @@
-{
-  // Font fix for the editor (Tinymist / typst-lsp run on the Windows side and
-  // cannot see WSL's ~/.local/share/fonts, where Inter is installed). Load the
-  // project's bundled fonts/Inter.ttf instead — relative paths resolve against
-  // the workspace root. Reload the window after changing these.
-  "tinymist.fontPaths": ["fonts"],
-  "typst-lsp.extraFontPaths": ["fonts"]
-}
