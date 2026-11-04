@@ -1,8 +1,8 @@
 # Logo assets — official originals
 
-These are the **official Aalto University logo originals**, downloaded from
+These are the *official Aalto University logo originals*, downloaded from
 the logo generator (<https://aaltologo.fi/>). Per the brand guidelines they
-must **never be redrawn, altered or recreated** — use them exactly as provided,
+must *never be redrawn, altered or recreated* — use them exactly as provided,
 with clear space around them. Nothing here is edited; the files are byte-identical
 to what the generator serves (the `*.pdf` files are gitignored, so a fresh clone
 gets them with one command: `python3 assets/logo/fetch-logos.py`).
@@ -26,9 +26,9 @@ Run it again whenever you add a logo, and don't hand-edit `theme/logo-metrics.ty
 
 ## The logo system (brand.aalto.fi → visual guidelines → logo)
 
-Three "A" logomarks — **A?** (question), **A"** (quote), **A!** (exclaim) — used
+Three "A" logomarks — *A?* (question), *A"* (quote), *A!* (exclaim) — used
 randomly, or purposefully (A" when talks are the message, A? for a question,
-A! for gravity). Default for a talk: **quote**. Each mark comes in black (for
+A! for gravity). Default for a talk: *quote*. Each mark comes in black (for
 light backgrounds) and white (for dark ones), in four lock-ups:
 
 | Dir | Lock-up | Site calls it | Languages |
@@ -36,7 +36,7 @@ light backgrounds) and white (for dark ones), in four lock-ups:
 | `primary/` | mark + `Aalto University` on one line below | `..._21_...` | EN, FI (`-fi-`), SE (`-se-`) |
 | `secondary/` | mark + trilingual name, three rows below | `FI-SE-EN_21` | FI-SE-EN (`-fi-se-en-`) |
 | `tertiary/` | mark + trilingual name to the right | `FI-SE-EN_13` | FI-SE-EN |
-| `mark/` | **the logomark alone, no text** | *not served* — derived, see below | — |
+| `mark/` | *the logomark alone, no text* | *not served* — derived, see below | — |
 
 File names: `aalto-<lang-><colour>-<mark>.pdf`, e.g. `primary/aalto-fi-black-quote.pdf`,
 `tertiary/aalto-fi-se-en-white-question.pdf`. School logos are the same with the
@@ -50,7 +50,7 @@ bottom-left corner of content slides, oversized on the "Kiitos / Thank you"
 slide. The generator only serves lock-ups that carry the wordmark, so there is
 no official file to download.
 
-`make-plain.py` derives it **without touching the artwork**: in the primary PDFs
+`make-plain.py` derives it *without touching the artwork*: in the primary PDFs
 the mark and the wordmark are two vertically separated ink bands, so it measures
 the mark band and rewrites only that page's `/MediaBox` to its rectangle — a
 page-box crop, byte-for-byte identical content streams, no redraw, no recolour,
@@ -68,12 +68,12 @@ python3 assets/logo/measure-logos.py   # then re-measure
 in one colour, so we do not depend on it.)
 
 The generator also lists a single-language "13" (small/horizontal) university
-logo. Aalto **discontinued** it — `dl.php` answers with a notice PDF — so
+logo. Aalto *discontinued* it — `dl.php` answers with a notice PDF — so
 `fetch-logos.py` skips it. (Schools still publish their horizontal version.)
 
 ## Clear space: why the theme measures its logos
 
-The official PDFs ship with the brand's clear space **inside the page box**, so
+The official PDFs ship with the brand's clear space *inside the page box*, so
 the visible lock-up is much smaller than the box and offset within it:
 
 | Lock-up | page ratio | ink as % of the box |
@@ -88,8 +88,8 @@ So a plain `image(logo, height: 1.6em)` renders a 1.6em box whose lock-up is
 and misplaced" bug.
 
 `theme/aalto.typ` fixes this with the generated `theme/logo-metrics.typ`:
-**`logo-image()` takes the height you want for the *visible* logo and grows +
-slides the box so the ink, not the page, sits where you place it.** Give the
+*`logo-image()` takes the height you want for the *visible* logo and grows +
+slides the box so the ink, not the page, sits where you place it.* Give the
 theme a *path string* (not `image()` content) and it does this for you.
 
 ## Wiring into a deck
@@ -127,7 +127,7 @@ the wordmark back.)
 - `#title-slide(dark: true, logo: "/assets/logo/tertiary/aalto-fi-se-en-white-quote.pdf")`
   — white logo for the black title slide; the mark on dark section/focus slides
   must match the background the same way.
-- The logo is drawn as a **page background**, so it is anchored to the page
+- The logo is drawn as a *page background*, so it is anchored to the page
   corner and never moves with a slide's margins.
 - `focus-slide` deliberately carries no logo (its background may be dark or a
   brand colour; a corner logo would fight the statement).

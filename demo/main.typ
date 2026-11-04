@@ -20,6 +20,10 @@
   // — a full-width rule that fills as the deck advances.
   title-rule: "progress",
   // section-art: scicomp-logo(colour: "white"), // optional image/content on every section slide
+  // Decorative honeycomb (ported from the ASC Slidev theme): combs on the
+  // title slide and every section slide, letters from the headings, plus a
+  // watermark behind the closing slide. `true` or a string also work.
+  hex: (text: "AALTO\nSLIDES", thanks: true),
   config-info(
     title: [Aalto slides template],
     subtitle: [Typst + Touying deck scaffold following the Aalto visual identity],

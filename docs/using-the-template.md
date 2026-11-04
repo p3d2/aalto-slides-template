@@ -1,6 +1,6 @@
 # Using the Aalto slides template
 
-A guide for **people**, not machines. No prior Typst experience assumed — if you
+A guide for *people*, not machines. No prior Typst experience assumed — if you
 can edit a text file and run a command, you can make a deck here.
 
 *How the talk itself should be built (story, density, rehearsal) is in
@@ -12,7 +12,7 @@ hurry, or printing something for the desk: [`cheatsheet.pdf`](cheatsheet.pdf)
 
 ## 1. What you get
 
-Your slides are a **text file**. You write what you mean; the program draws the
+Your slides are a *text file*. You write what you mean; the program draws the
 slides, on brand, in about half a second, and hands you a PDF you can present
 from any machine.
 
@@ -32,7 +32,7 @@ theme's job, and it is what keeps 20 slides looking like one talk.
 
 ## 2. Set up (once)
 
-1. **Install Typst** — <https://typst.app/open-source/>. It is one binary, no
+1. *Install Typst* — <https://typst.app/open-source/>. It is one binary, no
    runtime:
    ```bash
    # Linux/macOS: grab the release binary and drop it on your PATH
@@ -42,10 +42,10 @@ theme's job, and it is what keeps 20 slides looking like one talk.
    cargo install --locked typst-cli   # if you already have Rust
    ```
    Check with `typst --version` (needs ≥ 0.15; release binaries can then
-   self-update with `typst update`). There is **no** `pip`/`uv` package for the
+   self-update with `typst update`). There is *no* `pip`/`uv` package for the
    CLI — the PyPI `typst` package is Python bindings, not the compiler.
-2. **Put the folder somewhere** — clone/copy `slides-template/`.
-3. **Try it**:
+2. *Put the folder somewhere* — clone/copy `slides-template/`.
+3. *Try it*:
    ```bash
    cd slides-template
    ./slides demo          # → demo/demo.pdf
@@ -55,8 +55,8 @@ theme's job, and it is what keeps 20 slides looking like one talk.
 
 `./slides` is a small script that just runs `typst` with the right flags
 (`--root .` so paths are shared, `--font-path fonts` so the font is found). If
-you have `make`, `make demo` does the same thing. If you use **VS Code +
-Tinymist**, you get live preview without any command at all.
+you have `make`, `make demo` does the same thing. If you use *VS Code +
+Tinymist*, you get live preview without any command at all.
 
 ---
 
@@ -88,14 +88,14 @@ $EDITOR decks/my-talk/main.typ
 
 Two files matter:
 
-- **`main.typ`** — the deck's identity: title, author, colours, logo, then one
+- *`main.typ`* — the deck's identity: title, author, colours, logo, then one
   `#include` per talk section.
-- **`sections/01-main.typ`** — your actual slides. Add `02-method.typ`,
+- *`sections/01-main.typ`* — your actual slides. Add `02-method.typ`,
   `03-results.typ`, … as your talk grows. One file per section is what keeps a
   40-slide deck editable (and lets you or an agent rewrite one section without
   touching the rest).
 
-Every section file must start with the import line — `#include` does **not**
+Every section file must start with the import line — `#include` does *not*
 inherit imports:
 
 ```typst
@@ -106,7 +106,7 @@ inherit imports:
 
 ## 5. The eight things you will actually write
 
-**A content slide**
+*A content slide*
 
 ```typst
 == Slides are text, so they are easy to change
@@ -115,7 +115,7 @@ inherit imports:
 - a bullet per idea, not per sentence
 ```
 
-**Text beside a figure**
+*Text beside a figure*
 
 ```typst
 #two-col(ratio: (3fr, 2fr))[
@@ -128,19 +128,19 @@ inherit imports:
 ]
 ```
 
-**A figure you do not have yet** — put the box in so the slide is honest about
+*A figure you do not have yet* — put the box in so the slide is honest about
 its hole, and the layout does not move later:
 
 ```typst
 #figure-placeholder(label: [AFM height image], ratio: 16/10)
 ```
 
-**A table, code, maths** — all native Typst, see `demo/sections/02-layouts.typ`.
+*A table, code, maths* — all native Typst, see `demo/sections/02-layouts.typ`.
 
-**Free placement** when a grid is not enough: `#place(top + right, ..)`,
+*Free placement* when a grid is not enough: `#place(top + right, ..)`,
 `#grid(columns: 2, ..)`, `#v(1em)` for a gap.
 
-**A credit / source line** pinned to the bottom of the slide — it lands on the
+*A credit / source line* pinned to the bottom of the slide — it lands on the
 same line as the corner logo and the page number (the text's bottom aligns with
 the mark's bottom edge; descender tails like `q` may hang below it, as in print):
 
@@ -148,14 +148,14 @@ the mark's bottom edge; descender tails like `q` may hang below it, as in print)
 #credit-line[Images © 2026 … · CC BY 4.0.]   // or where: "left" / "right"
 ```
 
-**A slide that is one sentence** — this is your loudest tool, use it for the
+*A slide that is one sentence* — this is your loudest tool, use it for the
 claim you want remembered:
 
 ```typst
 #focus-slide[The interface is the story, not the coating.]
 ```
 
-**Reveal as you speak**
+*Reveal as you speak*
 
 ```typst
 - first point
@@ -163,7 +163,7 @@ claim you want remembered:
 - second point, only after you say it
 ```
 
-**The closing slide** (logomark, contact details, optional extra info)
+*The closing slide* (logomark, contact details, optional extra info)
 
 ```typst
 #thanks-slide(word: [Kiitos!], contact: ("Your Name · Aalto University",
@@ -178,7 +178,7 @@ claim you want remembered:
 #thanks-slide(word: [Kiitos!], corner: "asc")
 ```
 
-**Co-branding and side images**
+*Co-branding and side images*
 
 ```typst
 // in main.typ — a second logo top-right on the title and closing slides,
@@ -210,13 +210,57 @@ All of these go in `aalto-theme.with(...)` in `main.typ`:
 | `org-logo:` | `scicomp-logo()` or any path/content | a second logo co-branded top-right on the title and closing slides; on dark slides a `-black`/`-white` file name swaps automatically |
 | `org-logo-height:` | e.g. `1.6em` | size of the co-brand logo (default: title-logo height) |
 | `section-art:` | path, content, or `heading => content` | right-hand image panel on every section slide (heading column narrows) |
-| `config-info(logo:)` | a **path string** | see §7 |
+| `hex:` | `true`, `"SCI\nCOMP"`, or a dict | the decorative honeycomb (see below): seeded hexagon combs on the title slide and every section slide, letters from the headings |
+| `config-info(logo:)` | a *path string* | see §7 |
 | `config-info(short-title:)` | `[My talk]` | shows bottom-left next to the mark; leave out for a clean footer — footer text and page number are always bottom-aligned with the logo's ink |
 | `aspect-ratio:` | `"16-9"` (default), `"4-3"` | only if the room demands it |
 
 Everything in a deck is sized relative to one base number, so `density:` rescales
 titles, bullets, figures and logos together. That is also why you should almost
 never write `text(size: 12pt)` by hand — it breaks the rhythm.
+
+### The honeycomb (`hex:`)
+
+The Aalto Scientific Computing Slidev theme decorates covers and section
+dividers with a *honeycomb*: a seeded grid of pointy-top hexagons that
+dissolves towards the content, with the deck's initials placed letter-by-letter
+inside cells (see https://eglerean.github.io/litrev-with-ai). `theme/honeycomb.typ`
+ports it to Typst, and the theme knob turns it on:
+
+```typst
+#show: aalto-theme.with(
+  hex: (text: "SCI\nCOMP", thanks: true),   // or just: hex: true
+  ...
+)
+```
+
+- Title slide: the comb fills the right-hand art panel (letters from `text:`).
+- Section slides: `sections:` picks the letters —
+  - `auto` (default): the heading is wrapped into readable rows; if the
+    heading is too long for the cell-size floor (`min-radius:`, default
+    13 pt, at most `max-rows:` 4 rows) it degrades to the initials of its
+    content words ("Different tools, one workflow" → "DTW"), and past six
+    initials to a calm comb without letters. Markup in headings is fine.
+  - `"numbers"`: the zero-padded section ordinal ("01", "02", …) — always
+    fits, doubles as wayfinding.
+  - one string: the same short title on every section slide.
+  - an array: one short title per section, in order (`("PROBLEM", "TOOLS",
+    "DEMO")`); sections past the end of the array fall back to `auto`.
+  - `heading => string`, `none` (comb without letters), `false` (no comb).
+  The seed varies per section, so every comb layout differs.
+- `thanks: true` adds a faint radial watermark behind the closing slide.
+- Dict extras: `seed:`, `density:`, `accent-odds:`, `radius:`, `fade:`
+  (`"left"` default; also `right`/`top`/`bottom`/`radial`/`"window"`/`none`;
+  `"window"` keeps the comb inside a rectangle — the closing-slide watermark
+  uses it to stay clear of the mark and the contact column),
+  `stroke-width:`. Colours follow the slide automatically (ink on light, white
+  on dark, ink on the accent colour of section slides).
+- An explicit `art:` (title slide) or `section-art:` always wins over the comb.
+- `honeycomb(...)` is exported from the theme for one-off use anywhere:
+  `#honeycomb(width: 8cm, height: 6cm, text: "AI", seed: 3, fade: "radial")`.
+
+The comb is deterministic: same `seed` + same size = same picture on every
+build, so PDFs stay reproducible.
 
 ---
 
@@ -230,7 +274,7 @@ never write `text(size: 12pt)` by hand — it breaks the rhythm.
   python3 assets/logo/measure-logos.py        # geometry the theme needs
   python3 assets/logo/fetch-logos.py --unit sci --unit chem    # school logos
   ```
-- **Pass a path, not `image(...)`**:
+- *Pass a path, not `image(...)`*:
   `logo: "/assets/logo/primary/aalto-black-quote.pdf"`. The theme then sizes the
   *visible* logo and aligns it to the margin. The originals carry Aalto's clear
   space inside the file, so a hand-sized `image(height: 1.6em)` renders about
@@ -241,7 +285,7 @@ never write `text(size: 12pt)` by hand — it breaks the rhythm.
   content and section slides use the bare mark. Details in
   [`assets/logo/README.md`](../assets/logo/README.md).
 
-**The Aalto Scientific Computing hexagon logo.** For team material (Triton
+*The Aalto Scientific Computing hexagon logo.* For team material (Triton
 included — there is no separate Triton logo) the ASC hexagons sit in
 `assets/logo/scicomp/`:
 
@@ -270,7 +314,7 @@ pdfpc decks/my-talk/main.pdf      # notes + next slide + timer, dual-screen
 ```
 
 Anything else works too — the output is a normal PDF. Two habits that pay:
-**export the PDF you present from** (so a rebuild cannot surprise you on the
+*export the PDF you present from* (so a rebuild cannot surprise you on the
 machine), and put the deck plus the PDF on a USB stick as well as in your mail.
 
 ---

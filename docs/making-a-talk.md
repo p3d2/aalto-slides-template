@@ -12,14 +12,14 @@ enforce.
 Write these four lines in a text file (or on paper). Everything later is derived
 from them, and if you cannot fill them in, the talk is not ready to be built:
 
-1. **The ask** — what should this audience *do, decide or believe* when I stop
+1. *The ask* — what should this audience *do, decide or believe* when I stop
    talking? ("Fund the follow-up", "let them run their data through this
    pipeline", "understand why the interface fails at 700 °C".)
-2. **The room** — who is there, what do they already know, what do they believe
+2. *The room* — who is there, what do they already know, what do they believe
    that I am going to contradict?
-3. **The slot** — minutes, including or excluding questions. This is a hard
+3. *The slot* — minutes, including or excluding questions. This is a hard
    budget, not an ambition.
-4. **The one sentence** — the whole talk in a single sentence that a first-year
+4. *The one sentence* — the whole talk in a single sentence that a first-year
    could repeat afterwards. If it is long, the talk is long.
 
 Then stop. Do not open the deck yet.
@@ -40,10 +40,10 @@ A research talk has a shape that is worth stealing rather than reinventing:
 | 3 | your claim (say it out loud, early) | the one sentence from §1 |
 | 4 | how you know — method, in one slide | credibility, not a methods course |
 | 5 | evidence — one slide per finding | the body of the talk |
-| 6 | what it does **not** show | limits, stated before someone else does |
+| 6 | what it does *not* show | limits, stated before someone else does |
 | 7 | the ask | what happens next, and who you need to make it happen |
 
-**The titles-only test.** After you have built the deck, read *only* the slide
+*The titles-only test.* After you have built the deck, read *only* the slide
 titles in sequence. It should be a coherent argument that makes sense to someone
 who never saw the bodies. If it reads as a list of topics — "Introduction",
 "Methods", "Results", "Setup", "Sample prep" — you have written a table of
@@ -53,7 +53,7 @@ contents, not a talk. Fix the titles, not the slides.
 
 ## 3. Spend the time you were given
 
-Roughly **1.5–2 minutes per content slide** when you are explaining evidence,
+Roughly *1.5–2 minutes per content slide* when you are explaining evidence,
 plus 1–2 minutes per section break, plus the Q&A you asked for:
 
 | slot | content slides | notes |
@@ -91,34 +91,34 @@ slide needs a paragraph, the paragraph belongs in a handout or in the appendix.
 
 Rules of thumb that keep working:
 
-- **≤ 6 bullets, ≤ 2 lines each.** A 7th bullet means the slide has two jobs.
-- **≤ 3 type sizes on a slide** (Aalto's own rule, and the theme's defaults
+- *≤ 6 bullets, ≤ 2 lines each.* A 7th bullet means the slide has two jobs.
+- *≤ 3 type sizes on a slide* (Aalto's own rule, and the theme's defaults
   already obey it). Never set a size by hand to squeeze something in.
-- **If the audience can read it faster than you can say it, they will** — so
+- *If the audience can read it faster than you can say it, they will* — so
   either remove it, or reveal it with `#pause`.
-- **Numbers get their own slide** when the number is the point. `#focus-slide[40 %
+- *Numbers get their own slide* when the number is the point. `#focus-slide[40 %
   less delamination.]` beats a bullet that mentions 40 %.
 - Choose `density:` for the room, not for your comfort: `roomy` for a lecture
   hall or a bad projector, `default` for a seminar, `compact` for a methods
   audience that came for detail. `dense` is for handouts, not screens.
 
-The uncomfortable test: **squint at the slide until it is blurry.** Whatever you
+The uncomfortable test: *squint at the slide until it is blurry.* Whatever you
 can still read is what the back row sees.
 
 ---
 
 ## 6. Figures
 
-- **One hero figure per slide.** Two figures side by side is for *comparison*,
+- *One hero figure per slide.* Two figures side by side is for *comparison*,
   and the slide title must say what is being compared.
-- **Redraw for the room.** A figure exported for a paper (6 pt labels, journal
+- *Redraw for the room.* A figure exported for a paper (6 pt labels, journal
   column width) is unreadable on a screen. Make a slide version: bigger type,
   fewer gridlines, one accent colour, no legend box if you can label directly.
-- **Never screenshot a plot.** Keep the file (SVG/PDF/PNG) and reference it —
+- *Never screenshot a plot.* Keep the file (SVG/PDF/PNG) and reference it —
   that is the whole point of a text deck: fix the figure, rebuild, done.
-- **While the figure does not exist**, use `#figure-placeholder[label, ratio]`
+- *While the figure does not exist*, use `#figure-placeholder[label, ratio]`
   so the layout is final and the hole is visible to you and your collaborators.
-- **Colour carries meaning, not decoration.** Aalto's brand colours are made for
+- *Colour carries meaning, not decoration.* Aalto's brand colours are made for
   black text on top; on plots, keep one accent + greys. Check the palette and
   data-visualisation guidance at brand.aalto.fi (Visual guidelines → Data
   visualisation).
@@ -145,16 +145,16 @@ Slides are a spotlight, not a document. Use the reveals deliberately:
 
 ## 8. Evidence, sources, and what not to show
 
-- **Cite on the slide**, small and grey at the bottom or as a footnote; a
+- *Cite on the slide*, small and grey at the bottom or as a footnote; a
   bibliography slide at the end for the full list. Unattributed figures are how
   you get asked "is that yours?" at the worst moment.
-- **Label what is preliminary** ("n = 3", "pending QA", "simulation, not
+- *Label what is preliminary* ("n = 3", "pending QA", "simulation, not
   measurement"). Audiences forgive uncertainty; they do not forgive finding out
   later.
-- **Unpublished results**: fine on slides, but never paste them into a web-based
+- *Unpublished results*: fine on slides, but never paste them into a web-based
   AI tool or a cloud service. This template works offline by design — keep using
   it that way for anything patentable or under embargo.
-- **Data and code availability**: one line on the closing slide ("data:
+- *Data and code availability*: one line on the closing slide ("data:
   aaltodigital.aalto.fi/…", "code: github.com/…") costs nothing and is
   increasingly expected.
 
@@ -162,14 +162,14 @@ Slides are a spotlight, not a document. Use the reveals deliberately:
 
 ## 9. Accessibility and the room
 
-- Brand colours take **black text** — that is why section slides are coloured
+- Brand colours take *black text* — that is why section slides are coloured
   with black type. White-on-blue fails Aalto's own contrast rule.
 - Don't encode meaning in colour alone (add shape, dash, direct label) — about
   1 in 12 men is colour-blind, including people in your audience.
 - Minimum text: after building, render the deck to PNG and look at one slide at
   ~25 % zoom on your laptop. If the axis labels vanish, so do they on the
   projector.
-- Present from the **PDF**, not from a live build, and keep the file name stable
+- Present from the *PDF*, not from a live build, and keep the file name stable
   (`talk-2026-11-05.pdf`) so you know which one you just mailed.
 - Check the room if you can: beam-projector rooms wash out light colours and
   yellow especially — never put yellow text on white.
@@ -182,7 +182,7 @@ Slides are a spotlight, not a document. Use the reveals deliberately:
 
 - `#thanks-slide(word: [Kiitos!], contact: ("name · group", "email", "repo/orcid"))`
   — the slide stays up during Q&A, so treat it as your business card.
-- **Back pocket slides**: 3–5 answer slides *after* the thank-you, for the
+- *Back pocket slides*: 3–5 answer slides *after* the thank-you, for the
   questions you expect ("why not method X?", "how does it scale?", "what about
   batch 2?"). Say "I have a slide for that" and jump — it is the single highest
   return-on-effort improvement available to a technical talk.
@@ -228,13 +228,13 @@ argument as slides before you have written a sentence of body text.
 
 ## 13. Two checklists
 
-**Before you build**
+*Before you build*
 - [ ] the ask, the room, the slot, the one sentence are written down
 - [ ] outline as a list of claims, in order
 - [ ] slide count fits the slot (§3)
 - [ ] every claim either supports the one sentence or is cut
 
-**Before you present**
+*Before you present*
 - [ ] titles-only test reads as an argument
 - [ ] squint test / 25 %-zoom test passed
 - [ ] figures labelled, units stated, sources cited

@@ -36,6 +36,7 @@
 
 #import "tokens.typ": brand-colours, neutral-colours, tint-colours, type-styles, aspects, spacing, font-sizes, line-heights, letter-spacings, school-colours as raw-school-colours
 #import "logo-metrics.typ": logo-metrics
+#import "honeycomb.typ": honeycomb, hex-plain-text, hex-wrap-text, hex-initials, hex-seed-for
 
 // University brand colours (official HEX from brand.aalto.fi → brand-colours)
 #let aalto-blue = brand-colours.aaltoBlue1     // #46A5FF · PMS 2925
@@ -187,10 +188,20 @@
 /// edge — and the same numbers everywhere.
 #let logo-margins = (x: 2.6em, bottom: 1.4em, top: 1.5em)
 
+// The slide canvas at 16-9 (Touying's presentation size). The honeycomb
+// panels are computed numerically (a seeded cell grid), so they need real
+// dimensions — percentages cannot be resolved inside a background place().
+#let hex-canvas = (w: 841.89pt, h: 473.56pt)
+
 /// Page margins of content slides. The footer and `credit-line` measure from
 /// the bottom of the text area, so they must track these numbers — the theme
 /// applies them via `set page(margin: content-margins)`.
-#let content-margins = (top: 1.9em, bottom: 2.3em, x: 2.6em)
+/// Bottom = the corner mark's band + clearance: the mark's ink bottom sits at
+/// logo-margins.bottom (1.4em) and the mark is ~1.0em tall, so its top is at
+/// ~2.4em. At 2.3em the body area reached *into* that band and a full page of
+/// flow content (a long `answerline` fill, say) broke level with the logo —
+/// 2.9em makes long cards jump to the next slide half an em earlier instead.
+#let content-margins = (top: 1.9em, bottom: 2.9em, x: 2.6em)
 
 /// Split one of our logo paths into its parts.
 /// `/assets/logo/primary/aalto-fi-se-en-black-quote.pdf` →
@@ -272,8 +283,8 @@
   if logo == none or mark == auto { logo } else { logo-with(logo, mark: mark) }
 }
 
-/// What the bottom-left corner shows. Aalto's own template puts the **bare
-/// logomark** there (no wordmark), so that is the default: the corner is built
+/// What the bottom-left corner shows. Aalto's own template puts the *bare
+/// logomark* there (no wordmark), so that is the default: the corner is built
 /// from the deck logo's colour/mark/language with `lockup:` swapped to `mark`
 /// — which is only available as a derived file, see `assets/logo/make-plain.py`.
 /// Set the theme's `corner:` to another lockup (`"primary"`, …) or `"keep"` to
@@ -288,7 +299,7 @@
   else { logo-with(logo, lockup: lock) }
 }
 
-/// Render a logo original so that `height` is the **visible** (ink) height and
+/// Render a logo original so that `height` is the *visible* (ink) height and
 /// the ink box — not the PDF page box — sits at the corner you place it at.
 ///
 /// The originals from aaltologo.fi carry the brand's clear space *inside* the
@@ -349,7 +360,7 @@
   }
 }
 
-/// The deck logo anchored to a **page** corner, ink-aligned — meant to be
+/// The deck logo anchored to a *page* corner, ink-aligned — meant to be
 /// passed to `set page(background:)`, which (unlike the text area) spans the
 /// whole page, so the margins can't move it. `where: bottom` for content /
 /// section slides, `where: top` for the title slide. Empty if `logo` is none.
@@ -434,7 +445,7 @@
 }
 
 /// A small gray credit / source / footnote line pinned to the bottom of a
-/// content slide, **bottom-aligned with the corner logo and the footer**: the
+/// content slide, *bottom-aligned with the corner logo and the footer*: the
 /// text box's bottom edge — descenders included, so a "q" or "g" tail reaches
 /// the line while the baseline floats just above it — lands exactly on the
 /// logo's ink bottom. `where: "center" | "left" | "right"`.
@@ -562,6 +573,34 @@
   let fg = if dark { aalto-white } else { aalto-black }
   let fg2 = if dark { luma(190) } else { aalto-gray }
 
+  // Decorative honeycomb (theme knob `hex:`): a full-height panel bleeding
+  // off the top, bottom and right page edges (only the left side fades,
+  // towards the text), exactly like the Slidev scicomp cover.
+  let hex = self.store.at("hex", default: none)
+  let art-final = art
+  let hex-place = none
+  if art-final == none and hex != none {
+    let pw = hex.at("panel-width", default: 40%)
+    let w = pw * hex-canvas.w
+    hex-place = place(top + right,
+      block(width: pw, height: 100%,
+        honeycomb(
+          width: w, height: hex-canvas.h,
+          radius: hex.at("panel-radius", default: 32pt),
+          density: hex.at("density", default: 0.5),
+          accent-odds: hex.at("accent-odds", default: 0.08),
+          seed: hex.at("seed", default: 7),
+          text: if hex.at("text", default: none) == none { "" } else { hex.at("text") },
+          fade: hex.at("fade", default: "left"),
+          stroke-width: hex.at("stroke-width", default: 1.5pt),
+          ink: fg,
+          ink-alpha: if dark { 14% } else { 16% },
+          accent-colour: accent,
+          letter-fill: if dark { aalto-dark.lighten(10%) } else { aalto-white },
+          letter-ink: fg,
+        )))
+  }
+
   // join content parts with a separator without array.join type issues
   let join(parts, sep: [ · ]) = {
     let out = none
@@ -611,14 +650,14 @@
     }
   }
   // narrow the text column when a right-hand art panel is present
-  if art != none {
+  if art-final != none or hex-place != none {
     body = block(width: 62%, body)
   }
 
   // optional right-hand panel (image path or ready-made content), vertically
   // centred, ink-aligned to the right margin like the corner logo on the left
-  let art-place = if art != none {
-    let inner = if type(art) == str { image(art, width: 100%) } else { art }
+  let art-place = if art-final != none {
+    let inner = if type(art-final) == str { image(art-final, width: 100%) } else { art-final }
     place(horizon + right, dx: -logo-margins.x,
       block(width: art-width, inner))
   } else { none }
@@ -641,6 +680,7 @@
         fill: if dark { aalto-dark } else { aalto-white },
         margin: (top: 3.2em, bottom: 3.2em, x: 2.6em),
         background: {
+          hex-place   // under the logos, over the page fill
           corner-logo(deck-logo(info, self.store), where: top)
           org-place
           art-place
@@ -661,10 +701,94 @@
 /// or content, or a function `heading => content`) to every section slide,
 /// narrowing the heading column so they never collide.
 #let new-section-slide(config: (:), body) = touying-slide-wrapper(self => {
-  let art = self.store.at("section-art", default: none)
-  if art != none and type(art) == function {
-    art = art(utils.display-current-heading(level: 1))
+  let art-src = self.store.at("section-art", default: none)
+  let art = if art-src != none and type(art-src) == function {
+    art-src(utils.display-current-heading(level: 1))
+  } else { art-src }
+  // Decorative honeycomb (theme knob `hex:`) fills the art slot when the deck
+  // chose no explicit section art. The letters come from the section heading
+  // (resolved at layout time via `context`, like the footer page number) and
+  // the seed varies per heading, so every section gets its own comb.
+  let hex = self.store.at("hex", default: none)
+  let hex-mode = if hex != none { hex.at("sections", default: auto) } else { false }
+  let hex-panel = none
+  if art == none and hex != none and hex-mode != false {
+    let ink = ink-on(self.colors.primary)
+    let surface = self.colors.primary.lighten(20%)
+    let seed0 = hex.at("seed", default: 7)
+    hex-panel = context {
+      let head = utils.current-heading(level: 1)
+      let ordinal = () => query(heading.where(level: 1))
+        .filter(h => h.location().page() <= here().page()).len()
+      // The auto cascade: wrap the heading into rows that stay readable;
+      // if even the radius floor cannot hold it, fall back to content-word
+      // initials; if those run past six letters, no letters at all.
+      let auto-res = () => {
+        let s = hex-plain-text(head)
+        if s == none or s == "" { return none }
+        let wrapped = hex-wrap-text(s,
+          width: hex.at("panel-width", default: 40%) * hex-canvas.w,
+          radius: hex.at("panel-radius", default: 32pt),
+          min-radius: hex.at("min-radius", default: 13pt),
+          max-rows: hex.at("max-rows", default: 4))
+        if wrapped != none {
+          let t = wrapped.lines.join("\n")
+          return (txt: t, radius: wrapped.radius, key: t)
+        }
+        let ini = hex-initials(s)
+        if ini.len() >= 1 and ini.len() <= 6 {
+          return (txt: ini, radius: hex.at("panel-radius", default: 32pt), key: ini)
+        }
+        none
+      }
+      let full = hex.at("panel-radius", default: 32pt)
+      let res = none
+      if hex-mode == "numbers" {
+        let t = { let n = ordinal(); if n < 10 { "0" + str(n) } else { str(n) } }
+        res = (txt: t, radius: full, key: t)
+      } else if type(hex-mode) == str {
+        res = (txt: hex-mode, radius: full, key: hex-mode)
+      } else if type(hex-mode) == array {
+        // manual, one shortened title per section, in order; sections past
+        // the end of the array fall back to the auto cascade
+        let t = hex-mode.at(ordinal() - 1, default: none)
+        res = if t != none { (txt: t, radius: full, key: t) } else { auto-res() }
+      } else if type(hex-mode) == function {
+        let t = hex-mode(hex-plain-text(head))
+        if t != none { res = (txt: t, radius: full, key: t) }
+      } else if hex-mode == auto {
+        res = auto-res()
+      }
+      let txt = none
+      let seed = seed0
+      let R = full
+      if res != none {
+        txt = res.txt
+        R = res.radius
+        seed = hex-seed-for(res.key, base: seed0)
+      }
+      // The comb itself always draws; only the letters may be absent.
+      {
+        honeycomb(
+          width: hex.at("panel-width", default: 40%) * hex-canvas.w,
+          height: hex-canvas.h,
+          radius: R,
+          text: if txt == none { "" } else { txt },
+          density: hex.at("density", default: 0.6),
+          accent-odds: hex.at("accent-odds", default: 0.08),
+          seed: seed,
+          fade: hex.at("fade", default: "left"),
+          stroke-width: hex.at("stroke-width", default: 1.5pt),
+          ink: ink,
+          ink-alpha: 22%,
+          accent-colour: ink,
+          letter-fill: surface,
+          letter-ink: ink,
+        )
+      }
+    }
   }
+  let has-panel = art != none or hex-panel != none
   let content = {
     text(
       size: type-ratios.section * 1em,
@@ -675,13 +799,17 @@
     )
     if body != none { v(1em); body }
   }
-  if art != none {
+  if has-panel {
     content = block(width: 62%, content)
   }
   let art-place = if art != none {
     let inner = if type(art) == str { image(art, width: 100%) } else { art }
     place(horizon + right, dx: -logo-margins.x,
       block(width: 30%, inner))
+  } else if hex-panel != none {
+    // full-height comb, bleeding off the top, bottom and right page edges
+    place(top + right,
+      block(width: hex.at("panel-width", default: 40%), height: 100%, hex-panel))
   } else { none }
   touying-slide(
     self: utils.merge-dicts(
@@ -689,9 +817,14 @@
       config-common(freeze-slide-counter: true),
       config-page(fill: self.colors.primary, margin: (top: 3.2em, bottom: 3.2em, x: 2.6em),
         background: {
+          // The corner logos follow the *background*, not the logo file:
+          // a dark accent (e.g. `accent: aalto-dark`) needs the white mark,
+          // otherwise the corner vanishes into the slide.
+          let ink = ink-on(self.colors.primary)
           let logo = corner-logo-of(self)
+          if ink == aalto-white { logo = logo-colour(logo, "white") }
           bottom-corner(logo, self.store.at("corner", default: "mark"),
-            ink: corner-ink(logo), rule: self.store.at("corner-rule", default: true))
+            ink: ink, rule: self.store.at("corner-rule", default: true))
           art-place
         }),
       config,
@@ -731,7 +864,7 @@
 })
 
 /// "Kiitos / Thank you" closing slide, laid out like Aalto's own template
-/// (blank.pptx "Thank you"): the **bare logomark** vertically centred on the
+/// (blank.pptx "Thank you"): the *bare logomark* vertically centred on the
 /// left, with the word and contact lines in the right column at 53 % of the
 /// width. The co-brand logo (`org-logo:`) sits top-right when set.
 ///
@@ -774,6 +907,7 @@
   let bg = if background == auto { aalto-white } else { background }
   let fg = if foreground == auto { ink-on(bg) } else { foreground }
   let logo = deck-logo(self.info, self.store)
+  let hex = self.store.at("hex", default: none)
   let theme-mode = self.store.at("corner", default: "mark")
   let mode = if corner != auto { corner }
     else if theme-mode == "both" { "mark" }   // keep the closing slide calm
@@ -818,6 +952,26 @@
   // Everything lives in the page background: this slide has no flow content,
   // and only there are the percentages page-relative, as in blank.pptx.
   let art = {
+    // Opt-in honeycomb watermark behind the closing slide. The old radial
+    // fade put hexagons under the logomark and the contact/link column, so
+    // the mask is now a *rectangle*: the comb lives only in the empty gap
+    // between the mark (left ≈25 %) and the text column (from 53 %), and
+    // dissolves before it reaches either — or the org logo top-right.
+    if hex != none and hex.at("thanks", default: false) {
+      place(top + left,
+        honeycomb(width: hex-canvas.w, height: hex-canvas.h,
+          radius: hex.at("radius", default: 26pt) + 4pt,
+          density: 0.55,
+          accent-odds: hex.at("accent-odds", default: 0.08),
+          seed: hex.at("seed", default: 7) + 3,
+          fade: "window",
+          fade-window: (x0: 0.27, x1: 0.51, y0: 0.0, y1: 1.0),
+          fade-margin: 0.1,
+          ink: fg,
+          ink-alpha: 10%,
+          accent-colour: fg,
+          accent-fill-alpha: 35%))
+    }
     if mode == "asc" or (mode == "both" and mark == none) {
       // the big ASC hexagons instead of (or without) the Aalto mark
       place(horizon + left, dx: logo-margins.x,
@@ -938,6 +1092,28 @@
 ///   heading and may return content). The heading column narrows to make
 ///   room. Image paths are opened by the theme — write them root-absolute
 ///   (`"/assets/…"`). Default: none.
+/// - hex (bool/str/dict): the decorative honeycomb from the Aalto Scientific
+///   Computing Slidev theme (theme/honeycomb.typ, a port of Honeycomb.vue):
+///   seeded pointy-top hexagon combs on the title slide's right panel, every
+///   section slide, and — opt-in — a watermark behind the closing slide.
+///   `true` turns it on with defaults; a string is the title-slide letters
+///   ("SCI\nCOMP"); a dict fine-tunes: `text:` title letters; `sections:`
+///   chooses the section letters — `auto` (wrap the heading into readable
+///   rows, falling back to content-word initials, then to no letters),
+///   `"numbers"` (zero-padded section ordinal), one string (the same short
+///   title on every section), an array (one short title per section, in
+///   order; sections past the end fall back to `auto`), `heading => str`,
+///   `none` (comb without letters) or `false` (no comb); `thanks:` bool
+///   watermark; plus `seed:`, `density:`, `accent-odds:`, `panel-radius:`
+///   (cell size of the title/section panels, default 32pt), `radius:` (cell
+///   size of the closing-slide watermark, default 26pt), `min-radius:`
+///   (cell-size floor for the auto wrap, default 13pt), `max-rows:`
+///   (default 4), `fade:` and `stroke-width:`. The title/section panels bleed
+///   off the top, bottom and right page edges; only the left side fades.
+///   Colours follow the
+///   slide (ink on light, white on dark, ink on the accent of section
+///   slides). An explicit `art:` / `section-art:` always wins over the comb.
+///   Default: none.
 /// - header/header-right/footer-right: override the small decorations.
 #let aalto-theme(
   accent: aalto-blue,
@@ -953,7 +1129,7 @@
     depth: self.slide-level,
   ),
   header-right: self => [],
-  // Touying's `config-info` defaults `short-title` to **`auto`** (not `none`),
+  // Touying's `config-info` defaults `short-title` to *`auto`* (not `none`),
   // and `call-or-display` renders `auto` as the literal word "auto" — which
   // showed up in red next to the corner logo on every content slide of any deck
   // that left `short-title:` out. Guard it the way Touying's own themes do.
@@ -968,6 +1144,7 @@
   org-logo: none,
   org-logo-height: logo-sizes.title,
   section-art: none,
+  hex: none,
   // The page number lives in the page BACKGROUND (see `slide`'s footer-line),
   // which Typst lays out *before* the current slide updates the counter — so
   // the state seen here is one increment behind; add it back. (`last-slide-number`
@@ -982,6 +1159,19 @@
     scale: scale,
     title-size: title-size,
   )
+
+  // Normalise the `hex:` knob into the dict the slides read from the store.
+  let hex-base = (
+    text: none, sections: auto, thanks: false,
+    seed: 7, density: 0.5, accent-odds: 0.08,
+    radius: 26pt, panel-radius: 32pt, panel-width: 40%,
+    min-radius: 13pt, max-rows: 4,
+    fade: "left", stroke-width: 1.5pt,
+  )
+  let hex-store = if hex == none or hex == false { none }
+    else if hex == true { hex-base }
+    else if type(hex) == str { hex-base + (text: hex) }
+    else { hex-base + hex }
 
   show: touying-slides.with(
     config-page(
@@ -1006,6 +1196,18 @@
           block(above: 0.8em, below: 0.3em, it.body)
         }
         show footnote.entry: set text(size: type-ratios.footnote * 1em)
+        // Inline code (`like this`) — the one default every deck gets. Typst does
+        // NOT resolve its generic "monospace" alias and a missing font silently
+        // falls back to Libertinus Serif, so raw text is pinned to the brand code
+        // face here; decks never re-declare the font for a `word`. Block fences
+        // are left alone on purpose — kit/deckkit.typ styles those (code-block()).
+        show raw.where(block: false): it => box(
+          fill: neutral-colours.at("3"),   // neutral.3, the same fill as cards
+          radius: 2pt,
+          inset: (x: 0.18em, y: 0.05em),
+          baseline: 10%,
+          text(font: aalto-mono, size: 0.8em, fill: aalto-black, it),
+        )
         body
       },
       // #alert[...] → bold, accent colour darkened to stay readable on white
@@ -1027,6 +1229,7 @@
       org-logo: org-logo,
       org-logo-height: org-logo-height,
       section-art: section-art,
+      hex: hex-store,
       footer-right: footer-right,
       subslide-preamble: block(below: 1.5em, width: 100%, {
         text(

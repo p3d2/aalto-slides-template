@@ -1,0 +1,77 @@
+{
+ "_dir": "/decks/20261105_Planning_research_data_management_with_AI/figures/",
+ "_generated_by": "kit/scan-figures.py \u2014 do not edit, re-run instead",
+ "aiDMP1": {
+  "dims": null,
+  "ext": "pdf",
+  "file": "aiDMP1.pdf"
+ },
+ "aiDMP2": {
+  "dims": null,
+  "ext": "pdf",
+  "file": "aiDMP2.pdf"
+ },
+ "aiDMP3": {
+  "dims": null,
+  "ext": "pdf",
+  "file": "aiDMP3.pdf"
+ },
+ "ai_model": {
+  "dims": null,
+  "ext": "pdf",
+  "file": "ai_model.pdf"
+ },
+ "apl": {
+  "dims": null,
+  "ext": "pdf",
+  "file": "apl.pdf"
+ },
+ "dashboard": {
+  "dims": [
+   763,
+   423
+  ],
+  "ext": "png",
+  "file": "dashboard.png"
+ },
+ "model": {
+  "dims": [
+   340,
+   237
+  ],
+  "ext": "png",
+  "file": "model.png"
+ },
+ "prompt": {
+  "dims": [
+   344,
+   294
+  ],
+  "ext": "png",
+  "file": "prompt.png"
+ },
+ "settings": {
+  "dims": [
+   408,
+   392
+  ],
+  "ext": "png",
+  "file": "settings.png"
+ },
+ "systemMD": {
+  "dims": [
+   533,
+   669
+  ],
+  "ext": "png",
+  "file": "systemMD.png"
+ },
+ "systemVIEW": {
+  "dims": [
+   692,
+   669
+  ],
+  "ext": "png",
+  "file": "systemVIEW.png"
+ }
+}

@@ -21,6 +21,8 @@
   // same height/top line as the Aalto lock-up.
   // org-logo: scicomp-logo(),
   // section-art: scicomp-logo(colour: "white"), // optional right-hand image on every section slide
+  // hex: (text: "SCI\nCOMP", thanks: true), // decorative honeycomb on the title
+  // slide + section slides (letters from the headings); `hex: true` also works
   config-info(
     title: [Your talk title],
     subtitle: none,

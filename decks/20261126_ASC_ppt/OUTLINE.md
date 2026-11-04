@@ -6,10 +6,10 @@ on this page ends up in the PDF — it is for you (and for an agent helping you)
 
 ## 1. The four lines
 
-- **Ask** — what should this audience *do, decide or believe* when I stop talking?
-- **Room** — who is there, what do they know, what do they believe that I contradict?
-- **Slot** — minutes including Q&A: ______ → content-slide budget ≈ slot ÷ 1.75: ______
-- **One sentence** — the whole talk, repeatable afterwards by a first-year:
+- *Ask* — what should this audience *do, decide or believe* when I stop talking?
+- *Room* — who is there, what do they know, what do they believe that I contradict?
+- *Slot* — minutes including Q&A: ______ → content-slide budget ≈ slot ÷ 1.75: ______
+- *One sentence* — the whole talk, repeatable afterwards by a first-year:
 
 If any line is empty, the talk is not ready to be built. Then stop; do not open
 `main.typ` yet.
@@ -17,15 +17,15 @@ If any line is empty, the talk is not ready to be built. Then stop; do not open
 ## 2. Claims, in speaking order
 
 These become the `==` slide titles. Read them back as a list: it must be an
-**argument**, not a table of contents (the titles-only test).
+*argument*, not a table of contents (the titles-only test).
 
 1. the problem, in their terms
 2. what is missing / what everyone assumes
-3. **your claim, said out loud and early**
+3. *your claim, said out loud and early*
 4. how you know — method, one slide
 5. evidence — one slide per finding
 6. …
-7. what it does **not** show
+7. what it does *not* show
 8. the ask
 
 ## 3. Per-slide plan
@@ -42,7 +42,7 @@ handout, not a slide.
 
 ## 4. Logistics → `main.typ`
 
-- date / venue / projector: **Thu 26 Nov 2026** · venue TODO · projector TODO
+- date / venue / projector: *Thu 26 Nov 2026* · venue TODO · projector TODO
 - accent (school colour? one school only): `accent: aalto-blue` ← TODO, university-level vs `school-colours.chem` / `.sci` / `.eng`
 - room → density (`roomy` hall · `default` seminar · `compact` methods): `density: default` ← TODO
 - logomark (`"quote"` A" · `"question"` A? · `"exclaim"` A!): `mark:` TODO (unset → whatever the `logo:` path names, currently A")
@@ -50,7 +50,7 @@ handout, not a slide.
 - contact lines for the Kiitos slide: TODO — `rse@aalto.fi` + The Garage (`scicomp.aalto.fi/help/garage/`) if this is ASC/RSE material
 - questions you expect → back-pocket slides *after* `#thanks-slide`:
 
-> **Scaffold state (2026-10-22).** `./slides deck 20261126_ASC_ppt` builds: 6 pages
+> *Scaffold state (2026-10-22).* `./slides deck 20261126_ASC_ppt` builds: 6 pages
 > (title · section · 2 demo slides incl. the `#pause` subslide · two-column
 > example · Kiitos), 0 warnings. `sections/01-main.typ` is still the template
 > example — delete it once §2 has claims in it. Note: this deck deliberately

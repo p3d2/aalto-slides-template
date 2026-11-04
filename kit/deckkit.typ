@@ -51,7 +51,13 @@
 
 /// `01 / 02 / 03` numbered list item — number in the emphasis ink, bold
 /// title, gray description. Separate items with hairline().
-#let numbered-item(num, title, desc) = grid(
+///
+/// `gap` is the title → description space. The default suits a 3- or 4-item
+/// list; a 5-item list has to breathe less to stay on one slide — pass
+/// `gap: 0.1em` and drop the enclosing `stack(spacing:)` to 0.3em (measured:
+/// the content area under a heading is 10.4 cm at density "default", and five
+/// items at the default gap plus a closing line spill onto a page of their own).
+#let numbered-item(num, title, desc, gap: 0.35em) = grid(
   columns: (0.9cm, 1fr),
   column-gutter: 0.3em,
   align: top + left,
@@ -60,7 +66,7 @@
     dir: ttb,
     spacing: 0.2em,
     block(text(size: 0.72em, weight: "bold", fill: aalto-black)[#title]),
-    v(0.35em),
+    v(gap),
     block(text(size: 0.6em, fill: ink-body)[#desc]),
   ),
 )
@@ -127,6 +133,48 @@
   body,
 )
 
+/// Comparison table — the manifest-free sibling of `make-deck`'s `spec-table`,
+/// which is now a one-line call to this. Header row in the emphasis ink,
+/// hairline row separators, NO vertical rules: the eye must read a row as one
+/// sentence, not compare cells.
+///
+/// `highlight:` = 0-based column index painted with `highlight-fill` — the
+/// column the audience should remember. Never for decoration; a table with two
+/// highlighted columns has none.
+///
+/// Budget: at density "default" the area under a slide heading is 9.95 cm
+/// (measured — see `make-deck`'s `body-h`). Six rows at `size: 0.7em` is the
+/// most that fits with a line under it; a seventh row means the slide has two
+/// jobs (docs/making-a-talk.md §5). Do not shrink the size to squeeze one in.
+#let compare-table(
+  header,
+  rows,
+  cols: (1fr, auto, 1.35fr),
+  align: left + horizon,
+  size: 0.7em,
+  leading: 0.6em,
+  inset: (x: 0.55em, y: 0.5em),
+  ink: ink-emph,
+  highlight: none,
+  highlight-fill: fill-card,
+) = block(width: 100%, above: 0.3em, [
+  #set text(size: size, fill: aalto-black)
+  #set par(leading: leading, justify: false)
+  #table(
+    columns: cols,
+    inset: (x: 0.55em, y: 0.5em),
+    stroke: (x: none, y: 0.5pt + line-hair),
+    align: align,
+    fill: (x, y) => if y > 0 and highlight != none and x == highlight {
+      highlight-fill
+    } else {
+      none
+    },
+    table.header(..header.map(h => text(weight: "bold", fill: ink, h))),
+    ..rows.flatten(),
+  )
+])
+
 /// Build the deck's helper set. `manifest` = the generated figures/manifest.json.
 #let make-deck(manifest, k: (:) ) = {
   // ── knobs ────────────────────────────────────────────────────────────────
@@ -137,10 +185,11 @@
                        // explicit somewhere — the only question is whether you
                        // choose them or a heuristic does.
     // Measured, not guessed: at density "default" the area under the slide
-    // heading is 10.4 cm tall (10.5 fits, 11 spills — probed on 0.15.1). Every
-    // other density needs its own number; use K.left() and you never hard-code
-    // one again.
-    body-h: 10.4cm,
+    // heading is 9.95 cm tall (probed on 0.15.1 after the theme's bottom margin
+    // grew 2.3em → 2.9em on 2026-11-03 to keep flow content out of the corner
+    // mark's band; it was 10.4 cm before that). Every other density needs its
+    // own number; use K.left() and you never hard-code one again.
+    body-h: 9.95cm,
     in-ratio: 0.45,    // inputs are drawn at this fraction of the output height.
                        // The rule that makes every before/after slide read the
                        // same: the output is always the biggest thing on it.
@@ -233,13 +282,18 @@
     attach-pos: "header", // "header" (right of PROMPT) | "bottom" (below text)
   ) = block(
     width: 100%,
+    // A prompt strip that gets cut in half at a page break reads as a bug, not
+    // as pagination — prompts are short, so keep each one whole. Long answers
+    // (`answerline`) stay breakable on purpose: a transcript that flows across
+    // pages is how the audience tracks a long run.
+    breakable: false,
     fill: fill-prompt,
     stroke: (left: 2.4pt + ink-prompt),
     inset: (left: 0.85em, right: 0.85em, top: 0.38em, bottom: 0.42em),
     above: 0.15em,
     below: 0.15em,
     [
-      #set text(size: 0.6em, fill: aalto-black)
+      #set text(size: size, fill: aalto-black)
       #set par(leading: 0.45em)
       #grid(
         columns: (auto, 1fr),
@@ -267,7 +321,7 @@
     above: 0.15em,
     below: 0.15em,
     [
-      #set text(size: 0.6em, fill: aalto-black)
+      #set text(size: size, fill: aalto-black)
       #set par(leading: 0.52em)
       #text(size: 0.62em, weight: "bold", fill: ink-ai, tracking: 0.09em, label)
       #v(-0.2em)
@@ -348,24 +402,20 @@
 
   /// A compact spec table (tools, keywords, system prompts). Hairlines only,
   /// first column in the prompt ink — no Excel grid, no zebra stripes.
-  let spec-table(header, rows, cols: (auto, 1fr, 1.25fr), size: 0.66em) = block(
-    width: 100%,
-    above: 0.3em,
-    [
-      #set text(size: size, fill: aalto-black)
-      #set par(leading: 0.45em, justify: false)
-      #table(
-        columns: cols,
-        inset: (x: 0.5em, y: 0.32em),
-        stroke: (x: none, y: 0.5pt + rgb("#DDDEE0")),
-        align: left + horizon,
-        table.header(
-          ..header.map(h => text(weight: "bold", fill: ink-prompt, h))
-        ),
-        ..rows.flatten(),
-      )
-    ],
-  )
+  let spec-table(header, rows, cols: (auto, 1fr, 1.25fr), size: 0.66em) = {
+    // The geometry the two November decks were rehearsed with — compare-table's
+    // own defaults are roomier (Pedro, 2026-11-02), so they are pinned here
+    // rather than inherited: raising them adds a page to both decks.
+    compare-table(
+      header,
+      rows,
+      cols: cols,
+      size: size,
+      ink: ink-prompt,
+      leading: 0.45em,
+      inset: (x: 0.5em, y: 0.32em),
+    )
+  }
 
   // ── figure layouts ───────────────────────────────────────────────────────
   /// How much room is left for figures once you say what else is on the slide.
@@ -590,4 +640,251 @@
     example: example,
     chat-example: chat-example,
   )
+}
+
+// ── poll builders ───────────────────────────────────────────────────────────
+// Drop-in pieces for a live poll slide: a numbered option list on the left, a
+// QR + spoken address on the right. Nothing deck-specific in them — only the
+// palette helpers this file already exports (ink-emph / ink-muted) and the
+// theme's accent-on-white — so they can move to theme/aalto.typ later without
+// dragging anything along.
+//
+// QR codes come from `@preview/zebra` (pure Typst, fetched once on first build
+// and cached like Touying — after that the deck still builds offline):
+//
+//   #import "@preview/zebra:0.1.0": qrcode
+
+#import "@preview/zebra:0.1.0": qrcode
+
+/// The numbered option list. The numbers are the slide's real content — they
+/// are the bridge between the polling tool's options and "hold up that many
+/// fingers" in the room — so they get their own gutter and a shared baseline.
+///
+/// Each option is ONE paragraph whose first line carries the number inline.
+/// Three things that buys, all of them visible in the grid version:
+///  - the number sits on the option's *baseline* at any `number-size`. A grid
+///    cell cannot: `horizon` centres it against the whole row, so a two-line
+///    option leaves the digit floating between the lines (measured: a 1.15em
+///    digit in a `box` lands exactly on the baseline, in a top-aligned grid
+///    cell it sinks 2.5pt below it, and centred it only works by accident
+///    while the option is one line long);
+///  - a wrapped option *hangs*: continuation lines line up under the text, not
+///    under the number. That is `hanging-indent` — Typst 0.15's
+///    `first-line-indent: (amount: X, all: true)` does NOT do it (measured:
+///    `all` is a no-op there, it still indents only the first line, which puts
+///    the number off the margin and the wrapped words to its left);
+///  - every option's text starts at the same x in every column, because the
+///    gutter is a fixed width and the digits are tabular. `columns: (auto, 1fr)`
+///    re-sizes the gutter per row — Inter's proportional "1" is ~0.5em wide
+///    and "11" ~1.2em, which moved the text by up to 9.5pt between rows.
+///
+/// `number-width: auto` sizes the gutter from the widest number this list
+/// actually contains (Inter's tabular digit advance is 0.586em, rounded up),
+/// scaled by `number-size`; pass a length to override. `number-size` must stay
+/// a *relative* size — the gutter divides it by 1em, and `pt / em` has no
+/// answer without a font size in scope.
+///
+/// `accent` goes through `accent-on-white`, like every other text colour in the
+/// theme: the default `ink-emph` (navy) is the kit's structure ink, and passing
+/// a bright brand/school colour gives its readable tint4 token rather than the
+/// raw colour — `accent: aalto-blue` comes out #2a6399, not #46A5FF.
+#let poll-options(
+  options,
+  columns: 2,
+  accent: ink-emph,
+  number-size: 1.15em,  // overshoots the cap height a little: reads as "the
+                        // number", not as a bullet
+  number-width: auto,   // gutter for the widest number this list contains
+  number-gap: 0.55em,   // gutter edge → option text
+  row-gap: 0.62em,      // = the theme's par leading. Measured option pitch
+                        // 29pt at a 20pt base against the theme's 27pt body
+                        // line pitch: on the deck's rhythm, still one item per
+                        // row. Below ~0.4em the rows start reading as a
+                        // paragraph and the numbers lose their counting role.
+) = {
+  let ink = accent-on-white(accent)
+  let digits = str(calc.max(1, options.len())).len()
+  let gutter = if number-width != auto {
+    number-width
+  } else {
+    digits * 0.62em * (number-size / 1em)
+  }
+
+  let row(i, o) = par(
+    hanging-indent: gutter + number-gap,
+    [
+      #box(
+        width: gutter,
+        text(
+          size: number-size,
+          weight: "bold",
+          fill: ink,
+          features: ("tnum",),
+          str(i + 1),
+        ),
+      )#h(number-gap)#o
+    ],
+  )
+
+  let cells = options.enumerate().map(((i, o)) => row(i, o))
+  if columns <= 1 {
+    stack(spacing: row-gap, ..cells)
+  } else {
+    grid(
+      columns: (1fr,) * columns,
+      column-gutter: 1.6em,
+      row-gutter: row-gap,
+      ..cells,
+    )
+  }
+}
+
+/// The join block: QR *plus* the address written out. The written address is
+/// not optional — anyone watching a screen share cannot scan a QR shown inside
+/// the thing they are already looking at, and anyone with a phone in their
+/// pocket needs something to type.
+///
+/// The QR is printed with `quiet-zone: 0` (zebra's default) on purpose: zebra
+/// folds the quiet zone into `qr-width`, so asking for 4 modules of it shrinks
+/// the code you are trying to scan from the back of the room. The white slide
+/// is the quiet zone instead — which means the block needs >= 4 modules of
+/// clearance on every side, and `qr-gap-*` is what guarantees it above and
+/// below. Measured at the defaults (qr-width 1.4in, a 29-module code → module
+/// 3.5pt, 4 modules = 14pt): label→QR 24pt, QR→address 23pt, and the option
+/// column's 2em gutter clears it on the left. Keep dark ink out of that
+/// channel — a `credit-line` under the options would eat the quiet zone.
+/// If a deck ever puts the QR on a photo or a tinted panel, pass
+/// `quiet-zone` to zebra instead (and expect the modules to shrink).
+#let poll-join(
+  url,
+  qr-width: 1.4in,
+  label: [Join the poll],
+  hint: none,
+  accent: ink-emph,
+  qr-gap-above: 1.35em,
+  qr-gap-below: 1.15em,
+) = {
+  let ink = accent-on-white(accent)
+  // The QR encodes a full URL, always https:// (an http:// input is upgraded —
+  // a phone scanning from a projector should never be sent to plain http); the
+  // printed address carries no scheme and is broken by hand after the site, so
+  // it never wraps somewhere nobody can read out loud:
+  //   presemo.aalto.fi/ ⏎ ascpoll
+  let bare = if url.starts-with("https://") {
+    url.slice(8)
+  } else if url.starts-with("http://") {
+    url.slice(7)
+  } else {
+    url
+  }
+  // a trailing slash is noise in print but part of the URL in the code
+  // (Typst cannot reassign a `let`, hence the second name)
+  let shown = if bare.ends-with("/") { bare.slice(0, bare.len() - 1) } else { bare }
+  let parts = shown.split("/")
+  let site = parts.at(0, default: shown)
+  let tail = if parts.len() > 1 { parts.slice(1).join("/") } else { none }
+
+  block(width: 100%, {
+    // The theme sets par(leading: 0.62em) deck-wide; inside this block that
+    // leading stacks on top of every v() below and the QR drifts away from
+    // both. The block's rhythm is the explicit v()s, so switch it off — but
+    // give the two address lines their own leading back, or they collide: with
+    // leading 0 the pitch collapses to ~1em and "presemo.aalto.fi/" touches
+    // "ascpoll" (Inter's line box is shorter than its ink, so the descenders
+    // of the line above bite into the line below).
+    set par(leading: 0pt, spacing: 0pt)
+    text(size: 0.85em, weight: "bold", fill: ink, label)
+    v(qr-gap-above)
+    qrcode("https://" + bare, width: qr-width)
+    v(qr-gap-below)
+    par(leading: 0.45em)[
+      #link("https://" + bare)[
+        #text(if tail != none { site + "/" } else { site })
+        #linebreak()
+        #if tail != none { text(weight: "bold", size: 1.15em, tail) }
+      ]
+    ]
+    if hint != none {
+      v(0.35em)
+      text(size: 0.8em, fill: ink-muted, hint)
+    }
+  })
+}
+
+/// Body of a poll slide. Put it under a normal `==` heading so the question
+/// gets the theme's title treatment, footer, logomark and page number:
+///
+///   == Have you ever hand-tuned a GPU kernel?
+///
+///   #poll-body(
+///     options: (
+///       "Yes, and I still do",
+///       "Yes, but never again",
+///       "No, and I would not know how",
+///       "No — that is a thing?",
+///     ),
+///     join: "https://presemo.aalto.fi/ascpoll",
+///     hint: [On three: show me that many fingers.],
+///   )
+///
+///   #speaker-note[
+///     Presemo Screen view is already open in the next window. 60 s max.
+///     If fewer than 8 votes after 20 s, read the room's fingers and move on.
+///   ]
+///
+/// `columns: 1` reads better than 2x2 when the options are long or when the QR
+/// column is narrow; `columns: 2` halves the height for a long list. Options
+/// may be strings *or* markup — the hanging indent handles a wrapped option
+/// either way — but remember that `*strong*` inside markup comes out in the
+/// deck's alert colour (Touying's show-strong-with-alert), which is a shout
+/// next to a quiet option list; use `text(weight: "bold")` for plain bold.
+///
+/// Compose reveals as separate slides, never inside these cells — the template
+/// gotcha is that `#pause` must not be nested in a grid cell.
+#let poll-body(
+  options: (),
+  join: none,
+  qr: true,
+  qr-width: 1.4in,
+  join-label: [Join the poll],
+  columns: 2,
+  hint: none,
+  accent: ink-emph,
+  ratio: (3fr, 1.25fr),
+  number-size: 1.15em,
+  number-width: auto,
+  row-gap: 0.62em,
+) = {
+  let list = poll-options(
+    options,
+    columns: columns,
+    accent: accent,
+    number-size: number-size,
+    number-width: number-width,
+    row-gap: row-gap,
+  )
+  let note = if hint != none [
+    #v(1.1em)
+    #text(size: 0.9em, fill: ink-muted, hint)
+  ]
+
+  if join == none {
+    // a hands-up poll owns the whole slide — no empty QR column stealing 30 %
+    stack(spacing: 0pt, list, note)
+  } else {
+    grid(
+      columns: ratio,
+      column-gutter: 2em,
+      align: (left + top, left + top),
+      [#list#note],
+      if qr {
+        poll-join(join, accent: accent, qr-width: qr-width, label: join-label)
+      } else {
+        // no QR: give the address room instead (spoken-only / slide-in-notes case)
+        block(width: 100%)[
+          #text(weight: "bold", size: 1.25em, fill: accent-on-white(accent), join)
+        ]
+      },
+    )
+  }
 }
