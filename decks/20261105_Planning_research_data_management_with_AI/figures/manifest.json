@@ -28,48 +28,56 @@
  },
  "dashboard": {
   "dims": [
-   763,
-   423
+   1927,
+   1215
   ],
   "ext": "png",
   "file": "dashboard.png"
  },
+ "dma": {
+  "dims": [
+   681,
+   742
+  ],
+  "ext": "png",
+  "file": "dma.png"
+ },
  "model": {
   "dims": [
-   340,
-   237
+   833,
+   672
   ],
   "ext": "png",
   "file": "model.png"
  },
  "prompt": {
   "dims": [
-   344,
-   294
+   933,
+   570
   ],
   "ext": "png",
   "file": "prompt.png"
  },
  "settings": {
   "dims": [
-   408,
-   392
+   852,
+   668
   ],
   "ext": "png",
   "file": "settings.png"
  },
  "systemMD": {
   "dims": [
-   533,
-   669
+   1136,
+   541
   ],
   "ext": "png",
   "file": "systemMD.png"
  },
  "systemVIEW": {
   "dims": [
-   692,
-   669
+   968,
+   532
   ],
   "ext": "png",
   "file": "systemVIEW.png"

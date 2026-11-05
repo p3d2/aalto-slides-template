@@ -192,7 +192,11 @@ bottom-left of content/section slides (`"both"` = Aalto logo then the hexagons;
 stays calm by default (single mark) — `#thanks-slide(corner: "both")` opts into
 the pair, `corner: "asc"` into the hexagons alone, `corner: none` drops the
 left art. `org-logo: scicomp-logo()` co-brands the title and closing slides
-top-right; `section-art: scicomp-logo(colour: "white")` puts them on every
+(top-right, or — `org-logo-where: "auto"`, the default — in the top-left row
+after a thin rule once `hex:` or `art:` takes the corner), and `asc-scale:`
+sizes every ASC hexagon the theme draws at once (`1.067` = +6.7 %, the value
+that makes the comb read as tall as the lock-up beside it; the footer's corner
+clearance follows it). `section-art: scicomp-logo(colour: "white")` puts them on every
 section slide; `#title-slide(art: "/assets/…")` adds a right-hand image panel
 to a title slide. `title-rule: "progress"` turns the line under each slide
 title into a quiet deck-progress bar (`"dash"` is the default short accent

@@ -207,8 +207,10 @@ All of these go in `aalto-theme.with(...)` in `main.typ`:
 | `corner:` | `"mark"` (default) `"primary"` … `"keep"` `"asc"` `"both"` | what sits bottom-left: the bare mark is Aalto's own choice; `"asc"` shows only the ASC hexagons; `"both"` shows Aalto + ASC (with the `corner-rule:` divider between them when on). `#thanks-slide(corner: …)` overrides per closing slide (`none` drops its left art) |
 | `corner-rule:` | `true` (default) / `false` | draw the thin grey divider between the two logos in `"both"` corners |
 | `title-rule:` | `"dash"` (default) `"none"` `"progress"` | the line under each slide title: the short accent dash, nothing, or a full-width rule that fills with the accent colour as the deck advances (a quiet progress indicator) |
-| `org-logo:` | `scicomp-logo()` or any path/content | a second logo co-branded top-right on the title and closing slides; on dark slides a `-black`/`-white` file name swaps automatically |
+| `org-logo:` | `scicomp-logo()` or any path/content | a second logo co-branded on the title and closing slides; on dark slides a `-black`/`-white` file name swaps automatically. Where it goes on the title slide is `org-logo-where:` (the closing slide stays top-right) |
 | `org-logo-height:` | e.g. `1.6em` | size of the co-brand logo (default: title-logo height) |
+| `org-logo-where:` | `"auto"` (default) `"right"` `"after"` | the title slide's co-brand slot. `"right"` = top-right corner; `"after"` = in the top-LEFT row, after a thin vertical rule, after the Aalto lock-up — the top twin of `corner: "both"`, sharing the `corner-rule:` switch; `"auto"` picks `"after"` exactly when the corner is taken by `hex:` or `#title-slide(art:)`, so the co-brand never lands on the art |
+| `asc-scale:` | `1.0` (default), e.g. `1.067` | one multiplier for the **ASC hexagons wherever the theme draws them**: `org-logo:` (title + closing slides), the bottom-left `corner: "asc"`/`"both"` compositions, the closing slide's left art, and a `section-art:` / `#title-slide(art:)` panel that is one of those paths. A comb carries far less visual mass than a text lock-up of the same ink height, so `1.067` (+6.7 %) is what makes the pair read as one size. Only paths containing `/scicomp/` are touched (`is-asc-logo`), so another organisation's mark is unaffected — and the footer's corner clearance reads the same factor, so a bigger corner can never slide under the footer text. The mark grows about the **centre** of its slot (`asc-shift`), so `asc-scale: 2` keeps it on the Aalto mark's middle line instead of dragging the shared top/bottom ink line |
 | `section-art:` | path, content, or `heading => content` | right-hand image panel on every section slide (heading column narrows) |
 | `hex:` | `true`, `"SCI\nCOMP"`, or a dict | the decorative honeycomb (see below): seeded hexagon combs on the title slide and every section slide, letters from the headings |
 | `config-info(logo:)` | a *path string* | see §7 |
@@ -294,10 +296,18 @@ python3 assets/logo/fetch-scicomp.py          # 3 variants: black, white, black-
 python3 assets/logo/measure-logos.py          # geometry the theme needs
 ```
 
-Use it via `org-logo: scicomp-logo()` (co-brand top-right on the title and
-closing slides) or `section-art: scicomp-logo(colour: "white")` (right-hand
+Use it via `org-logo: scicomp-logo()` (co-brand on the title and closing slides;
+on the title slide `org-logo-where:` chooses the corner or the top-left row after
+the Aalto lock-up — `"auto"`, the default, moves it to the row whenever `hex:`
+or `art:` owns the corner) or `section-art: scicomp-logo(colour: "white")` (right-hand
 panel on section slides). `scicomp-logo()` returns the black variant for
 light backgrounds; `colour: "white"` the one for dark/coloured backgrounds.
+
+Because a hexagon comb reads smaller than a text lock-up of the same ink height,
+`asc-scale:` multiplies *every* ASC mark the theme draws at once (co-brand, both
+corner compositions, closing-slide art, ASC section art panels) and keeps the
+footer's corner clearance in step. `asc-scale: 1.067` is the +6.7 % that makes
+the Aalto/ASC pair look matched; the default `1.0` leaves everything as it was.
 
 ---
 

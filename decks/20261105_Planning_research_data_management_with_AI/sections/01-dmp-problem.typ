@@ -8,7 +8,7 @@
 // from theme/tokens.typ, so a section file never invents an rgb() of its own.
 #import "../../../kit/deckkit.typ": fill-card-soft, line-hair, ink-body, ink-emph, poll-body
 
-== Which task keeps bothering you?
+== Which tasks keep bothering you?
 
 #v(2em)
 #poll-body(

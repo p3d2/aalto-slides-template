@@ -8,15 +8,21 @@
   // density: "roomy" overflows this two-line title onto a second page (the
   // title block is 2.2em + fixed spacing vs a ~19.7em page at 24pt base) —
   // keep "default" (20pt) or shorten the title before switching back.
+  org-logo: scicomp-logo(),
+  // The ASC hexagons are a comb, not a wordmark: at the same ink height they
+  // read smaller next to the Aalto lock-up. One knob scales every ASC mark the
+  // theme draws (title co-brand, both corners, footer clearance, closing slide).
+  asc-scale: 1.134,
   density: "compact",
+  corner: "both",
   hex: (text: "RDM\n \n&\n \nOpen\n Science", thanks: true, sections: "numbers"),
   // hex: "plan+AI", // light | dark — pick one
   // mark: "exclaim", // question (A?) | quote (A") | exclaim (A!) — pick one
   config-info(
     title: [Planning research data management with AI],
     subtitle: [The Aalto AI Data Management Assistant],
-    author: [Pedro Santos Silva, PhD · Aalto Scientific Computing],
-    date: datetime(year: 2026, month: 11, day: 3),
+    author: [Pedro Santos Silva, PhD · Research Software Engineer],
+    date: datetime(year: 2026, month: 11, day: 5),
     institution: [Aalto University],
     short-title: none,
     // A *path*, not image(): the theme sizes the visible lock-up and ink-aligns

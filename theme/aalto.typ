@@ -168,6 +168,30 @@
   accent.darken(45%)
 }
 
+/// Readable colour for `*strong*` on a slide whose background is the accent
+/// (section, focus) or another non-white colour. Touying renders strong as
+/// `alert` = the raw accent, which vanishes into an accent-coloured
+/// background (worst case: `accent: aalto-dark` → black on black).
+///   - dark background (white ink)  → the background lifted 55 %
+///   - white background             → the usual `accent-on-white` alert look
+///   - brand-colour background      → the dark companion of that colour
+#let strong-on(bg, fg, accent) = {
+  if fg == aalto-white { return bg.lighten(55%) }
+  if bg == aalto-white { return accent-on-white(accent) }
+  let known = (
+    (aalto-blue, aalto-blue-dark), (aalto-red, aalto-red-dark),
+    (aalto-yellow, aalto-yellow-dark),
+    (school-colours.sci, school-colours-dark.sci),
+    (school-colours.chem, school-colours-dark.chem),
+    (school-colours.eng, school-colours-dark.eng),
+    (school-colours.elec, school-colours-dark.elec),
+    (school-colours.biz, school-colours-dark.biz),
+    (school-colours.arts, school-colours-dark.arts),
+  )
+  for pair in known { if pair.at(0) == bg { return pair.at(1) } }
+  bg.darken(45%)
+}
+
 // ── Content helpers ──────────────────────────────────────────────────────────
 
 /// How tall the *visible* logo is, relative to the base font size, in the
@@ -386,6 +410,27 @@
 /// dark ones) — the corner companion of the Aalto logomark.
 #let corner-asc(ink) = scicomp-logo(colour: if ink == aalto-white { "white" } else { "black" })
 
+/// True when a logo path is one of the ASC hexagons — the theme's `asc-scale:`
+/// only ever applies to those, so a deck co-branding with a different
+/// organisation's mark is untouched by the knob.
+#let is-asc-logo(logo) = type(logo) == str and logo.contains("/scicomp/")
+
+/// The height an ASC mark is drawn at: `asc-scale:` multiplied into the slot's
+/// own height. A hexagon comb carries much less visual mass than a text lock-up
+/// of the same *ink* height, so decks usually want it a touch larger
+/// (`asc-scale: 1.067` is +6.7 %). Any other logo comes back unchanged.
+#let asc-h(logo, h, scale: 1.0) = if is-asc-logo(logo) { h * scale } else { h }
+
+/// Half of what `asc-scale:` adds — the amount the mark must be pushed *back*
+/// against its anchor so it grows about the centre of its slot instead of
+/// dragging the row's shared ink line. `bottom-corner` (anchored by its bottom)
+/// adds it, the title/closing co-brand (anchored by its top) subtracts it; at
+/// `asc-scale: 1.0` it is `0pt` and every placement is exactly where it was.
+/// Anything that is not an ASC mark gets `0pt`.
+#let asc-shift(logo, h, scale: 1.0) = {
+  if is-asc-logo(logo) { (h * scale - h) / 2 } else { 0pt }
+}
+
 /// The ink colour a logo path carries ("…-white-…" → white, else black).
 #let corner-ink(logo) = {
   if type(logo) == str and logo.contains("-white") { aalto-white } else { aalto-black }
@@ -395,10 +440,10 @@
 /// text can clear it. `mode` is the theme's `corner:` value; anything but
 /// `"asc"`/`"both"` is the plain single-logo width. `rule:` mirrors the
 /// theme's `corner-rule:` (divider drawn or not).
-#let corner-ink-width(logo, mode, rule: true, height: logo-sizes.content) = {
+#let corner-ink-width(logo, mode, rule: true, height: logo-sizes.content, asc-scale: 1.0) = {
   let gap = 0.55em
   let rule-w = 0.8pt
-  let asc-w = logo-ink-width(corner-asc(aalto-black), height: height)
+  let asc-w = logo-ink-width(corner-asc(aalto-black), height: height * asc-scale)
   if logo == none { return if mode == "asc" or mode == "both" { asc-w } else { 0em } }
   if mode == "asc" { asc-w }
   else if mode == "both" {
@@ -417,15 +462,20 @@
 ///            one ink bottom line
 /// `ink` is the corner ink colour; the ASC variant and the rule colour follow
 /// it (light grey rule on light slides, mid grey on dark).
-#let bottom-corner(logo, mode, ink: aalto-black, rule: true) = {
+#let bottom-corner(logo, mode, ink: aalto-black, rule: true, asc-scale: 1.0) = {
   let h = logo-sizes.content
+  let ah = h * asc-scale
+  // the comb grows about the middle of the corner band, so a big `asc-scale:`
+  // cannot lift it clear of (or sink it under) the Aalto mark's centre line
+  let shift = (ah - h) / 2
+  let asc-dy = -logo-margins.bottom + shift
   let gap = 0.55em
   let rule-w = 0.8pt
   let rule-h = 1.4em
   let rule-colour = if ink == aalto-white { luma(160) } else { aalto-gray-light }
   if mode == "asc" or (mode == "both" and logo == none) {
-    place(bottom + left, dx: logo-margins.x, dy: -logo-margins.bottom,
-      logo-image(corner-asc(ink), height: h, anchor: bottom))
+    place(bottom + left, dx: logo-margins.x, dy: asc-dy,
+      logo-image(corner-asc(ink), height: ah, anchor: bottom))
   } else if mode == "both" {
     place(bottom + left, dx: logo-margins.x, dy: -logo-margins.bottom,
       logo-image(logo, height: h, anchor: bottom))
@@ -436,12 +486,40 @@
         rect(width: rule-w, height: rule-h, fill: rule-colour))
     }
     let asc-x = x-after + (if rule { rule-w + gap } else { 0pt })
-    place(bottom + left, dx: asc-x, dy: -logo-margins.bottom,
-      logo-image(corner-asc(ink), height: h, anchor: bottom))
+    place(bottom + left, dx: asc-x, dy: asc-dy,
+      logo-image(corner-asc(ink), height: ah, anchor: bottom))
   } else if logo != none {
     place(bottom + left, dx: logo-margins.x, dy: -logo-margins.bottom,
       logo-image(logo, height: h, anchor: bottom))
   }
+}
+
+/// The title slide's co-brand row: a thin vertical rule, then the org logo,
+/// *after* the Aalto lock-up — the top-left twin of `bottom-corner`'s `"both"`
+/// composition. Both marks share the top ink line (`logo-margins.top`, the same
+/// line the top-right placement used) and the rule is centred on the shorter of
+/// the two. This is what `org-logo-where: "after"` draws, and the title slide
+/// uses it automatically when `hex:` or `art:` occupies the top-right corner.
+/// The Aalto logo itself is still placed by `corner-logo(.., where: top)`; this
+/// only adds what comes after it, so it must be called with the SAME logo and
+/// height. `logo-ink-width` measures a *path* — pass raw content and the org
+/// logo lands on top of the Aalto lock-up.
+#let cobrand-after(logo, org, logo-height: logo-sizes.title, org-height: logo-sizes.title, rule: true, ink: aalto-black, org-shift: 0pt) = {
+  let gap = 0.55em
+  let rule-w = 0.8pt
+  let rule-h = 1.4em
+  let rule-colour = if ink == aalto-white { luma(160) } else { aalto-gray-light }
+  let x-after = logo-margins.x + logo-ink-width(logo, height: logo-height) + gap
+  // the rule sits on the Aalto lock-up's middle line — the row's reference, and
+  // the line `org-shift` keeps the org logo centred on
+  if rule {
+    place(top + left, dx: x-after,
+      dy: logo-margins.top + logo-height / 2 - rule-h / 2,
+      rect(width: rule-w, height: rule-h, fill: rule-colour))
+  }
+  place(top + left, dx: x-after + (if rule { rule-w + gap } else { 0pt }),
+    dy: logo-margins.top - org-shift,
+    logo-image(org, height: org-height, anchor: top))
 }
 
 /// A small gray credit / source / footnote line pinned to the bottom of a
@@ -516,7 +594,8 @@
     let mode = self.store.at("corner", default: "mark")
     let rule = self.store.at("corner-rule", default: true)
     let inset = if logo != none or mode == "asc" or mode == "both" {
-      corner-ink-width(logo, mode, rule: rule) + .8em
+      corner-ink-width(logo, mode, rule: rule,
+        asc-scale: self.store.at("asc-scale", default: 1.0)) + .8em
     } else { 0em }
     place(bottom + left, dx: logo-margins.x + inset, dy: -logo-margins.bottom, {
       set text(size: type-ratios.footer * 1em, fill: aalto-gray)
@@ -532,7 +611,8 @@
     config-page(header: header, background: {
       let logo = corner-logo-of(self)
       bottom-corner(logo, self.store.at("corner", default: "mark"),
-        ink: corner-ink(logo), rule: self.store.at("corner-rule", default: true))
+        ink: corner-ink(logo), rule: self.store.at("corner-rule", default: true),
+        asc-scale: self.store.at("asc-scale", default: 1.0))
       footer-line(self)
     }),
     config-common(subslide-preamble: self.store.subslide-preamble),
@@ -656,20 +736,41 @@
 
   // optional right-hand panel (image path or ready-made content), vertically
   // centred, ink-aligned to the right margin like the corner logo on the left
+  // (`asc-scale:` widens it when the art is one of the ASC hexagons)
+  let asc-scale = self.store.at("asc-scale", default: 1.0)
   let art-place = if art-final != none {
     let inner = if type(art-final) == str { image(art-final, width: 100%) } else { art-final }
     place(horizon + right, dx: -logo-margins.x,
-      block(width: art-width, inner))
+      block(width: if is-asc-logo(art-final) { art-width * asc-scale } else { art-width },
+        inner))
   } else { none }
 
-  // co-brand: a second logo (e.g. the ASC hexagons) top-right, same height
-  // and top line as the Aalto lock-up on the left
+  // co-brand: a second logo (e.g. the ASC hexagons). `org-logo-where:` picks
+  // the slot — "right" is the top-right corner at the same height and top line
+  // as the Aalto lock-up; "after" puts it in the top-left row behind a thin
+  // rule (see `cobrand-after`); "auto" — the default — chooses "after" exactly
+  // when the corner is taken by the honeycomb panel or slide art, because the
+  // co-brand would otherwise sit on top of it.
   let org = self.store.at("org-logo", default: none)
+  let org-h0 = self.store.at("org-logo-height", default: logo-sizes.title)
+  let org-h = asc-h(org, org-h0, scale: asc-scale)
+  let org-shift = asc-shift(org, org-h0, scale: asc-scale)
+  let org-where = {
+    let w = self.store.at("org-logo-where", default: "auto")
+    if w == "auto" {
+      if hex-place != none or art-place != none { "after" } else { "right" }
+    } else { w }
+  }
+  let org-src = if dark { logo-colour(org, "white") } else { org }
   let org-place = if org != none {
-    let org-h = self.store.at("org-logo-height", default: logo-sizes.title)
-    place(top + right, dx: -logo-margins.x, dy: logo-margins.top,
-      logo-image(if dark { logo-colour(org, "white") } else { org },
-        height: org-h, anchor: top))
+    if org-where == "after" {
+      cobrand-after(deck-logo(info, self.store), org-src, logo-height: logo-sizes.title,
+        org-height: org-h, rule: self.store.at("corner-rule", default: true), ink: fg,
+        org-shift: org-shift)
+    } else {
+      place(top + right, dx: -logo-margins.x, dy: logo-margins.top - org-shift,
+        logo-image(org-src, height: org-h, anchor: top))
+    }
   } else { none }
 
   touying-slide(
@@ -790,6 +891,14 @@
   }
   let has-panel = art != none or hex-panel != none
   let content = {
+    // `*strong*` in a section heading must not keep Touying's alert colour
+    // (the raw accent) — on an accent background it would be invisible
+    show strong: it => text(
+      weight: "bold",
+      fill: strong-on(self.colors.primary, ink-on(self.colors.primary),
+        self.colors.primary),
+      it.body,
+    )
     text(
       size: type-ratios.section * 1em,
       weight: "bold",
@@ -804,8 +913,11 @@
   }
   let art-place = if art != none {
     let inner = if type(art) == str { image(art, width: 100%) } else { art }
+    // `asc-scale:` grows the panel when the art is one of the ASC hexagons
     place(horizon + right, dx: -logo-margins.x,
-      block(width: 30%, inner))
+      block(width: if is-asc-logo(art) {
+        30% * self.store.at("asc-scale", default: 1.0)
+      } else { 30% }, inner))
   } else if hex-panel != none {
     // full-height comb, bleeding off the top, bottom and right page edges
     place(top + right,
@@ -824,7 +936,8 @@
           let logo = corner-logo-of(self)
           if ink == aalto-white { logo = logo-colour(logo, "white") }
           bottom-corner(logo, self.store.at("corner", default: "mark"),
-            ink: ink, rule: self.store.at("corner-rule", default: true))
+            ink: ink, rule: self.store.at("corner-rule", default: true),
+            asc-scale: self.store.at("asc-scale", default: 1.0))
           art-place
         }),
       config,
@@ -852,13 +965,17 @@
       config-page(margin: 3em, fill: bg),
       config,
     ),
-    setting: it => align(center + horizon, text(
-      fill: fg,
-      size: type-ratios.section * 0.9em,
-      weight: "bold",
-      tracking: -0.025em,
-      it,
-    )),
+    setting: it => align(center + horizon, {
+      show strong: it2 => text(
+        weight: "bold", fill: strong-on(bg, fg, self.colors.primary), it2.body)
+      text(
+        fill: fg,
+        size: type-ratios.section * 0.9em,
+        weight: "bold",
+        tracking: -0.025em,
+        it,
+      )
+    }),
     body,
   )
 })
@@ -921,6 +1038,9 @@
   } else { none }
 
   let column = block(width: 42%, {
+    // as on section slides: strong must stay readable on a coloured/dark bg
+    show strong: it => text(
+      weight: "bold", fill: strong-on(bg, fg, self.colors.primary), it.body)
     // secondary lines: grey on white, but full-strength ink on a coloured
     // background (aalto-gray on a brand colour would fail contrast)
     let muted = if fg == aalto-white { luma(190) }
@@ -940,11 +1060,15 @@
     if body != none { v(0.9em); text(size: 0.75em, fill: fg, body) }
   })
 
-  // co-brand logo top-right, same slot as on the title slide
+  // co-brand logo top-right, same slot as on the title slide (`asc-scale:`
+  // applies when the co-brand is one of the ASC hexagons)
+  let asc-scale = self.store.at("asc-scale", default: 1.0)
   let org = self.store.at("org-logo", default: none)
   let org-place = if org != none {
-    let org-h = self.store.at("org-logo-height", default: logo-sizes.title)
-    place(top + right, dx: -logo-margins.x, dy: logo-margins.top,
+    let org-h0 = self.store.at("org-logo-height", default: logo-sizes.title)
+    let org-h = asc-h(org, org-h0, scale: asc-scale)
+    place(top + right, dx: -logo-margins.x,
+      dy: logo-margins.top - asc-shift(org, org-h0, scale: asc-scale),
       logo-image(if fg == aalto-white { logo-colour(org, "white") } else { org },
         height: org-h, anchor: top))
   } else { none }
@@ -975,7 +1099,8 @@
     if mode == "asc" or (mode == "both" and mark == none) {
       // the big ASC hexagons instead of (or without) the Aalto mark
       place(horizon + left, dx: logo-margins.x,
-        logo-image(scicomp-logo(colour: mark-colour), height: mark-height, anchor: "middle"))
+        logo-image(scicomp-logo(colour: mark-colour),
+          height: mark-height * asc-scale, anchor: "middle"))
     } else if mode == "both" {
       // the pair, capped so it clears the column; rule follows corner-rule:
       let h = calc.min(mark-height, 7em)
@@ -991,7 +1116,8 @@
       }
       let asc-x = x-after + (if rule { rule-w + gap } else { 0pt })
       place(horizon + left, dx: asc-x,
-        logo-image(scicomp-logo(colour: mark-colour), height: h, anchor: "middle"))
+        logo-image(scicomp-logo(colour: mark-colour), height: h * asc-scale,
+          anchor: "middle"))
     } else if mode != none and mode != "none" and mark != none {
       // vertically centred (`horizon`), left edge pinned to the text margin —
       // note that a bare `place(left, …)` would default to the *top*
@@ -1087,6 +1213,28 @@
 ///   swaps a `-black`/`-white` file name automatically. Default: none.
 /// - org-logo-height (length): size of the co-brand logo. Default: the title
 ///   logo height (2 em).
+/// - asc-scale (number): one multiplier for the ASC hexagons *wherever* the
+///   theme draws them — `org-logo:` (title and closing slides), the bottom-left
+///   `corner: "asc"|"both"` compositions, the closing slide's left art, and a
+///   `section-art:` / `#title-slide(art:)` panel that is one of those paths.
+///   Default 1.0. A comb carries far less visual mass than a text lock-up of the
+///   same ink height, so `1.067` (+6.7 %) is the value that makes the two read
+///   as a pair. It only ever touches paths containing `/scicomp/` (`is-asc-logo`),
+///   so a deck co-branding another organisation is untouched; and the footer's
+///   corner-clearance reads the same factor, so a bigger corner composition can
+///   never run under the footer text. The mark grows about the *centre* of its
+///   slot (`asc-shift` = half the added height, pushed back against the anchor),
+///   so doubling it keeps it on the Aalto mark's middle line instead of dragging
+///   the row's shared top or bottom ink line — check the alignment with
+///   `asc-scale: 2` and the comb straddles the lock-up symmetrically.
+/// - org-logo-where (string): where the co-brand goes on the *title* slide.
+///   `"right"` = the top-right corner (the old, and still the thanks-slide,
+///   placement). `"after"` = in the top-LEFT row, after a thin vertical rule,
+///   after the Aalto lock-up — the top twin of `corner: "both"`, sharing its
+///   `corner-rule:` switch. `"auto"` (default) picks `"after"` exactly when the
+///   top-right corner is taken — by `hex:` or by `#title-slide(art:)` — because
+///   the co-brand would otherwise sit on top of the art. Needs a *measured path*
+///   for the Aalto logo (`logo-ink-width` returns 0 for raw content).
 /// - section-art (content/function): an image path or content shown in a
 ///   right-hand panel on every section slide (a function gets the section
 ///   heading and may return content). The heading column narrows to make
@@ -1143,6 +1291,8 @@
   title-rule: "dash",
   org-logo: none,
   org-logo-height: logo-sizes.title,
+  org-logo-where: "auto",
+  asc-scale: 1.0,
   section-art: none,
   hex: none,
   // The page number lives in the page BACKGROUND (see `slide`'s footer-line),
@@ -1228,6 +1378,8 @@
       corner-rule: corner-rule,
       org-logo: org-logo,
       org-logo-height: org-logo-height,
+      org-logo-where: org-logo-where,
+      asc-scale: asc-scale,
       section-art: section-art,
       hex: hex-store,
       footer-right: footer-right,

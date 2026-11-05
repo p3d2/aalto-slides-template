@@ -22,6 +22,7 @@
 // clean rehearsal run.
 //
 // Typst 0.15 constraints obeyed: no `image(crop:)` (crop in the export), no
+// shadow/blur/clip at all (`cast-box` fakes the shadow with stacked rects), no
 // `set raw(inset:)` (the box is drawn around it), `set raw(syntax:/background:)`
 // do not exist and `theme: none` does not disable highlighting — so code fences
 // here are untagged, and a show rule never applies to its own output.
@@ -48,6 +49,36 @@
 
 /// Hairline divider the width of its column.
 #let hairline(weight: 0.6pt) = line(length: 100%, stroke: weight + line-hair)
+
+/// Soft drop shadow behind a picture of *known size*. Typst 0.15 has no shadow,
+/// no blur and no clip (`rect`, `box`, `block` and `image` all reject a
+/// `shadow:` argument; there is no `mask`/`cover`), so it is faked the usual
+/// way: `shadow` stacked rounded rects, each a little lower, wider and lighter
+/// than the last. Where the layers overlap they add up — that stack is what
+/// reads as the blur. `shadow: 0` turns it off; 2-4 is the useful range, and
+/// `step * shadow` is the total throw.
+///
+/// Manifest-free on purpose: you pass the rendered box, so it works in flow as
+/// well as in a `layout()`. For a height-placed raster that is
+/// `w: h * dims.0 / dims.1` (the deck's `figures/manifest.json` has the dims).
+/// Wrap the *picture*, not the figure — a caption must stay outside the box.
+/// `w` and `h` come first and must be positional: Typst needs a default for
+/// every *named* parameter, and (0.15.1) refuses to take a positional argument
+/// by name. Content last, so the bracket form works: `cast-box(8cm, 6cm)[…]`.
+#let cast-box(w, h, body, shadow: 3, step: 0.55pt, alpha: 93%, radius: 1pt, drift: 0.4) = box(
+  width: w,
+  height: h,
+  {
+    for i in range(shadow) {
+      let o = (shadow - i) * step
+      place(top + left, dx: o * drift, dy: o,
+        rect(width: w + 2 * o, height: h + 2 * o,
+          radius: radius + 2 * o, fill: ink-body.transparentize(alpha),
+          stroke: none))
+    }
+    place(top + left, body)
+  },
+)
 
 /// `01 / 02 / 03` numbered list item — number in the emphasis ink, bold
 /// title, gray description. Separate items with hairline().
