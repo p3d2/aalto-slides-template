@@ -241,7 +241,23 @@ adding or replacing anything.
 
 Knobs (per deck, or per call): `fig-h` (the figure-row budget — the builders
 subtract the prompt strip, note and lesson from it), `reveal`, `show-source`,
-`card-size`, and `h:` to override one slide. Why it estimates text heights
+`card-size`, `fig-shadow` (turns the kit `cast` on for every figure) and `h:` to
+override one slide. `cast` is also usable on its own, anywhere, and needs no
+size: `#cast(image("x.png", height: 10em))`, `#figure(cast(image("x.pdf",
+width: 100%)), caption: […])`, or `shadow: true` on any builder. It is three
+solid brand-neutral rings (`#ccc · #e0e0e0 · #f2f2f2`) leaning down-right —
+*solid*, not translucent, because a translucent fill paints through a
+transparent vector and turns the figure into a grey card. Knobs: `throw` (the
+whole shadow, default 4.5pt), `drift` (how much of it leans right/bottom),
+`radius` (the corner radius — each ring one step rounder, so the nest stays
+concentric) and `clip: true`, which rounds the *picture* to the same radius;
+past about 6pt a square picture pokes out of its own rounded shadow without it.
+Any of them through a builder as a dict: `shadow: (radius: 8pt, clip: true)`.
+There is deliberately
+no `show image` rule: set even in a deck section it reaches the theme's page
+background and rings the corner logo (measured). `cast-box` stays for
+`layout()` coordinate systems, where the box is already computed.
+Why it estimates text heights
 instead of measuring them: `layout()`/`measure()` inside a Touying slide pushes
 everything after it onto its own page (measured: 44 pages vs 25).
 

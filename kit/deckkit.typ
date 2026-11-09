@@ -50,17 +50,17 @@
 /// Hairline divider the width of its column.
 #let hairline(weight: 0.6pt) = line(length: 100%, stroke: weight + line-hair)
 
-/// Soft drop shadow behind a picture of *known size*. Typst 0.15 has no shadow,
-/// no blur and no clip (`rect`, `box`, `block` and `image` all reject a
-/// `shadow:` argument; there is no `mask`/`cover`), so it is faked the usual
-/// way: `shadow` stacked rounded rects, each a little lower, wider and lighter
-/// than the last. Where the layers overlap they add up — that stack is what
-/// reads as the blur. `shadow: 0` turns it off; 2-4 is the useful range, and
-/// `step * shadow` is the total throw.
+/// Soft drop shadow behind a picture of *known size*. Kept for the coordinate
+/// systems that already use it (a `layout()` canvas, where the box is computed);
+/// for anything in flow use `cast` below, which needs no size at all.
 ///
-/// Manifest-free on purpose: you pass the rendered box, so it works in flow as
-/// well as in a `layout()`. For a height-placed raster that is
-/// `w: h * dims.0 / dims.1` (the deck's `figures/manifest.json` has the dims).
+/// Typst 0.15 has no shadow, no blur and no clip (`rect`, `box`, `block` and
+/// `image` all reject a `shadow:` argument; there is no `mask`/`cover`), so it is
+/// faked the usual way: `shadow` stacked rounded rects, each a little lower,
+/// wider and lighter than the last. Where the layers overlap they add up — that
+/// stack is what reads as the blur. `shadow: 0` turns it off; 2-4 is the useful
+/// range, and `step * shadow` is the total throw.
+///
 /// Wrap the *picture*, not the figure — a caption must stay outside the box.
 /// `w` and `h` come first and must be positional: Typst needs a default for
 /// every *named* parameter, and (0.15.1) refuses to take a positional argument
@@ -79,6 +79,69 @@
     place(top + left, body)
   },
 )
+
+/// The three shades of `cast`, inner ring → outer ring. Solid brand neutrals,
+/// NOT transparency: a translucent fill would paint through the transparent
+/// parts of a vector figure (measured — the APL diagram came out on a grey
+/// card), and solid rings need no compositing at all.
+#let cast-shades = (
+  tint-colours.at("whiteTint3"),  // #cccccc  touches the picture
+  neutral-colours.at("4"),         // #e0e0e0
+  neutral-colours.at("3"),         // #f2f2f2  fades into the page
+)
+
+/// The cast shadow — one word in front of anything, and it needs NO size.
+///
+///   #cast(image("x.png", height: 10em))
+///   #cast[ <a block, a table, a code card — anything> ]
+///   #figure(cast(image("x.pdf", width: 100%)), caption: […])
+///
+/// Why this works where `cast-box` cannot: a `box` with a `stroke` and an
+/// `inset` grows to whatever its content is, so the rings follow the picture —
+/// including `width: 100%`, whose height nobody can know in Typst 0.15. Each
+/// ring is one nested box stroked on all four sides; the inset is smaller on
+/// top/left than on bottom/right, so the stack leans down-right and reads as a
+/// drop shadow rather than a frame. Three rings, three solid shades.
+///
+/// `throw` is the whole shadow (one ring gets throw/3), `drift` how much more
+/// of it falls right/bottom than top/left, `radius` the corner radius — the
+/// picture's, with each ring one step rounder than the last so the nest stays
+/// concentric. Past about 6pt a square picture starts poking out of its own
+/// rounded shadow: pass `clip: true` and `cast` rounds the picture to the same
+/// radius (`box(radius:, clip:)` — Typst 0.15 clips a *box* fine, it is
+/// `image(clip:)` that does not exist).
+/// `shades: ()` turns it off (returns the body untouched) — that is what a slide
+/// on an accent background wants, since a light ring is a *frame* there.
+#let cast(body, throw: 4.5pt, drift: 0.45, radius: 2pt, clip: false,
+          shades: cast-shades) = {
+  let n = shades.len()
+  if n == 0 { return body }
+  let step = throw / n
+  let out = if clip and radius > 0pt { box(radius: radius, clip: true, body) }
+            else { body }
+  for i in range(n) {
+    // i = 0 is the ring touching the picture (darkest); building outward means
+    // each ring is the parent box, so the radii nest cleanly.
+    let s = shades.at(i)
+    out = box(
+      stroke: (
+        left: step * drift + s, top: step * drift + s,
+        right: step + s, bottom: step + s,
+      ),
+      // concentric: this ring's edge sits (i+1) half-steps outside the picture
+      radius: radius + step * (i + 1) / 2,
+      inset: (left: step * drift / 2, top: step * drift / 2,
+              right: step / 2, bottom: step / 2),
+      out,
+    )
+  }
+  out
+}
+
+// NO `show image` rule on purpose (measured 2026-11-09): a rule set in a *deck
+// section* still reaches the theme's `set page(background:)`, so
+// `#show image: …` rings the corner logo and the title lock-up too. The cast is
+// therefore explicit — `cast[…]` on a picture, or `shadow: true` on a builder.
 
 /// `01 / 02 / 03` numbered list item — number in the emphasis ink, bold
 /// title, gray description. Separate items with hairline().
@@ -226,6 +289,16 @@
                        // same: the output is always the biggest thing on it.
     reveal: false,     // true → results/prompt rounds appear on a click
     show-source: true, // false → credit lines hidden (rehearsal)
+    fig-shadow: none,  // true → the kit `cast` behind every figure: three solid
+                       // brand-neutral rings that lean down-right (no
+                       // transparency, and nothing is painted *under* the
+                       // picture, so a transparent vector keeps its ground). Off
+                       // by default: it grows every figure's box by `throw` (a
+                       // tight row can tip onto a new page) and a light ring on an
+                       // accent background reads as a *frame*. On for a whole deck
+                       // with `k: (fig-shadow: true)`, for one slide with
+                       // `shadow: true`, retuned with a dict (`(throw: 7pt)`).
+                       // `shadow: none` on a call turns it back off.
     prompt-label: [PROMPT],
     answer-label: [AI],
     card-size: 0.74em, // body text size inside prompt/answer cards
@@ -242,7 +315,12 @@
   /// fig("name") → the picture, or a placeholder naming what is missing.
   /// `w:` fills a column, `h:` makes an equal-height row (letterboxed).
   /// `page:` selects a PDF page (default 1).
-  let fig(name, w: auto, h: auto, page: 1, alt: "", fit: "contain") = {
+  /// `shadow: true` puts the kit `cast` behind the picture (a dict retunes it,
+  /// e.g. `(throw: 7pt)`) — see the `fig-shadow` knob. The cast needs no size, so
+  /// it works for `width: 100%` figures too, and it wraps the *picture*, never a
+  /// caption.
+  let fig(name, w: auto, h: auto, page: 1, alt: "", fit: "contain",
+          shadow: K.fig-shadow) = {
     let entry = manifest.at(name, default: none)
     if entry == none {
       figure-placeholder(
@@ -258,13 +336,17 @@
            else if h != auto { (height: h) }
            else if w != auto { (width: w) }
            else { (width: 100%) }))
-      image(path, ..args)
+      let pic = image(path, ..args)
+      if shadow == none or shadow == false { pic }
+      else if type(shadow) == type(()) { cast(pic, ..shadow) }
+      else { cast(pic) }
     }
   }
 
   /// A figure with a small gray label under it.
-  let cell(name, label: "", w: auto, h: auto, page: 1, alt: "") = block(width: 100%, [
-    #align(center)[#fig(name, w: w, h: h, page: page, alt: alt)]
+  let cell(name, label: "", w: auto, h: auto, page: 1, alt: "",
+           shadow: K.fig-shadow) = block(width: 100%, [
+    #align(center)[#fig(name, w: w, h: h, page: page, alt: alt, shadow: shadow)]
     #v(-0.25em)
     #align(center)[#text(size: 0.6em, fill: aalto-gray, label)]
   ])
@@ -466,13 +548,14 @@
   /// top, then whatever figures the slide actually needs.
   /// `alt:` must be a *string* (Typst requires it) — write it when the figure
   /// carries meaning the caption does not.
-  let shot(name, caption: none, alt: "", h: auto, w: auto, page: 1) = {
+  let shot(name, caption: none, alt: "", h: auto, w: auto, page: 1,
+           shadow: K.fig-shadow) = {
     // Captions are metadata, not a second headline: small, gray, one size for
     // the whole deck. The theme has no figure style, so it lives here.
     show figure.caption: set text(size: 0.58em, fill: aalto-gray)
     show figure.caption: set par(leading: 0.4em)
     figure(
-      fig(name, h: h, w: w, page: page, alt: alt),
+      fig(name, h: h, w: w, page: page, alt: alt, shadow: shadow),
       caption: if caption != none { caption } else { [] },
       numbering: none,
       kind: "image",
