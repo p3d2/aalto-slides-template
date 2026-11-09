@@ -26,5 +26,7 @@ __pycache__/
 decks/*
 !decks/20261126_ASC_ppt/
 !decks/20261126_ASC_ppt/*
+!decks/20261120_Image_generation
+!decks/20261120_Image_generation/*
 !decks/20261105_Planning_research_data_management_with_AI/
 !decks/20261105_Planning_research_data_management_with_AI/*
